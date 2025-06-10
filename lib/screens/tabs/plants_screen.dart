@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../constants/app_colors.dart';
 import '../user_detail_screen.dart';
+import '../in_app_purchases_page.dart';
 
 class PlantsScreen extends StatefulWidget {
   const PlantsScreen({super.key});
@@ -18,6 +20,11 @@ class _PlantsScreenState extends State<PlantsScreen> {
   bool isLoading = true;
   final TextEditingController _searchController = TextEditingController();
   String searchQuery = '';
+  
+  // 金币和已查看用户管理
+  int _flowerCoins = 0;
+  Set<String> _viewedUsers = {};
+  static const int _viewCost = 3; // 查看用户需要消耗的金币数量
 
   final List<String> categories = ['All', 'Popular', 'Indoor', 'Outdoor'];
 
@@ -25,6 +32,8 @@ class _PlantsScreenState extends State<PlantsScreen> {
   void initState() {
     super.initState();
     _loadUserData();
+    _loadFlowerCoins();
+    _loadViewedUsers();
     _searchController.addListener(_onSearchChanged);
   }
 
@@ -57,6 +66,204 @@ class _PlantsScreenState extends State<PlantsScreen> {
         isLoading = false;
       });
     }
+  }
+
+  /// 加载花币余额
+  Future<void> _loadFlowerCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _flowerCoins = prefs.getInt('textQuota') ?? 0;
+    });
+  }
+
+  /// 加载已查看用户列表
+  Future<void> _loadViewedUsers() async {
+    final prefs = await SharedPreferences.getInstance();
+    final viewedList = prefs.getStringList('viewedUsers') ?? [];
+    setState(() {
+      _viewedUsers = viewedList.toSet();
+    });
+  }
+
+  /// 保存已查看用户列表
+  Future<void> _saveViewedUsers() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('viewedUsers', _viewedUsers.toList());
+  }
+
+  /// 扣除花币
+  Future<bool> _deductFlowerCoins(int amount) async {
+    if (_flowerCoins < amount) {
+      return false;
+    }
+    
+    final prefs = await SharedPreferences.getInstance();
+    final newBalance = _flowerCoins - amount;
+    await prefs.setInt('textQuota', newBalance);
+    
+    setState(() {
+      _flowerCoins = newBalance;
+    });
+    
+    return true;
+  }
+
+  /// 检查是否可以查看用户（免费或有足够金币）
+  bool _canViewUser(String userId) {
+    return _viewedUsers.contains(userId) || _flowerCoins >= _viewCost;
+  }
+
+  /// 处理用户卡片点击
+  Future<void> _handleUserCardTap(dynamic user) async {
+    final userId = user['userId'].toString();
+    
+    // 如果已经查看过该用户，直接进入
+    if (_viewedUsers.contains(userId)) {
+      _navigateToUserDetail(user);
+      return;
+    }
+    
+    // 检查金币余额
+    if (_flowerCoins < _viewCost) {
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
+    // 扣除金币并记录已查看
+    final success = await _deductFlowerCoins(_viewCost);
+    if (success) {
+      _viewedUsers.add(userId);
+      await _saveViewedUsers();
+      _navigateToUserDetail(user);
+      
+      // 显示扣费提示
+      _showSnackBar('Spent $_viewCost Flower Coins to view ${user['name']}');
+    }
+  }
+
+  /// 导航到用户详情页面
+  void _navigateToUserDetail(dynamic user) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => UserDetailScreen(user: user),
+      ),
+    );
+  }
+
+  /// 显示金币不足对话框
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          title: Row(
+            children: [
+              Icon(
+                Icons.local_florist,
+                color: AppColors.primary,
+                size: 28,
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'Insufficient Coins',
+                style: TextStyle(
+                  color: AppColors.buttonText,
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'You need $_viewCost Flower Coins to view this user profile.',
+                style: const TextStyle(
+                  fontSize: 16,
+                  color: Colors.black87,
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Current balance: $_flowerCoins Flower Coins',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Colors.grey[600],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.grey,
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                ).then((_) {
+                  // 返回时重新加载金币余额
+                  _loadFlowerCoins();
+                });
+              },
+              style: TextButton.styleFrom(
+                backgroundColor: AppColors.primary,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+              ),
+              child: const Padding(
+                padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                child: Text(
+                  'Get Coins',
+                  style: TextStyle(
+                    color: AppColors.buttonText,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  /// 显示提示消息
+  void _showSnackBar(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(
+          message,
+          style: const TextStyle(
+            color: Colors.white,
+            fontWeight: FontWeight.w500,
+          ),
+        ),
+        backgroundColor: AppColors.primary,
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(10),
+        ),
+      ),
+    );
   }
 
   void _filterUsers(String category) {
@@ -242,15 +449,12 @@ class _PlantsScreenState extends State<PlantsScreen> {
   }
 
   Widget _buildUserCard(dynamic user) {
+    final userId = user['userId'].toString();
+    final isViewed = _viewedUsers.contains(userId);
+    final canView = _canViewUser(userId);
+    
     return GestureDetector(
-      onTap: () {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => UserDetailScreen(user: user),
-          ),
-        );
-      },
+      onTap: () => _handleUserCardTap(user),
       child: Container(
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(15),
@@ -300,6 +504,58 @@ class _PlantsScreenState extends State<PlantsScreen> {
                   ),
                 ),
               ),
+              // 金币状态指示器
+              if (!isViewed)
+                Positioned(
+                  top: 12,
+                  right: 12,
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: canView 
+                          ? AppColors.primary.withOpacity(0.9)
+                          : Colors.red.withOpacity(0.9),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Icon(
+                          Icons.local_florist,
+                          size: 14,
+                          color: Colors.white,
+                        ),
+                        const SizedBox(width: 4),
+                        Text(
+                          '$_viewCost',
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+              // 已查看标识
+              if (isViewed)
+                Positioned(
+                  top: 12,
+                  right: 12,
+                  child: Container(
+                    padding: const EdgeInsets.all(6),
+                    decoration: BoxDecoration(
+                      color: Colors.green.withOpacity(0.9),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Icon(
+                      Icons.check,
+                      size: 16,
+                      color: Colors.white,
+                    ),
+                  ),
+                ),
               // User info
               Positioned(
                 bottom: 0,

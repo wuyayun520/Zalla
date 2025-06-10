@@ -1,11 +1,14 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../constants/app_colors.dart';
 import '../../services/user_data_service.dart';
 import '../about_app_screen.dart';
 import '../privacy_policy_screen.dart';
 import '../terms_of_service_screen.dart';
+import '../in_app_purchases_page.dart';
+import '../subscriptions_page.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -14,24 +17,37 @@ class ProfileScreen extends StatefulWidget {
   State<ProfileScreen> createState() => _ProfileScreenState();
 }
 
-class _ProfileScreenState extends State<ProfileScreen> {
+class _ProfileScreenState extends State<ProfileScreen> with WidgetsBindingObserver {
   String _userName = 'User Name';
   String? _avatarPath;
   bool _isLoading = true;
   bool _isEditing = false;
+  int _flowerCoins = 0; // 花币余额
   final TextEditingController _nameController = TextEditingController();
   final ImagePicker _picker = ImagePicker();
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadUserData();
+    _loadFlowerCoins();
   }
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     _nameController.dispose();
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    super.didChangeAppLifecycleState(state);
+    if (state == AppLifecycleState.resumed) {
+      // 当应用从后台恢复时，重新加载花币余额
+      _loadFlowerCoins();
+    }
   }
 
   /// 加载用户数据
@@ -50,6 +66,19 @@ class _ProfileScreenState extends State<ProfileScreen> {
       setState(() {
         _isLoading = false;
       });
+    }
+  }
+
+  /// 加载花币余额
+  Future<void> _loadFlowerCoins() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final coins = prefs.getInt('textQuota') ?? 0;
+      setState(() {
+        _flowerCoins = coins;
+      });
+    } catch (e) {
+      debugPrint('Error loading flower coins: $e');
     }
   }
 
@@ -149,6 +178,11 @@ class _ProfileScreenState extends State<ProfileScreen> {
     );
   }
 
+  /// 当页面变为可见时调用（用于Tab切换时的实时更新）
+  void refreshFlowerCoins() {
+    _loadFlowerCoins();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -164,50 +198,60 @@ class _ProfileScreenState extends State<ProfileScreen> {
           ],
         ),
       ),
-      child: Scaffold(
-        backgroundColor: Colors.transparent,
-        extendBodyBehindAppBar: true,
-        appBar: AppBar(
+      child: Focus(
+        onFocusChange: (hasFocus) {
+          if (hasFocus) {
+            // 当页面获得焦点时刷新金币余额
+            _loadFlowerCoins();
+          }
+        },
+        child: Scaffold(
           backgroundColor: Colors.transparent,
-          elevation: 0,
-          title: const Text(
-            'Profile',
-            style: TextStyle(
-              color: AppColors.buttonText,
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
+          extendBodyBehindAppBar: true,
+          appBar: AppBar(
+            backgroundColor: Colors.transparent,
+            elevation: 0,
+            title: const Text(
+              'Profile',
+              style: TextStyle(
+                color: AppColors.buttonText,
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+              ),
             ),
-          ),
-          centerTitle: true,
-          actions: [
-            if (_isEditing)
-              TextButton(
-                onPressed: _saveName,
-                child: const Text(
-                  'Save',
-                  style: TextStyle(
-                    color: AppColors.buttonText,
-                    fontSize: 20,
-                    fontWeight: FontWeight.w600,
+            centerTitle: true,
+            actions: [
+              if (_isEditing)
+                TextButton(
+                  onPressed: _saveName,
+                  child: const Text(
+                    'Save',
+                    style: TextStyle(
+                      color: AppColors.buttonText,
+                      fontSize: 20,
+                      fontWeight: FontWeight.w600,
+                    ),
                   ),
                 ),
-              ),
-          ],
-        ),
-        body: _isLoading
-            ? const Center(child: CircularProgressIndicator(color: AppColors.buttonText))
-            : SingleChildScrollView(
-                padding: const EdgeInsets.only(left: 24, right: 24, top: 120, bottom: 140),
-                child: Column(
-                  children: [
-                    _buildAvatarSection(),
-                    const SizedBox(height: 40),
-                    _buildNameSection(),
-                    const SizedBox(height: 40),
-                    _buildUserInfo(),
-                  ],
+            ],
+          ),
+          body: _isLoading
+              ? const Center(child: CircularProgressIndicator(color: AppColors.buttonText))
+              : SingleChildScrollView(
+                  padding: const EdgeInsets.only(left: 24, right: 24, top: 120, bottom: 140),
+                  child: Column(
+                    children: [
+                      _buildAvatarSection(),
+                      const SizedBox(height: 40),
+                      _buildNameSection(),
+                      const SizedBox(height: 40),
+                      _buildPurchaseSection(),
+                      const SizedBox(height: 40),
+                      _buildUserInfo(),
+                    ],
+                  ),
                 ),
-              ),
+        ),
       ),
     );
   }
@@ -319,6 +363,275 @@ class _ProfileScreenState extends State<ProfileScreen> {
               icon: const Icon(Icons.edit, color: AppColors.buttonText),
             ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildPurchaseSection() {
+    return Column(
+      children: [
+        Row(
+          children: [
+            Expanded(
+              child: _buildWalletCard(),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: _buildVipCard(),
+            ),
+          ],
+        ),
+      ],
+    );
+  }
+
+  Widget _buildWalletCard() {
+    return GestureDetector(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const InAppPurchasesPage(),
+          ),
+        ).then((_) {
+          // 从充值页面返回时，重新加载金币余额
+          _loadFlowerCoins();
+        });
+      },
+      child: Container(
+        height: 120,
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(20),
+          gradient: const LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              Color(0xFF4CAF50),
+              Color(0xFF81C784),
+            ],
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFF4CAF50).withOpacity(0.3),
+              blurRadius: 12,
+              offset: const Offset(0, 8),
+            ),
+          ],
+        ),
+        child: Stack(
+          children: [
+            // Decorative background elements
+            Positioned(
+              top: -10,
+              right: -10,
+              child: Container(
+                width: 40,
+                height: 40,
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.1),
+                  shape: BoxShape.circle,
+                ),
+              ),
+            ),
+            Positioned(
+              bottom: -5,
+              left: -5,
+              child: Container(
+                width: 25,
+                height: 25,
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.08),
+                  shape: BoxShape.circle,
+                ),
+              ),
+            ),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Text(
+                      '$_flowerCoins',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 24,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Container(
+                      padding: const EdgeInsets.all(6),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(
+                        Icons.eco,
+                        color: Colors.white,
+                        size: 18,
+                      ),
+                    ),
+                  ],
+                ),
+                const Spacer(),
+                Row(
+                  children: [
+                    const Icon(
+                      Icons.local_florist,
+                      color: Colors.white,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 6),
+                    Flexible(
+                      child: const Text(
+                        'Coins',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
+                    const SizedBox(width: 4),
+                    const Icon(
+                      Icons.arrow_forward_ios,
+                      color: Colors.white,
+                      size: 14,
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildVipCard() {
+    return GestureDetector(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const SubscriptionsPage(),
+          ),
+        );
+      },
+      child: Container(
+        height: 120,
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(20),
+          gradient: const LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              Color(0xFFE91E63),
+              Color(0xFFF48FB1),
+            ],
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFFE91E63).withOpacity(0.3),
+              blurRadius: 12,
+              offset: const Offset(0, 8),
+            ),
+          ],
+        ),
+        child: Stack(
+          children: [
+            // Decorative background elements
+            Positioned(
+              top: -8,
+              right: -8,
+              child: Container(
+                width: 35,
+                height: 35,
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.1),
+                  shape: BoxShape.circle,
+                ),
+              ),
+            ),
+            Positioned(
+              bottom: -3,
+              left: -3,
+              child: Container(
+                width: 20,
+                height: 20,
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.08),
+                  shape: BoxShape.circle,
+                ),
+              ),
+            ),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Flexible(
+                      child: const Text(
+                        'VIP',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 18,
+                          fontWeight: FontWeight.bold,
+                          letterSpacing: 0.5,
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Container(
+                      padding: const EdgeInsets.all(6),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(
+                        Icons.auto_awesome,
+                        color: Colors.white,
+                        size: 18,
+                      ),
+                    ),
+                  ],
+                ),
+                const Spacer(),
+                Row(
+                  children: [
+                    const Icon(
+                      Icons.park,
+                      color: Colors.white,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 6),
+                    Flexible(
+                      child: const Text(
+                        'Benefits',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
+                    const SizedBox(width: 4),
+                    const Icon(
+                      Icons.arrow_forward_ios,
+                      color: Colors.white,
+                      size: 14,
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
