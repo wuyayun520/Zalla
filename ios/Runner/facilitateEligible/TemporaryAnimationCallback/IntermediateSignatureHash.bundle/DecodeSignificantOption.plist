@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantDuration</key>
+	<string>completedNotifier</string>
+	<key>customMonster</key>
+	<string>effectScope</string>
+	<key>intermediateResult</key>
+	<string>logalongflyweight</string>
+	<key>invisibleLoop</key>
+	<string>responsiveEntity</string>
+	<key>lifecycleSkewX</key>
+	<string>dynamicResource</string>
+	<key>listenaccessory</key>
+	<string>listenSession</string>
+	<key>nativeArithmetic</key>
+	<string>profileUseCase</string>
+	<key>scaffoldState</key>
+	<string>awaitChain</string>
+	<key>shaderbottom</key>
+	<string>shouldPrepareMobile</string>
+	<key>staticChooser</key>
+	<string>popnode</string>
+</dict>
+</plist>

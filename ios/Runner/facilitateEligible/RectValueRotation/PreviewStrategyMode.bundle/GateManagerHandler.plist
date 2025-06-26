@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheclipper</key>
+	<string>imperativeDetector</string>
+	<key>composableItem</key>
+	<string>activityactionindex</string>
+	<key>dimensionCoord</key>
+	<string>canPaintDimension</string>
+	<key>inactivenodekind</key>
+	<string>deactivateResponse</string>
+	<key>parallelCollection</key>
+	<string>histogramCommand</string>
+	<key>permissiveBuilder</key>
+	<string>requestchooser</string>
+	<key>petbeyondtype</key>
+	<string>standaloneHash</string>
+	<key>radionearvariable</key>
+	<string>revisittask</string>
+	<key>reusableDuration</key>
+	<string>showContainer</string>
+</dict>
+</plist>

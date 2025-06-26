@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableutil</key>
+	<string>primaryInkWell</string>
+	<key>numericalCluster</key>
+	<string>renderlayer</string>
+	<key>shouldpersistmatrix</key>
+	<string>shouldTransformNib</string>
+	<key>skinKind</key>
+	<string>errorTask</string>
+	<key>timeTension</key>
+	<string>globalPriority</string>
+</dict>
+</plist>

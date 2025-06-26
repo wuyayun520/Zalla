@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchColor</key>
+	<string>multiBehavior</string>
+	<key>hardStream</key>
+	<string>unactivatedAnalyzer</string>
+	<key>largeChart</key>
+	<string>diffableMatrix</string>
+	<key>managerScale</key>
+	<string>slashCount</string>
+	<key>missedinterpolation</key>
+	<string>obtainInterface</string>
+	<key>mutableUnary</key>
+	<string>shouldEmitSpot</string>
+	<key>positionedmodesaturation</key>
+	<string>mapfromactivity</string>
+	<key>statemementoleft</key>
+	<string>challengeOperation</string>
+	<key>thresholdDelay</key>
+	<string>allocatorJob</string>
+</dict>
+</plist>

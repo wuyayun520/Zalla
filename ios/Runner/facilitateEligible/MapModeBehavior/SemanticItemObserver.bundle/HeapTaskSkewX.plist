@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBrightness</key>
+	<string>chartscenario</string>
+	<key>containerscopeinterval</key>
+	<string>plateCenter</string>
+	<key>mediumDocument</key>
+	<string>ephemeralMovement</string>
+	<key>resilientPet</key>
+	<string>backwardController</string>
+</dict>
+</plist>

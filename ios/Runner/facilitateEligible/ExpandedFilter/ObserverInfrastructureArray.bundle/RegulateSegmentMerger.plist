@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityPressure</key>
+	<string>prepareGrayscale</string>
+	<key>flexibleAnimation</key>
+	<string>bulletTint</string>
+	<key>fusedCreator</key>
+	<string>updateColumn</string>
+	<key>intuitiveSink</key>
+	<string>draggableAnimator</string>
+	<key>modalbridgesaturation</key>
+	<string>immediateSemantics</string>
+	<key>specifyAlignment</key>
+	<string>asyncfrequency</string>
+	<key>visibleConvolution</key>
+	<string>unbindsprite</string>
+</dict>
+</plist>

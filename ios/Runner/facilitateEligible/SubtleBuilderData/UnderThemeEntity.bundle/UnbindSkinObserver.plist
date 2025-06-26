@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisType</key>
+	<string>setstateAnimatedContainer</string>
+	<key>backwardTabBar</key>
+	<string>mutableCharacter</string>
+	<key>bandwidthvisibility</key>
+	<string>nextLayer</string>
+	<key>permanentMovement</key>
+	<string>shouldUnmountedIcon</string>
+	<key>pinchableButton</key>
+	<string>originalMobile</string>
+	<key>popupframeworktension</key>
+	<string>webImpact</string>
+</dict>
+</plist>

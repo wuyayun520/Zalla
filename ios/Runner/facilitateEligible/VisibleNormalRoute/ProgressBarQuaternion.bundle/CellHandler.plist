@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAxis</key>
+	<string>canSkipCard</string>
+	<key>capsuleBehavior</key>
+	<string>hasvariant</string>
+	<key>clippercolor</key>
+	<string>canCacheSkin</string>
+	<key>groupduringframework</key>
+	<string>euclideanExponent</string>
+	<key>respectivePriority</key>
+	<string>resumestateful</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSlider</key>
+	<string>statelessMedia</string>
+	<key>dedicatedinteractor</key>
+	<string>protectedSelector</string>
+	<key>globalOverlay</key>
+	<string>behaviorProxy</string>
+	<key>immutableFilter</key>
+	<string>canBuildBitrate</string>
+	<key>linkerDistance</key>
+	<string>canEmitSpine</string>
+	<key>lostOverlay</key>
+	<string>respectiveEvolution</string>
+	<key>referenceStyle</key>
+	<string>encapsulatePreview</string>
+	<key>shouldSaveThread</key>
+	<string>pointBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardrotation</key>
+	<string>responsiveReducer</string>
+	<key>mediumInfo</key>
+	<string>sharedSprite</string>
+	<key>primaryProcessor</key>
+	<string>hardResolver</string>
+	<key>reducercontaindecorator</key>
+	<string>schedulePresenter</string>
+	<key>respectivevectorspeed</key>
+	<string>concreteBox</string>
+	<key>shouldResumeMultiplication</key>
+	<string>shouldShowMultiplication</string>
+	<key>tensorAnimator</key>
+	<string>richtextDecorator</string>
+</dict>
+</plist>

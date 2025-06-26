@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativePreview</key>
+	<string>intermediateCube</string>
+	<key>inactiveCache</key>
+	<string>canEncodeMobile</string>
+	<key>labelscroller</key>
+	<string>euclideanObserver</string>
+	<key>reusableReduction</key>
+	<string>shouldValidateBuilder</string>
+	<key>seamlessRemediation</key>
+	<string>canMountedBloc</string>
+	<key>setstatefuture</key>
+	<string>pickerOpacity</string>
+	<key>shouldStartBehavior</key>
+	<string>ephemeralController</string>
+	<key>subsequentEqualization</key>
+	<string>statehead</string>
+</dict>
+</plist>

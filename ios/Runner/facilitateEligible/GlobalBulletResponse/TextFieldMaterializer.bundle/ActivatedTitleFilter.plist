@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completertype</key>
+	<string>canLayoutNotifier</string>
+	<key>dialogsBottom</key>
+	<string>canBindProtocol</string>
+	<key>dismissintensity</key>
+	<string>capacitiesObserver</string>
+	<key>movementmomentum</key>
+	<string>shouldRestartMomentum</string>
+	<key>occasionSkewY</key>
+	<string>unregisterdialogs</string>
+	<key>subscriberFlags</key>
+	<string>easyrestriction</string>
+</dict>
+</plist>

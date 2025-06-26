@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerAppearance</key>
+	<string>popupasadapter</string>
+	<key>animatedConnector</key>
+	<string>routegroup</string>
+	<key>cloneequalization</key>
+	<string>permanentDisclaimer</string>
+	<key>convolutionShade</key>
+	<string>customResilience</string>
+	<key>flexibleDistinction</key>
+	<string>transitionoffset</string>
+	<key>originalWrapper</key>
+	<string>vertexTension</string>
+	<key>polyfillInteraction</key>
+	<string>lostIntegration</string>
+	<key>shouldBuildShader</key>
+	<string>canStopCurve</string>
+	<key>shouldStreamActivity</key>
+	<string>nextmatrix</string>
+	<key>slashRate</key>
+	<string>ternaryDepth</string>
+</dict>
+</plist>

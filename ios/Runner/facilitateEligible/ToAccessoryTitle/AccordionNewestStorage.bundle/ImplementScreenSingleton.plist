@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInterpolation</key>
+	<string>liteGesture</string>
+	<key>hardGrain</key>
+	<string>taskKind</string>
+	<key>overridecurve</key>
+	<string>profileSkewX</string>
+	<key>semanticNode</key>
+	<string>pinchableAudio</string>
+	<key>shouldDisconnectAccessory</key>
+	<string>shouldPresentSlash</string>
+	<key>spotDirection</key>
+	<string>multiRequest</string>
+	<key>statelessScene</key>
+	<string>shouldStartCycle</string>
+	<key>variantnumbershape</key>
+	<string>retainedOffset</string>
+</dict>
+</plist>

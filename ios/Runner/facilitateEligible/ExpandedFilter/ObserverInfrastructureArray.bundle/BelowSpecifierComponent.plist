@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerzoneedge</key>
+	<string>mediumAppBar</string>
+	<key>firsttransitionresponse</key>
+	<string>characterParam</string>
+	<key>intermediateElement</key>
+	<string>currentspotmomentum</string>
+	<key>lastBandwidth</key>
+	<string>shouldTransitionCache</string>
+	<key>mobileCount</key>
+	<string>calculateGraph</string>
+	<key>shouldMountCaption</key>
+	<string>repositoryColor</string>
+	<key>swiftflags</key>
+	<string>interpolationcontainadapter</string>
+	<key>throughputDelay</key>
+	<string>customizedIndicator</string>
+</dict>
+</plist>

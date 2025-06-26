@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDelivery</key>
+	<string>dedicatedjoiner</string>
+	<key>featureAcceleration</key>
+	<string>sophisticatedSubscription</string>
+	<key>loopvalidation</key>
+	<string>equipmentOffset</string>
+	<key>radiusContrast</key>
+	<string>transitionMaster</string>
+	<key>utilstyle</key>
+	<string>fusedCell</string>
+</dict>
+</plist>

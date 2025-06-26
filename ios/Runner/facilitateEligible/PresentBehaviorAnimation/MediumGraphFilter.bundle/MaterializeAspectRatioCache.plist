@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryBrightness</key>
+	<string>latencyTheme</string>
+	<key>observermode</key>
+	<string>sizedboxRight</string>
+	<key>provisionContrast</key>
+	<string>particletexture</string>
+	<key>queuestyle</key>
+	<string>numericalNavigator</string>
+	<key>shouldFetchCanvas</key>
+	<string>descriptorJob</string>
+	<key>tabviewValidation</key>
+	<string>histogramHue</string>
+</dict>
+</plist>

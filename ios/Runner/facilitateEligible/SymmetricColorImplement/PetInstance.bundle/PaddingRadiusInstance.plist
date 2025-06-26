@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticchannel</key>
+	<string>symmetricCard</string>
+	<key>composableScalability</key>
+	<string>checkModel</string>
+	<key>nextAxis</key>
+	<string>diffableMatrix</string>
+	<key>subtleshader</key>
+	<string>shouldPersistGestureDetector</string>
+	<key>temporaryChecklist</key>
+	<string>renderresolver</string>
+	<key>toolfrequency</key>
+	<string>tensortransformer</string>
+</dict>
+</plist>

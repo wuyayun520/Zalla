@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcallback</key>
+	<string>prismaticAmortization</string>
+	<key>dynamicInjection</key>
+	<string>otherUnary</string>
+	<key>granularposition</key>
+	<string>chapterBehavior</string>
+	<key>greatListView</key>
+	<string>shouldDismissMaterial</string>
+	<key>materialRect</key>
+	<string>canLayoutComposition</string>
+	<key>nativeStep</key>
+	<string>textureexceptcycle</string>
+	<key>navigatorscopebound</key>
+	<string>grainObserver</string>
+	<key>shouldcreatescale</key>
+	<string>cartesianAsset</string>
+</dict>
+</plist>

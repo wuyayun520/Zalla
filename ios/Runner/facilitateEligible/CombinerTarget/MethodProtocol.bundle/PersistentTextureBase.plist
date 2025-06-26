@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEfficiency</key>
+	<string>shouldSkipProtocol</string>
+	<key>clipperMargin</key>
+	<string>itemCenter</string>
+	<key>dedicatedCubit</key>
+	<string>rolefilter</string>
+	<key>persistentCompleter</key>
+	<string>restartColumn</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializelayout</key>
+	<string>stateForm</string>
+	<key>grainmomentum</key>
+	<string>processPositioned</string>
+	<key>hardModel</key>
+	<string>parseStateful</string>
+	<key>mainSlider</key>
+	<string>parsegraphic</string>
+	<key>modelDistance</key>
+	<string>traingraphic</string>
+	<key>workflowrequest</key>
+	<string>providerLevel</string>
+</dict>
+</plist>

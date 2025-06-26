@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUnary</key>
+	<string>custompaintDistance</string>
+	<key>agileVariant</key>
+	<string>repositoryInset</string>
+	<key>capsuleFormat</key>
+	<string>restrictioncenter</string>
+	<key>defaultcheckbox</key>
+	<string>captureDuration</string>
+	<key>imperativeAperture</key>
+	<string>singleTask</string>
+	<key>shouldNavigateImage</key>
+	<string>persistentSprite</string>
+	<key>shouldunmountedbox</key>
+	<string>immediateRow</string>
+	<key>statesplitter</key>
+	<string>shouldLayoutLabel</string>
+</dict>
+</plist>

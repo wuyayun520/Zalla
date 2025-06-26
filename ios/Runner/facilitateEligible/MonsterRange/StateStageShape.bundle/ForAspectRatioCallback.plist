@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialanimation</key>
+	<string>pinchableBitrate</string>
+	<key>delegatereceiver</key>
+	<string>shouldPrepareCycle</string>
+	<key>interactiveException</key>
+	<string>protocolAction</string>
+	<key>managerortype</key>
+	<string>analyzeSubscription</string>
+</dict>
+</plist>

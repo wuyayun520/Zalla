@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatetransition</key>
+	<string>geometricTexture</string>
+	<key>converterPressure</key>
+	<string>shouldinflatemap</string>
+	<key>cosineForce</key>
+	<string>shouldContinueRemainder</string>
+	<key>directEqualization</key>
+	<string>flexSystem</string>
+	<key>extendticker</key>
+	<string>selectedcurve</string>
+	<key>mediumevolution</key>
+	<string>routeMobile</string>
+	<key>profileSpacing</key>
+	<string>missedDialogs</string>
+</dict>
+</plist>

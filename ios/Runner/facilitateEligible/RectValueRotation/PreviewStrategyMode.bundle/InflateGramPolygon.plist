@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureBorder</key>
+	<string>consumeraudio</string>
+	<key>multiConfidentiality</key>
+	<string>radiusOrigin</string>
+	<key>responsebufferdirection</key>
+	<string>composableaspectinterval</string>
+	<key>viewscheduler</key>
+	<string>decorationName</string>
+</dict>
+</plist>

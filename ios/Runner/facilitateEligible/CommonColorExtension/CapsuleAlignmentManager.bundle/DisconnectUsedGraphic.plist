@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellForce</key>
+	<string>canDisconnectMaterial</string>
+	<key>deferredview</key>
+	<string>connectorCenter</string>
+	<key>firstTitle</key>
+	<string>shoulddispatchstoryboard</string>
+	<key>lostmatrix</key>
+	<string>interpolateRoute</string>
+	<key>projectiontransition</key>
+	<string>paintchecklist</string>
+</dict>
+</plist>

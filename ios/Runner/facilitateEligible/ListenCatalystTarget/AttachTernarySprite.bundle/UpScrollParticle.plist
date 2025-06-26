@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLoader</key>
+	<string>destroySprite</string>
+	<key>canvashue</key>
+	<string>limitTicker</string>
+	<key>consultativeScaffold</key>
+	<string>canContinueSwitch</string>
+	<key>decodestate</key>
+	<string>densemenupressure</string>
+	<key>diversifiedMethod</key>
+	<string>protectedButton</string>
+	<key>optimizerplatformdistance</key>
+	<string>canUnbindFlex</string>
+	<key>permissiveDescription</key>
+	<string>dispatchMusic</string>
+	<key>prevConfidentiality</key>
+	<string>mapBridge</string>
+	<key>shouldSaveAnchor</key>
+	<string>keySensor</string>
+	<key>shouldshowlogarithm</key>
+	<string>asynchronousStateful</string>
+</dict>
+</plist>

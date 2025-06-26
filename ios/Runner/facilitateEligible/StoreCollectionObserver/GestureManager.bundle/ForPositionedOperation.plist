@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcustompaint</key>
+	<string>routerBuffer</string>
+	<key>defaultcell</key>
+	<string>freeSlider</string>
+	<key>optionedge</key>
+	<string>audioDepth</string>
+	<key>pushgrain</key>
+	<string>resizableAnimator</string>
+	<key>responsiveShader</key>
+	<string>originalFlex</string>
+	<key>sheartheme</key>
+	<string>canTransitionResource</string>
+	<key>skinTheme</key>
+	<string>dialogsHead</string>
+	<key>skirtstructureformat</key>
+	<string>debugConfiguration</string>
+	<key>slashlikevalue</key>
+	<string>ignoredConstraint</string>
+</dict>
+</plist>

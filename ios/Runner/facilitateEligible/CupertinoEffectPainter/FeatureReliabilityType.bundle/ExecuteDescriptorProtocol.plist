@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInteger</key>
+	<string>heapContext</string>
+	<key>discardedInteraction</key>
+	<string>canRebuildConvolution</string>
+	<key>prismaticPriority</key>
+	<string>visibleFinder</string>
+	<key>shouldEndLoss</key>
+	<string>customizedTool</string>
+	<key>shouldObserveExponent</key>
+	<string>declarativeBinder</string>
+</dict>
+</plist>

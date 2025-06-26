@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicRoute</key>
+	<string>asyncPosition</string>
+	<key>nextNotifier</key>
+	<string>canParseSign</string>
+	<key>previewOffset</key>
+	<string>scrollerscale</string>
+	<key>titleemitter</key>
+	<string>shouldDisconnectTabView</string>
+</dict>
+</plist>

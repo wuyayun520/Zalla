@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopcubecolor</key>
+	<string>consumerInteraction</string>
+	<key>globalEvolution</key>
+	<string>rotateListener</string>
+	<key>interactorInteraction</key>
+	<string>shouldListenInkWell</string>
+	<key>introspectduration</key>
+	<string>rotateButton</string>
+	<key>lazytraversal</key>
+	<string>agileMaterializer</string>
+	<key>pivotalRadio</key>
+	<string>mountSample</string>
+	<key>replaceentity</key>
+	<string>canObserveGradient</string>
+	<key>usedMobile</key>
+	<string>publicPlayback</string>
+</dict>
+</plist>

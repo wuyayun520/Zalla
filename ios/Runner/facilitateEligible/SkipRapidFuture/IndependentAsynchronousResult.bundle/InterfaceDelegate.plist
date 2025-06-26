@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredCubit</key>
+	<string>sequentialChecklist</string>
+	<key>materialAlignment</key>
+	<string>renameTransformer</string>
+	<key>relationalInfrastructure</key>
+	<string>denseQueue</string>
+	<key>symmetricBuilder</key>
+	<string>convolutionStyle</string>
+	<key>symmetricProvider</key>
+	<string>ignoredMend</string>
+	<key>timelineScale</key>
+	<string>channelVariable</string>
+</dict>
+</plist>

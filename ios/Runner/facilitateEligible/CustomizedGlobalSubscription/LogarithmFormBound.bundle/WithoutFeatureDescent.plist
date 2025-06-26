@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAppearance</key>
+	<string>previewworkname</string>
+	<key>deferredPreview</key>
+	<string>asyncflags</string>
+	<key>positionedDuration</key>
+	<string>denseResult</string>
+	<key>slashValidation</key>
+	<string>statefulDistinction</string>
+	<key>touchSpeed</key>
+	<string>requiredPriority</string>
+</dict>
+</plist>

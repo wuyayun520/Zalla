@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticKind</key>
+	<string>mountedinkwell</string>
+	<key>moveanchor</key>
+	<string>convertTween</string>
+	<key>referenceValidation</key>
+	<string>canStartCompletion</string>
+	<key>shouldKeepReduction</key>
+	<string>mediocreCapsule</string>
+	<key>storageFrequency</key>
+	<string>sortedResponse</string>
+</dict>
+</plist>

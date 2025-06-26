@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyNavigation</key>
+	<string>texturecapacity</string>
+	<key>materialorshape</key>
+	<string>startProject</string>
+	<key>priorcollection</key>
+	<string>shouldPauseRadio</string>
+	<key>shouldReplaceResource</key>
+	<string>stopConstraint</string>
+	<key>sophisticatedGesture</key>
+	<string>resetInterface</string>
+	<key>subsequentAlpha</key>
+	<string>staticroute</string>
+</dict>
+</plist>

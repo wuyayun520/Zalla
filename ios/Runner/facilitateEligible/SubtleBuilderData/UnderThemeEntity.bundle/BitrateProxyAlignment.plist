@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEvolution</key>
+	<string>missedError</string>
+	<key>backwardComposition</key>
+	<string>canPrepareBatch</string>
+	<key>blocsaturation</key>
+	<string>shouldKeepProjection</string>
+	<key>commonFilter</key>
+	<string>handlerdespitechain</string>
+	<key>cubitSize</key>
+	<string>overrideUseCase</string>
+	<key>declarativeException</key>
+	<string>sensorFlags</string>
+	<key>largeReference</key>
+	<string>resilientParticle</string>
+	<key>shouldHandleBorder</key>
+	<string>webBox</string>
+	<key>spritenumberinteraction</key>
+	<string>listenerEdge</string>
+</dict>
+</plist>

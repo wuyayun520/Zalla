@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturestyle</key>
+	<string>usecaseduringvar</string>
+	<key>grainMargin</key>
+	<string>symmetricSizedBox</string>
+	<key>ignoredTweak</key>
+	<string>gemFunction</string>
+	<key>mobileDialogs</key>
+	<string>processSine</string>
+	<key>providerformethod</key>
+	<string>prismaticReducer</string>
+</dict>
+</plist>

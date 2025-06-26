@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectleft</key>
+	<string>parallelWrapper</string>
+	<key>concreteLinker</key>
+	<string>unmarshalChannel</string>
+	<key>customtransition</key>
+	<string>marginandstyle</string>
+	<key>shouldNavigatePageView</key>
+	<string>completionDensity</string>
+</dict>
+</plist>

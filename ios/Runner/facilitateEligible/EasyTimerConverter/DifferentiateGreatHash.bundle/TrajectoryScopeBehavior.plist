@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAspect</key>
+	<string>immutablePoint</string>
+	<key>managerTransparency</key>
+	<string>concatenateroute</string>
+	<key>mediumUsage</key>
+	<string>containerStage</string>
+	<key>primarydescent</key>
+	<string>stamppicker</string>
+	<key>reusableElasticity</key>
+	<string>basicCluster</string>
+	<key>skirtState</key>
+	<string>prepareGate</string>
+	<key>staticDelegate</key>
+	<string>entropyType</string>
+	<key>taxonomyTail</key>
+	<string>shouldBindGridView</string>
+</dict>
+</plist>

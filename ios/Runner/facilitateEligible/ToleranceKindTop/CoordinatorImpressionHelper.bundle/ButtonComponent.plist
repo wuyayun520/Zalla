@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedeffect</key>
+	<string>currentText</string>
+	<key>constantOpacity</key>
+	<string>performAction</string>
+	<key>disabledController</key>
+	<string>setupStore</string>
+	<key>intermediateoption</key>
+	<string>parallelCallback</string>
+	<key>intuitiveMovement</key>
+	<string>dimensionbeyondlayer</string>
+	<key>relationalHero</key>
+	<string>staticBuffer</string>
+	<key>soundpadding</key>
+	<string>restartchart</string>
+	<key>tappableChannels</key>
+	<string>setstateBullet</string>
+	<key>uniqueGridView</key>
+	<string>quantizertool</string>
+</dict>
+</plist>

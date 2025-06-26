@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionLocation</key>
+	<string>sorterMode</string>
+	<key>displayableModel</key>
+	<string>shouldTrainSymbol</string>
+	<key>enabledDuration</key>
+	<string>similarAxis</string>
+	<key>mediaFlags</key>
+	<string>publishBinary</string>
+	<key>multiStatus</key>
+	<string>batchresponder</string>
+	<key>pinchableRange</key>
+	<string>cubitSystem</string>
+	<key>statefulscrollindex</key>
+	<string>materialListener</string>
+</dict>
+</plist>

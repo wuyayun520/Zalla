@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCache</key>
+	<string>eagerPlate</string>
+	<key>customListener</key>
+	<string>directlyGestureDetector</string>
+	<key>hierarchicalSplitter</key>
+	<string>semanticIsolate</string>
+	<key>responsiveNorm</key>
+	<string>layoutOffset</string>
+	<key>touchtopic</key>
+	<string>synchronousSlider</string>
+</dict>
+</plist>

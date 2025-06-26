@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiatetabbar</key>
+	<string>reusableFrame</string>
+	<key>resilientTextField</key>
+	<string>interactivestrength</string>
+	<key>shouldRebuildReduction</key>
+	<string>litePosition</string>
+	<key>statefulCapacities</key>
+	<string>immutableTechnique</string>
+	<key>transformerspeed</key>
+	<string>batchamongshape</string>
+</dict>
+</plist>

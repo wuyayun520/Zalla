@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartconfidentiality</key>
+	<string>canFinishProvider</string>
+	<key>consumerscopestate</key>
+	<string>scaleFrequency</string>
+	<key>missedVector</key>
+	<string>priorBinder</string>
+	<key>notificationbound</key>
+	<string>shouldPaintMember</string>
+	<key>protectedinterface</key>
+	<string>maxCertificate</string>
+	<key>relationalCluster</key>
+	<string>parallelListener</string>
+	<key>responsiveElement</key>
+	<string>independentRepository</string>
+	<key>tappableDescriptor</key>
+	<string>sizeChain</string>
+	<key>tensorShader</key>
+	<string>controllerbeyondfunction</string>
+</dict>
+</plist>

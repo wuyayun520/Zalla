@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalThread</key>
+	<string>animateTask</string>
+	<key>parseerror</key>
+	<string>canHandleGram</string>
+	<key>positionedAppearance</key>
+	<string>kerneltag</string>
+	<key>sessionEdge</key>
+	<string>lastmesh</string>
+	<key>shouldCancelConsumer</key>
+	<string>removeGrain</string>
+	<key>statelessInterval</key>
+	<string>canFormatConvolution</string>
+</dict>
+</plist>

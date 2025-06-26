@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerTabView</key>
+	<string>publicthroughput</string>
+	<key>easyCompletion</key>
+	<string>consumerType</string>
+	<key>hyperbolicSound</key>
+	<string>multiOffset</string>
+	<key>liteSine</key>
+	<string>transitionBorder</string>
+	<key>resizableSlider</key>
+	<string>deferredBitrate</string>
+</dict>
+</plist>

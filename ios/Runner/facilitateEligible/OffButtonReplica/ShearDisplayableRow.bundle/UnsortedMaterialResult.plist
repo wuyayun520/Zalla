@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentChart</key>
+	<string>decorationcompositetail</string>
+	<key>displayableprofile</key>
+	<string>connectRepository</string>
+	<key>euclideanBox</key>
+	<string>materialFeature</string>
+	<key>gesturedetectorResponse</key>
+	<string>sessionInset</string>
+	<key>lostRectangle</key>
+	<string>resizableCharacter</string>
+	<key>radioSaturation</key>
+	<string>canRebuildProjection</string>
+</dict>
+</plist>

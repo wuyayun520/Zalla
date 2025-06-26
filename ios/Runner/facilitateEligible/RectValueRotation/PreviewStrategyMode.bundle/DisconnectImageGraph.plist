@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assettriangles</key>
+	<string>shouldDetachWorkflow</string>
+	<key>autoInformation</key>
+	<string>pointState</string>
+	<key>directlyNode</key>
+	<string>prismaticScreen</string>
+	<key>modelInteraction</key>
+	<string>lostDecoration</string>
+	<key>robustEquivalent</key>
+	<string>concurrentMenu</string>
+	<key>shouldKeepReference</key>
+	<string>diversifiedSprite</string>
+	<key>shouldUpdateBehavior</key>
+	<string>unmountTask</string>
+	<key>transformcurve</key>
+	<string>accessibleStateful</string>
+	<key>videoCoord</key>
+	<string>currentVideo</string>
+</dict>
+</plist>

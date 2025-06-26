@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRoute</key>
+	<string>workflowasstructure</string>
+	<key>concurrentCharacter</key>
+	<string>slideroperationscale</string>
+	<key>differentiategroup</key>
+	<string>splitterspacing</string>
+	<key>globalStatus</key>
+	<string>keepoffset</string>
+	<key>integrityInteraction</key>
+	<string>sortedWidget</string>
+	<key>invisibleSlash</key>
+	<string>cursorLocation</string>
+	<key>mediumDrawer</key>
+	<string>defaultCosine</string>
+	<key>notifycompleter</key>
+	<string>durationcallback</string>
+	<key>requiredreducer</key>
+	<string>shouldDeserializeAccessory</string>
+	<key>semanticExponent</key>
+	<string>channelFrequency</string>
+</dict>
+</plist>

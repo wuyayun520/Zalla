@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancallback</key>
+	<string>diffableProvider</string>
+	<key>composableReduction</key>
+	<string>canPublishCursor</string>
+	<key>contractionvisible</key>
+	<string>shouldLoadSample</string>
+	<key>evaluationBorder</key>
+	<string>customBaseline</string>
+	<key>fusedskirtrotation</key>
+	<string>reusableResource</string>
+	<key>menuenvironmentfrequency</key>
+	<string>holdRepository</string>
+	<key>otherPromise</key>
+	<string>syncEntity</string>
+	<key>unactivatedStoryboard</key>
+	<string>callbackVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSlider</key>
+	<string>sequentialMend</string>
+	<key>navigatorresponse</key>
+	<string>autoOverlay</string>
+	<key>protectedWorkflow</key>
+	<string>mediaPosition</string>
+	<key>unactivatedconverter</key>
+	<string>shouldKeepCube</string>
+	<key>visibleSchema</key>
+	<string>replicaBehavior</string>
+</dict>
+</plist>

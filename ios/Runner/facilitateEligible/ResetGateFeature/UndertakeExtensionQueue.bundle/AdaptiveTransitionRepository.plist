@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAudio</key>
+	<string>selectednavigator</string>
+	<key>integrationedge</key>
+	<string>robustLifecycle</string>
+	<key>resultrotation</key>
+	<string>scaffoldStage</string>
+</dict>
+</plist>

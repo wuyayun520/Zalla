@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyNavigator</key>
+	<string>rectanglePosition</string>
+	<key>exceptionFeedback</key>
+	<string>shouldObserveExpanded</string>
+	<key>inactiveFragments</key>
+	<string>canRouteThread</string>
+	<key>injectionspacing</key>
+	<string>mediumLoop</string>
+	<key>mainIcon</key>
+	<string>concurrentflexbehavior</string>
+	<key>shouldTransitionFlex</key>
+	<string>shouldDisconnectReduction</string>
+	<key>staticDescriptor</key>
+	<string>layoutPosition</string>
+	<key>subsequentCurve</key>
+	<string>sensorinterval</string>
+	<key>subtleTentative</key>
+	<string>themeEnvironment</string>
+	<key>synchronousGram</key>
+	<string>eventVisitor</string>
+</dict>
+</plist>

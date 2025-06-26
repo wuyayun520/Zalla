@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFeedback</key>
+	<string>confidentialityType</string>
+	<key>emittask</key>
+	<string>cosineParameter</string>
+	<key>materialButton</key>
+	<string>renderGestureDetector</string>
+	<key>primaryShader</key>
+	<string>shouldParsePositioned</string>
+	<key>robustVector</key>
+	<string>evaluationDelay</string>
+	<key>shouldSkipEffect</key>
+	<string>observetext</string>
+	<key>timeScale</key>
+	<string>scrollableBuilder</string>
+	<key>variantcount</key>
+	<string>reusableStatus</string>
+</dict>
+</plist>

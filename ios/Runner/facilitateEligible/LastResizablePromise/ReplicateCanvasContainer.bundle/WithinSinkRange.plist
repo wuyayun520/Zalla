@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderpatterntag</key>
+	<string>radiooffset</string>
+	<key>buttonduration</key>
+	<string>canCancelAnchor</string>
+	<key>declarativeinteger</key>
+	<string>builderTag</string>
+	<key>dialogsSpeed</key>
+	<string>behaviorTask</string>
+	<key>inheritedProgressBar</key>
+	<string>updateResult</string>
+	<key>keyGradient</key>
+	<string>interfaceVar</string>
+	<key>opaqueTimer</key>
+	<string>scaffoldCount</string>
+	<key>relationalSpecifier</key>
+	<string>localizationandchain</string>
+	<key>shouldSerializeInkWell</key>
+	<string>imperativeCluster</string>
+</dict>
+</plist>

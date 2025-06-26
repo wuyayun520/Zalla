@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captioncontainer</key>
+	<string>unregisterWidget</string>
+	<key>configurationlikesystem</key>
+	<string>columnforfunction</string>
+	<key>disabledMechanism</key>
+	<string>methodSystem</string>
+	<key>ephemeralPresenter</key>
+	<string>wrapConfiguration</string>
+	<key>greatListener</key>
+	<string>shouldbuildusage</string>
+	<key>nextTouch</key>
+	<string>calculatePresenter</string>
+	<key>shouldShowOption</key>
+	<string>mediocrePreview</string>
+	<key>subtlemaster</key>
+	<string>reducerofscope</string>
+	<key>temporaryListView</key>
+	<string>renderText</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryvelocity</key>
+	<string>canUnmountedButton</string>
+	<key>fusedgraphrotation</key>
+	<string>secondCharacter</string>
+	<key>inflateasync</key>
+	<string>shouldAnimateAppBar</string>
+	<key>mainCell</key>
+	<string>precisionMemento</string>
+	<key>nativeModel</key>
+	<string>replicateCompleter</string>
+</dict>
+</plist>

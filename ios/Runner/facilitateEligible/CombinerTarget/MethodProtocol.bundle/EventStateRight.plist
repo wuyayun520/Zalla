@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisasobserver</key>
+	<string>shouldFinishHistogram</string>
+	<key>batchobserveredge</key>
+	<string>associatedSize</string>
+	<key>listenerDensity</key>
+	<string>binderInset</string>
+	<key>matrixreplica</key>
+	<string>histogramdirection</string>
+	<key>numericalOverlay</key>
+	<string>shouldpushslider</string>
+	<key>priorityInteraction</key>
+	<string>advancedBinary</string>
+</dict>
+</plist>

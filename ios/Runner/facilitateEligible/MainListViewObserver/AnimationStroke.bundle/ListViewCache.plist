@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activategrain</key>
+	<string>cartesianPopup</string>
+	<key>enabledFuture</key>
+	<string>missedPreview</string>
+	<key>futureparamrate</key>
+	<string>statelessmodule</string>
+	<key>indicatorawaymediator</key>
+	<string>canDeserializePainter</string>
+	<key>sequentialresolver</key>
+	<string>connectHistogram</string>
+	<key>traincard</key>
+	<string>staticLoss</string>
+	<key>unsortedaspecthue</key>
+	<string>canReplaceConstraint</string>
+	<key>visiblerole</key>
+	<string>compositionHue</string>
+</dict>
+</plist>

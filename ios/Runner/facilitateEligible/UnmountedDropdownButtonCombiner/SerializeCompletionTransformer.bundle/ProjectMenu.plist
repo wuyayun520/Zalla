@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRange</key>
+	<string>factorySystem</string>
+	<key>gramandphase</key>
+	<string>objectvalidation</string>
+	<key>invisibleTransformer</key>
+	<string>playController</string>
+	<key>shouldShowCube</key>
+	<string>capsulepolygon</string>
+</dict>
+</plist>

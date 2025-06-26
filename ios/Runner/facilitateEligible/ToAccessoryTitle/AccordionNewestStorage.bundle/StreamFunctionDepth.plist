@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>responseDelay</key>
+	<string>augmentFrame</string>
+	<key>selectedcursor</key>
+	<string>ephemeralBullet</string>
+	<key>taskinterval</key>
+	<string>canFetchSubpixel</string>
+	<key>transformerInteraction</key>
+	<string>liteconsumer</string>
+</dict>
+</plist>

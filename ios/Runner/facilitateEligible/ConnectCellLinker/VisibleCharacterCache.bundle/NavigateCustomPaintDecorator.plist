@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackrange</key>
+	<string>canDetachMaterial</string>
+	<key>declarativeElasticity</key>
+	<string>canSerializeBorder</string>
+	<key>disabledCheckbox</key>
+	<string>deliverySaturation</string>
+	<key>explicitVariant</key>
+	<string>hyperbolicAlpha</string>
+	<key>managerstyle</key>
+	<string>shouldUpdateChallenge</string>
+	<key>prevProvision</key>
+	<string>resultefficiency</string>
+	<key>shouldFormatInstruction</key>
+	<string>declarativeCache</string>
+	<key>shouldSetStateNotifier</key>
+	<string>functionalMaterializer</string>
+	<key>shouldUpdateProvider</key>
+	<string>animatedResponder</string>
+	<key>textCount</key>
+	<string>routecontainjob</string>
+</dict>
+</plist>

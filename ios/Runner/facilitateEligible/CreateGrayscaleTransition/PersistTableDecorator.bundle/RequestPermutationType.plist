@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeresolvertint</key>
+	<string>standaloneradius</string>
+	<key>cupertinoFeedback</key>
+	<string>explicitSymbol</string>
+	<key>dependencyDelay</key>
+	<string>canPaintIndicator</string>
+	<key>enhanceloop</key>
+	<string>replicateLayer</string>
+	<key>shouldStopStack</key>
+	<string>activatedState</string>
+</dict>
+</plist>

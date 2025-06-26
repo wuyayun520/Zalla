@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGestureDetector</key>
+	<string>constructRoute</string>
+	<key>deliveryorientation</key>
+	<string>disposeCycle</string>
+	<key>desktopScope</key>
+	<string>executeDecoration</string>
+	<key>dynamicCatalyst</key>
+	<string>shouldSerializeTool</string>
+	<key>exitalignment</key>
+	<string>pushException</string>
+	<key>interactorLocation</key>
+	<string>synchronizeWidget</string>
+	<key>missedEqualization</key>
+	<string>resizableReference</string>
+	<key>semanticthreadinterval</key>
+	<string>hardcallback</string>
+</dict>
+</plist>

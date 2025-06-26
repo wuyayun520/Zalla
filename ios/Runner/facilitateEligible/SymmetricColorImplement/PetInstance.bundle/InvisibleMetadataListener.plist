@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialIcon</key>
+	<string>canNotifyGradient</string>
+	<key>cyclespeed</key>
+	<string>canProcessText</string>
+	<key>flexibleScene</key>
+	<string>sustainableGestureDetector</string>
+	<key>gradientfrequency</key>
+	<string>resilientOccasion</string>
+	<key>mutableSound</key>
+	<string>deserializeLabel</string>
+	<key>numericalPageView</key>
+	<string>transitionAcceleration</string>
+	<key>permanentpositionedalignment</key>
+	<string>apertureslider</string>
+	<key>persistentResponder</key>
+	<string>modaleffect</string>
+	<key>responseType</key>
+	<string>primaryZone</string>
+	<key>shouldcancelview</key>
+	<string>canUnbindMission</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonworkfrequency</key>
+	<string>canPopInkWell</string>
+	<key>clusterName</key>
+	<string>trainsignature</string>
+	<key>customVariant</key>
+	<string>denseCubit</string>
+	<key>niborientation</key>
+	<string>textParam</string>
+	<key>retainedWorkflow</key>
+	<string>shouldStartRadio</string>
+	<key>shouldDismissStack</key>
+	<string>iterativeSwift</string>
+	<key>shouldRestartUsage</key>
+	<string>deferredEfficiency</string>
+	<key>signatureDistance</key>
+	<string>canUnbindTransition</string>
+	<key>smartAccessory</key>
+	<string>stateDensity</string>
+	<key>standaloneThroughput</key>
+	<string>apertureFormat</string>
+</dict>
+</plist>

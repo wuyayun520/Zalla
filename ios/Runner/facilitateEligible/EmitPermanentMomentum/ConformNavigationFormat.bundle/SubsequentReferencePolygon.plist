@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReducer</key>
+	<string>utilBuffer</string>
+	<key>cachedecoration</key>
+	<string>canSaveMedia</string>
+	<key>documentIndex</key>
+	<string>remainderLeft</string>
+	<key>observerPressure</key>
+	<string>resourceAdapter</string>
+	<key>sinkDepth</key>
+	<string>respectiveAppBar</string>
+	<key>textAcceleration</key>
+	<string>channeluntilobserver</string>
+	<key>thresholdOrigin</key>
+	<string>canEndContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicAcceleration</key>
+	<string>validateText</string>
+	<key>declarativeJoiner</key>
+	<string>standaloneBinder</string>
+	<key>dispatcherRotation</key>
+	<string>appbarBehavior</string>
+	<key>diversifiedtitlespacing</key>
+	<string>normalProgressBar</string>
+	<key>durationactiondirection</key>
+	<string>flexAction</string>
+	<key>hashcontroller</key>
+	<string>displayableGraph</string>
+	<key>localMusic</key>
+	<string>sortedChapter</string>
+	<key>standaloneClipper</key>
+	<string>lostSprite</string>
+	<key>vectoropacity</key>
+	<string>canRebuildColumn</string>
+</dict>
+</plist>

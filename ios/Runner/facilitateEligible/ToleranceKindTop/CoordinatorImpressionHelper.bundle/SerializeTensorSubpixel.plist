@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledIntensity</key>
+	<string>euclideanSlash</string>
+	<key>kernelSkewY</key>
+	<string>deserializeSine</string>
+	<key>offsetskewx</key>
+	<string>canSubscribeCapacities</string>
+	<key>operationreliability</key>
+	<string>activatedInteraction</string>
+</dict>
+</plist>

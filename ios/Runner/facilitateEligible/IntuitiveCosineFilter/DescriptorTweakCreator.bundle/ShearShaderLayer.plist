@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalTransition</key>
+	<string>deactivateView</string>
+	<key>permissivespinepressure</key>
+	<string>mobileAnalyzer</string>
+	<key>resultMomentum</key>
+	<string>listenersaturation</string>
+	<key>shouldEncodeSession</key>
+	<string>canResumeCursor</string>
+	<key>shouldMountConsumer</key>
+	<string>layoutThread</string>
+	<key>shouldUnmountedCoordinator</key>
+	<string>canDisconnectSignature</string>
+	<key>subscriptionbufferstyle</key>
+	<string>notifierProcess</string>
+	<key>temporaryInjection</key>
+	<string>originalWidget</string>
+	<key>visitstream</key>
+	<string>sampleorientation</string>
+</dict>
+</plist>

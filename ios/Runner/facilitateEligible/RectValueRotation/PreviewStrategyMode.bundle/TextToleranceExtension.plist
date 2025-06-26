@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintjobedge</key>
+	<string>webAperture</string>
+	<key>cosineEdge</key>
+	<string>permissiveConfiguration</string>
+	<key>denseRadio</key>
+	<string>drawerStatus</string>
+	<key>numericalProgressBar</key>
+	<string>compositionpadding</string>
+	<key>requiredProvision</key>
+	<string>signaturetransparency</string>
+	<key>scrollableSlider</key>
+	<string>captionPhase</string>
+	<key>triggerVisibility</key>
+	<string>transitionFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitivePainter</key>
+	<string>interactiveArithmetic</string>
+	<key>mainProvider</key>
+	<string>canBindScroll</string>
+	<key>priorInfo</key>
+	<string>interactorPressure</string>
+	<key>shouldResumeHistogram</key>
+	<string>nextCreator</string>
+	<key>unmountsegue</key>
+	<string>activatePosition</string>
+</dict>
+</plist>

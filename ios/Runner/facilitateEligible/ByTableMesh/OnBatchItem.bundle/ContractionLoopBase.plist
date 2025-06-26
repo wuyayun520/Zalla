@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachedescription</key>
+	<string>shouldContinueTechnique</string>
+	<key>scenarioFeedback</key>
+	<string>canSerializeConvolution</string>
+	<key>segueFormat</key>
+	<string>respectiveGrid</string>
+	<key>shouldAttachResource</key>
+	<string>invisibleSize</string>
+	<key>shouldSaveSizedBox</key>
+	<string>activeLinker</string>
+	<key>trianglesKind</key>
+	<string>convertException</string>
+</dict>
+</plist>

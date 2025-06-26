@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistsaturation</key>
+	<string>appendNode</string>
+	<key>decodesubscription</key>
+	<string>canPopNotifier</string>
+	<key>marshalframe</key>
+	<string>canPublishSpot</string>
+	<key>nativeProcessor</key>
+	<string>isIcon</string>
+	<key>newestOption</key>
+	<string>canResumeHeap</string>
+	<key>notificationSize</key>
+	<string>canStopFlex</string>
+	<key>occasioncolor</key>
+	<string>customizedCoordinator</string>
+	<key>shouldNotifyBatch</key>
+	<string>shouldLayoutIcon</string>
+</dict>
+</plist>

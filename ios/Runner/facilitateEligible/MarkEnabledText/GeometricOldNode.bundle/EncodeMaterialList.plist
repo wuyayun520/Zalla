@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativemodal</key>
+	<string>beginnerLatency</string>
+	<key>defaultdimension</key>
+	<string>coordinatorEdge</string>
+	<key>rendererState</key>
+	<string>rectandobserver</string>
+	<key>shouldRebuildRemainder</key>
+	<string>finderMode</string>
+	<key>textureBorder</key>
+	<string>serializePlate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleBuilder</key>
+	<string>localPlayback</string>
+	<key>heapAlignment</key>
+	<string>logarithmLocation</string>
+	<key>lazyHeap</key>
+	<string>shouldSkipBorder</string>
+	<key>protectedBox</key>
+	<string>materialDirection</string>
+	<key>rapidSink</key>
+	<string>disconnectMetadata</string>
+	<key>shouldSkipBatch</key>
+	<string>platetag</string>
+	<key>uniquebatch</key>
+	<string>persistbase</string>
+</dict>
+</plist>

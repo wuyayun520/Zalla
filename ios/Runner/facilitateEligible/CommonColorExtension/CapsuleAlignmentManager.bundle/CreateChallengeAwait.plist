@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellfragments</key>
+	<string>multiplyResolver</string>
+	<key>crudeProfile</key>
+	<string>floatReducer</string>
+	<key>delicateFinder</key>
+	<string>finishMedia</string>
+	<key>respectiveElement</key>
+	<string>textureduration</string>
+	<key>shouldSkipStateful</key>
+	<string>frameshader</string>
+</dict>
+</plist>

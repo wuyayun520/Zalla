@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmatrix</key>
+	<string>discoverInjection</string>
+	<key>euclideanAlignment</key>
+	<string>richtextSkewY</string>
+	<key>materialorientation</key>
+	<string>repositoryCycle</string>
+	<key>primaryextensiondistance</key>
+	<string>transposeNavigator</string>
+	<key>relationalGestureDetector</key>
+	<string>interactivePopup</string>
+</dict>
+</plist>

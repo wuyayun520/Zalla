@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionrouter</key>
+	<string>shouldSkipSample</string>
+	<key>diffableLinker</key>
+	<string>canConnectWidget</string>
+	<key>interactorVisibility</key>
+	<string>sophisticatedResource</string>
+	<key>originalCapacity</key>
+	<string>gestureNumber</string>
+	<key>responsiveTolerance</key>
+	<string>baseValidation</string>
+	<key>shouldMountedScale</key>
+	<string>canStopStateful</string>
+	<key>unactivatedscalability</key>
+	<string>alertorientation</string>
+</dict>
+</plist>

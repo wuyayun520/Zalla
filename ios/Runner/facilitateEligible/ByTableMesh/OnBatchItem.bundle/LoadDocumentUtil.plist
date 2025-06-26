@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificaterecursion</key>
+	<string>playbackParam</string>
+	<key>compositionalNavigation</key>
+	<string>canReplaceInterpolation</string>
+	<key>emittercoord</key>
+	<string>paintInterpolation</string>
+	<key>gesturedetectorPosition</key>
+	<string>ephemeralEquivalent</string>
+	<key>progressbarlistener</key>
+	<string>otherScalability</string>
+	<key>rapidRectangle</key>
+	<string>euclideanZone</string>
+	<key>restartinjection</key>
+	<string>lastDrawer</string>
+	<key>ternaryinteractor</key>
+	<string>protectedState</string>
+</dict>
+</plist>

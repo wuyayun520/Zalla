@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleOccasion</key>
+	<string>canRestartOperation</string>
+	<key>mapperBrightness</key>
+	<string>sizedboxShade</string>
+	<key>musicalongactivity</key>
+	<string>showusage</string>
+	<key>protocolHead</key>
+	<string>convertError</string>
+	<key>responsiveProtocol</key>
+	<string>vertexShade</string>
+	<key>stepevent</key>
+	<string>currentUtil</string>
+	<key>unregisterbase</key>
+	<string>shouldProcessCharacter</string>
+</dict>
+</plist>

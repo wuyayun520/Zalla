@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeequivalent</key>
+	<string>statelessLabel</string>
+	<key>behaviorInset</key>
+	<string>layoutCommand</string>
+	<key>consumerMomentum</key>
+	<string>statefulGroup</string>
+	<key>enabledLoader</key>
+	<string>multiRect</string>
+	<key>independentConsumption</key>
+	<string>prepareStream</string>
+	<key>missedUsage</key>
+	<string>alphapermutation</string>
+	<key>sceneRight</key>
+	<string>canStreamGate</string>
+	<key>shouldNavigateTask</key>
+	<string>pushInteger</string>
+	<key>stackliketier</key>
+	<string>performSubscription</string>
+</dict>
+</plist>

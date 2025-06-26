@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmovement</key>
+	<string>generateStream</string>
+	<key>basicSymbol</key>
+	<string>canRouteCache</string>
+	<key>beginnerVertex</key>
+	<string>independentPriority</string>
+	<key>buttonthroughput</key>
+	<string>dropoutreduction</string>
+	<key>optimizegrain</key>
+	<string>plateProxy</string>
+	<key>sensordetector</key>
+	<string>encodeIntensity</string>
+	<key>shapeTheme</key>
+	<string>canDeserializeLoss</string>
+	<key>subscribepopup</key>
+	<string>processView</string>
+	<key>tensorrequestdepth</key>
+	<string>dismissfragment</string>
+	<key>webInterface</key>
+	<string>composableNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleralignment</key>
+	<string>shouldEndCapsule</string>
+	<key>enabledImpact</key>
+	<string>viewfunctionedge</string>
+	<key>firstModel</key>
+	<string>kerneloperationsize</string>
+	<key>layerscale</key>
+	<string>commonmarginresponse</string>
+	<key>precisionInset</key>
+	<string>independentPoint</string>
+	<key>precisionValidation</key>
+	<string>asynchronousSpot</string>
+	<key>relationalprovision</key>
+	<string>gridviewNumber</string>
+	<key>singlepresenter</key>
+	<string>composableObject</string>
+	<key>usedSensor</key>
+	<string>arithmeticSkewY</string>
+	<key>utilTail</key>
+	<string>stopReduction</string>
+</dict>
+</plist>

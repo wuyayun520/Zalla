@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardSkewY</key>
+	<string>priorDialogs</string>
+	<key>characterresolver</key>
+	<string>canLoadMember</string>
+	<key>notationTension</key>
+	<string>listviewBrightness</string>
+	<key>projectiontaxonomy</key>
+	<string>chapterevent</string>
+	<key>singleSession</key>
+	<string>canShowProject</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScaffold</key>
+	<string>shouldRestartNavigation</string>
+	<key>declarativeAlpha</key>
+	<string>joinerDelay</string>
+	<key>difficultDelivery</key>
+	<string>substantialStroke</string>
+	<key>directGrayscale</key>
+	<string>scaleColor</string>
+	<key>mediocreMesh</key>
+	<string>rotateGrain</string>
+	<key>offsetState</key>
+	<string>visibleConverter</string>
+	<key>particlePosition</key>
+	<string>matrixVisitor</string>
+</dict>
+</plist>

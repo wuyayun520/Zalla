@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCenter</key>
+	<string>shaderbrightness</string>
+	<key>directlyVolume</key>
+	<string>presentasset</string>
+	<key>draggableRecursion</key>
+	<string>symmetricPositioned</string>
+	<key>ephemeralDocument</key>
+	<string>visiblepositioned</string>
+	<key>independentPreview</key>
+	<string>loopinset</string>
+	<key>remainderbyoperation</key>
+	<string>lostAppBar</string>
+	<key>rowstyledensity</key>
+	<string>trainCheckbox</string>
+	<key>visibleTextField</key>
+	<string>concreteSink</string>
+</dict>
+</plist>

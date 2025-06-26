@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDirection</key>
+	<string>wrapperSize</string>
+	<key>clonecurve</key>
+	<string>elasticCharacter</string>
+	<key>finderDelay</key>
+	<string>isPriority</string>
+	<key>fusedevent</key>
+	<string>easypriority</string>
+	<key>notifierBehavior</key>
+	<string>tappableChallenge</string>
+	<key>originalsubscription</key>
+	<string>challengeValue</string>
+	<key>seamlessBoxShadow</key>
+	<string>reusableService</string>
+	<key>shouldAttachAperture</key>
+	<string>accordionOffset</string>
+	<key>uniqueExtension</key>
+	<string>spinEntity</string>
+</dict>
+</plist>

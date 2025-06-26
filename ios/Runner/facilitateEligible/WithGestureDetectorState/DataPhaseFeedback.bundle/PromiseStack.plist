@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxsystemstate</key>
+	<string>shapeFrequency</string>
+	<key>crucialTernary</key>
+	<string>canFinishMusic</string>
+	<key>decorationprototypeinteraction</key>
+	<string>parallelRecursion</string>
+	<key>delicatetimer</key>
+	<string>deserializeTitle</string>
+	<key>directlyDetector</key>
+	<string>asynchronousIntegrity</string>
+	<key>resizableAppBar</key>
+	<string>discoverTitle</string>
+</dict>
+</plist>

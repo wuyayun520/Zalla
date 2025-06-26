@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemonstermode</key>
+	<string>canKeepContraction</string>
+	<key>shouldFinishSensor</key>
+	<string>subscribeGesture</string>
+	<key>shouldListenText</key>
+	<string>visibleArchitecture</string>
+	<key>undertakegraphic</key>
+	<string>sensorLayer</string>
+</dict>
+</plist>

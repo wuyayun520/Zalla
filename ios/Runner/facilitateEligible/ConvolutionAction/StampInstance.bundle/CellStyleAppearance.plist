@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletskewx</key>
+	<string>selectedchannels</string>
+	<key>controllertransparency</key>
+	<string>directlyRadius</string>
+	<key>permissiveExtension</key>
+	<string>reactiveInteger</string>
+	<key>projectionEdge</key>
+	<string>constraintFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionstate</key>
+	<string>holdUseCase</string>
+	<key>futureresilience</key>
+	<string>temporaryCurve</string>
+	<key>immediatesymbolfeedback</key>
+	<string>reconcileReducer</string>
+	<key>mutableConfiguration</key>
+	<string>replacePoint</string>
+	<key>scaffoldallocator</key>
+	<string>staticSwitch</string>
+	<key>stampVisibility</key>
+	<string>asynchronoussingletonbound</string>
+	<key>subsequentAccessory</key>
+	<string>subscribeSignature</string>
+</dict>
+</plist>

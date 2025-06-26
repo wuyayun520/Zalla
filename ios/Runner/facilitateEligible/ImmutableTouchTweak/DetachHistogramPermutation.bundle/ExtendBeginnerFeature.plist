@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineaspect</key>
+	<string>pushNotification</string>
+	<key>directSpot</key>
+	<string>dispatchStamp</string>
+	<key>provisionValidation</key>
+	<string>canProcessCatalyst</string>
+	<key>shouldFetchMonster</key>
+	<string>decodePlayback</string>
+	<key>skipallocator</key>
+	<string>layerMomentum</string>
+	<key>uniqueState</key>
+	<string>typicalGradient</string>
+</dict>
+</plist>

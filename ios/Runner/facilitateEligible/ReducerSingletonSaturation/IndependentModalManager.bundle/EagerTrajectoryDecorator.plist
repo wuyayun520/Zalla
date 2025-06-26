@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledrectangle</key>
+	<string>mainShader</string>
+	<key>profiletransformer</key>
+	<string>desktopStoryboard</string>
+	<key>shouldnavigategesture</key>
+	<string>seamlessScene</string>
+	<key>singletonStatus</key>
+	<string>persistMultiplication</string>
+	<key>sustainableSlider</key>
+	<string>positionedmode</string>
+	<key>transitionobserver</key>
+	<string>exitservice</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSkin</key>
+	<string>descriptionForm</string>
+	<key>easyShader</key>
+	<string>checkboxNumber</string>
+	<key>fixedanimation</key>
+	<string>popHeap</string>
+	<key>mutableNode</key>
+	<string>reducerSystem</string>
+	<key>scaleResponse</key>
+	<string>shouldobservenorm</string>
+	<key>spineshape</key>
+	<string>inheritedColor</string>
+	<key>tensorMapper</key>
+	<string>setupIntensity</string>
+</dict>
+</plist>

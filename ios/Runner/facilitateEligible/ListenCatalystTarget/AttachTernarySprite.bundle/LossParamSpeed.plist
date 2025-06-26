@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarrepository</key>
+	<string>statefulManager</string>
+	<key>cycleremediation</key>
+	<string>observeTopic</string>
+	<key>featureshapetint</key>
+	<string>differentiateController</string>
+	<key>gateDepth</key>
+	<string>statefulInkWell</string>
+	<key>skintexture</key>
+	<string>shouldDeserializeSpot</string>
+	<key>stampvector</key>
+	<string>shouldPrepareGrayscale</string>
+	<key>stateDepth</key>
+	<string>vectorTint</string>
+	<key>staticCombiner</key>
+	<string>shouldReplaceDescriptor</string>
+	<key>transitionDuration</key>
+	<string>canEncodeTechnique</string>
+</dict>
+</plist>

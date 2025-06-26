@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDistinction</key>
+	<string>difficultTransition</string>
+	<key>distinctionVisibility</key>
+	<string>equalizationatkind</string>
+	<key>firstappbar</key>
+	<string>shouldtransformindicator</string>
+	<key>loadcanvas</key>
+	<string>customizedLoop</string>
+	<key>reactivetimeline</key>
+	<string>unschedulesize</string>
+	<key>reducerRate</key>
+	<string>localMenu</string>
+	<key>resilientkerneldelay</key>
+	<string>logScope</string>
+</dict>
+</plist>

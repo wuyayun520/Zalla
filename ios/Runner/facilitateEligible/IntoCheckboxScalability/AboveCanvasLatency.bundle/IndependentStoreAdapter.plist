@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEntity</key>
+	<string>directpageview</string>
+	<key>characteristicName</key>
+	<string>statelessEntity</string>
+	<key>drawerscope</key>
+	<string>draggableBuilder</string>
+	<key>restrictionOpacity</key>
+	<string>emitRadio</string>
+	<key>shouldPushMargin</key>
+	<string>canUpdateMomentum</string>
+	<key>shouldYieldStateful</key>
+	<string>canStartPainter</string>
+	<key>sizedboxHue</key>
+	<string>smartStatus</string>
+	<key>sophisticatedScreen</key>
+	<string>spotState</string>
+	<key>textureOpacity</key>
+	<string>functionalNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisscompletion</key>
+	<string>similarLogarithm</string>
+	<key>explicitBaseline</key>
+	<string>presenterAdapter</string>
+	<key>mobileTool</key>
+	<string>canReplaceSegment</string>
+	<key>nextMomentum</key>
+	<string>canPersistButton</string>
+	<key>referencebeyondobserver</key>
+	<string>shouldProcessPageView</string>
+	<key>shouldFetchStateless</key>
+	<string>repositoryTier</string>
+	<key>shouldPublishContainer</key>
+	<string>textureLocation</string>
+	<key>updatemenu</key>
+	<string>quaternionColor</string>
+</dict>
+</plist>

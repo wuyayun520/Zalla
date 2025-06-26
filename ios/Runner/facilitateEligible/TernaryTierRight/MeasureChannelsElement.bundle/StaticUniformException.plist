@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMechanism</key>
+	<string>resilientProfile</string>
+	<key>functionalInfo</key>
+	<string>connectorBound</string>
+	<key>hasStamp</key>
+	<string>lazyevent</string>
+	<key>labelagainststage</key>
+	<string>serviceEdge</string>
+	<key>radioresource</key>
+	<string>shouldSubscribeCapacities</string>
+	<key>shouldValidateHistogram</key>
+	<string>liteSplitter</string>
+	<key>similarblocscale</key>
+	<string>globalSlider</string>
+	<key>sliderfilter</key>
+	<string>integerviatask</string>
+</dict>
+</plist>

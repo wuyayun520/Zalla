@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effecttail</key>
+	<string>pendingOperation</string>
+	<key>elementAlignment</key>
+	<string>basicCycle</string>
+	<key>ignoredAnimator</key>
+	<string>alignmentWork</string>
+	<key>multinotifiercenter</key>
+	<string>validateAxis</string>
+	<key>publishnode</key>
+	<string>ascentDensity</string>
+	<key>shouldserializecomposition</key>
+	<string>isSensor</string>
+	<key>standaloneMatrix</key>
+	<string>nextGroup</string>
+</dict>
+</plist>

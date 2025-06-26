@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianaction</key>
+	<string>shouldPopMediaQuery</string>
+	<key>diffablePoint</key>
+	<string>shouldEmitCube</string>
+	<key>relationalskininteraction</key>
+	<string>formatDensity</string>
+	<key>shouldMountedCaption</key>
+	<string>transformCell</string>
+	<key>shouldPopBinary</key>
+	<string>backwardMesh</string>
+	<key>sorterOrientation</key>
+	<string>serviceTransparency</string>
+	<key>statefulInteger</key>
+	<string>multiStoryboard</string>
+	<key>tensorNotification</key>
+	<string>triggerVelocity</string>
+</dict>
+</plist>

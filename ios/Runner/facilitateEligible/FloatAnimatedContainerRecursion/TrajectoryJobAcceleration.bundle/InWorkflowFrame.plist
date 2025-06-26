@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easysine</key>
+	<string>shouldUpdateTask</string>
+	<key>emittabbar</key>
+	<string>imageTop</string>
+	<key>popupsincememento</key>
+	<string>localizationPrototype</string>
+	<key>smallPrecision</key>
+	<string>easyrestriction</string>
+	<key>stopscroll</key>
+	<string>restrictionedge</string>
+</dict>
+</plist>

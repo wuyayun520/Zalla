@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinegrain</key>
+	<string>serializeTabView</string>
+	<key>parallelAspect</key>
+	<string>handleProjection</string>
+	<key>projectionnearflyweight</key>
+	<string>invokeGrain</string>
+	<key>rebuilddescriptor</key>
+	<string>shouldLoadSubpixel</string>
+	<key>relationalSpecifier</key>
+	<string>dependencyfeedback</string>
+	<key>shouldTransformScale</key>
+	<string>containerBehavior</string>
+</dict>
+</plist>

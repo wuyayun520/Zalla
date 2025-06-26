@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularprogressbardelay</key>
+	<string>promisecontroller</string>
+	<key>impressionRight</key>
+	<string>emittabview</string>
+	<key>litethreshold</key>
+	<string>canYieldMobile</string>
+	<key>logInterval</key>
+	<string>gramHue</string>
+	<key>primaryrestriction</key>
+	<string>pendingCurve</string>
+	<key>retainedStatus</key>
+	<string>pivotalSubscription</string>
+	<key>shouldSetStateCollection</key>
+	<string>disparateRadius</string>
+	<key>shouldSetStateProjection</key>
+	<string>canMountedInterpolation</string>
+	<key>ternaryTension</key>
+	<string>statelessWidget</string>
+</dict>
+</plist>

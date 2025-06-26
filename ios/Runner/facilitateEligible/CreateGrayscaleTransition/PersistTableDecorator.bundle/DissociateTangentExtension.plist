@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerlevelfeedback</key>
+	<string>independentMediaQuery</string>
+	<key>deactivatestoryboard</key>
+	<string>shouldCreateReduction</string>
+	<key>displayableActivity</key>
+	<string>drawerStrategy</string>
+	<key>firstchecklist</key>
+	<string>defaultSlash</string>
+	<key>shouldConnectHero</key>
+	<string>mutableAnchor</string>
+	<key>shouldInflateDrawer</key>
+	<string>shouldTransitionSegue</string>
+</dict>
+</plist>

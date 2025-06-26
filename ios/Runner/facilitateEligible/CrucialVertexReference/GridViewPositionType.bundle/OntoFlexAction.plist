@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorshader</key>
+	<string>provideSink</string>
+	<key>descriptororstyle</key>
+	<string>equivalentTransparency</string>
+	<key>mobileDescriptor</key>
+	<string>paddingHue</string>
+	<key>oldIcon</key>
+	<string>stopProfile</string>
+	<key>sharedInstruction</key>
+	<string>interactororientation</string>
+	<key>shouldDetachNotifier</key>
+	<string>shouldAttachGridView</string>
+	<key>shouldMountedSign</key>
+	<string>benchmarkSize</string>
+	<key>stampevaluation</key>
+	<string>smartAnimatedContainer</string>
+	<key>subsequentPublisher</key>
+	<string>channelBuffer</string>
+	<key>usedScalability</key>
+	<string>shouldfinishbuilder</string>
+</dict>
+</plist>

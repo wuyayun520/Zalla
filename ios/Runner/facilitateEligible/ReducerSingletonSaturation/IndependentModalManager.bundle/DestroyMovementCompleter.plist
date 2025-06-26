@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTriangles</key>
+	<string>subpixelcompleter</string>
+	<key>clusterSkewY</key>
+	<string>moveDuration</string>
+	<key>disconnectswitch</key>
+	<string>publicInteger</string>
+	<key>entityrate</key>
+	<string>canAttachText</string>
+	<key>impressionFeedback</key>
+	<string>polyfillInteraction</string>
+	<key>shouldValidateBatch</key>
+	<string>subtleInstruction</string>
+</dict>
+</plist>

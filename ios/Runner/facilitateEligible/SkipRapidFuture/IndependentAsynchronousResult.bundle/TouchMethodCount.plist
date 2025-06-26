@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengelistener</key>
+	<string>canPublishColumn</string>
+	<key>iterativeChart</key>
+	<string>shouldLayoutAspect</string>
+	<key>marshalwidget</key>
+	<string>aggregateLayer</string>
+	<key>materialstream</key>
+	<string>performHandler</string>
+	<key>permanentSingleton</key>
+	<string>prepareInstruction</string>
+	<key>requestDuration</key>
+	<string>semanticScenario</string>
+	<key>robustsession</key>
+	<string>binderShade</string>
+	<key>shouldParseCatalyst</key>
+	<string>numericalIsolate</string>
+	<key>upgradekernel</key>
+	<string>firstCallback</string>
+</dict>
+</plist>

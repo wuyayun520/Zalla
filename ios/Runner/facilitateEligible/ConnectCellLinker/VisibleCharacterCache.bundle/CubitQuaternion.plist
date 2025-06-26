@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyOrigin</key>
+	<string>explicitFragment</string>
+	<key>denseNavigator</key>
+	<string>eventtheme</string>
+	<key>euclideanprovider</key>
+	<string>gesturedetectorAlignment</string>
+	<key>seamlessStatus</key>
+	<string>gateascomposite</string>
+	<key>shouldPreparePainter</key>
+	<string>reflectVector</string>
+	<key>skiploop</key>
+	<string>ephemeralTopic</string>
+	<key>spotquaternion</key>
+	<string>dialogsframeworkalignment</string>
+	<key>subsequentLogarithm</key>
+	<string>sizealignment</string>
+	<key>tappableReduction</key>
+	<string>loadShader</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMaterializer</key>
+	<string>typicalPadding</string>
+	<key>geometricEqualization</key>
+	<string>debugError</string>
+	<key>imperativeappbar</key>
+	<string>statelessValue</string>
+	<key>interactivecupertino</key>
+	<string>readConfiguration</string>
+	<key>mainGradient</key>
+	<string>permanentLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPainter</key>
+	<string>lazygate</string>
+	<key>boxshadowamongstage</key>
+	<string>positionTheme</string>
+	<key>bufferColor</key>
+	<string>retainedStack</string>
+	<key>curvePosition</key>
+	<string>cubitLeft</string>
+	<key>fusedGesture</key>
+	<string>statelessCaption</string>
+	<key>matrixincludecontext</key>
+	<string>futurearoundmethod</string>
+	<key>priorScaffold</key>
+	<string>secondGrain</string>
+	<key>publicChallenge</key>
+	<string>deferredScenario</string>
+	<key>shouldKeepObserver</key>
+	<string>priorBuilder</string>
+</dict>
+</plist>

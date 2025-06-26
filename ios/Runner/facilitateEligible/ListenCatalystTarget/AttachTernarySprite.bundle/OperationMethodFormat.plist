@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderactionleft</key>
+	<string>descriptororstate</string>
+	<key>chooserMomentum</key>
+	<string>exponentAcceleration</string>
+	<key>isolateindex</key>
+	<string>denseInstruction</string>
+	<key>pausecanvas</key>
+	<string>shouldCancelNavigator</string>
+</dict>
+</plist>

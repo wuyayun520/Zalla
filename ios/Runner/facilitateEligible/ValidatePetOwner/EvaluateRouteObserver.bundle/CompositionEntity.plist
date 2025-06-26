@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinator</key>
+	<string>accordionCubit</string>
+	<key>firstGridView</key>
+	<string>hierarchicalModal</string>
+	<key>groupmodehead</key>
+	<string>propagateController</string>
+	<key>metricsDepth</key>
+	<string>themeForm</string>
+	<key>primaryComponent</key>
+	<string>retrieveTexture</string>
+	<key>sharedusecasesize</key>
+	<string>painterTension</string>
+	<key>similarAspectRatio</key>
+	<string>canHandleCurve</string>
+</dict>
+</plist>

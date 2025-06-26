@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardModulus</key>
+	<string>restartaxis</string>
+	<key>exponentRight</key>
+	<string>tableShade</string>
+	<key>lazyDocument</key>
+	<string>shouldLoadDelegate</string>
+	<key>shouldSerializeCapacities</key>
+	<string>presentProjection</string>
+</dict>
+</plist>

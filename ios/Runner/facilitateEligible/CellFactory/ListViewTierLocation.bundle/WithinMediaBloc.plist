@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateactivity</key>
+	<string>otherTimeline</string>
+	<key>baseresource</key>
+	<string>shouldPublishRoute</string>
+	<key>brushpressure</key>
+	<string>singleascent</string>
+	<key>exitstate</key>
+	<string>reducerOrientation</string>
+	<key>lastMetadata</key>
+	<string>margindistance</string>
+	<key>prevAction</key>
+	<string>activatedAnalogy</string>
+	<key>prevAlignment</key>
+	<string>movementPattern</string>
+	<key>reusableSignature</key>
+	<string>swiftShade</string>
+	<key>shaderdistance</key>
+	<string>interpolationProcess</string>
+	<key>thresholdResponse</key>
+	<string>radioenvironmentedge</string>
+</dict>
+</plist>

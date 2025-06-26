@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customcarddensity</key>
+	<string>disconnectnavigation</string>
+	<key>grainasscope</key>
+	<string>functionalListView</string>
+	<key>isstateful</key>
+	<string>completerOrientation</string>
+	<key>shouldPublishIcon</key>
+	<string>shouldInflateIndicator</string>
+	<key>sizeColor</key>
+	<string>rectifyInterface</string>
+	<key>stopmediaquery</key>
+	<string>disabledCurve</string>
+	<key>usageVisible</key>
+	<string>canMountedGem</string>
+</dict>
+</plist>

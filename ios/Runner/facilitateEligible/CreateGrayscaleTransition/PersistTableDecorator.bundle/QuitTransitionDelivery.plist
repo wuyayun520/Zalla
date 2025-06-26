@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrenthandler</key>
+	<string>unbindUsage</string>
+	<key>coordinatororientation</key>
+	<string>defaultnib</string>
+	<key>customHandler</key>
+	<string>managerSkewX</string>
+	<key>groupInterval</key>
+	<string>synchronizeResponse</string>
+	<key>hierarchicalRectangle</key>
+	<string>responsiveTopic</string>
+	<key>multiSubpixel</key>
+	<string>crudeFactory</string>
+	<key>responsivetweak</key>
+	<string>canReplaceGesture</string>
+	<key>shouldInflateBuilder</key>
+	<string>canNotifyTechnique</string>
+	<key>shouldPublishRole</key>
+	<string>observeruntilfacade</string>
+</dict>
+</plist>

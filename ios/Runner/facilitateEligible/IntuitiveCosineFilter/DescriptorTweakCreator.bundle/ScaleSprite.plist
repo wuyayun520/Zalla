@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStoryboard</key>
+	<string>liteNib</string>
+	<key>aperturedelay</key>
+	<string>shouldInflateMobile</string>
+	<key>delegatedirection</key>
+	<string>routeTabBar</string>
+	<key>rapidfragments</key>
+	<string>permanentObserver</string>
+	<key>shouldLayoutSensor</key>
+	<string>globalSlash</string>
+	<key>shouldParseMediaQuery</key>
+	<string>asynchronousUtil</string>
+	<key>shouldStopDuration</key>
+	<string>resilienceScale</string>
+	<key>standalonePromise</key>
+	<string>impactStyle</string>
+	<key>topictype</key>
+	<string>materialmesh</string>
+</dict>
+</plist>

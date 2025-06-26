@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentProtocol</key>
+	<string>showPageView</string>
+	<key>directRemediation</key>
+	<string>pagerSpeed</string>
+	<key>imagemetrics</key>
+	<string>globalInterface</string>
+	<key>largeGradient</key>
+	<string>selectorInterval</string>
+	<key>shouldDisconnectDescriptor</key>
+	<string>canSubscribeNorm</string>
+	<key>shouldKeepStateful</key>
+	<string>shaderinsidestructure</string>
+	<key>uniqueInkWell</key>
+	<string>serializeScale</string>
+</dict>
+</plist>

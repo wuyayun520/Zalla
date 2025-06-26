@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedticker</key>
+	<string>durationreducer</string>
+	<key>concretedimension</key>
+	<string>layoutJob</string>
+	<key>convolutionacceleration</key>
+	<string>ephemeralScale</string>
+	<key>immutableresponse</key>
+	<string>canBindView</string>
+	<key>independenttasktype</key>
+	<string>bulletOperation</string>
+	<key>materialAction</key>
+	<string>smallMaterial</string>
+	<key>onaccessorytap</key>
+	<string>polyfillSpeed</string>
+	<key>shouldHandleEqualization</key>
+	<string>crudeTime</string>
+	<key>shouldTransitionChecklist</key>
+	<string>canUnmountedTernary</string>
+	<key>topictail</key>
+	<string>multiplySize</string>
+</dict>
+</plist>

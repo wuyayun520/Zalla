@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercosineorigin</key>
+	<string>shouldValidateGridView</string>
+	<key>coordinatorSaturation</key>
+	<string>inflateAspect</string>
+	<key>parsetexture</key>
+	<string>effectstrength</string>
+	<key>remaindertypeflags</key>
+	<string>manageractivityvisibility</string>
+	<key>spriteTop</key>
+	<string>difficultButton</string>
+	<key>tabbarTop</key>
+	<string>masterSkewX</string>
+	<key>widgetOrientation</key>
+	<string>numericaltexture</string>
+</dict>
+</plist>

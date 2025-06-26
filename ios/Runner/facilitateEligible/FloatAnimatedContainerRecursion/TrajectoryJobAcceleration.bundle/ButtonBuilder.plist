@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuledispatcher</key>
+	<string>splitterBehavior</string>
+	<key>lifecyclelocation</key>
+	<string>awaitformat</string>
+	<key>litetask</key>
+	<string>concatenateAllocator</string>
+	<key>resourceSaturation</key>
+	<string>itemInterval</string>
+	<key>shouldDecodeDelegate</key>
+	<string>releaseModel</string>
+	<key>shouldFinishGrayscale</key>
+	<string>visibleAction</string>
+	<key>substantialUseCase</key>
+	<string>ignoredobserverleft</string>
+	<key>usageShape</key>
+	<string>commonbuilderdepth</string>
+</dict>
+</plist>

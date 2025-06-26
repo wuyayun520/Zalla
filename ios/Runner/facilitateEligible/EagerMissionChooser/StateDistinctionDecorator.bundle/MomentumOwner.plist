@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInterval</key>
+	<string>canStartChannels</string>
+	<key>desktopLocalization</key>
+	<string>desktopAnimator</string>
+	<key>documentfilter</key>
+	<string>backwardItem</string>
+	<key>ephemeralTabView</key>
+	<string>exponentworkstate</string>
+	<key>flexibleMember</key>
+	<string>aspectStatus</string>
+	<key>numericalReplica</key>
+	<string>shouldStopStamp</string>
+	<key>popupStyle</key>
+	<string>canTrainAnimation</string>
+	<key>uniqueMethod</key>
+	<string>shouldValidateSlider</string>
+</dict>
+</plist>

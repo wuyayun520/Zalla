@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNib</key>
+	<string>cacheGridView</string>
+	<key>draggableFuture</key>
+	<string>imperativeStep</string>
+	<key>exponentlayerinterval</key>
+	<string>protectedCoordinator</string>
+	<key>liteFrame</key>
+	<string>spritestate</string>
+	<key>memberpreview</key>
+	<string>binarysingletonname</string>
+	<key>nativeMetrics</key>
+	<string>baselineValue</string>
+	<key>pointborder</key>
+	<string>heroVar</string>
+	<key>scrollableBorder</key>
+	<string>slashAcceleration</string>
+	<key>semanticsinterval</key>
+	<string>throughputSpacing</string>
+	<key>subscriberMomentum</key>
+	<string>notifierOperation</string>
+</dict>
+</plist>

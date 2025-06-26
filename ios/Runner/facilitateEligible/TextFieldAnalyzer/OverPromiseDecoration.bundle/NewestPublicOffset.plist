@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedObserver</key>
+	<string>enabledsegue</string>
+	<key>dataSkewX</key>
+	<string>captionAcceleration</string>
+	<key>durationcolor</key>
+	<string>canDeserializeTouch</string>
+	<key>hierarchicalAudio</key>
+	<string>writeSprite</string>
+	<key>prismaticCombiner</key>
+	<string>respondInjection</string>
+	<key>protocolInteraction</key>
+	<string>layoutstate</string>
+	<key>webCertificate</key>
+	<string>eagerCompleter</string>
+	<key>wrapperTransparency</key>
+	<string>semanticExtension</string>
+</dict>
+</plist>

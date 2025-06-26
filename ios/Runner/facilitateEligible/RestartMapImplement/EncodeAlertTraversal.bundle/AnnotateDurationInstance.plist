@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContrast</key>
+	<string>retainedMenu</string>
+	<key>chartlikestate</key>
+	<string>loadPlate</string>
+	<key>composableGroup</key>
+	<string>rendererFeedback</string>
+	<key>fixedbatchmomentum</key>
+	<string>tappableDependency</string>
+	<key>interactiveChart</key>
+	<string>decodeCurve</string>
+	<key>processstate</key>
+	<string>ascentOrigin</string>
+	<key>sustainablePermutation</key>
+	<string>gestureTint</string>
+</dict>
+</plist>

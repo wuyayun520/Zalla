@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScheduler</key>
+	<string>protectedcallbackorientation</string>
+	<key>discardedVector</key>
+	<string>permanentMultiplication</string>
+	<key>mobileQueue</key>
+	<string>stopGrayscale</string>
+	<key>mobilecompositekind</key>
+	<string>restartOperation</string>
+	<key>opaqueProgressBar</key>
+	<string>canFetchTheme</string>
+	<key>rectproxydepth</key>
+	<string>retrieveChannel</string>
+	<key>shouldMountedInteger</key>
+	<string>apertureentity</string>
+	<key>standaloneSign</key>
+	<string>connectLoop</string>
+	<key>streamFlags</key>
+	<string>computeAsync</string>
+</dict>
+</plist>

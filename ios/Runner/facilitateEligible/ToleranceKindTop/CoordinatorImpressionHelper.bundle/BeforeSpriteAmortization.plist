@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricRenderer</key>
+	<string>canKeepInteger</string>
+	<key>grayscaleoutsidestage</key>
+	<string>materialSplitter</string>
+	<key>localSession</key>
+	<string>notificationSize</string>
+	<key>precisionactivitybrightness</key>
+	<string>encodeRadio</string>
+	<key>shouldpaintcustompaint</key>
+	<string>shouldshowsegment</string>
+</dict>
+</plist>

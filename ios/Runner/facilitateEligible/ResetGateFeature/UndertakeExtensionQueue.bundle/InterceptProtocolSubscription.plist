@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialtimer</key>
+	<string>protectedSize</string>
+	<key>orchestrateresource</key>
+	<string>sequentialCache</string>
+	<key>shouldContinueMatrix</key>
+	<string>sizesingletonrotation</string>
+	<key>shouldshowstamp</key>
+	<string>statelessSprite</string>
+	<key>splittershade</key>
+	<string>brushOrigin</string>
+	<key>standalonelog</key>
+	<string>primaryArithmetic</string>
+	<key>textureIndex</key>
+	<string>transformAspectRatio</string>
+</dict>
+</plist>

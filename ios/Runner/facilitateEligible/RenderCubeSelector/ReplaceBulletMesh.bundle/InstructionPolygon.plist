@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTouch</key>
+	<string>denseLinker</string>
+	<key>dynamicexpanded</key>
+	<string>lockintensity</string>
+	<key>futureDelay</key>
+	<string>shouldNavigateHistogram</string>
+	<key>localizationBorder</key>
+	<string>monsterBehavior</string>
+	<key>prismaticGestureDetector</key>
+	<string>keydescriptionleft</string>
+	<key>shouldDecodeInkWell</key>
+	<string>promisePlatform</string>
+	<key>subtleShader</key>
+	<string>objectTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptersystemvisible</key>
+	<string>progressbaramongvar</string>
+	<key>compositionalmonstermargin</key>
+	<string>localizationDuration</string>
+	<key>draggableTextField</key>
+	<string>visibleSpot</string>
+	<key>memberspeed</key>
+	<string>emitVariant</string>
+	<key>protocolforce</key>
+	<string>defaultDocument</string>
+	<key>responsiveBrush</key>
+	<string>inkwellpercycle</string>
+	<key>visiblemediaqueryposition</key>
+	<string>crudeResolver</string>
+</dict>
+</plist>

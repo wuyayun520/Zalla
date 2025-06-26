@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorstrategytint</key>
+	<string>activeReceiver</string>
+	<key>densePermutation</key>
+	<string>animationStrategy</string>
+	<key>eraseposition</key>
+	<string>analogyShade</string>
+	<key>intermediateQuaternion</key>
+	<string>canLoadDelegate</string>
+	<key>shouldInflateOptimizer</key>
+	<string>architectureOrigin</string>
+</dict>
+</plist>

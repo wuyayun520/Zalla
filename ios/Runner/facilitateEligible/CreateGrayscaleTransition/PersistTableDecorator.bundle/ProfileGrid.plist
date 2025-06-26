@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialproviderhue</key>
+	<string>workflowParameter</string>
+	<key>effectflags</key>
+	<string>extendStore</string>
+	<key>mediumMesh</key>
+	<string>canSerializeStack</string>
+	<key>numericalpager</key>
+	<string>shouldRebuildCapsule</string>
+	<key>prevDependency</key>
+	<string>polygonFeedback</string>
+	<key>respectiveKernel</key>
+	<string>accelerateResult</string>
+	<key>timerDuration</key>
+	<string>clusterSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsine</key>
+	<string>canCacheContainer</string>
+	<key>dimensionLeft</key>
+	<string>projectionBehavior</string>
+	<key>shouldAnimateCursor</key>
+	<string>resolveCompleter</string>
+	<key>shouldKeepController</key>
+	<string>sizedboxShade</string>
+</dict>
+</plist>

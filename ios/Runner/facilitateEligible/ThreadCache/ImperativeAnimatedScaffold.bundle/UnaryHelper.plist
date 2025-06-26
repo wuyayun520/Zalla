@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoop</key>
+	<string>multiplyTicker</string>
+	<key>binaryvisibility</key>
+	<string>robustInfrastructure</string>
+	<key>crucialGraph</key>
+	<string>shouldDeserializeStateful</string>
+	<key>hardAxis</key>
+	<string>revisitRect</string>
+	<key>indicatorcontainer</key>
+	<string>containerStage</string>
+	<key>labeldepth</key>
+	<string>directlyRichText</string>
+	<key>managerformat</key>
+	<string>eagerReducer</string>
+	<key>notificationandvalue</key>
+	<string>functionalsprite</string>
+	<key>oldRow</key>
+	<string>bitratePrototype</string>
+	<key>variantSkewY</key>
+	<string>eagerResponse</string>
+</dict>
+</plist>

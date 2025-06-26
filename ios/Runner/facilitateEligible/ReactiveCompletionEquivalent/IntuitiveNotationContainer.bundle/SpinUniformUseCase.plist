@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLatency</key>
+	<string>variantBottom</string>
+	<key>customizedalignmentdensity</key>
+	<string>annotateicon</string>
+	<key>formatRight</key>
+	<string>soundStyle</string>
+	<key>movebloc</key>
+	<string>notifyIcon</string>
+	<key>segueformdensity</key>
+	<string>declarativeProject</string>
+	<key>visibleRoute</key>
+	<string>decouplecupertino</string>
+</dict>
+</plist>

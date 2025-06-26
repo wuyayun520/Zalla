@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerleft</key>
+	<string>standalonePadding</string>
+	<key>customEquivalent</key>
+	<string>semanticparticleright</string>
+	<key>customizedReliability</key>
+	<string>activatePreview</string>
+	<key>layerMode</key>
+	<string>skinsound</string>
+	<key>navigatorcontrast</key>
+	<string>remediationDistance</string>
+	<key>nextVector</key>
+	<string>methodProxy</string>
+	<key>prioritySpeed</key>
+	<string>quantizationConfiguration</string>
+	<key>roleduration</key>
+	<string>euclideanMember</string>
+	<key>shouldUnbindNorm</key>
+	<string>locateIsolate</string>
+</dict>
+</plist>

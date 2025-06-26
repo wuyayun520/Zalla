@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observeresult</key>
+	<string>directlyPageView</string>
+	<key>priorSound</key>
+	<string>mutableInjection</string>
+	<key>shouldCreateSpine</key>
+	<string>resourceFacade</string>
+	<key>shouldSkipMember</key>
+	<string>interactivewidgetdepth</string>
+</dict>
+</plist>

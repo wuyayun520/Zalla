@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDirection</key>
+	<string>mediocreChallenge</string>
+	<key>commonState</key>
+	<string>currentRenderer</string>
+	<key>controllercluster</key>
+	<string>toleranceRotation</string>
+	<key>currenttheme</key>
+	<string>initializeRouter</string>
+	<key>primaryswift</key>
+	<string>navigateCatalyst</string>
+	<key>rapidCaption</key>
+	<string>chapterDuration</string>
+	<key>sortedButton</key>
+	<string>imageSpeed</string>
+</dict>
+</plist>

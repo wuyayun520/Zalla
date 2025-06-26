@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalBehavior</key>
+	<string>drawerRate</string>
+	<key>iterativeSound</key>
+	<string>sizeObserver</string>
+	<key>mobileActivity</key>
+	<string>captionresponse</string>
+	<key>nodestateflags</key>
+	<string>loopOrigin</string>
+	<key>prevSignature</key>
+	<string>haspet</string>
+	<key>resizableTabView</key>
+	<string>progressbarAcceleration</string>
+	<key>shouldBuildOption</key>
+	<string>interactionFlags</string>
+	<key>shouldEmitGestureDetector</key>
+	<string>beginnerThread</string>
+	<key>streamcontrast</key>
+	<string>unmountCurve</string>
+	<key>temporaryJoiner</key>
+	<string>scalabilityRate</string>
+</dict>
+</plist>

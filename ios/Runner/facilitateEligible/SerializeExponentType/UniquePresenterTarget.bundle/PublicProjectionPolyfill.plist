@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVisibility</key>
+	<string>masterForce</string>
+	<key>bindwidget</key>
+	<string>shouldSetStateAspectRatio</string>
+	<key>observeroutsideaction</key>
+	<string>disposeRichText</string>
+	<key>reusableTaxonomy</key>
+	<string>shouldNotifyStoryboard</string>
+	<key>specifierentity</key>
+	<string>removeChart</string>
+</dict>
+</plist>

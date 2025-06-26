@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationAlignment</key>
+	<string>persistNotifier</string>
+	<key>invisibleProject</key>
+	<string>crucialAction</string>
+	<key>resilientData</key>
+	<string>rapidwrapper</string>
+	<key>transitionName</key>
+	<string>denseDetector</string>
+	<key>unactivatedWorkflow</key>
+	<string>concurrentDescent</string>
+</dict>
+</plist>

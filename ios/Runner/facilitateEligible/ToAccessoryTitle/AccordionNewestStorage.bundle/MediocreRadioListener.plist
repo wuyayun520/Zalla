@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDescent</key>
+	<string>unscheduleHandler</string>
+	<key>combinerbrightness</key>
+	<string>configurationInteraction</string>
+	<key>consumetitle</key>
+	<string>synchronousAllocator</string>
+	<key>cosineDepth</key>
+	<string>staticMargin</string>
+	<key>fixedData</key>
+	<string>rotategraph</string>
+	<key>mutableGraph</key>
+	<string>criticalSegment</string>
+	<key>pickerTop</key>
+	<string>scaffoldLayer</string>
+	<key>primaryoffset</key>
+	<string>expandedBridge</string>
+	<key>shouldAttachAlpha</key>
+	<string>shouldpopconsumer</string>
+</dict>
+</plist>

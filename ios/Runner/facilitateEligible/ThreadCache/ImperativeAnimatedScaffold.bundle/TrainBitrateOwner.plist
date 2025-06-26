@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderCoord</key>
+	<string>cartesianCallback</string>
+	<key>detectorFlags</key>
+	<string>textfieldOpacity</string>
+	<key>directlyCollection</key>
+	<string>nodeDirection</string>
+	<key>easyModule</key>
+	<string>singleManager</string>
+	<key>handletransformer</key>
+	<string>disabledDescent</string>
+	<key>shouldMountDropdownButton</key>
+	<string>consumptionStyle</string>
+	<key>streamdelay</key>
+	<string>hierarchicalPopup</string>
+	<key>ternaryconnector</key>
+	<string>mediaqueryshade</string>
+	<key>toolthanshape</key>
+	<string>behaviorMomentum</string>
+</dict>
+</plist>

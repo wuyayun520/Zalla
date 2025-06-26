@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalyststructurebottom</key>
+	<string>revisitReducer</string>
+	<key>detachpopup</key>
+	<string>restartutil</string>
+	<key>nextgesture</key>
+	<string>canResumeMonster</string>
+	<key>normalComponent</key>
+	<string>completedConsumer</string>
+	<key>progressbarforframework</key>
+	<string>shouldfetchhistogram</string>
+	<key>protectedTweak</key>
+	<string>invisibleGesture</string>
+	<key>radiusopacity</key>
+	<string>shouldDisconnectMultiplication</string>
+	<key>rectContrast</key>
+	<string>canEncodeGridView</string>
+	<key>shouldCreateSensor</key>
+	<string>liteClipper</string>
+	<key>singletonHead</key>
+	<string>similarEvaluation</string>
+</dict>
+</plist>

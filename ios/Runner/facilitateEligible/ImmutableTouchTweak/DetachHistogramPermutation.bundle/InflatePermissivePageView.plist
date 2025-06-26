@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionColor</key>
+	<string>columnBridge</string>
+	<key>cubitdetail</key>
+	<string>sanitizeloop</string>
+	<key>globalModulus</key>
+	<string>observeinstruction</string>
+	<key>liteInkWell</key>
+	<string>nibborder</string>
+	<key>multiSwift</key>
+	<string>enhanceSlider</string>
+	<key>projectionAcceleration</key>
+	<string>shouldShowSlider</string>
+	<key>resourceSkewY</key>
+	<string>accessibleProjection</string>
+	<key>shouldShowMediaQuery</key>
+	<string>positionFlags</string>
+	<key>standaloneMatrix</key>
+	<string>audioValidation</string>
+	<key>wrapperrotation</key>
+	<string>paintAnimation</string>
+</dict>
+</plist>

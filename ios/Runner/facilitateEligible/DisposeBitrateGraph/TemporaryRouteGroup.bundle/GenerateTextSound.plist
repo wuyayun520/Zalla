@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionSpeed</key>
+	<string>canRebuildCell</string>
+	<key>flexibleSink</key>
+	<string>configurationDelay</string>
+	<key>granularMend</key>
+	<string>customizedIsolate</string>
+	<key>nextGestureDetector</key>
+	<string>parallelReplica</string>
+	<key>operationDuration</key>
+	<string>shouldPrepareStateful</string>
+	<key>persistdependency</key>
+	<string>processGridView</string>
+	<key>typicalCapacity</key>
+	<string>reconcilecontroller</string>
+	<key>usecasePadding</key>
+	<string>primaryLifecycle</string>
+	<key>webModule</key>
+	<string>allocatorEdge</string>
+</dict>
+</plist>

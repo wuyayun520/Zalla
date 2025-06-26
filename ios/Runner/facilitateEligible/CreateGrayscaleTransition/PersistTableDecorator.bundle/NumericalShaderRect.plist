@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeDialogs</key>
+	<string>parseRequest</string>
+	<key>isCoordinator</key>
+	<string>constructProgressBar</string>
+	<key>shouldDisposeDialogs</key>
+	<string>buildtask</string>
+	<key>staticButton</key>
+	<string>inheritedFilter</string>
+	<key>subsequentStamp</key>
+	<string>accessibleImage</string>
+	<key>tensorAxis</key>
+	<string>canPrepareRadio</string>
+</dict>
+</plist>

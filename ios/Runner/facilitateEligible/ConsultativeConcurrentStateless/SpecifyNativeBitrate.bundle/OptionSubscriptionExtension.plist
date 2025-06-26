@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRichText</key>
+	<string>listenBinary</string>
+	<key>advancedMultiplication</key>
+	<string>fusedShape</string>
+	<key>mediumText</key>
+	<string>stateFormat</string>
+	<key>reusableAlignment</key>
+	<string>publishCompletion</string>
+	<key>shouldProcessCustomPaint</key>
+	<string>shouldanimatethread</string>
+	<key>streamOrientation</key>
+	<string>synchronizerow</string>
+	<key>strengthInterval</key>
+	<string>limitIntensity</string>
+	<key>techniqueTension</key>
+	<string>usecaseInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderFrequency</key>
+	<string>webArchitecture</string>
+	<key>disabledReduction</key>
+	<string>usageprototypeinteraction</string>
+	<key>draggableplaybackdepth</key>
+	<string>firstScope</string>
+	<key>durationEdge</key>
+	<string>presentInkWell</string>
+	<key>permanentGesture</key>
+	<string>specifiervisible</string>
+	<key>responsiveEntity</key>
+	<string>descriptorLeft</string>
+	<key>reusableAperture</key>
+	<string>activatedMaterial</string>
+	<key>shouldPushPainter</key>
+	<string>denseLinker</string>
+	<key>tappableHistogram</key>
+	<string>itemTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAlpha</key>
+	<string>shouldFormatMaterial</string>
+	<key>isolateloader</key>
+	<string>shouldYieldSemantics</string>
+	<key>lossgroup</key>
+	<string>permissiveoptimizer</string>
+	<key>otherSplitter</key>
+	<string>unsortedprovideredge</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferparameterdirection</key>
+	<string>autoBase</string>
+	<key>integrationVisibility</key>
+	<string>metricsLeft</string>
+	<key>savepreview</key>
+	<string>nodeSkewX</string>
+	<key>skirtawayactivity</key>
+	<string>canPauseTransition</string>
+	<key>sustainableComponent</key>
+	<string>lazyTernary</string>
+	<key>unmountresult</key>
+	<string>subsequentcoordinatorshape</string>
+	<key>workflowPosition</key>
+	<string>revisitasync</string>
+</dict>
+</plist>

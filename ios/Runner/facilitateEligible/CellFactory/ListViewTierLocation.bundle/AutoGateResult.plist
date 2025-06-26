@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvascenter</key>
+	<string>routeMovement</string>
+	<key>densepositioned</key>
+	<string>numericalTopic</string>
+	<key>desktopDecoration</key>
+	<string>shouldYieldHeap</string>
+	<key>displayablePolygon</key>
+	<string>catalystScope</string>
+	<key>fusedPlayback</key>
+	<string>canObserveController</string>
+	<key>graphMode</key>
+	<string>subpixelEnvironment</string>
+	<key>keepmedia</key>
+	<string>shouldFormatLogarithm</string>
+	<key>pooldialogs</key>
+	<string>seamlessRadio</string>
+	<key>staticInterpolation</key>
+	<string>shouldCancelShader</string>
+	<key>trainasync</key>
+	<string>discardedDependency</string>
+</dict>
+</plist>

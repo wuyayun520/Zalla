@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishcupertino</key>
+	<string>streamSaturation</string>
+	<key>gramcoord</key>
+	<string>unmountedBorder</string>
+	<key>newestSemantics</key>
+	<string>batchinteraction</string>
+	<key>playbackawayscope</key>
+	<string>primaryTrajectory</string>
+	<key>shouldBindAccessory</key>
+	<string>textMargin</string>
+	<key>tensorGesture</key>
+	<string>enablednotation</string>
+	<key>tweakName</key>
+	<string>bitratebesidebridge</string>
+</dict>
+</plist>

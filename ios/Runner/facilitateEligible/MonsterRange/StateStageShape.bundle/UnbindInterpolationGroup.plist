@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchkind</key>
+	<string>durationenvironmentappearance</string>
+	<key>frameHead</key>
+	<string>popStack</string>
+	<key>persistentsubscription</key>
+	<string>clipperMode</string>
+	<key>reactiveTexture</key>
+	<string>schemaBehavior</string>
+	<key>scrollerSpacing</key>
+	<string>interfaceobject</string>
+	<key>usagearoundflyweight</key>
+	<string>shouldResumeBuilder</string>
+	<key>usageinterval</key>
+	<string>prismaticmenurotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notificationLeft</key>
+	<string>projectposition</string>
+	<key>pushtopic</key>
+	<string>writeFrame</string>
+	<key>secondIsolate</key>
+	<string>disabledSubpixel</string>
+	<key>smarttable</key>
+	<string>localZone</string>
+	<key>specifyBuilder</key>
+	<string>explicitBullet</string>
+	<key>tweensaturation</key>
+	<string>servicepolyfill</string>
+	<key>usedSkin</key>
+	<string>deferredanalyzer</string>
+</dict>
+</plist>

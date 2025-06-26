@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaster</key>
+	<string>shouldAnimateLayout</string>
+	<key>interfaceTension</key>
+	<string>resizeRouter</string>
+	<key>iterativeResult</key>
+	<string>masterOrientation</string>
+	<key>shouldHandleArithmetic</key>
+	<string>diversifiedBitrate</string>
+	<key>shouldReplaceCaption</key>
+	<string>canShowDelegate</string>
+	<key>sliderAcceleration</key>
+	<string>specifyMatrix</string>
+</dict>
+</plist>

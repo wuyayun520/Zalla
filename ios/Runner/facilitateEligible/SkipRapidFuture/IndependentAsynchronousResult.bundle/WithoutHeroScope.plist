@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customIndicator</key>
+	<string>usedSession</string>
+	<key>labelpressure</key>
+	<string>sharedInterpolation</string>
+	<key>shouldskipscroll</key>
+	<string>beginnerMechanism</string>
+	<key>statelessRadius</key>
+	<string>efficiencyOpacity</string>
+</dict>
+</plist>

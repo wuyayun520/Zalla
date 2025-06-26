@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralbutton</key>
+	<string>navigatorparamoffset</string>
+	<key>exitutil</key>
+	<string>pushmodel</string>
+	<key>fixedradius</key>
+	<string>evaluateWidget</string>
+	<key>ignoredPageView</key>
+	<string>modulusHead</string>
+	<key>liteGrid</key>
+	<string>flexibleSensor</string>
+	<key>lockprojection</key>
+	<string>cupertinoTitle</string>
+	<key>nextPager</key>
+	<string>respectiveResult</string>
+	<key>pointSkewY</key>
+	<string>independentContrast</string>
+	<key>responsiveResource</key>
+	<string>spinAnimation</string>
+</dict>
+</plist>

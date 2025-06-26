@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSprite</key>
+	<string>basevalidation</string>
+	<key>crucialNotification</key>
+	<string>rectType</string>
+	<key>shouldTrainGate</key>
+	<string>nextScroller</string>
+</dict>
+</plist>

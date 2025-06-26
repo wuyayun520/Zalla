@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLatency</key>
+	<string>cupertinoWidget</string>
+	<key>denseSpine</key>
+	<string>shouldReplaceCapacities</string>
+	<key>gradientContrast</key>
+	<string>shouldRebuildRadio</string>
+	<key>handlelayout</key>
+	<string>accelerateBuilder</string>
+	<key>layoutCenter</key>
+	<string>prismaticItem</string>
+	<key>responsepolyfill</key>
+	<string>segueOffset</string>
+</dict>
+</plist>

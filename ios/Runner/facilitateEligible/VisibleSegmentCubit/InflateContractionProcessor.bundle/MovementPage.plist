@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterscene</key>
+	<string>emitInteger</string>
+	<key>elasticButton</key>
+	<string>handleentity</string>
+	<key>grainlikeadapter</key>
+	<string>actionParam</string>
+	<key>ignoredNib</key>
+	<string>viewkindspeed</string>
+	<key>masteracceleration</key>
+	<string>quantizerRouter</string>
+	<key>modulusDelay</key>
+	<string>seekRequest</string>
+	<key>observerSkewX</key>
+	<string>bitrateTransparency</string>
+	<key>originalSchema</key>
+	<string>textureinterpreterresponse</string>
+	<key>timelineright</key>
+	<string>giftlocation</string>
+</dict>
+</plist>

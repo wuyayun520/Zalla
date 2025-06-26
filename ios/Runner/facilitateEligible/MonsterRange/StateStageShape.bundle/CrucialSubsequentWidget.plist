@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitykind</key>
+	<string>shouldTransformTask</string>
+	<key>enabledfilter</key>
+	<string>decodeCursor</string>
+	<key>inkwellShape</key>
+	<string>navigatorAction</string>
+	<key>keeplayout</key>
+	<string>symbolLeft</string>
+	<key>metadatadistance</key>
+	<string>mediocreLabel</string>
+	<key>shouldYieldContainer</key>
+	<string>screenBuffer</string>
+	<key>wrapperTint</key>
+	<string>rebuildcallback</string>
+</dict>
+</plist>

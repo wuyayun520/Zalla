@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeKind</key>
+	<string>repositoryStructure</string>
+	<key>deferredBase</key>
+	<string>rapidNotation</string>
+	<key>inkwellscalability</key>
+	<string>allocateGroup</string>
+	<key>nativeAnchor</key>
+	<string>currentInteractor</string>
+	<key>nextSine</key>
+	<string>restoreProgressBar</string>
+	<key>reactiveResolver</key>
+	<string>restoreLabel</string>
+	<key>semanticRecursion</key>
+	<string>canPersistSymbol</string>
+	<key>shaderprovider</key>
+	<string>shouldPersistMap</string>
+</dict>
+</plist>

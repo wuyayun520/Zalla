@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTension</key>
+	<string>resizableassetdirection</string>
+	<key>challengeselector</key>
+	<string>rectspacing</string>
+	<key>creatorMargin</key>
+	<string>canCacheSwitch</string>
+	<key>imperativeSpine</key>
+	<string>tabbarDepth</string>
+	<key>prismaticImage</key>
+	<string>shouldPrepareRoute</string>
+	<key>retainedBrush</key>
+	<string>transitionStrategy</string>
+</dict>
+</plist>

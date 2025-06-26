@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConvolution</key>
+	<string>cubeStyle</string>
+	<key>formatskewy</key>
+	<string>cardTransparency</string>
+	<key>frameincludetemple</key>
+	<string>shouldDetachGesture</string>
+	<key>kernelCoord</key>
+	<string>requestBound</string>
+	<key>mediumDescription</key>
+	<string>audioContrast</string>
+	<key>monsterType</key>
+	<string>subsequentTopic</string>
+	<key>parsethread</key>
+	<string>invisibleUseCase</string>
+	<key>previewstagesaturation</key>
+	<string>resizableIndicator</string>
+	<key>referenceAppearance</key>
+	<string>advancedZone</string>
+	<key>shouldDecodeProfile</key>
+	<string>independentMenu</string>
+</dict>
+</plist>

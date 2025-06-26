@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectInset</key>
+	<string>statelessDescent</string>
+	<key>fragmentanalyzer</key>
+	<string>seekfactory</string>
+	<key>loaderTint</key>
+	<string>aspectAdapter</string>
+	<key>missedDialogs</key>
+	<string>transitionduration</string>
+	<key>othermodel</key>
+	<string>disconnectmediaquery</string>
+	<key>retainedcatalystforce</key>
+	<string>painterMethod</string>
+	<key>rowsaturation</key>
+	<string>routerShade</string>
+	<key>shouldPauseFuture</key>
+	<string>chaptervaluedistance</string>
+</dict>
+</plist>

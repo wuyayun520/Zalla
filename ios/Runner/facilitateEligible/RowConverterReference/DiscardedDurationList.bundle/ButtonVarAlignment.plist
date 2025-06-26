@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeReference</key>
+	<string>parsemediaquery</string>
+	<key>disconnectcubit</key>
+	<string>selectedsign</string>
+	<key>graphcontrast</key>
+	<string>progressbarAlignment</string>
+	<key>indicatorBound</key>
+	<string>observeStorage</string>
+	<key>interactiveChapter</key>
+	<string>canFetchSubpixel</string>
+	<key>menuphaserate</key>
+	<string>offsetactivitydepth</string>
+	<key>pageviewOpacity</key>
+	<string>consultativeoperation</string>
+	<key>shouldSaveTouch</key>
+	<string>canDeserializeArithmetic</string>
+	<key>symbolColor</key>
+	<string>canLoadCollection</string>
+</dict>
+</plist>

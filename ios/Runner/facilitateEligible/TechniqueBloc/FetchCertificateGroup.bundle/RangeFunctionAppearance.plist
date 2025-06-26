@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetlayerflags</key>
+	<string>decorationFrequency</string>
+	<key>defaultAxis</key>
+	<string>rapidPoint</string>
+	<key>exponentduringchain</key>
+	<string>standalonePopup</string>
+	<key>nativeModule</key>
+	<string>canBindText</string>
+	<key>sanitizeresource</key>
+	<string>containerMediator</string>
+	<key>spriteFrequency</key>
+	<string>rapidBoxShadow</string>
+	<key>startmonster</key>
+	<string>animatedMusic</string>
+	<key>webReceiver</key>
+	<string>directlyChannel</string>
+</dict>
+</plist>

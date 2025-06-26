@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFilter</key>
+	<string>isdialogs</string>
+	<key>discardedmetadata</key>
+	<string>globalAlert</string>
+	<key>gemparammode</key>
+	<string>shouldEncodeListView</string>
+	<key>reusableLoader</key>
+	<string>keyVolume</string>
+	<key>shouldDispatchTangent</key>
+	<string>detachOption</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCursor</key>
+	<string>priorPresenter</string>
+	<key>cancelview</key>
+	<string>emitTitle</string>
+	<key>mobileSignature</key>
+	<string>restartSignature</string>
+	<key>oldArithmetic</key>
+	<string>checkboxProxy</string>
+	<key>shouldInflateTask</key>
+	<string>lossInterpreter</string>
+	<key>shouldNotifyAperture</key>
+	<string>respectiveInterface</string>
+</dict>
+</plist>

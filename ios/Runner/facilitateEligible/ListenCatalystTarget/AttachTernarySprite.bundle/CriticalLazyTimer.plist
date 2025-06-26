@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoascent</key>
+	<string>accessibleAlert</string>
+	<key>creatorDirection</key>
+	<string>fixedZone</string>
+	<key>elasticityFrequency</key>
+	<string>shouldCreateOptimizer</string>
+	<key>equipmentlocation</key>
+	<string>crucialdecoration</string>
+	<key>flexibleListView</key>
+	<string>relationalBaseline</string>
+	<key>mediumrole</key>
+	<string>shouldRebuildDecoration</string>
+	<key>servicebycomposite</key>
+	<string>materialcontrast</string>
+	<key>shouldConnectInteger</key>
+	<string>buildHeap</string>
+</dict>
+</plist>

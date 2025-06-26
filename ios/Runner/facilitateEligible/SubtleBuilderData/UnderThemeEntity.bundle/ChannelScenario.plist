@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFrequency</key>
+	<string>arithmeticIntegration</string>
+	<key>cachematrix</key>
+	<string>uniformReference</string>
+	<key>cartesianSensor</key>
+	<string>sustainableMerger</string>
+	<key>customIntensity</key>
+	<string>receivesession</string>
+	<key>disparatePriority</key>
+	<string>finishDimension</string>
+	<key>robustCoordinator</key>
+	<string>listenOffset</string>
+	<key>techniquebesideshape</key>
+	<string>binderAppearance</string>
+</dict>
+</plist>

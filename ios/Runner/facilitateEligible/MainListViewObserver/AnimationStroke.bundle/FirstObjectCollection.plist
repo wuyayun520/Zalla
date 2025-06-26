@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basevolume</key>
+	<string>parseSprite</string>
+	<key>intuitiveTween</key>
+	<string>tentativeVelocity</string>
+	<key>pinchableAlignment</key>
+	<string>menucount</string>
+	<key>providerPadding</key>
+	<string>visibleCapacities</string>
+	<key>streamShade</key>
+	<string>canStopCanvas</string>
+	<key>textviaprocess</key>
+	<string>streamSlider</string>
+	<key>topicForce</key>
+	<string>richtextflags</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGraphic</key>
+	<string>canPopGate</string>
+	<key>basicScaffold</key>
+	<string>canPauseMediaQuery</string>
+	<key>contractionForce</key>
+	<string>refreshResolver</string>
+	<key>displayableBrush</key>
+	<string>resilienceKind</string>
+	<key>embraceequipment</key>
+	<string>inkwellAppearance</string>
+	<key>mainDuration</key>
+	<string>smartColumn</string>
+</dict>
+</plist>

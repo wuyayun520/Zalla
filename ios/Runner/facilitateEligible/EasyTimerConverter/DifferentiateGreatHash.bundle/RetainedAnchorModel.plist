@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturecolor</key>
+	<string>animatedAnimation</string>
+	<key>backwardResponder</key>
+	<string>currentScale</string>
+	<key>crudeLoader</key>
+	<string>alertContext</string>
+	<key>mobileThreshold</key>
+	<string>touchForm</string>
+	<key>progressbarOpacity</key>
+	<string>hasobserver</string>
+	<key>rowchapter</key>
+	<string>draweraboutmediator</string>
+	<key>scrollableDrawer</key>
+	<string>delicateConsumption</string>
+	<key>shouldPushCard</key>
+	<string>canSkipScale</string>
+	<key>tensorDelegate</key>
+	<string>shouldPauseMargin</string>
+</dict>
+</plist>

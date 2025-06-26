@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxcontextindex</key>
+	<string>usageSkewX</string>
+	<key>hyperbolicEvent</key>
+	<string>mergerhead</string>
+	<key>independentPopup</key>
+	<string>sharedRestriction</string>
+	<key>integerinteraction</key>
+	<string>chooseredge</string>
+	<key>oldCatalyst</key>
+	<string>materialPainter</string>
+	<key>shouldPresentContainer</key>
+	<string>accessibledescriptionorientation</string>
+</dict>
+</plist>

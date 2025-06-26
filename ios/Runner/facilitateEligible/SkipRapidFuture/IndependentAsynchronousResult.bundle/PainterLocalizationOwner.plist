@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEqualization</key>
+	<string>displayableProvider</string>
+	<key>criticalMaster</key>
+	<string>prepareGridView</string>
+	<key>seguefrequency</key>
+	<string>canStartCatalyst</string>
+	<key>selectedListView</key>
+	<string>dynamicTriangles</string>
+	<key>shouldKeepMusic</key>
+	<string>searcherRotation</string>
+	<key>shouldTrainController</key>
+	<string>concurrentCosine</string>
+	<key>tentativeTheme</key>
+	<string>attachcursor</string>
+	<key>transpileinkwell</key>
+	<string>singleBaseline</string>
+	<key>usagemargin</key>
+	<string>isPet</string>
+</dict>
+</plist>

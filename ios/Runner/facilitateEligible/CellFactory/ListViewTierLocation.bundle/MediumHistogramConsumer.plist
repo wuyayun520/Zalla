@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchwidget</key>
+	<string>sensorPrototype</string>
+	<key>flexibleNavigation</key>
+	<string>shouldBuildStoryboard</string>
+	<key>invisibleMesh</key>
+	<string>positionedChain</string>
+	<key>noderesponse</key>
+	<string>loadBitrate</string>
+	<key>resilientShape</key>
+	<string>lockCurve</string>
+	<key>responsiveChooser</key>
+	<string>observeGram</string>
+	<key>shouldFetchObserver</key>
+	<string>serializeProject</string>
+	<key>storevisibility</key>
+	<string>bufferDecorator</string>
+	<key>ternarytween</key>
+	<string>utilVisibility</string>
+</dict>
+</plist>

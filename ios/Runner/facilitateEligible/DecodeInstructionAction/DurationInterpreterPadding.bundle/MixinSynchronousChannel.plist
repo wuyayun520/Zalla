@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurebuilder</key>
+	<string>readMethod</string>
+	<key>gemoffset</key>
+	<string>resumeExpanded</string>
+	<key>granularcontroller</key>
+	<string>titleTheme</string>
+	<key>noderight</key>
+	<string>rectalongcommand</string>
+	<key>notifierwithoutjob</key>
+	<string>parseMobile</string>
+	<key>opaqueCreator</key>
+	<string>robustButton</string>
+	<key>seamlessPresenter</key>
+	<string>dependencyStage</string>
+	<key>statelessAperture</key>
+	<string>scaffoldframe</string>
+</dict>
+</plist>

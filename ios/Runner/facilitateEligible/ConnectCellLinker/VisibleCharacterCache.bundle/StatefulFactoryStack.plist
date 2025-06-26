@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityOffset</key>
+	<string>nextlayerresponse</string>
+	<key>concurrenttransformer</key>
+	<string>meshContrast</string>
+	<key>euclideanMend</key>
+	<string>scrollNumber</string>
+	<key>shouldEndNorm</key>
+	<string>iterativeaperture</string>
+</dict>
+</plist>

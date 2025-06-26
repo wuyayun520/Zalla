@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardReducer</key>
+	<string>factorystrategytag</string>
+	<key>capsulecount</key>
+	<string>fixedMusic</string>
+	<key>deflatelabel</key>
+	<string>canTransformDescriptor</string>
+	<key>infrastructureFlags</key>
+	<string>embraceMethod</string>
+	<key>permissiveSplitter</key>
+	<string>secondCoordinator</string>
+	<key>shouldDispatchConsumer</key>
+	<string>newestEntity</string>
+	<key>shouldUpdateDescriptor</key>
+	<string>equivalentState</string>
+	<key>staticAnchor</key>
+	<string>restoreListener</string>
+</dict>
+</plist>

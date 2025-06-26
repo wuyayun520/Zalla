@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDecoration</key>
+	<string>exitGroup</string>
+	<key>infrastructureLeft</key>
+	<string>shouldValidatePrecision</string>
+	<key>mergerPadding</key>
+	<string>canDeserializeRadio</string>
+	<key>monsterVisibility</key>
+	<string>enabledRole</string>
+	<key>movecurve</key>
+	<string>moveDecoration</string>
+	<key>shouldEncodeEqualization</key>
+	<string>shouldlayoutgram</string>
+</dict>
+</plist>

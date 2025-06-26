@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInfrastructure</key>
+	<string>dataBehavior</string>
+	<key>consultativeModel</key>
+	<string>loopneartask</string>
+	<key>injectionstate</key>
+	<string>canDisconnectMatrix</string>
+	<key>movementTheme</key>
+	<string>shouldDispatchSegue</string>
+	<key>nativeEqualization</key>
+	<string>canPersistBuilder</string>
+	<key>protectedfactorytension</key>
+	<string>difficultAccessory</string>
+	<key>publicBrush</key>
+	<string>observerRight</string>
+	<key>scrollableThreshold</key>
+	<string>dataDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsettiertop</key>
+	<string>attachCompletion</string>
+	<key>projectionKind</key>
+	<string>accessibleTicker</string>
+	<key>shouldlayoutcollection</key>
+	<string>activatedRole</string>
+	<key>shouldpresentslider</key>
+	<string>compositionalSign</string>
+</dict>
+</plist>

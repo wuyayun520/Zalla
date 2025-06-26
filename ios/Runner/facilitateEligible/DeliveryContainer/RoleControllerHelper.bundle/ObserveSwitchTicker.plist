@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationalignment</key>
+	<string>priorpresenter</string>
+	<key>lazyInteraction</key>
+	<string>canShowAspectRatio</string>
+	<key>radiochapter</key>
+	<string>meshSize</string>
+	<key>shouldFinishAnimation</key>
+	<string>responsiveCheckbox</string>
+	<key>shouldYieldStateful</key>
+	<string>projectionTheme</string>
+	<key>tabbarcommandorientation</key>
+	<string>shouldshowbatch</string>
+	<key>temporaryChannels</key>
+	<string>elasticLocalization</string>
+</dict>
+</plist>

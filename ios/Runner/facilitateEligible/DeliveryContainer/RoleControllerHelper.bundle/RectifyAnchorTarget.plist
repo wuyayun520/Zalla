@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionoffacade</key>
+	<string>activityStrategy</string>
+	<key>screenedge</key>
+	<string>mainGraph</string>
+	<key>shouldDeserializeLog</key>
+	<string>declarativeConsumption</string>
+	<key>substantialLoader</key>
+	<string>brushProcess</string>
+</dict>
+</plist>

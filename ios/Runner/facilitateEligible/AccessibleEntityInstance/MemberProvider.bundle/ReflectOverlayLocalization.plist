@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMaterializer</key>
+	<string>shouldBuildMap</string>
+	<key>contractionFeedback</key>
+	<string>singleArithmetic</string>
+	<key>descentStatus</key>
+	<string>shouldAttachSemantics</string>
+	<key>imageInterval</key>
+	<string>frameresponse</string>
+	<key>screenMargin</key>
+	<string>euclideanCompletion</string>
+	<key>shouldCancelTask</key>
+	<string>temporaryBaseline</string>
+	<key>shouldDismissExponent</key>
+	<string>mergerTheme</string>
+	<key>sustainableTransformer</key>
+	<string>shouldEncodeHeap</string>
+	<key>unsortedChannel</key>
+	<string>readVector</string>
+</dict>
+</plist>

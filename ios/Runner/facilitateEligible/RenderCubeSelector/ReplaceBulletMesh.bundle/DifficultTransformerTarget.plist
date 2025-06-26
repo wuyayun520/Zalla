@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartcontainmemento</key>
+	<string>labelandscope</string>
+	<key>eagerInformation</key>
+	<string>frameTier</string>
+	<key>rectangleTop</key>
+	<string>detachDimension</string>
+	<key>sharedResponder</key>
+	<string>primarygrainstyle</string>
+	<key>slashtransparency</key>
+	<string>metadataSkewY</string>
+	<key>touchenvironmentoffset</key>
+	<string>shouldDispatchKernel</string>
+</dict>
+</plist>

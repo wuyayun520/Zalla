@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureDirection</key>
+	<string>cubitcommandtop</string>
+	<key>hardSubscriber</key>
+	<string>shouldUnbindRoute</string>
+	<key>layerVelocity</key>
+	<string>serviceChain</string>
+	<key>protocolValidation</key>
+	<string>annotateQueue</string>
+	<key>requiredCluster</key>
+	<string>statelesslifecycle</string>
+	<key>resolverduringstrategy</key>
+	<string>clipperofflyweight</string>
+	<key>shouldStopAnchor</key>
+	<string>directlydelegatepressure</string>
+	<key>standaloneCharacteristic</key>
+	<string>synchronousresult</string>
+</dict>
+</plist>

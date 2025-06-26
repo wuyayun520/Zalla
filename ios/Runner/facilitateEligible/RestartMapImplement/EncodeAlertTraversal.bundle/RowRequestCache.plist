@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFeedback</key>
+	<string>directlyChart</string>
+	<key>channelMode</key>
+	<string>masterCount</string>
+	<key>descriptionScale</key>
+	<string>activeSample</string>
+	<key>groupdespitetier</key>
+	<string>shouldResumeSwitch</string>
+	<key>statelessException</key>
+	<string>canPresentShader</string>
+</dict>
+</plist>

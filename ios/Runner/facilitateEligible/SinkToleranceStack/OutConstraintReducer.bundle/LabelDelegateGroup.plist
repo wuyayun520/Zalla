@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConverter</key>
+	<string>storeopacity</string>
+	<key>binderResponse</key>
+	<string>functionalTransition</string>
+	<key>componenttransparency</key>
+	<string>shouldPaintCanvas</string>
+	<key>desktopnib</key>
+	<string>streamvarpadding</string>
+	<key>sharedThroughput</key>
+	<string>polygonBorder</string>
+	<key>smallMultiplication</key>
+	<string>basicDisclaimer</string>
+	<key>usecasewithoutprocess</key>
+	<string>interactionSpacing</string>
+</dict>
+</plist>

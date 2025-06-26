@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionDistance</key>
+	<string>resizablesine</string>
+	<key>granularComponent</key>
+	<string>requestTicker</string>
+	<key>gridconnector</key>
+	<string>independentPlayback</string>
+	<key>missedcurvesize</key>
+	<string>desktopCapsule</string>
+	<key>newestResilience</key>
+	<string>borderContext</string>
+	<key>primaryBaseline</key>
+	<string>temporaryPageView</string>
+	<key>shouldnotifycertificate</key>
+	<string>controllerInteraction</string>
+	<key>signInteraction</key>
+	<string>projectionVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseOperation</key>
+	<string>segueScale</string>
+	<key>pinchableSlash</key>
+	<string>clipprovider</string>
+	<key>typicalIntegration</key>
+	<string>locateResult</string>
+	<key>uniformDialogs</key>
+	<string>canvasHue</string>
+</dict>
+</plist>

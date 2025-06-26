@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocvisibility</key>
+	<string>uniqueGram</string>
+	<key>equalizationfeature</key>
+	<string>textfieldOffset</string>
+	<key>persistentConsumer</key>
+	<string>shouldRestartBinary</string>
+	<key>publicCreator</key>
+	<string>processGrayscale</string>
+	<key>remediationDelay</key>
+	<string>hardnavigatoroffset</string>
+	<key>rolebehavior</key>
+	<string>lazyArchitecture</string>
+	<key>seamlessProvider</key>
+	<string>modeldistance</string>
+	<key>shouldUnmountedInstruction</key>
+	<string>protocolOrigin</string>
+</dict>
+</plist>

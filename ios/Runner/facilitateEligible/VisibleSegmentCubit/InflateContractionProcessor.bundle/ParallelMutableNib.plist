@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedThroughput</key>
+	<string>brushFormat</string>
+	<key>beginnerSplitter</key>
+	<string>pivotalTolerance</string>
+	<key>compositionalpadding</key>
+	<string>canStartExponent</string>
+	<key>comprehensiveaxis</key>
+	<string>nextAwait</string>
+	<key>explicitEffect</key>
+	<string>hardState</string>
+	<key>futurecontextspeed</key>
+	<string>buttonPlatform</string>
+	<key>lostSegment</key>
+	<string>subtleShape</string>
+	<key>mediumBatch</key>
+	<string>sharedTopic</string>
+	<key>mediumTicker</key>
+	<string>canReplaceMediaQuery</string>
+	<key>pinchableButton</key>
+	<string>canCreateOverlay</string>
+</dict>
+</plist>

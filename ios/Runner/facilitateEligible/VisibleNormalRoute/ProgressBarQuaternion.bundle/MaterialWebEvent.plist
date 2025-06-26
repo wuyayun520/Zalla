@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactFormat</key>
+	<string>capsuleInterpreter</string>
+	<key>keyScene</key>
+	<string>processGroup</string>
+	<key>listenbase</key>
+	<string>chartshapeposition</string>
+	<key>providequeue</key>
+	<string>notifyTopic</string>
+	<key>sceneversustier</key>
+	<string>shouldYieldGesture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitactivityvelocity</key>
+	<string>accordionPadding</string>
+	<key>curveoffset</key>
+	<string>seamlessDialogs</string>
+	<key>gridPressure</key>
+	<string>scaffoldState</string>
+	<key>keepcosine</key>
+	<string>heroAdapter</string>
+	<key>nodeSkewY</key>
+	<string>parallelpopupstyle</string>
+	<key>permanentDisclaimer</key>
+	<string>shouldSetStateMusic</string>
+	<key>relationalAsset</key>
+	<string>listviewValidation</string>
+	<key>requiredResilience</key>
+	<string>indicatorerror</string>
+	<key>shouldFetchConsumer</key>
+	<string>canUnmountedAxis</string>
+</dict>
+</plist>

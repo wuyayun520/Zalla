@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTabView</key>
+	<string>canMountedMedia</string>
+	<key>eagerSchema</key>
+	<string>desktoptransitionacceleration</string>
+	<key>radiuscommanddistance</key>
+	<string>shouldReplaceBorder</string>
+	<key>rapidScope</key>
+	<string>canRenderBullet</string>
+	<key>shouldPopSlider</key>
+	<string>lastEvaluation</string>
+	<key>shouldloadswift</key>
+	<string>uniformProcessor</string>
+	<key>shouldvalidateaspect</key>
+	<string>canFinishCurve</string>
+	<key>sustainableConstraint</key>
+	<string>semanticFormat</string>
+</dict>
+</plist>

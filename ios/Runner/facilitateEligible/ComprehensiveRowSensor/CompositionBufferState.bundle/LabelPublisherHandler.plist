@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectutil</key>
+	<string>shouldLayoutCompletion</string>
+	<key>materializerPressure</key>
+	<string>coordinatorScale</string>
+	<key>numericalcolumninteraction</key>
+	<string>shouldSkipScroll</string>
+	<key>prevbehavior</key>
+	<string>resolverscopetag</string>
+	<key>shouldRebuildOperation</key>
+	<string>cubitactivityskewx</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterTransparency</key>
+	<string>tentativeTransparency</string>
+	<key>mergerScale</key>
+	<string>shouldProcessFuture</string>
+	<key>publicInfo</key>
+	<string>statusSkewY</string>
+	<key>reusableAlignment</key>
+	<string>notifierCommand</string>
+	<key>sequentialusage</key>
+	<string>shouldUnmountAccessory</string>
+	<key>shouldbuildtabbar</key>
+	<string>reusableReliability</string>
+	<key>usedservice</key>
+	<string>lockDuration</string>
+</dict>
+</plist>

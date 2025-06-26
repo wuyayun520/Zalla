@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyCoordinator</key>
+	<string>intermediateMend</string>
+	<key>opaqueMission</key>
+	<string>inactiveMerger</string>
+	<key>providerLeft</key>
+	<string>specifyInterpolation</string>
+	<key>resilientBatch</key>
+	<string>hierarchicalScope</string>
+	<key>scrollableBloc</key>
+	<string>canStopChannels</string>
+	<key>shouldBuildPadding</key>
+	<string>requiredMenu</string>
+	<key>shouldRebuildCupertino</key>
+	<string>shouldReplaceBaseline</string>
+	<key>shouldTransformStoryboard</key>
+	<string>labelPhase</string>
+	<key>splitterValidation</key>
+	<string>pinchableIndicator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateprovider</key>
+	<string>matrixForce</string>
+	<key>accessibleExpanded</key>
+	<string>staticgraph</string>
+	<key>granularOffset</key>
+	<string>adaptiveLogarithm</string>
+	<key>rapidMetadata</key>
+	<string>pivotalAppBar</string>
+	<key>resilientCluster</key>
+	<string>rendererResponse</string>
+	<key>seamlessFilter</key>
+	<string>shouldListenCheckbox</string>
+	<key>semanticUnary</key>
+	<string>activatedNavigation</string>
+</dict>
+</plist>

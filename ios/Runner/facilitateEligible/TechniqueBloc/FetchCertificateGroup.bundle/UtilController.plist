@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleZone</key>
+	<string>completerEnvironment</string>
+	<key>accordionPopup</key>
+	<string>primarySearcher</string>
+	<key>bulletDelay</key>
+	<string>canDecodeIndicator</string>
+	<key>hardDistinction</key>
+	<string>materializerTheme</string>
+	<key>iterativenavigator</key>
+	<string>associatedGraphic</string>
+	<key>materialskin</key>
+	<string>compositionreducer</string>
+	<key>multiChallenge</key>
+	<string>shouldKeepTabBar</string>
+	<key>numericalLatency</key>
+	<string>spriteMethod</string>
+	<key>shouldNavigateGram</key>
+	<string>specifyArchitecture</string>
+	<key>shouldReplaceAspectRatio</key>
+	<string>updateBloc</string>
+</dict>
+</plist>

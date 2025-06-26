@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedButton</key>
+	<string>hasMediaQuery</string>
+	<key>hardInformation</key>
+	<string>shouldNavigateGradient</string>
+	<key>mutableIntegration</key>
+	<string>accordionChannels</string>
+	<key>rowBorder</key>
+	<string>performicon</string>
+	<key>shouldNotifyChallenge</key>
+	<string>shouldListenWidget</string>
+	<key>subsequentColor</key>
+	<string>streamlineEvent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInterface</key>
+	<string>playbacktaxonomy</string>
+	<key>iconCount</key>
+	<string>sessionScope</string>
+	<key>listenerBottom</key>
+	<string>rectTheme</string>
+	<key>shouldUpdateCache</key>
+	<string>measurelayout</string>
+	<key>specifyEqualization</key>
+	<string>crucialScene</string>
+	<key>storeShade</key>
+	<string>dimensionContext</string>
+	<key>subtleAwait</key>
+	<string>canCancelReference</string>
+	<key>visibleCycle</key>
+	<string>dropoutRow</string>
+</dict>
+</plist>

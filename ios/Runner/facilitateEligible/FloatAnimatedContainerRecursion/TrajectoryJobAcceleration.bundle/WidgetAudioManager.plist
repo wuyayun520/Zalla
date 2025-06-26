@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerdecoratoracceleration</key>
+	<string>shouldCreateRemainder</string>
+	<key>reusableTopic</key>
+	<string>unmarshalManager</string>
+	<key>reusablesizeinterval</key>
+	<string>momentumFacade</string>
+	<key>shouldKeepSegment</key>
+	<string>logcurve</string>
+</dict>
+</plist>

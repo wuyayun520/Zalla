@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateName</key>
+	<string>masterStyle</string>
+	<key>granularNotation</key>
+	<string>mediaqueryvisibility</string>
+	<key>interpolationPressure</key>
+	<string>singleStateless</string>
+	<key>publisherOpacity</key>
+	<string>standaloneRadius</string>
+	<key>rowtexture</key>
+	<string>spinTransition</string>
+	<key>statefulAnimatedContainer</key>
+	<string>notationAcceleration</string>
+</dict>
+</plist>

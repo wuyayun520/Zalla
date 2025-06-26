@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeMenu</key>
+	<string>channelDecorator</string>
+	<key>shouldBuildStateless</key>
+	<string>quaternionHue</string>
+	<key>shouldTrainScroll</key>
+	<string>priorTangent</string>
+	<key>shouldUnbindSession</key>
+	<string>modulusTransparency</string>
+	<key>shouldValidateTable</key>
+	<string>canMountedFuture</string>
+	<key>subsequentQuaternion</key>
+	<string>sharedChallenge</string>
+	<key>sustainableShader</key>
+	<string>heroOrigin</string>
+	<key>tabviewName</key>
+	<string>mediumTexture</string>
+	<key>unarybandwidth</key>
+	<string>shouldYieldAspect</string>
+</dict>
+</plist>

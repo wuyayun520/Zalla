@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateMaster</key>
+	<string>cupertinoIndex</string>
+	<key>lazyTopic</key>
+	<string>curveSkewY</string>
+	<key>materialAspectRatio</key>
+	<string>segmentResponse</string>
+	<key>projectreducer</key>
+	<string>standaloneDelegate</string>
+	<key>remainderLeft</key>
+	<string>expandedTag</string>
+	<key>shouldMountMaterial</key>
+	<string>shouldValidateBatch</string>
+	<key>synchronousRect</key>
+	<string>flexMode</string>
+</dict>
+</plist>

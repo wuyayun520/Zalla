@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlatency</key>
+	<string>disposechallenge</string>
+	<key>currentLogarithm</key>
+	<string>prioritydelay</string>
+	<key>eventPressure</key>
+	<string>shouldSaveHistogram</string>
+	<key>fusedEntity</key>
+	<string>builderalongshape</string>
+	<key>fusedGesture</key>
+	<string>desktopBehavior</string>
+	<key>mountedlayout</key>
+	<string>popupinset</string>
+	<key>protectedConnector</key>
+	<string>easyElement</string>
+	<key>shouldBuildSpot</key>
+	<string>uniformSignature</string>
+	<key>sortedDimension</key>
+	<string>mainDecoration</string>
+</dict>
+</plist>

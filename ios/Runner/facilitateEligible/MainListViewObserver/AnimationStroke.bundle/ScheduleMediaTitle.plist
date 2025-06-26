@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDispatcher</key>
+	<string>isolateParameter</string>
+	<key>consultativeGrayscale</key>
+	<string>primaryMaster</string>
+	<key>tweencount</key>
+	<string>mediumCapacity</string>
+	<key>usedBox</key>
+	<string>queueRate</string>
+</dict>
+</plist>

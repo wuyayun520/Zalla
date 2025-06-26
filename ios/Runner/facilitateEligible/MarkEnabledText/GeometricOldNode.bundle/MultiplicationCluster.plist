@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticObserver</key>
+	<string>canStreamProvider</string>
+	<key>buttoninterpreterskewx</key>
+	<string>offsetmanager</string>
+	<key>elasticResolver</key>
+	<string>completedTabBar</string>
+	<key>entitycompositeposition</key>
+	<string>requestView</string>
+	<key>graphfilter</key>
+	<string>canSerializeConsumer</string>
+	<key>relationalSemantics</key>
+	<string>streaminterpretertint</string>
+	<key>sinkobservermargin</key>
+	<string>permanentcontrollercontrast</string>
+	<key>statelessbasetype</key>
+	<string>compositionalDescription</string>
+	<key>tappableBrush</key>
+	<string>cubeShade</string>
+</dict>
+</plist>

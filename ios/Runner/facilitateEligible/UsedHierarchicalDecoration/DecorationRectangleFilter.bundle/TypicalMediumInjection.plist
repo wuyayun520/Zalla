@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartmaterial</key>
+	<string>sophisticatedTopic</string>
+	<key>primaryGroup</key>
+	<string>flexibleMember</string>
+	<key>requiredGrayscale</key>
+	<string>grayscalekindindex</string>
+	<key>shouldskipsign</key>
+	<string>relationalNotifier</string>
+	<key>sinkEdge</key>
+	<string>fixedexpanded</string>
+	<key>storyboardInteraction</key>
+	<string>containerrectangle</string>
+	<key>transitionshape</key>
+	<string>mountedInstruction</string>
+	<key>uniformAxis</key>
+	<string>currentCatalyst</string>
+</dict>
+</plist>

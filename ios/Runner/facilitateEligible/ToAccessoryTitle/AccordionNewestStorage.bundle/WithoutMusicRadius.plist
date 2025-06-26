@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedtexturecoord</key>
+	<string>textwithoutaction</string>
+	<key>criticalEquivalent</key>
+	<string>seamlessComposition</string>
+	<key>deferredPicker</key>
+	<string>alignmentworkedge</string>
+	<key>distinctionIndex</key>
+	<string>inheritedCustomPaint</string>
+	<key>handlerPosition</key>
+	<string>symmetricCluster</string>
+	<key>injectstore</key>
+	<string>stopresult</string>
+	<key>publicobserverspacing</key>
+	<string>progressbarorientation</string>
+	<key>shouldMountedMonster</key>
+	<string>groupBridge</string>
+	<key>shouldRestartNavigator</key>
+	<string>yieldSkin</string>
+	<key>subscriptionstyle</key>
+	<string>dynamicRadio</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedModulus</key>
+	<string>spotPattern</string>
+	<key>gridviewtolerance</key>
+	<string>mutableTouch</string>
+	<key>mutableDescent</key>
+	<string>cupertinoopacity</string>
+	<key>positionvalidation</key>
+	<string>semanticDropdownButton</string>
+	<key>shouldAnimateHistogram</key>
+	<string>factoryFrequency</string>
+</dict>
+</plist>

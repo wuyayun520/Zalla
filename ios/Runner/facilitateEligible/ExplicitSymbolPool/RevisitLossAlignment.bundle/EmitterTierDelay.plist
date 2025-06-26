@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedConsumption</key>
+	<string>exitPresenter</string>
+	<key>cyclecubit</key>
+	<string>listenerFrequency</string>
+	<key>decorationsinceaction</key>
+	<string>processorHue</string>
+	<key>delegateatobserver</key>
+	<string>singleComponent</string>
+	<key>parallelrestriction</key>
+	<string>canShowController</string>
+	<key>resizeoption</key>
+	<string>dedicatedLinker</string>
+	<key>shouldFetchTool</key>
+	<string>yieldStateless</string>
+	<key>sortedDropdownButton</key>
+	<string>offsethead</string>
+</dict>
+</plist>

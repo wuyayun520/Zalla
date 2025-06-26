@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableAxis</key>
+	<string>transformmodulus</string>
+	<key>inheritedprojectioninterval</key>
+	<string>shouldBindWorkflow</string>
+	<key>normalConsumption</key>
+	<string>clipperTheme</string>
+	<key>sampleFrequency</key>
+	<string>deferredConstraint</string>
+	<key>shouldpoptable</key>
+	<string>sortedGesture</string>
+</dict>
+</plist>

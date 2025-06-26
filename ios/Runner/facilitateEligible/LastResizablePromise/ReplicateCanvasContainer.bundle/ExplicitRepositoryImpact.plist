@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLeft</key>
+	<string>mapperTransparency</string>
+	<key>allocatorspeed</key>
+	<string>gridParam</string>
+	<key>embedclipper</key>
+	<string>opaqueScreen</string>
+	<key>pivotalTransformer</key>
+	<string>protectedAlert</string>
+	<key>sharedContraction</key>
+	<string>tweenPressure</string>
+</dict>
+</plist>

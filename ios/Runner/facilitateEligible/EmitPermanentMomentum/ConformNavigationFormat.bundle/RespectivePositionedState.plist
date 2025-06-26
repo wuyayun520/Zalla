@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorfromscope</key>
+	<string>descriptionTint</string>
+	<key>indicatorscroller</key>
+	<string>originalLocalization</string>
+	<key>respectiveSignature</key>
+	<string>startBoxShadow</string>
+	<key>shouldSetStateBitrate</key>
+	<string>shouldSubscribeInterpolation</string>
+	<key>sortedTween</key>
+	<string>accessoryOpacity</string>
+</dict>
+</plist>

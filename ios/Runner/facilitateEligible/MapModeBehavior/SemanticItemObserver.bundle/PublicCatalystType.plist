@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretemobileshade</key>
+	<string>dialogsScale</string>
+	<key>margindistance</key>
+	<string>painterCount</string>
+	<key>shouldMountOptimizer</key>
+	<string>stopPadding</string>
+	<key>shouldPopBinary</key>
+	<string>rectValidation</string>
+</dict>
+</plist>

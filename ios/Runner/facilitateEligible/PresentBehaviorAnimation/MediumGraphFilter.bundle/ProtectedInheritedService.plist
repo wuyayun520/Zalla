@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBound</key>
+	<string>shouldSaveCard</string>
+	<key>permanentRepository</key>
+	<string>dedicatedShader</string>
+	<key>uniqueWidget</key>
+	<string>nextDescent</string>
+	<key>webBehavior</key>
+	<string>masterLocation</string>
+</dict>
+</plist>

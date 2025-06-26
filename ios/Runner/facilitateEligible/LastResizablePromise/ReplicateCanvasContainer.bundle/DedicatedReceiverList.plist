@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSine</key>
+	<string>firstselector</string>
+	<key>hasGesture</key>
+	<string>shouldEncodeRemainder</string>
+	<key>sceneindex</key>
+	<string>maintainobserver</string>
+	<key>standaloneNavigation</key>
+	<string>binaryVelocity</string>
+	<key>streamplayback</key>
+	<string>erasedimension</string>
+</dict>
+</plist>

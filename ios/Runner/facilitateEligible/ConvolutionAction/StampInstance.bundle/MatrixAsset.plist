@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusResponse</key>
+	<string>traversaltension</string>
+	<key>occasionInterval</key>
+	<string>canPaintBloc</string>
+	<key>priorTweak</key>
+	<string>replicaBottom</string>
+	<key>queueVisible</key>
+	<string>serializeMatrix</string>
+</dict>
+</plist>

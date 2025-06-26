@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalallocatordelay</key>
+	<string>variantsorter</string>
+	<key>menusize</key>
+	<string>canCacheCheckbox</string>
+	<key>nibPadding</key>
+	<string>shouldUnmountedStateless</string>
+	<key>pageredge</key>
+	<string>emitNavigator</string>
+	<key>publicSubscriber</key>
+	<string>documentrect</string>
+	<key>storeSaturation</key>
+	<string>canMountMediaQuery</string>
+</dict>
+</plist>

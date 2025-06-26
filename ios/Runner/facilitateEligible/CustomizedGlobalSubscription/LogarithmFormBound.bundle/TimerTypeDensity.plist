@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedParticle</key>
+	<string>aggregateSink</string>
+	<key>euclideanStack</key>
+	<string>trianglesLocation</string>
+	<key>futurestyle</key>
+	<string>propagatefuture</string>
+	<key>ischaracter</key>
+	<string>shouldyieldextension</string>
+	<key>opaqueTabBar</key>
+	<string>cellValue</string>
+	<key>operationLocation</key>
+	<string>canKeepSegue</string>
+	<key>reactivePromise</key>
+	<string>obtainController</string>
+	<key>schedulerBehavior</key>
+	<string>resourcefunctiondelay</string>
+	<key>synchronoussingleton</key>
+	<string>numericalTheme</string>
+</dict>
+</plist>

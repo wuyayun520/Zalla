@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertKind</key>
+	<string>crudeMap</string>
+	<key>arithmeticNode</key>
+	<string>shouldsavesignature</string>
+	<key>customcaption</key>
+	<string>graphorshape</string>
+	<key>fragmentofstage</key>
+	<string>shouldserializeslider</string>
+	<key>gesturedetectorInterval</key>
+	<string>multiCatalyst</string>
+	<key>imageorientation</key>
+	<string>dissociateChapter</string>
+	<key>missedstoredistance</key>
+	<string>lazyGrain</string>
+	<key>progressbarPressure</key>
+	<string>directMesh</string>
+	<key>sequentialdialogsstate</key>
+	<string>checkRow</string>
+	<key>shouldTrainInterpolation</key>
+	<string>stampvisible</string>
+</dict>
+</plist>

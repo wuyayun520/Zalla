@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationshapetop</key>
+	<string>hyperbolicoccasion</string>
+	<key>iterativeBoxShadow</key>
+	<string>tabbarstore</string>
+	<key>listviewthreshold</key>
+	<string>serializeText</string>
+	<key>observefuture</key>
+	<string>mainAlert</string>
+	<key>rectstyle</key>
+	<string>measureTransition</string>
+</dict>
+</plist>

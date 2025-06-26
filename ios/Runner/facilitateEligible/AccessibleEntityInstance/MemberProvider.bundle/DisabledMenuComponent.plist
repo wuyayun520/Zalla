@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPlayback</key>
+	<string>handlerdistance</string>
+	<key>elasticProvider</key>
+	<string>blocscheduler</string>
+	<key>mastertext</key>
+	<string>clearrequest</string>
+	<key>selectedCurve</key>
+	<string>normalFragments</string>
+	<key>shouldNotifyPageView</key>
+	<string>inheritedSize</string>
+	<key>storyboardVisibility</key>
+	<string>interceptRepository</string>
+	<key>tappablecombiner</key>
+	<string>propagateView</string>
+	<key>techniquecontrast</key>
+	<string>stackPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionRotation</key>
+	<string>filterTransparency</string>
+	<key>delegatetrajectory</key>
+	<string>unmountMatrix</string>
+	<key>diversifiedNavigation</key>
+	<string>cartesianTheme</string>
+	<key>explicitparticlespacing</key>
+	<string>controllerflags</string>
+	<key>requiredwidgetleft</key>
+	<string>singlePolyfill</string>
+</dict>
+</plist>

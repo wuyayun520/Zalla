@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryinterval</key>
+	<string>asyncframe</string>
+	<key>compositionpublisher</key>
+	<string>limitDescription</string>
+	<key>custompaintrouter</key>
+	<string>defaultclipper</string>
+	<key>deflateintensity</key>
+	<string>transposequeue</string>
+	<key>gridrate</key>
+	<string>grayscaleFormat</string>
+	<key>lazyGesture</key>
+	<string>graphicBrightness</string>
+	<key>originalEquipment</key>
+	<string>layoutMaterial</string>
+	<key>referenceStyle</key>
+	<string>frameContext</string>
+	<key>screenDuration</key>
+	<string>eagerDescription</string>
+	<key>textbesidecycle</key>
+	<string>canUnmountMedia</string>
+</dict>
+</plist>

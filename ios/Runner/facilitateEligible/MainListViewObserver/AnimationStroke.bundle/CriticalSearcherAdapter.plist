@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSign</key>
+	<string>canUnmountCanvas</string>
+	<key>controllerTheme</key>
+	<string>documentOpacity</string>
+	<key>difficultAccessory</key>
+	<string>zonePrototype</string>
+	<key>euclideanInteraction</key>
+	<string>analyzepageview</string>
+	<key>integerTint</key>
+	<string>heapOrientation</string>
+	<key>shouldkeepoverlay</key>
+	<string>ignoredEmitter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableNavigator</key>
+	<string>particleShade</string>
+	<key>objectcenter</key>
+	<string>robustTolerance</string>
+	<key>sinkcontextfrequency</key>
+	<string>multiSubscription</string>
+	<key>sizeAcceleration</key>
+	<string>overrideAnimation</string>
+</dict>
+</plist>

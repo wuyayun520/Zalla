@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileimage</key>
+	<string>graphBound</string>
+	<key>backwardBehavior</key>
+	<string>scrollableUsage</string>
+	<key>consumercommandfeedback</key>
+	<string>canRenderAnimation</string>
+	<key>denseFeature</key>
+	<string>buildTheme</string>
+	<key>explicitTween</key>
+	<string>crudeCapacity</string>
+	<key>flexibleSemantics</key>
+	<string>fixedcustompainthead</string>
+	<key>gridviewFlags</key>
+	<string>scopeBehavior</string>
+	<key>multiparticlevalidation</key>
+	<string>selectedPromise</string>
+</dict>
+</plist>

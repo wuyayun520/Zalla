@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleAspect</key>
+	<string>accelerateSingleton</string>
+	<key>hasbullet</key>
+	<string>pointsingletonbottom</string>
+	<key>lostDialogs</key>
+	<string>viewEdge</string>
+	<key>materialTitle</key>
+	<string>unsortedModel</string>
+	<key>requiredPicker</key>
+	<string>checkboxForm</string>
+</dict>
+</plist>

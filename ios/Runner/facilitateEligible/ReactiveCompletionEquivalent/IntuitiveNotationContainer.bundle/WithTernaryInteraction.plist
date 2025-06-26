@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableKernel</key>
+	<string>webProject</string>
+	<key>geometricWrapper</key>
+	<string>connectorSpacing</string>
+	<key>independentError</key>
+	<string>challengeDistance</string>
+	<key>originalResolver</key>
+	<string>shouldstreamcolumn</string>
+	<key>sustainableRenderer</key>
+	<string>sharedRestriction</string>
+</dict>
+</plist>

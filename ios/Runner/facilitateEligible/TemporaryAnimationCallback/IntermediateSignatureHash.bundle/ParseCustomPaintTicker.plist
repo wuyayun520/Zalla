@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultdimension</key>
+	<string>unmountMediaQuery</string>
+	<key>descriptorSaturation</key>
+	<string>responseshape</string>
+	<key>directlygesturebound</key>
+	<string>notifierForm</string>
+	<key>fusedOptimizer</key>
+	<string>ephemeralFinder</string>
+	<key>normalTopic</key>
+	<string>buildSegue</string>
+	<key>sophisticatedSample</key>
+	<string>tensorRestriction</string>
+	<key>textfieldscale</key>
+	<string>scenarioduration</string>
+</dict>
+</plist>

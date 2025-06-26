@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInterpolation</key>
+	<string>histogramOrigin</string>
+	<key>lazyStack</key>
+	<string>deferredQuaternion</string>
+	<key>shouldHandleOptimizer</key>
+	<string>pivotalMaterializer</string>
+	<key>shouldStreamPet</key>
+	<string>layerSingleton</string>
+	<key>textnearmemento</key>
+	<string>persistentMesh</string>
+</dict>
+</plist>

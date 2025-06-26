@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperOffset</key>
+	<string>positionSystem</string>
+	<key>columnselector</key>
+	<string>controlleruntildecorator</string>
+	<key>lastLatency</key>
+	<string>lostText</string>
+	<key>linkerAppearance</key>
+	<string>resizableGrain</string>
+	<key>permanentsubscriber</key>
+	<string>discardedTicker</string>
+	<key>roleHead</key>
+	<string>intermediateParticle</string>
+	<key>shouldstreamcache</key>
+	<string>euclideanCubit</string>
+	<key>statelessScreen</key>
+	<string>hardAppBar</string>
+</dict>
+</plist>

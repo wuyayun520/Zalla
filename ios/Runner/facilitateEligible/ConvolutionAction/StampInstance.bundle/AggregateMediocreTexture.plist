@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterDelay</key>
+	<string>singleEvent</string>
+	<key>draggableMaterial</key>
+	<string>segmentPlatform</string>
+	<key>mutableMaster</key>
+	<string>sortedtransformerbound</string>
+	<key>shouldtrainsubpixel</key>
+	<string>factoryResponse</string>
+	<key>statelessLabel</key>
+	<string>grainOffset</string>
+	<key>stopnavigation</key>
+	<string>positionMediator</string>
+	<key>unsortedClipper</key>
+	<string>conformDuration</string>
+</dict>
+</plist>

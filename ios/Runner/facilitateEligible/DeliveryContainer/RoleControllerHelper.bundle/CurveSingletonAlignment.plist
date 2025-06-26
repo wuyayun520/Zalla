@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charttierappearance</key>
+	<string>customgridduration</string>
+	<key>checkboxfromvariable</key>
+	<string>discoverDescription</string>
+	<key>dependencyaction</key>
+	<string>updateVector</string>
+	<key>liteMargin</key>
+	<string>concurrentslidercolor</string>
+	<key>mapDuration</key>
+	<string>contractionbuffer</string>
+	<key>navigationColor</key>
+	<string>shouldShowWorkflow</string>
+	<key>routeconstraint</key>
+	<string>nextSound</string>
+	<key>shouldUpdateVariant</key>
+	<string>assetSingleton</string>
+	<key>tensorSplitter</key>
+	<string>prismaticAperture</string>
+</dict>
+</plist>

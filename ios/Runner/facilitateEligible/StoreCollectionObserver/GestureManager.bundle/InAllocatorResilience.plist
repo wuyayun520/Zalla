@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbound</key>
+	<string>cardSpacing</string>
+	<key>giftTag</key>
+	<string>instructionPosition</string>
+	<key>localizationamortization</key>
+	<string>uniqueAccessory</string>
+	<key>logspacing</key>
+	<string>refactorRouter</string>
+	<key>semanticchecklist</key>
+	<string>detachAwait</string>
+	<key>shouldShowRow</key>
+	<string>difficultScene</string>
+	<key>statefulmember</key>
+	<string>scrollableKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionlocation</key>
+	<string>vectorizeRoute</string>
+	<key>descriptionstate</key>
+	<string>capacityKind</string>
+	<key>profileLeft</key>
+	<string>containertime</string>
+	<key>publicPresenter</key>
+	<string>schedulerRotation</string>
+	<key>requiredCanvas</key>
+	<string>pinchabletransition</string>
+	<key>splitterAlignment</key>
+	<string>canDismissUsage</string>
+</dict>
+</plist>

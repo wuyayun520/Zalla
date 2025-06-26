@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEntropy</key>
+	<string>routeConstraint</string>
+	<key>combinerHue</key>
+	<string>injectSprite</string>
+	<key>firstTicker</key>
+	<string>notificationShape</string>
+	<key>globalstep</key>
+	<string>flexiblePopup</string>
+	<key>hardStep</key>
+	<string>displayableMaterializer</string>
+	<key>impactSkewX</key>
+	<string>canTrainCaption</string>
+	<key>occasionTop</key>
+	<string>schemaFrequency</string>
+	<key>prevCupertino</key>
+	<string>semanticprocessor</string>
+	<key>temporaryBaseline</key>
+	<string>activeScroller</string>
+</dict>
+</plist>

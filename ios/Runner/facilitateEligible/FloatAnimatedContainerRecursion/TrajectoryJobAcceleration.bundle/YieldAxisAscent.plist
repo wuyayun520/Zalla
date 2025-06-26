@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultFragments</key>
+	<string>autoFragment</string>
+	<key>disabledSymbol</key>
+	<string>updateMap</string>
+	<key>displayableTimeline</key>
+	<string>interactiveSubscription</string>
+	<key>semanticlayeralignment</key>
+	<string>shouldPrepareSine</string>
+	<key>shouldEndEqualization</key>
+	<string>canSaveBinary</string>
+	<key>shouldinflatesensor</key>
+	<string>activeLifecycle</string>
+	<key>statefulrequest</key>
+	<string>offsettext</string>
+</dict>
+</plist>

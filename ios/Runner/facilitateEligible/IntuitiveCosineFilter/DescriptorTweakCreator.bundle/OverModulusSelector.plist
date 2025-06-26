@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatecompletion</key>
+	<string>monsterFlags</string>
+	<key>customizedVector</key>
+	<string>observeMission</string>
+	<key>operationBottom</key>
+	<string>canShowHeap</string>
+	<key>pagerState</key>
+	<string>routeranimation</string>
+	<key>playbackmenu</key>
+	<string>granularFactory</string>
+	<key>rapidTitle</key>
+	<string>resumeSwift</string>
+	<key>selectedGradient</key>
+	<string>canDisposeSpine</string>
+	<key>shouldHandleConstraint</key>
+	<string>techniqueVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPolyfill</key>
+	<string>resolveRepository</string>
+	<key>densepopup</key>
+	<string>shouldSetStateBehavior</string>
+	<key>globalScreen</key>
+	<string>loadrect</string>
+	<key>missedTween</key>
+	<string>synchronousbuttontag</string>
+	<key>shouldProcessExponent</key>
+	<string>viewType</string>
+</dict>
+</plist>

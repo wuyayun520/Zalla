@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindternary</key>
+	<string>canYieldWidget</string>
+	<key>instructionName</key>
+	<string>temporaryMenu</string>
+	<key>lostRect</key>
+	<string>musicwithfunction</string>
+	<key>nativeAlignment</key>
+	<string>streamevent</string>
+	<key>operationSkewY</key>
+	<string>priorJoiner</string>
+	<key>pivotalListener</key>
+	<string>observebatch</string>
+	<key>soundTop</key>
+	<string>restartMap</string>
+</dict>
+</plist>

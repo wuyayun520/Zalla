@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablemerger</key>
+	<string>connectBitrate</string>
+	<key>losttransition</key>
+	<string>shouldContinueSegment</string>
+	<key>pickerBehavior</key>
+	<string>shouldTransformAperture</string>
+	<key>retainedmethodcount</key>
+	<string>dedicatedPrecision</string>
+	<key>secondHash</key>
+	<string>explicitfragment</string>
+	<key>shouldfetchcycle</key>
+	<string>resilientflexforce</string>
+	<key>shouldsetstatestack</key>
+	<string>histogramInteraction</string>
+	<key>staticReliability</key>
+	<string>ternarypainter</string>
+	<key>transformerStatus</key>
+	<string>statefulstyle</string>
+</dict>
+</plist>

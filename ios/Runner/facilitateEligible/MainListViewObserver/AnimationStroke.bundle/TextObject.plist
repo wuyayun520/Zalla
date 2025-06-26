@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativecurve</key>
+	<string>deserializeResult</string>
+	<key>customizedsymbol</key>
+	<string>stackHue</string>
+	<key>missionandbuffer</key>
+	<string>firstLabel</string>
+	<key>usageorwork</key>
+	<string>modallabel</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveAmortization</key>
+	<string>diversifiedThroughput</string>
+	<key>skinVisibility</key>
+	<string>zoneInset</string>
+	<key>sortedThread</key>
+	<string>shouldLoadText</string>
+	<key>storyboardBehavior</key>
+	<string>copyAnimation</string>
+</dict>
+</plist>

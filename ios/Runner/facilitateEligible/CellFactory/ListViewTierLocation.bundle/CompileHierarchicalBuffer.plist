@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pagermargin</key>
+	<string>directlyMusic</string>
+	<key>shouldLoadSession</key>
+	<string>conformParticle</string>
+	<key>sizevelocity</key>
+	<string>tableRotation</string>
+	<key>trianglesOpacity</key>
+	<string>sustainablePainter</string>
+</dict>
+</plist>

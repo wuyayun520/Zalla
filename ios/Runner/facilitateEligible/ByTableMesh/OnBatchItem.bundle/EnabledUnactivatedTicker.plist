@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSubscription</key>
+	<string>roleVisibility</string>
+	<key>customBrush</key>
+	<string>uniformPrecision</string>
+	<key>modulusDirection</key>
+	<string>specifyThroughput</string>
+	<key>resizableCursor</key>
+	<string>boxshadowVelocity</string>
+	<key>scrollVelocity</key>
+	<string>completerscopedirection</string>
+</dict>
+</plist>

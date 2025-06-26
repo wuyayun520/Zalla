@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicKernel</key>
+	<string>navigationVariable</string>
+	<key>cupertinoSkewX</key>
+	<string>shouldEmitTextField</string>
+	<key>defaultconstraint</key>
+	<string>shouldPresentActivity</string>
+	<key>displayableNode</key>
+	<string>transformSlider</string>
+	<key>elasticFeature</key>
+	<string>compareCallback</string>
+	<key>exceptionplatformresponse</key>
+	<string>shouldRebuildInkWell</string>
+	<key>ignoredMetadata</key>
+	<string>sharedScene</string>
+	<key>shouldAttachSpine</key>
+	<string>tickerlinker</string>
+	<key>shouldDisposeNavigation</key>
+	<string>beginnerManager</string>
+	<key>sizedboxSaturation</key>
+	<string>logarithmBrightness</string>
+</dict>
+</plist>

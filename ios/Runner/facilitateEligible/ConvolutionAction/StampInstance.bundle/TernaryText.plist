@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePadding</key>
+	<string>routealongphase</string>
+	<key>deploycurve</key>
+	<string>difficultReduction</string>
+	<key>draggableMaster</key>
+	<string>signatureCycle</string>
+	<key>firstskirtindex</key>
+	<string>renameAsset</string>
+	<key>graphicAlignment</key>
+	<string>marginRate</string>
+	<key>inactiveCycle</key>
+	<string>channelbeyondchain</string>
+	<key>multiplicationalongtype</key>
+	<string>analyzerInteraction</string>
+	<key>objectFlags</key>
+	<string>canSaveMission</string>
+	<key>shouldattachclipper</key>
+	<string>skirtRight</string>
+	<key>specifyScale</key>
+	<string>offsetTopic</string>
+</dict>
+</plist>

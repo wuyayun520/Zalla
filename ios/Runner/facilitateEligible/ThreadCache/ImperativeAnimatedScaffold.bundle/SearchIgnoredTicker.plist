@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeGrayscale</key>
+	<string>descriptionParameter</string>
+	<key>defaultanimation</key>
+	<string>localOptimizer</string>
+	<key>gramIndex</key>
+	<string>spineasparam</string>
+	<key>multiReference</key>
+	<string>scheduleStore</string>
+	<key>shouldBuildGraphic</key>
+	<string>numericalthread</string>
+	<key>storagevelocity</key>
+	<string>canCacheDecoration</string>
+	<key>streamassystem</key>
+	<string>diffableRenderer</string>
+	<key>subpixelsaturation</key>
+	<string>plateloader</string>
+</dict>
+</plist>

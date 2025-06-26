@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorColor</key>
+	<string>popCursor</string>
+	<key>grayscaleCenter</key>
+	<string>chapterPhase</string>
+	<key>immutableRemainder</key>
+	<string>channelstylebrightness</string>
+	<key>prismaticEmitter</key>
+	<string>maxNotification</string>
+	<key>spriteorigin</key>
+	<string>primaryRenderer</string>
+	<key>uniformchapter</key>
+	<string>shouldDecodeNotifier</string>
+</dict>
+</plist>

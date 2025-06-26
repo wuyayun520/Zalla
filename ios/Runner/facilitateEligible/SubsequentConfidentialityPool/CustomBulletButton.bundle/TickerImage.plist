@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissprovider</key>
+	<string>arithmeticCatalyst</string>
+	<key>loopeffect</key>
+	<string>listenChecklist</string>
+	<key>observerkind</key>
+	<string>documentDirection</string>
+	<key>providerTheme</key>
+	<string>pagerborder</string>
+	<key>requiredSubpixel</key>
+	<string>arithmeticGrid</string>
+</dict>
+</plist>

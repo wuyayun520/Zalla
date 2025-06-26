@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentinteraction</key>
+	<string>histogramOrigin</string>
+	<key>completionname</key>
+	<string>consultativeLatency</string>
+	<key>euclideanTangent</key>
+	<string>shouldCacheText</string>
+	<key>geometricBox</key>
+	<string>emitSign</string>
+	<key>independenttitle</key>
+	<string>allocatortension</string>
+	<key>radiusresponse</key>
+	<string>canTransitionCapsule</string>
+	<key>singletonMode</key>
+	<string>shouldDismissCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRectangle</key>
+	<string>spinController</string>
+	<key>ignoredFragment</key>
+	<string>accessiblecoordinatorcenter</string>
+	<key>localEntropy</key>
+	<string>equipmentDensity</string>
+	<key>objectPressure</key>
+	<string>detailTail</string>
+	<key>prevTraversal</key>
+	<string>stateleft</string>
+	<key>prismaticMaterial</key>
+	<string>mobileRemediation</string>
+	<key>scrollableAnalyzer</key>
+	<string>objectInterval</string>
+	<key>shouldContinueChecklist</key>
+	<string>significantInterface</string>
+</dict>
+</plist>

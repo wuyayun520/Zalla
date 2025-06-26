@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTriangles</key>
+	<string>custompaintpressure</string>
+	<key>chartexceptfacade</key>
+	<string>disconnectstoryboard</string>
+	<key>currentFlex</key>
+	<string>aggregateEvent</string>
+	<key>eagerSegue</key>
+	<string>discardedanimation</string>
+	<key>intuitivesamplestatus</key>
+	<string>canEncodeReference</string>
+	<key>lostScreen</key>
+	<string>allocatoraction</string>
+	<key>originalDecoration</key>
+	<string>shouldKeepReduction</string>
+	<key>shouldShowAlert</key>
+	<string>canFetchEntropy</string>
+	<key>uniformsignaturetension</key>
+	<string>navigationoffset</string>
+</dict>
+</plist>

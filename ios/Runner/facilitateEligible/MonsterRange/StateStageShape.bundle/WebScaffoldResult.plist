@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCanvas</key>
+	<string>startHeap</string>
+	<key>cupertinoRadius</key>
+	<string>singletonVisible</string>
+	<key>declarativeCube</key>
+	<string>painterTint</string>
+	<key>encoderoute</key>
+	<string>rapidSize</string>
+	<key>granularSwitch</key>
+	<string>shouldStartStateless</string>
+	<key>greatColor</key>
+	<string>cubeState</string>
+	<key>promisealignment</key>
+	<string>combineDescription</string>
+	<key>shouldlayoutcapsule</key>
+	<string>protocolobserver</string>
+</dict>
+</plist>

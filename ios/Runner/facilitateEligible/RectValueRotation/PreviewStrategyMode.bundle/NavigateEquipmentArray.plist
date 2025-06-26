@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartvaluepressure</key>
+	<string>petColor</string>
+	<key>cursorTag</key>
+	<string>diffabledimensionformat</string>
+	<key>responsiveSound</key>
+	<string>writeBuffer</string>
+	<key>shouldHandleMusic</key>
+	<string>completionMemento</string>
+	<key>shouldPrepareChecklist</key>
+	<string>webGesture</string>
+	<key>significantFlex</key>
+	<string>rotateFrame</string>
+	<key>specifytableoffset</key>
+	<string>respectiveSorter</string>
+</dict>
+</plist>

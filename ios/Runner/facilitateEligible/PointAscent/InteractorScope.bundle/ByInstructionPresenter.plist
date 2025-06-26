@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMovement</key>
+	<string>deliverySpacing</string>
+	<key>delicateBullet</key>
+	<string>serviceCenter</string>
+	<key>globalGroup</key>
+	<string>localFeature</string>
+	<key>granularPicker</key>
+	<string>prevGesture</string>
+	<key>protectedDistinction</key>
+	<string>canAnimateHero</string>
+	<key>shouldUnbindCosine</key>
+	<string>displayablePreview</string>
+	<key>textforpattern</key>
+	<string>maxModulus</string>
+	<key>volumeForce</key>
+	<string>serializeTextField</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTabView</key>
+	<string>permissiveNavigator</string>
+	<key>keyConfidentiality</key>
+	<string>canPublishNib</string>
+	<key>orchestratetechnique</key>
+	<string>iterativeConfidentiality</string>
+	<key>petchaintransparency</key>
+	<string>disparatelayout</string>
+	<key>robustPosition</key>
+	<string>multiScheduler</string>
+	<key>timerInset</key>
+	<string>visibleSensor</string>
+</dict>
+</plist>

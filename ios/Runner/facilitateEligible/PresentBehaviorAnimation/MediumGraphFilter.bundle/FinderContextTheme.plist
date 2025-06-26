@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectColor</key>
+	<string>stepContrast</string>
+	<key>enabledRichText</key>
+	<string>localizationAlignment</string>
+	<key>geometricSegment</key>
+	<string>splitterDelay</string>
+	<key>numericalchecklisttop</key>
+	<string>quantizerHandler</string>
+	<key>pinchableframetag</key>
+	<string>transitionright</string>
+	<key>shouldFormatPoint</key>
+	<string>draggableImpression</string>
+	<key>statelessRotation</key>
+	<string>canAttachCanvas</string>
+	<key>swiftColor</key>
+	<string>mainObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantSaturation</key>
+	<string>mountRow</string>
+	<key>difficultCollection</key>
+	<string>enabledGram</string>
+	<key>robustInstruction</key>
+	<string>gateTier</string>
+	<key>shouldSaveTernary</key>
+	<string>prepareAnimation</string>
+	<key>shouldYieldPlate</key>
+	<string>streamFunction</string>
+	<key>statefulForce</key>
+	<string>masterMethod</string>
+</dict>
+</plist>

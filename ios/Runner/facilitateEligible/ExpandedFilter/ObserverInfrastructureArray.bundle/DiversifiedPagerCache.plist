@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateposition</key>
+	<string>groupstyle</string>
+	<key>lastRestriction</key>
+	<string>sizedboxrepository</string>
+	<key>pivotalCreator</key>
+	<string>interactiveManager</string>
+	<key>shouldUnbindTouch</key>
+	<string>symbolposition</string>
+	<key>statusborder</key>
+	<string>originalScheduler</string>
+	<key>sustainableMethod</key>
+	<string>diffableFlex</string>
+</dict>
+</plist>

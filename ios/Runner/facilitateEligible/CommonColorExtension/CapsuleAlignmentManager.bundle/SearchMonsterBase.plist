@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReference</key>
+	<string>giftTail</string>
+	<key>displayableReference</key>
+	<string>endScroll</string>
+	<key>gridviewtail</key>
+	<string>minMedia</string>
+	<key>invisibleSign</key>
+	<string>enabledLabel</string>
+	<key>receiverTail</key>
+	<string>chartOpacity</string>
+	<key>scopeMomentum</key>
+	<string>canUpdateMargin</string>
+</dict>
+</plist>

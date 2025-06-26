@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneaspect</key>
+	<string>canCreateCheckbox</string>
+	<key>injectionagainstadapter</key>
+	<string>oncharactertap</string>
+	<key>shouldYieldCursor</key>
+	<string>pauseCursor</string>
+	<key>usedCombiner</key>
+	<string>bitrateFramework</string>
+</dict>
+</plist>

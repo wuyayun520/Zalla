@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionOpacity</key>
+	<string>pinchableRestriction</string>
+	<key>crucialCustomPaint</key>
+	<string>shouldDismissDocument</string>
+	<key>exponentlayout</key>
+	<string>nextWidget</string>
+	<key>localCard</key>
+	<string>accordioncapsule</string>
+	<key>optionShape</key>
+	<string>pauseEntropy</string>
+	<key>resourceCenter</key>
+	<string>evaluateStorage</string>
+	<key>shouldFetchResource</key>
+	<string>accordionConfiguration</string>
+	<key>sophisticatedroutercontrast</key>
+	<string>integerDuration</string>
+	<key>timeRight</key>
+	<string>activateduration</string>
+</dict>
+</plist>

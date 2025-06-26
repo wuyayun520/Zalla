@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultConsumer</key>
+	<string>transitionpresenter</string>
+	<key>defaultModal</key>
+	<string>adaptiveSegment</string>
+	<key>desktopSubscription</key>
+	<string>arithmeticTween</string>
+	<key>prevtransformer</key>
+	<string>canTrainCube</string>
+	<key>requiredRouter</key>
+	<string>sizeframeworkhead</string>
+	<key>shouldpresentmomentum</key>
+	<string>similarDecoration</string>
+	<key>switchCount</key>
+	<string>canPopDimension</string>
+	<key>uniformNotation</key>
+	<string>fixedprojection</string>
+	<key>usedTime</key>
+	<string>canvasHead</string>
+</dict>
+</plist>

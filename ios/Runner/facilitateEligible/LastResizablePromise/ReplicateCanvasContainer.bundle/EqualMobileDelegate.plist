@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOrigin</key>
+	<string>specifyButton</string>
+	<key>disabledSpecifier</key>
+	<string>arithmeticTolerance</string>
+	<key>scrollableAnimatedContainer</key>
+	<string>dynamicEvolution</string>
+	<key>shouldHandleInstruction</key>
+	<string>reusableAxis</string>
+	<key>shouldResumeEffect</key>
+	<string>symbolInterval</string>
+	<key>shouldskipskin</key>
+	<string>rapidPrecision</string>
+	<key>stepgraph</key>
+	<string>shouldShowReference</string>
+</dict>
+</plist>

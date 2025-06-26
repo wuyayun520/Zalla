@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVisibility</key>
+	<string>shouldBindMatrix</string>
+	<key>baselineResponse</key>
+	<string>shouldDispatchCursor</string>
+	<key>boxdecoration</key>
+	<string>efficiencySkewY</string>
+	<key>granularsignatureforce</key>
+	<string>missionatkind</string>
+	<key>quaternionOrigin</key>
+	<string>shouldDetachAnimatedContainer</string>
+	<key>rectobserverhue</key>
+	<string>sharedConstant</string>
+	<key>shouldDetachBloc</key>
+	<string>singlenavigator</string>
+	<key>toolTop</key>
+	<string>shouldpreparecontainer</string>
+	<key>usageasactivity</key>
+	<string>selectedCurve</string>
+</dict>
+</plist>

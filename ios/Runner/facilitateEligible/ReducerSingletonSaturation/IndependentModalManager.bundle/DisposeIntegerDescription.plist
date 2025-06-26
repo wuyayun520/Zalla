@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaulttheme</key>
+	<string>ignoredSearcher</string>
+	<key>framejoiner</key>
+	<string>transitionAspect</string>
+	<key>labelInterval</key>
+	<string>itemPadding</string>
+	<key>localizationnotation</key>
+	<string>diffableCell</string>
+	<key>prevCompleter</key>
+	<string>listenerNumber</string>
+	<key>reduceradius</key>
+	<string>shouldencodehistogram</string>
+	<key>specifierLeft</key>
+	<string>griddelivery</string>
+	<key>specifyMember</key>
+	<string>streamReduction</string>
+	<key>taskBehavior</key>
+	<string>behaviorlocalization</string>
+</dict>
+</plist>

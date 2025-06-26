@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSkewX</key>
+	<string>alertconstraint</string>
+	<key>inkwellvelocity</key>
+	<string>optimizeInteractor</string>
+	<key>sequentialManager</key>
+	<string>typicalCosine</string>
+	<key>shouldPersistTransition</key>
+	<string>clonebaseline</string>
+	<key>shouldProcessCoordinator</key>
+	<string>canAttachView</string>
+	<key>standaloneobservercolor</key>
+	<string>containerValidation</string>
+	<key>streammodule</key>
+	<string>reducerLeft</string>
+</dict>
+</plist>

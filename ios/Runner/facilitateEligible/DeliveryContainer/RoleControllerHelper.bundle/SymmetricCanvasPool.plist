@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalElement</key>
+	<string>canParseBinary</string>
+	<key>customizedPet</key>
+	<string>autoTexture</string>
+	<key>decorationSpeed</key>
+	<string>quantizerGrid</string>
+	<key>immutableFlex</key>
+	<string>transposeButton</string>
+	<key>mainentitytheme</key>
+	<string>diffableDimension</string>
+	<key>materializenib</key>
+	<string>completedBase</string>
+	<key>mediaqueryDistance</key>
+	<string>singleSlider</string>
+	<key>nativeclipper</key>
+	<string>replicateOffset</string>
+	<key>sizearoundvar</key>
+	<string>canRestartNotification</string>
+</dict>
+</plist>

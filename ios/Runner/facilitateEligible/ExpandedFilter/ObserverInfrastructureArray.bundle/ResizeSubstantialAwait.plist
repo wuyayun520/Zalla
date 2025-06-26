@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIndex</key>
+	<string>shouldStreamMatrix</string>
+	<key>elasticbuilderformat</key>
+	<string>retainedSpecifier</string>
+	<key>keySpecifier</key>
+	<string>topicobserver</string>
+	<key>modellifecycle</key>
+	<string>shouldcontinuetable</string>
+	<key>replicaValidation</key>
+	<string>webMomentum</string>
+	<key>resolvesingleton</key>
+	<string>shouldNavigateImage</string>
+	<key>storagevaluebrightness</key>
+	<string>paddingVisibility</string>
+	<key>temporarycatalyst</key>
+	<string>losscontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousrole</key>
+	<string>canCreateTouch</string>
+	<key>boxDuration</key>
+	<string>sessionallocator</string>
+	<key>draggableMaster</key>
+	<string>significantInterpolation</string>
+	<key>mutableTicker</key>
+	<string>rectangleInteraction</string>
+	<key>precisionintensity</key>
+	<string>canPublishBoxShadow</string>
+	<key>retainedReducer</key>
+	<string>looptop</string>
+	<key>shouldPopCapsule</key>
+	<string>provideHash</string>
+</dict>
+</plist>

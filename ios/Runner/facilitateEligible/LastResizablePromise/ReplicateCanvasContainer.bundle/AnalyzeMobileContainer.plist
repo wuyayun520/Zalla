@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDuration</key>
+	<string>setstateResource</string>
+	<key>inactiveBox</key>
+	<string>draggablemap</string>
+	<key>mobileFuture</key>
+	<string>processcustompaint</string>
+	<key>shouldLoadExponent</key>
+	<string>replaceOffset</string>
+	<key>shouldinflatelog</key>
+	<string>protocolleft</string>
+</dict>
+</plist>

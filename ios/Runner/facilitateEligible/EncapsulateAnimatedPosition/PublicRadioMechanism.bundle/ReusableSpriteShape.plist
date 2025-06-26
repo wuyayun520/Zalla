@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricsubpixel</key>
+	<string>modulusTier</string>
+	<key>pointState</key>
+	<string>emitNode</string>
+	<key>renderertype</key>
+	<string>binderStatus</string>
+	<key>robustChannel</key>
+	<string>fusedNavigation</string>
+	<key>shouldPublishChallenge</key>
+	<string>firstProvision</string>
+	<key>synchronousScale</key>
+	<string>restoreProvider</string>
+</dict>
+</plist>

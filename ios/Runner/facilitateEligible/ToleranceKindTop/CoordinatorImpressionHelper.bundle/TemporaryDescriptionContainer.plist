@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatetrigger</key>
+	<string>scrollerLeft</string>
+	<key>iterativeDimension</key>
+	<string>shouldDetachTouch</string>
+	<key>loopCoord</key>
+	<string>granularnavigator</string>
+	<key>olddata</key>
+	<string>queueCycle</string>
+	<key>persistentBase</key>
+	<string>compileTransition</string>
+	<key>sharedBrush</key>
+	<string>significantStateful</string>
+	<key>switchincludeflyweight</key>
+	<string>cubitSpacing</string>
+</dict>
+</plist>

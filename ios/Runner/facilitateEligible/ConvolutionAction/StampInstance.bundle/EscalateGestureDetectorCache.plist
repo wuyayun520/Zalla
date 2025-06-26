@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecosine</key>
+	<string>basicProcessor</string>
+	<key>alignmentpressure</key>
+	<string>formatLoss</string>
+	<key>autoElement</key>
+	<string>injectMenu</string>
+	<key>binderColor</key>
+	<string>touchScene</string>
+	<key>comprehensiveVertex</key>
+	<string>scrollableConstraint</string>
+	<key>hyperbolicStoryboard</key>
+	<string>controllerBuffer</string>
+	<key>inkwellFormat</key>
+	<string>persistProfile</string>
+	<key>liteConfidentiality</key>
+	<string>responsiveTheme</string>
+	<key>similarQueue</key>
+	<string>canCreateSample</string>
+	<key>storageBottom</key>
+	<string>thresholdbehavior</string>
+</dict>
+</plist>

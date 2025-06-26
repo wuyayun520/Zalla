@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMap</key>
+	<string>providerorientation</string>
+	<key>euclideanConfidentiality</key>
+	<string>tappableSignature</string>
+	<key>exponentShape</key>
+	<string>deferredOption</string>
+	<key>fragmentsmargin</key>
+	<string>restorealignment</string>
+	<key>geometricSignature</key>
+	<string>smartBuilder</string>
+	<key>heapState</key>
+	<string>canSkipButton</string>
+	<key>ignoredTool</key>
+	<string>deferredRoute</string>
+	<key>inactiveNode</key>
+	<string>convertInteractor</string>
+	<key>previntegerhue</key>
+	<string>shouldPrepareMission</string>
+</dict>
+</plist>

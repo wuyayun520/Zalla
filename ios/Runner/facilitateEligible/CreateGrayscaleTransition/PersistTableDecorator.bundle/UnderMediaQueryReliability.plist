@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeOptimizer</key>
+	<string>spotVisibility</string>
+	<key>enabledBorder</key>
+	<string>shouldContinueSegue</string>
+	<key>fixedTheme</key>
+	<string>lazyEvolution</string>
+	<key>functionalgraphicfrequency</key>
+	<string>tappableTechnique</string>
+	<key>independentwidgetbottom</key>
+	<string>nativebuilderrate</string>
+	<key>precisionType</key>
+	<string>attachCustomPaint</string>
+	<key>shouldInflateBullet</key>
+	<string>factoryColor</string>
+	<key>shouldPopBase</key>
+	<string>fusedtransitiontint</string>
+	<key>zonevisibility</key>
+	<string>directRecursion</string>
+</dict>
+</plist>

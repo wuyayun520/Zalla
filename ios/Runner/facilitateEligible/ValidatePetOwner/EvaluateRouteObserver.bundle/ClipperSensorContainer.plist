@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSplitter</key>
+	<string>singletonOrientation</string>
+	<key>hardDependency</key>
+	<string>floatContainer</string>
+	<key>materialResult</key>
+	<string>strengthCoord</string>
+	<key>onscalechanged</key>
+	<string>difficultContainer</string>
+	<key>pinchableNotification</key>
+	<string>shouldFormatCurve</string>
+	<key>pivotalGate</key>
+	<string>fragmentsLocation</string>
+	<key>selectedsymbol</key>
+	<string>cupertinoKind</string>
+	<key>semanticremediation</key>
+	<string>deploySingleton</string>
+	<key>similarRoute</key>
+	<string>canBindNavigator</string>
+	<key>sorterPressure</key>
+	<string>shouldSetStateSlash</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelValidation</key>
+	<string>shouldencodetask</string>
+	<key>dynamicScalability</key>
+	<string>activeInterpolation</string>
+	<key>gridorientation</key>
+	<string>canvasborder</string>
+	<key>isprovider</key>
+	<string>tangentvisitortint</string>
+	<key>meshCoord</key>
+	<string>labelProcess</string>
+	<key>optimizerbehavior</key>
+	<string>layoutSpacing</string>
+	<key>sequentialModule</key>
+	<string>navigateSubpixel</string>
+	<key>uniqueSubscriber</key>
+	<string>sorterLocation</string>
+</dict>
+</plist>

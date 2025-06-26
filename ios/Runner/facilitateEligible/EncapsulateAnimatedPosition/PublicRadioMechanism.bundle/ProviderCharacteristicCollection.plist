@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricProjection</key>
+	<string>textMargin</string>
+	<key>plateLocation</key>
+	<string>numericalScalability</string>
+	<key>positionValidation</key>
+	<string>quantizationView</string>
+	<key>shouldEncodeNotification</key>
+	<string>segueparamflags</string>
+	<key>splitterdepth</key>
+	<string>tabviewStyle</string>
+	<key>ternaryservice</key>
+	<string>diversifiedAspect</string>
+</dict>
+</plist>

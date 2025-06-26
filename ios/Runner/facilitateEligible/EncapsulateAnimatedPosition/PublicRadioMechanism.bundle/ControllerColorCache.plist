@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoProcessor</key>
+	<string>mediaquerywithshape</string>
+	<key>framefromprocess</key>
+	<string>completedPriority</string>
+	<key>immutableInfrastructure</key>
+	<string>layoutthroughobserver</string>
+	<key>nextScenario</key>
+	<string>shouldListenGift</string>
+	<key>persistentCell</key>
+	<string>shouldUnmountContainer</string>
+	<key>pinchableCallback</key>
+	<string>dropdownbuttonForce</string>
+	<key>protectedscaffold</key>
+	<string>litePicker</string>
+	<key>shouldAttachChallenge</key>
+	<string>promiseflyweighttheme</string>
+	<key>shouldEmitDrawer</key>
+	<string>resilientStrength</string>
+</dict>
+</plist>

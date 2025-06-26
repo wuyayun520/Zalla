@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChannels</key>
+	<string>rapidScheduler</string>
+	<key>customTool</key>
+	<string>shouldDisconnectBrush</string>
+	<key>exceptionfromtask</key>
+	<string>popupTask</string>
+	<key>flexFlags</key>
+	<string>readlistener</string>
+	<key>hierarchicalemitter</key>
+	<string>utilParameter</string>
+	<key>parallelGem</key>
+	<string>gateBound</string>
+</dict>
+</plist>

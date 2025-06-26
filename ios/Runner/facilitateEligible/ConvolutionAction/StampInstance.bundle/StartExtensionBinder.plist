@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBorder</key>
+	<string>shouldPauseNavigator</string>
+	<key>decodepromise</key>
+	<string>shouldUnmountMovement</string>
+	<key>interactiveAction</key>
+	<string>crudeBrush</string>
+	<key>interactivepopup</key>
+	<string>mediumBuilder</string>
+	<key>materialController</key>
+	<string>shouldPublishMultiplication</string>
+	<key>parallelTaxonomy</key>
+	<string>canPaintMedia</string>
+	<key>precisionStyle</key>
+	<string>permanentButton</string>
+	<key>vectorprovision</key>
+	<string>customizedScroller</string>
+</dict>
+</plist>

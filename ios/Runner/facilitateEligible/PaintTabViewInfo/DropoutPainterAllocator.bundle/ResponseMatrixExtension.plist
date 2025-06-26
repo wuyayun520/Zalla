@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSpeed</key>
+	<string>shouldFormatInkWell</string>
+	<key>cubitTail</key>
+	<string>lockText</string>
+	<key>exceptionstaterate</key>
+	<string>canEmitAlpha</string>
+	<key>iterativeGradient</key>
+	<string>shouldConnectDrawer</string>
+	<key>opaqueCubit</key>
+	<string>declarativeUseCase</string>
+	<key>petworklocation</key>
+	<string>composableStep</string>
+	<key>restrictionForce</key>
+	<string>variantparamforce</string>
+	<key>sharedMerger</key>
+	<string>cubitFunction</string>
+	<key>shouldSavePrecision</key>
+	<string>unsortedDelivery</string>
+	<key>spinemetadata</key>
+	<string>canRouteGradient</string>
+</dict>
+</plist>

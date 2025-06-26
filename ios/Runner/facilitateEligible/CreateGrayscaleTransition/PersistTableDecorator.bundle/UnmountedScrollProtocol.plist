@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCanvas</key>
+	<string>shouldProcessDelegate</string>
+	<key>equalizationexceptform</key>
+	<string>navigatemetadata</string>
+	<key>reliabilityCoord</key>
+	<string>unsortedPopup</string>
+	<key>sequentialprofile</key>
+	<string>tappableaspect</string>
+	<key>timelineForce</key>
+	<string>futurebandwidth</string>
+	<key>webCombiner</key>
+	<string>composableSingleton</string>
+	<key>yieldprojection</key>
+	<string>touchcontainer</string>
+</dict>
+</plist>

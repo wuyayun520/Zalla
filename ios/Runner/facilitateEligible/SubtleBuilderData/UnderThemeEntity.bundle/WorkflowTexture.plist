@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isbloc</key>
+	<string>managerState</string>
+	<key>previewfeedback</key>
+	<string>rowProxy</string>
+	<key>shouldContinueGem</key>
+	<string>syncRouter</string>
+	<key>shouldShowSensor</key>
+	<string>animateDescription</string>
+	<key>shouldpresenttransition</key>
+	<string>smartAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticchartshade</key>
+	<string>projectwithoutactivity</string>
+	<key>beginnerChart</key>
+	<string>boxshadowversusbridge</string>
+	<key>configureallocator</key>
+	<string>traincallback</string>
+	<key>eagerModel</key>
+	<string>alignmentscale</string>
+	<key>elasticInformation</key>
+	<string>seekBuilder</string>
+	<key>histogramframeworkflags</key>
+	<string>modulusTint</string>
+	<key>usecaseDistance</key>
+	<string>concreteReduction</string>
+</dict>
+</plist>

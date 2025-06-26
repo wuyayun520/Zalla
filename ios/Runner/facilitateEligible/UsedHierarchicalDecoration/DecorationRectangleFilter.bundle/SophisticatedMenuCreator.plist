@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionLocation</key>
+	<string>observerPosition</string>
+	<key>customChannel</key>
+	<string>visibleTicker</string>
+	<key>enabledGate</key>
+	<string>shouldContinueLoss</string>
+	<key>notifierbesidestructure</key>
+	<string>descriptormode</string>
+	<key>oldlocalization</key>
+	<string>logarithmSize</string>
+	<key>relationalStateful</key>
+	<string>generateDelegate</string>
+	<key>scrollableSubpixel</key>
+	<string>typicalCache</string>
+	<key>sequentialData</key>
+	<string>scrollEnvironment</string>
+	<key>sizeRotation</key>
+	<string>injectBuffer</string>
+	<key>viewasstructure</key>
+	<string>ephemeralQueue</string>
+</dict>
+</plist>

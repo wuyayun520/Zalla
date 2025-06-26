@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTween</key>
+	<string>serializecache</string>
+	<key>intermediatecustompaintbehavior</key>
+	<string>markFactory</string>
+	<key>optionTag</key>
+	<string>tappableImpact</string>
+	<key>shaderOrientation</key>
+	<string>opaqueInjection</string>
+	<key>skirtScale</key>
+	<string>showDescriptor</string>
+	<key>statespeed</key>
+	<string>inflateVector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablefeature</key>
+	<string>notificationSaturation</string>
+	<key>screenskewx</key>
+	<string>similarSegment</string>
+	<key>secondCell</key>
+	<string>synchronousFinder</string>
+	<key>sequentialVideo</key>
+	<string>relationalConnector</string>
+	<key>shouldParseSignature</key>
+	<string>canSubscribeActivity</string>
+	<key>sizedboxcubit</key>
+	<string>aperturecontainer</string>
+	<key>standaloneRadius</key>
+	<string>sophisticatedconverter</string>
+	<key>timeForce</key>
+	<string>dialogsChain</string>
+</dict>
+</plist>

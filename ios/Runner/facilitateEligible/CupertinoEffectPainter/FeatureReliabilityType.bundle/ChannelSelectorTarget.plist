@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetinplatform</key>
+	<string>interfacespeed</string>
+	<key>gesturedetectorSkewX</key>
+	<string>canTransitionPoint</string>
+	<key>logSkewX</key>
+	<string>buildershape</string>
+	<key>synchronousCluster</key>
+	<string>locateState</string>
+</dict>
+</plist>

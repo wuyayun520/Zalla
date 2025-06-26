@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubePadding</key>
+	<string>reactiveAccessory</string>
+	<key>directAsset</key>
+	<string>usageOrientation</string>
+	<key>hierarchicalreduction</key>
+	<string>denseaspectratio</string>
+	<key>persistentBrush</key>
+	<string>canStopOptimizer</string>
+	<key>popuppressure</key>
+	<string>priorZone</string>
+	<key>providecoordinator</key>
+	<string>synchronousInformation</string>
+	<key>shouldEndColumn</key>
+	<string>cardBuffer</string>
+	<key>specifiercount</key>
+	<string>propagateTimer</string>
+	<key>subsequentTweak</key>
+	<string>stopShader</string>
+</dict>
+</plist>

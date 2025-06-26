@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesLocation</key>
+	<string>routeInterpolation</string>
+	<key>capacityspeed</key>
+	<string>reusablerolename</string>
+	<key>eagerMetrics</key>
+	<string>standalonewidget</string>
+	<key>immediateSlider</key>
+	<string>progressbarSaturation</string>
+	<key>navigatorBound</key>
+	<string>segmentsize</string>
+	<key>pooldimension</key>
+	<string>canRouteCursor</string>
+	<key>sampleFormat</key>
+	<string>shouldRestartBinary</string>
+</dict>
+</plist>

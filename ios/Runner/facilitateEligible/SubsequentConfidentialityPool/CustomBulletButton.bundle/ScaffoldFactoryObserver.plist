@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderAcceleration</key>
+	<string>buildercycleoffset</string>
+	<key>composablePresenter</key>
+	<string>fusedEffect</string>
+	<key>dispatcherName</key>
+	<string>animatedcontainerFunction</string>
+	<key>storeandinterpreter</key>
+	<string>textfieldSystem</string>
+</dict>
+</plist>

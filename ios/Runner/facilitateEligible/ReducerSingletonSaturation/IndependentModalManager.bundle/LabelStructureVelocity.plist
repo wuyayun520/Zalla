@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTheme</key>
+	<string>challengeDirection</string>
+	<key>primaryrichtextscale</key>
+	<string>asyncStatus</string>
+	<key>rangeInset</key>
+	<string>tappableBuffer</string>
+	<key>shouldTrainGate</key>
+	<string>delegateCoord</string>
+	<key>sinefilter</key>
+	<string>animateIndicator</string>
+	<key>specifyOptimizer</key>
+	<string>operationjoiner</string>
+	<key>subscriberState</key>
+	<string>previewSpeed</string>
+</dict>
+</plist>

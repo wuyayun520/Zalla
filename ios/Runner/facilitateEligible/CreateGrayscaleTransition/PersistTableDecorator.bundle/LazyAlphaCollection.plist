@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachwidget</key>
+	<string>pushScale</string>
+	<key>desktopAspect</key>
+	<string>decorationtheme</string>
+	<key>extensionSize</key>
+	<string>instantiatePopup</string>
+	<key>originalDetector</key>
+	<string>typicalheroright</string>
+	<key>persistentColor</key>
+	<string>typicalMaster</string>
+</dict>
+</plist>

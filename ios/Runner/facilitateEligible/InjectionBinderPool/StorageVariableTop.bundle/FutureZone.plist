@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMaterializer</key>
+	<string>canProcessController</string>
+	<key>invisibleSegment</key>
+	<string>shouldCacheSwift</string>
+	<key>mobileSubscriber</key>
+	<string>tickerCommand</string>
+	<key>navigatorRight</key>
+	<string>routeRight</string>
+	<key>opaquePermutation</key>
+	<string>specifyConfiguration</string>
+	<key>sharedMechanism</key>
+	<string>swiftagainstprototype</string>
+	<key>statefulflyweightsaturation</key>
+	<string>hardScreen</string>
+</dict>
+</plist>

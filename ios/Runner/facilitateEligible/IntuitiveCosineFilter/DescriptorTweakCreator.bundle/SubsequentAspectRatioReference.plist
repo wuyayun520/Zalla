@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOperation</key>
+	<string>pinchableSlash</string>
+	<key>activeFormat</key>
+	<string>gridviewRotation</string>
+	<key>eagerAmortization</key>
+	<string>euclideanGram</string>
+	<key>permanentBrush</key>
+	<string>defaultcapsule</string>
+	<key>robustConfidentiality</key>
+	<string>shouldInflateBuilder</string>
+	<key>shouldpausemovement</key>
+	<string>groupBehavior</string>
+	<key>singletonlocation</key>
+	<string>heapPattern</string>
+	<key>streamlineobserver</key>
+	<string>staticLayer</string>
+</dict>
+</plist>

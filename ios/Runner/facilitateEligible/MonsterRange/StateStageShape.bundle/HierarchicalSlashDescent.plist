@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintactionindex</key>
+	<string>kernelHead</string>
+	<key>dedicatedOverlay</key>
+	<string>canLayoutChecklist</string>
+	<key>elasticSlider</key>
+	<string>emitTechnique</string>
+	<key>shouldUnbindClipper</key>
+	<string>fusedStateless</string>
+	<key>shouldyieldcoordinator</key>
+	<string>statelessDrawer</string>
+	<key>standaloneIsolate</key>
+	<string>explicitAlignment</string>
+	<key>statelessEquipment</key>
+	<string>shouldStartRow</string>
+	<key>timerCenter</key>
+	<string>sophisticatedMesh</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSlider</key>
+	<string>commonDependency</string>
+	<key>globalHeap</key>
+	<string>cosinedrawer</string>
+	<key>interpolationName</key>
+	<string>smallGraph</string>
+	<key>monsterversussingleton</key>
+	<string>otherNib</string>
+	<key>nativeProject</key>
+	<string>cupertinoLoop</string>
+	<key>newestResolver</key>
+	<string>resilienceResponse</string>
+	<key>normalEquivalent</key>
+	<string>brushVariable</string>
+	<key>publicTaxonomy</key>
+	<string>missionDirection</string>
+	<key>strokeskewx</key>
+	<string>scaleindex</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nibscheduler</key>
+	<string>remainderAlignment</string>
+	<key>shouldSetStateSegue</key>
+	<string>appendRow</string>
+	<key>standaloneTrigger</key>
+	<string>toolOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachremainder</key>
+	<string>scalefilter</string>
+	<key>labelbesideinterpreter</key>
+	<string>decodeSingleton</string>
+	<key>lastpoint</key>
+	<string>channelAppearance</string>
+	<key>matrixwithfunction</key>
+	<string>layoutInterpreter</string>
+	<key>movementFrequency</key>
+	<string>canBindSymbol</string>
+	<key>pageviewobject</key>
+	<string>nextTernary</string>
+	<key>permanentLocalization</key>
+	<string>specifierTransparency</string>
+	<key>shouldAttachComposition</key>
+	<string>shouldDecodeMusic</string>
+	<key>shouldshowinteger</key>
+	<string>overrideLayout</string>
+</dict>
+</plist>

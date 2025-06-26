@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentdistance</key>
+	<string>diffableLifecycle</string>
+	<key>animatorFrequency</key>
+	<string>shouldPrepareAlert</string>
+	<key>completiontween</key>
+	<string>clipperBound</string>
+	<key>defaultButton</key>
+	<string>imageType</string>
+	<key>hierarchicalMusic</key>
+	<string>geometricSemantics</string>
+	<key>referenceaspect</key>
+	<string>canPaintSpot</string>
+	<key>responsiveNib</key>
+	<string>unsortedPlayback</string>
+	<key>shouldFormatProjection</key>
+	<string>painterSkewX</string>
+	<key>sinkstructureappearance</key>
+	<string>crudeSchema</string>
+	<key>usecaseformat</key>
+	<string>cellShade</string>
+</dict>
+</plist>

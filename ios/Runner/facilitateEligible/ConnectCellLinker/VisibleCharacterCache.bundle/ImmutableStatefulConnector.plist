@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionposition</key>
+	<string>backwardFragments</string>
+	<key>semanticsvisibility</key>
+	<string>operationInteraction</string>
+	<key>widgetcycletransparency</key>
+	<string>fetchtabbar</string>
+</dict>
+</plist>

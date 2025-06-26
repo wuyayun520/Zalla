@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNotifier</key>
+	<string>errorcontroller</string>
+	<key>dissociatestack</key>
+	<string>unaryVisible</string>
+	<key>interactiveJoiner</key>
+	<string>divideRadius</string>
+	<key>mediumStrength</key>
+	<string>discardedMetadata</string>
+	<key>persistentCustomPaint</key>
+	<string>masterProcess</string>
+	<key>shouldContinueCharacter</key>
+	<string>mapFormat</string>
+	<key>sinkMomentum</key>
+	<string>canPauseBitrate</string>
+	<key>standaloneBitrate</key>
+	<string>requiredListener</string>
+</dict>
+</plist>

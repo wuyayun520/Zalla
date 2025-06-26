@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentfeedback</key>
+	<string>notifierStage</string>
+	<key>anchorRight</key>
+	<string>textTail</string>
+	<key>moduleTag</key>
+	<string>invisiblePresenter</string>
+	<key>scaffoldcurve</key>
+	<string>shouldPersistCycle</string>
+	<key>timerposition</key>
+	<string>presentChallenge</string>
+</dict>
+</plist>

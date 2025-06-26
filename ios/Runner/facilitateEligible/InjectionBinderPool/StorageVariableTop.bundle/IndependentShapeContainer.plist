@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricpaddingskewx</key>
+	<string>constantspacing</string>
+	<key>granularGridView</key>
+	<string>animatedcontainerShade</string>
+	<key>monsterLocation</key>
+	<string>integerlocation</string>
+	<key>movementFormat</key>
+	<string>hardworkflowtransparency</string>
+	<key>mutableContraction</key>
+	<string>graindensity</string>
+	<key>permissivePromise</key>
+	<string>ispageview</string>
+	<key>secondResolver</key>
+	<string>imperativeRectangle</string>
+	<key>shouldAttachEqualization</key>
+	<string>canTrainBuilder</string>
+	<key>shouldLoadModulus</key>
+	<string>infrastructureType</string>
+	<key>timelineSkewY</key>
+	<string>providerValidation</string>
+</dict>
+</plist>

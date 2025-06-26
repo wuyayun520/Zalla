@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorValidation</key>
+	<string>volumeTransparency</string>
+	<key>inactivePageView</key>
+	<string>shouldStopComposition</string>
+	<key>operationVisibility</key>
+	<string>discardedMobile</string>
+	<key>primaryTimeline</key>
+	<string>revisitStorage</string>
+	<key>remainderinformation</key>
+	<string>decodeAwait</string>
+	<key>secondTouch</key>
+	<string>loaderHue</string>
+	<key>shouldSubscribeBullet</key>
+	<string>fragmentInterpreter</string>
+	<key>shouldValidateAppBar</key>
+	<string>appbarinset</string>
+	<key>sineCoord</key>
+	<string>limitLoop</string>
+	<key>smallAppBar</key>
+	<string>unmountedcontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoop</key>
+	<string>shaderActivity</string>
+	<key>enabledPublisher</key>
+	<string>uniquePreview</string>
+	<key>largeanchorcoord</key>
+	<string>musicprocesscoord</string>
+	<key>mutableBatch</key>
+	<string>makePreview</string>
+	<key>painterworkscale</key>
+	<string>descriptorvector</string>
+	<key>providerrange</key>
+	<string>canSetStateRole</string>
+	<key>rebuildmomentum</key>
+	<string>completedCosine</string>
+	<key>selectedlistview</key>
+	<string>newestQueue</string>
+	<key>shouldSaveDuration</key>
+	<string>shouldContinueSymbol</string>
+	<key>smallSpot</key>
+	<string>propagateNavigator</string>
+</dict>
+</plist>

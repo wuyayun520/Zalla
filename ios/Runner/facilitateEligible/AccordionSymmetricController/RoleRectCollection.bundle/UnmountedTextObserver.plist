@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledJoiner</key>
+	<string>firstPolyfill</string>
+	<key>firstElement</key>
+	<string>detectorOrientation</string>
+	<key>masterForce</key>
+	<string>resizableDependency</string>
+	<key>statefulRouter</key>
+	<string>canAttachCaption</string>
+	<key>techniqueMomentum</key>
+	<string>responsiveaspect</string>
+	<key>textDirection</key>
+	<string>shouldUpdateIndicator</string>
+	<key>vectoroutsidetier</key>
+	<string>preparePlate</string>
+</dict>
+</plist>

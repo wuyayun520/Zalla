@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerCount</key>
+	<string>webDispatcher</string>
+	<key>fusedMetrics</key>
+	<string>gestureSkewY</string>
+	<key>reductionscroller</key>
+	<string>stampTemple</string>
+	<key>shouldReplaceGestureDetector</key>
+	<string>durationtaskvelocity</string>
+	<key>shouldcontinueaspectratio</key>
+	<string>nextPopup</string>
+</dict>
+</plist>

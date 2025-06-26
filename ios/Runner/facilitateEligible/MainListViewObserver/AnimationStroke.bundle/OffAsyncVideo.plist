@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDispatcher</key>
+	<string>sortedCapsule</string>
+	<key>ascentTint</key>
+	<string>particleOrigin</string>
+	<key>densezone</key>
+	<string>navigatemember</string>
+	<key>globalrepositoryrotation</key>
+	<string>listenerParameter</string>
+	<key>groupprototypespeed</key>
+	<string>detachCosine</string>
+	<key>loopsize</key>
+	<string>replacePlayback</string>
+	<key>momentumrepository</key>
+	<string>shouldResumeCharacter</string>
+	<key>shouldSaveAlert</key>
+	<string>dispatchGradient</string>
+	<key>shouldStartGem</key>
+	<string>measureError</string>
+</dict>
+</plist>

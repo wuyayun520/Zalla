@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisinterpreterrotation</key>
+	<string>inflateRow</string>
+	<key>mobileMap</key>
+	<string>shouldDeserializeStateless</string>
+	<key>queuetransparency</key>
+	<string>tweenOrientation</string>
+	<key>shouldUnmountMember</key>
+	<string>activateNode</string>
+	<key>stopconfiguration</key>
+	<string>tabviewDirection</string>
+	<key>usedPicker</key>
+	<string>permissiveFrame</string>
+</dict>
+</plist>

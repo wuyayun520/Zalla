@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScheduler</key>
+	<string>fillNavigator</string>
+	<key>heapName</key>
+	<string>protectedTrigger</string>
+	<key>immutableFragments</key>
+	<string>dynamicTriangles</string>
+	<key>listenerplatformtype</key>
+	<string>resumeMultiplication</string>
+	<key>shouldDispatchCertificate</key>
+	<string>discardedChannels</string>
+	<key>storyboardInteraction</key>
+	<string>currentpriority</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRequest</key>
+	<string>rapidChallenge</string>
+	<key>decorationplatformfrequency</key>
+	<string>popupTop</string>
+	<key>fusedCoordinator</key>
+	<string>processorDepth</string>
+	<key>labelthanflyweight</key>
+	<string>navigateChecklist</string>
+	<key>navigatorversusoperation</key>
+	<string>promiseInset</string>
+	<key>permanentscroller</key>
+	<string>subtleScale</string>
+	<key>seamlessSpecifier</key>
+	<string>secondTheme</string>
+</dict>
+</plist>

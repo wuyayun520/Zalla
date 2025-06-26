@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionpadding</key>
+	<string>shouldTransformLog</string>
+	<key>delegatecontaintask</key>
+	<string>crucialNotification</string>
+	<key>dropdownbuttonBehavior</key>
+	<string>shouldNavigateBaseline</string>
+	<key>fixedfeatureborder</key>
+	<string>scrollableTraversal</string>
+	<key>loaderResponse</key>
+	<string>canPresentInterpolation</string>
+	<key>mapperResponse</key>
+	<string>shouldvalidatereference</string>
+	<key>permissivedelegateopacity</key>
+	<string>bindProtocol</string>
+	<key>tableState</key>
+	<string>canFormatSignature</string>
+	<key>wrapperBound</key>
+	<string>dialogschapter</string>
+</dict>
+</plist>

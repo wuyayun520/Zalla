@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticValidation</key>
+	<string>touchRotation</string>
+	<key>attachevent</key>
+	<string>reflectTexture</string>
+	<key>concurrentTitle</key>
+	<string>shouldSaveStack</string>
+	<key>robustSignature</key>
+	<string>subtlePromise</string>
+	<key>spineValidation</key>
+	<string>signatureMargin</string>
+</dict>
+</plist>

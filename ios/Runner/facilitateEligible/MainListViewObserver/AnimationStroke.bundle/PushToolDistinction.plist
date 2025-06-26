@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonInteraction</key>
+	<string>canObserveButton</string>
+	<key>exponentnumberposition</key>
+	<string>renameTask</string>
+	<key>fixedWorkflow</key>
+	<string>tableparamtheme</string>
+	<key>remainderDistance</key>
+	<string>arithmeticGem</string>
+	<key>segmenthead</key>
+	<string>advancedCanvas</string>
+	<key>shouldDismissStep</key>
+	<string>observerCount</string>
+	<key>shouldroutetouch</key>
+	<string>routerHead</string>
+	<key>shouldstartscaffold</key>
+	<string>axisColor</string>
+	<key>swiftAcceleration</key>
+	<string>agileException</string>
+	<key>thresholdname</key>
+	<string>transitionSystem</string>
+</dict>
+</plist>

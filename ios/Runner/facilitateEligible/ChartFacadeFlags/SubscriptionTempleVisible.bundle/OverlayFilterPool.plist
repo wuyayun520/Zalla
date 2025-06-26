@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushintegrity</key>
+	<string>synchronousNotation</string>
+	<key>detailhue</key>
+	<string>vectorizeDependency</string>
+	<key>interfaceValidation</key>
+	<string>commonPicker</string>
+	<key>newestSearcher</key>
+	<string>ephemeralError</string>
+	<key>protectedBorder</key>
+	<string>singleUnary</string>
+	<key>scaletaxonomy</key>
+	<string>dedicatedGrayscale</string>
+	<key>selectedSign</key>
+	<string>dedicatedMedia</string>
+	<key>shouldDeserializeIndicator</key>
+	<string>checklistawait</string>
+	<key>shouldProcessNib</key>
+	<string>marginFormat</string>
+	<key>typicalPoint</key>
+	<string>localPositioned</string>
+</dict>
+</plist>

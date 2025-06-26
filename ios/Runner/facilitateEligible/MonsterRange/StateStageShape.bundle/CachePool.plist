@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleternary</key>
+	<string>sliderskewy</string>
+	<key>desktopPublisher</key>
+	<string>completerRotation</string>
+	<key>semanticRichText</key>
+	<string>mediaOperation</string>
+	<key>statefultraversal</key>
+	<string>inflateSession</string>
+	<key>statelesstween</key>
+	<string>canInflateTransition</string>
+</dict>
+</plist>

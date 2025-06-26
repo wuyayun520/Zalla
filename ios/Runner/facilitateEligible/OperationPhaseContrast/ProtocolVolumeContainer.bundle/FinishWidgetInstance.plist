@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissdependency</key>
+	<string>webinteractorrotation</string>
+	<key>factoryshade</key>
+	<string>secondTransition</string>
+	<key>fusedResource</key>
+	<string>adaptiveCupertino</string>
+	<key>gestureMargin</key>
+	<string>largeChecklist</string>
+	<key>isCompletion</key>
+	<string>inactivePolygon</string>
+	<key>respectiveResponder</key>
+	<string>canPersistBloc</string>
+	<key>spritedelay</key>
+	<string>topicDuration</string>
+</dict>
+</plist>

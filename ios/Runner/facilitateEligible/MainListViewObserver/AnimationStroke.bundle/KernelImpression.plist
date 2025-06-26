@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitflags</key>
+	<string>asynchronousInteger</string>
+	<key>gramForce</key>
+	<string>inheritedReduction</string>
+	<key>iterativeResponder</key>
+	<string>cursorFeedback</string>
+	<key>shouldPrepareBorder</key>
+	<string>renderCatalyst</string>
+	<key>shouldSerializeTabBar</key>
+	<string>objectright</string>
+</dict>
+</plist>

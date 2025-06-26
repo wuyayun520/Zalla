@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitylikemethod</key>
+	<string>mediocreEmitter</string>
+	<key>deprecatefactory</key>
+	<string>sharedAlpha</string>
+	<key>gestureDuration</key>
+	<string>capsuleMomentum</string>
+	<key>localInteraction</key>
+	<string>mendSize</string>
+	<key>loststate</key>
+	<string>sophisticatedTransformer</string>
+	<key>materialinfo</key>
+	<string>explicitPolygon</string>
+	<key>pivotalinterfaceforce</key>
+	<string>shouldPersistHistogram</string>
+	<key>shouldtransformanchor</key>
+	<string>skipSubpixel</string>
+</dict>
+</plist>

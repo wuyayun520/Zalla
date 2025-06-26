@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledElasticity</key>
+	<string>iterativeAwait</string>
+	<key>fixedPet</key>
+	<string>navigateUsage</string>
+	<key>mediocreGraphic</key>
+	<string>drawtransition</string>
+	<key>previewVisibility</key>
+	<string>indicatorAlignment</string>
+	<key>projectOpacity</key>
+	<string>liteInterface</string>
+	<key>shouldReplaceAccessory</key>
+	<string>taskconnector</string>
+</dict>
+</plist>

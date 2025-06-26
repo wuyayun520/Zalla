@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogytransparency</key>
+	<string>notificationalignment</string>
+	<key>commonInstruction</key>
+	<string>connectrichtext</string>
+	<key>declarativeSemantics</key>
+	<string>prevBandwidth</string>
+	<key>grainefficiency</key>
+	<string>sizepainter</string>
+	<key>integrationContrast</key>
+	<string>configurationTheme</string>
+	<key>statelikelayer</key>
+	<string>shouldMountObserver</string>
+	<key>videoscale</key>
+	<string>pivotalExpanded</string>
+	<key>webListener</key>
+	<string>taskdirection</string>
+</dict>
+</plist>

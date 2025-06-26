@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedConnector</key>
+	<string>subpixelResponse</string>
+	<key>hierarchicalconnector</key>
+	<string>allocatorShape</string>
+	<key>scalepager</key>
+	<string>imperativeAspectRatio</string>
+	<key>shouldResumeMobile</key>
+	<string>previewPadding</string>
+	<key>significantRemediation</key>
+	<string>litebufferbrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableFragments</key>
+	<string>exceptionpermode</string>
+	<key>iterativeSelector</key>
+	<string>retrieveTransformer</string>
+	<key>largeaction</key>
+	<string>shouldUnmountedCell</string>
+	<key>layerorbridge</key>
+	<string>crucialPicker</string>
+	<key>mediumscalesize</key>
+	<string>functionalPicker</string>
+	<key>operationmediatorappearance</key>
+	<string>listenerTheme</string>
+	<key>relationalInfrastructure</key>
+	<string>binderPadding</string>
+</dict>
+</plist>

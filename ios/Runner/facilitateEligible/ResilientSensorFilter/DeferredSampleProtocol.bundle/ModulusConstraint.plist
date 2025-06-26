@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDependency</key>
+	<string>ignoredMaster</string>
+	<key>asyncworkrate</key>
+	<string>accordionMerger</string>
+	<key>directlyCard</key>
+	<string>robustConverter</string>
+	<key>grayscaleshader</key>
+	<string>notifyinteractor</string>
+	<key>monsterMode</key>
+	<string>cupertinotoolorigin</string>
+	<key>shouldResumeLoss</key>
+	<string>herointensity</string>
+	<key>shouldSetStateScaffold</key>
+	<string>layerbrightness</string>
+	<key>skipgrid</key>
+	<string>statefulhashdepth</string>
+</dict>
+</plist>

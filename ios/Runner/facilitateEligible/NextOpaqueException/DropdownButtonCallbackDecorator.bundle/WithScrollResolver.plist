@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderrectangle</key>
+	<string>liteCache</string>
+	<key>certificateFlags</key>
+	<string>shouldShowRoute</string>
+	<key>composableConfidentiality</key>
+	<string>workflowProcess</string>
+	<key>easyMediaQuery</key>
+	<string>disabledSubscriber</string>
+	<key>keepstore</key>
+	<string>requiredtask</string>
+	<key>materialTernary</key>
+	<string>showInteger</string>
+	<key>schemaSkewX</key>
+	<string>converterDistance</string>
+	<key>statusMargin</key>
+	<string>accordionTime</string>
+	<key>toolStatus</key>
+	<string>listenerScope</string>
+</dict>
+</plist>

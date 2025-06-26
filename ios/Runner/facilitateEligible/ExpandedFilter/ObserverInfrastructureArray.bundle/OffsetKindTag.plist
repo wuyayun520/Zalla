@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDrawer</key>
+	<string>storyboardDistance</string>
+	<key>greatAsset</key>
+	<string>canPopTransition</string>
+	<key>greatColumn</key>
+	<string>usedLog</string>
+	<key>inactiveRemediation</key>
+	<string>shouldRestartPet</string>
+	<key>persistprotocol</key>
+	<string>iterativeLinker</string>
+	<key>segueTransparency</key>
+	<string>spriteActivity</string>
+</dict>
+</plist>

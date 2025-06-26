@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionshapesize</key>
+	<string>canShowSpine</string>
+	<key>consultativeConverter</key>
+	<string>shouldStopTouch</string>
+	<key>consumptionstyle</key>
+	<string>releaselistener</string>
+	<key>permanentCoordinator</key>
+	<string>batchresponse</string>
+	<key>transformternary</key>
+	<string>unregisterFrame</string>
+</dict>
+</plist>

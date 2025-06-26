@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedController</key>
+	<string>semanticdescent</string>
+	<key>dependencyDelay</key>
+	<string>loopanalogy</string>
+	<key>fragmentsSkewY</key>
+	<string>dialogsInteraction</string>
+	<key>nextPet</key>
+	<string>presenterRate</string>
+	<key>pinchablelisteneroffset</key>
+	<string>subtleData</string>
+	<key>scalabilityTheme</key>
+	<string>curvePrototype</string>
+	<key>shouldFinishMusic</key>
+	<string>arithmeticException</string>
+	<key>shouldNavigateRoute</key>
+	<string>euclideanSubscriber</string>
+	<key>shouldvalidatesignature</key>
+	<string>utilVisitor</string>
+	<key>webCard</key>
+	<string>batchOffset</string>
+</dict>
+</plist>

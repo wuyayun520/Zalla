@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryview</key>
+	<string>transitionSwift</string>
+	<key>analyzerVelocity</key>
+	<string>shouldTrainDelegate</string>
+	<key>nibLeft</key>
+	<string>semanticData</string>
+	<key>notationRight</key>
+	<string>responsiveAspectRatio</string>
+	<key>relationalIndicator</key>
+	<string>reusableviewvelocity</string>
+	<key>resizableConfiguration</key>
+	<string>cellinterface</string>
+	<key>robustDetector</key>
+	<string>mergerRotation</string>
+	<key>splitterTint</key>
+	<string>canSetStateAlpha</string>
+</dict>
+</plist>

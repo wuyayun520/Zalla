@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSpeed</key>
+	<string>explicitTimeline</string>
+	<key>inflategesture</key>
+	<string>shouldRebuildCoordinator</string>
+	<key>intermediateBinder</key>
+	<string>accordionBinary</string>
+	<key>originalCapsule</key>
+	<string>dependencyparameterborder</string>
+	<key>sharedmatrixskewy</key>
+	<string>shouldPaintAccessory</string>
+	<key>shouldMountPageView</key>
+	<string>isolatePattern</string>
+	<key>strokeBottom</key>
+	<string>shouldStopSpine</string>
+</dict>
+</plist>

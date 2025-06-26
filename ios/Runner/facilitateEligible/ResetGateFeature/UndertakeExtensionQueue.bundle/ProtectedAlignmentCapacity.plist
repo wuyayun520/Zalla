@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAppBar</key>
+	<string>shouldBindStream</string>
+	<key>diffableDrawer</key>
+	<string>showNotification</string>
+	<key>keyDelegate</key>
+	<string>restartTabView</string>
+	<key>managerdirection</key>
+	<string>attachAwait</string>
+	<key>protectedprocessor</key>
+	<string>canRenderTable</string>
+	<key>robustIntegrity</key>
+	<string>shouldEmitResource</string>
+	<key>significantOffset</key>
+	<string>bitrateAdapter</string>
+	<key>tappablePriority</key>
+	<string>consultativeprovision</string>
+	<key>uniqueintegration</key>
+	<string>descriptioncontextvisibility</string>
+</dict>
+</plist>

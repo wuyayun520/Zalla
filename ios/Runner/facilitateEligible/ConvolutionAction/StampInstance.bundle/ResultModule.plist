@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentOpacity</key>
+	<string>shoulddisposemovement</string>
+	<key>inactivespine</key>
+	<string>canCreateFlex</string>
+	<key>numericalconverter</key>
+	<string>actionLayer</string>
+	<key>rectangledelay</key>
+	<string>lazyChart</string>
+</dict>
+</plist>

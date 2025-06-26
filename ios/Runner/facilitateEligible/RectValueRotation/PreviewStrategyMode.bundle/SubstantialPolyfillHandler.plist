@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsOrientation</key>
+	<string>canInflateDocument</string>
+	<key>dynamicEqualization</key>
+	<string>navigatorBehavior</string>
+	<key>mainMapper</key>
+	<string>sortedDisclaimer</string>
+	<key>statelessService</key>
+	<string>cartesianstorefrequency</string>
+	<key>utilvalidation</key>
+	<string>graphicInset</string>
+</dict>
+</plist>

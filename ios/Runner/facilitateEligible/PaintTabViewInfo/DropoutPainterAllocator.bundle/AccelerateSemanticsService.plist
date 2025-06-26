@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtrigger</key>
+	<string>keyEvaluation</string>
+	<key>indicatorforvariable</key>
+	<string>oldCanvas</string>
+	<key>numericalanimationbehavior</key>
+	<string>renderbutton</string>
+	<key>secondTool</key>
+	<string>fragmentAlignment</string>
+	<key>semanticLogarithm</key>
+	<string>canConnectSpine</string>
+	<key>shouldfinishkernel</key>
+	<string>localgridshade</string>
+	<key>uniformPadding</key>
+	<string>entityPrototype</string>
+</dict>
+</plist>

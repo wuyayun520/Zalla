@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorInterval</key>
+	<string>writeOffset</string>
+	<key>intermediategradienttag</key>
+	<string>canCreateAperture</string>
+	<key>responsiveCursor</key>
+	<string>extendScene</string>
+	<key>sequentialshader</key>
+	<string>sophisticatedReduction</string>
+	<key>shouldDisconnectCoordinator</key>
+	<string>progressbarSingleton</string>
+	<key>topicPressure</key>
+	<string>slideroutsidedecorator</string>
+</dict>
+</plist>

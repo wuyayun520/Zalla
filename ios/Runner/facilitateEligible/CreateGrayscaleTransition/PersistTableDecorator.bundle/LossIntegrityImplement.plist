@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLabel</key>
+	<string>normDirection</string>
+	<key>easyEvaluation</key>
+	<string>imperativeFactory</string>
+	<key>inactiveSegment</key>
+	<string>registerCurve</string>
+	<key>loopBound</key>
+	<string>skipContraction</string>
+	<key>notationName</key>
+	<string>discardedUsage</string>
+	<key>opaqueTentative</key>
+	<string>utilprocesslocation</string>
+	<key>permanentTraversal</key>
+	<string>hierarchicalFlex</string>
+	<key>shouldKeepThread</key>
+	<string>hashTail</string>
+</dict>
+</plist>

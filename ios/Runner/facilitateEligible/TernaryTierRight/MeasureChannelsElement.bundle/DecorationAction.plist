@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedfactory</key>
+	<string>canNotifyExpanded</string>
+	<key>isSign</key>
+	<string>inactivetexture</string>
+	<key>originalProcessor</key>
+	<string>implementProvider</string>
+	<key>similarProtocol</key>
+	<string>taskInterpreter</string>
+	<key>specifierBottom</key>
+	<string>unbindCard</string>
+</dict>
+</plist>

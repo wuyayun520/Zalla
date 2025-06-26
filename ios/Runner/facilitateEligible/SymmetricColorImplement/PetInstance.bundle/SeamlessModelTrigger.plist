@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralDependency</key>
+	<string>robustCustomPaint</string>
+	<key>granularAnchor</key>
+	<string>repositoryPlatform</string>
+	<key>semanticanimationvisibility</key>
+	<string>shouldUnbindImage</string>
+	<key>shouldPopStateful</key>
+	<string>schedulerBorder</string>
+	<key>sorterrotation</key>
+	<string>popSpecifier</string>
+</dict>
+</plist>

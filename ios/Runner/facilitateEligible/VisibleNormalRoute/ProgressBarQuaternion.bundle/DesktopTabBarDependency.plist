@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTheme</key>
+	<string>meshduration</string>
+	<key>certificateMode</key>
+	<string>interactorFormat</string>
+	<key>cupertinoBullet</key>
+	<string>uniquesymbolsize</string>
+	<key>promisesize</key>
+	<string>timerTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFactory</key>
+	<string>directlyIndicator</string>
+	<key>interfacestrategyrotation</key>
+	<string>mediumButton</string>
+	<key>logarithmshade</key>
+	<string>canPopRichText</string>
+	<key>normalTrajectory</key>
+	<string>animateGradient</string>
+	<key>resizeslider</key>
+	<string>techniqueMediator</string>
+	<key>scrollableshape</key>
+	<string>vectorizeBuffer</string>
+</dict>
+</plist>

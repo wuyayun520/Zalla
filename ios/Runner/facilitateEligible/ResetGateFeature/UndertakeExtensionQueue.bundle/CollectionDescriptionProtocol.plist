@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionValidation</key>
+	<string>axisLeft</string>
+	<key>diversifiedbrushtension</key>
+	<string>canCacheScroll</string>
+	<key>globalDialogs</key>
+	<string>readbuilder</string>
+	<key>materialContrast</key>
+	<string>bulletaboutstyle</string>
+	<key>nativeRemediation</key>
+	<string>canEndExpanded</string>
+	<key>resolvescale</key>
+	<string>coordinatorposition</string>
+	<key>shouldHandleCursor</key>
+	<string>filterVisibility</string>
+	<key>typicalDistinction</key>
+	<string>curvematerializer</string>
+	<key>uniformAppBar</key>
+	<string>routetop</string>
+	<key>widgetcontextfrequency</key>
+	<string>setstateGram</string>
+</dict>
+</plist>

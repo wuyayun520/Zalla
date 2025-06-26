@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabBar</key>
+	<string>initializeTopic</string>
+	<key>constantStyle</key>
+	<string>dropoutmodel</string>
+	<key>ignoredComponent</key>
+	<string>draggableCurve</string>
+	<key>normalEfficiency</key>
+	<string>collectionSpacing</string>
+	<key>robustLoss</key>
+	<string>shouldNotifyExtension</string>
+	<key>staticSample</key>
+	<string>crudeDetail</string>
+	<key>ternarythroughplatform</key>
+	<string>sharedMechanism</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentView</key>
+	<string>largeConsumption</string>
+	<key>defaultCoordinator</key>
+	<string>invisibleEvent</string>
+	<key>easyMerger</key>
+	<string>crucialEvent</string>
+	<key>firsttoolstate</key>
+	<string>detectorLeft</string>
+	<key>keyResource</key>
+	<string>shapeSize</string>
+	<key>lazyInteractor</key>
+	<string>canRebuildTable</string>
+	<key>paddingValidation</key>
+	<string>transformertag</string>
+	<key>significantEntropy</key>
+	<string>seamlessAnalyzer</string>
+	<key>symmetriccheckliststate</key>
+	<string>statefulSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitKind</key>
+	<string>brushStage</string>
+	<key>dataFormat</key>
+	<string>compositionValidation</string>
+	<key>draggableDescent</key>
+	<string>agileText</string>
+	<key>durationcontroller</key>
+	<string>activeloop</string>
+	<key>mainScalability</key>
+	<string>analyzeRow</string>
+</dict>
+</plist>

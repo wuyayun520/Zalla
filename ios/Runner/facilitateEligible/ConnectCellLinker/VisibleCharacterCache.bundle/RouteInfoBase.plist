@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyObserver</key>
+	<string>scrollableStep</string>
+	<key>eagerScalability</key>
+	<string>finderIndex</string>
+	<key>hardUtil</key>
+	<string>accessibleframe</string>
+	<key>listenerPressure</key>
+	<string>activatedInformation</string>
+	<key>remainderName</key>
+	<string>mediaMomentum</string>
+	<key>rotatealignment</key>
+	<string>persistListView</string>
+	<key>seguesystemspacing</key>
+	<string>shouldEncodeContraction</string>
+</dict>
+</plist>

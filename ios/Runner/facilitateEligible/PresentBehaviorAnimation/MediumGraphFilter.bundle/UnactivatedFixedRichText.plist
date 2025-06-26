@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubpixel</key>
+	<string>cosinePosition</string>
+	<key>firstTentative</key>
+	<string>granularWidget</string>
+	<key>flexiblestatefulfeedback</key>
+	<string>reductionFunction</string>
+	<key>interactionPressure</key>
+	<string>sizedboxScale</string>
+	<key>localAction</key>
+	<string>lastData</string>
+	<key>polygonMomentum</key>
+	<string>trainPoint</string>
+	<key>shouldDecodeSlash</key>
+	<string>routedecoration</string>
+	<key>webQueue</key>
+	<string>uniqueconfidentiality</string>
+</dict>
+</plist>

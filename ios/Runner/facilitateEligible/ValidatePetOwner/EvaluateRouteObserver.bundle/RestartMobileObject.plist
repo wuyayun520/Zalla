@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>icontag</key>
+	<string>touchForce</string>
+	<key>introspectbloc</key>
+	<string>resilienceTransparency</string>
+	<key>quantizercanvas</key>
+	<string>embedFeature</string>
+	<key>requiredCycle</key>
+	<string>mobileternary</string>
+	<key>resizableStore</key>
+	<string>documentLeft</string>
+	<key>shouldContinueVariant</key>
+	<string>scaleStatus</string>
+	<key>slashmerger</key>
+	<string>responseTier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTheme</key>
+	<string>lostRect</string>
+	<key>dependencyshapedensity</key>
+	<string>associatedSpecifier</string>
+	<key>explicitextension</key>
+	<string>imperativeCard</string>
+	<key>imperativeCombiner</key>
+	<string>inactiveTransition</string>
+	<key>scrolltask</key>
+	<string>constraintTemple</string>
+	<key>shouldDeserializeMedia</key>
+	<string>missedEmitter</string>
+	<key>shouldEndDocument</key>
+	<string>ismap</string>
+	<key>shouldEndPainter</key>
+	<string>relationalPublisher</string>
+	<key>smallShader</key>
+	<string>handleAspect</string>
+</dict>
+</plist>

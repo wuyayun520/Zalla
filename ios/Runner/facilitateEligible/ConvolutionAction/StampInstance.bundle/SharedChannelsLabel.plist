@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateVelocity</key>
+	<string>smartUseCase</string>
+	<key>custompaintexceptstructure</key>
+	<string>shouldCreateCube</string>
+	<key>fusedChannels</key>
+	<string>baselinePlatform</string>
+	<key>futurewithsingleton</key>
+	<string>disconnectMetadata</string>
+	<key>gateStatus</key>
+	<string>materialCapacity</string>
+	<key>loopstate</key>
+	<string>shearResponse</string>
+	<key>performaperture</key>
+	<string>pageviewRotation</string>
+	<key>permanentContrast</key>
+	<string>unactivatedStateless</string>
+	<key>permissiveScenario</key>
+	<string>canRestartTransition</string>
+	<key>transitionSkewY</key>
+	<string>dimensionIndex</string>
+</dict>
+</plist>

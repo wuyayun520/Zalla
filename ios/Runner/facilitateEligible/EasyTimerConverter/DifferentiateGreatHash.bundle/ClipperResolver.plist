@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubepadding</key>
+	<string>constraintProxy</string>
+	<key>currentlog</key>
+	<string>transitionsize</string>
+	<key>dialogsVisible</key>
+	<string>detachconstraint</string>
+	<key>difficultListener</key>
+	<string>mainContrast</string>
+	<key>directBehavior</key>
+	<string>delegateManager</string>
+	<key>elasticsegue</key>
+	<string>canTransformBuilder</string>
+	<key>immutableNode</key>
+	<string>builderinsidebridge</string>
+	<key>logInterval</key>
+	<string>cancelSemantics</string>
+	<key>tappableDisclaimer</key>
+	<string>prismaticActivity</string>
+</dict>
+</plist>

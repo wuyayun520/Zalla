@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGrayscale</key>
+	<string>validategrain</string>
+	<key>contractionScale</key>
+	<string>shouldDispatchDropdownButton</string>
+	<key>displayableHandler</key>
+	<string>shouldDecodeMap</string>
+	<key>firstResponse</key>
+	<string>uniformSubscription</string>
+	<key>menuPressure</key>
+	<string>resilientZone</string>
+	<key>normalDialogs</key>
+	<string>enabledScroll</string>
+	<key>oncontractiontap</key>
+	<string>sceneDepth</string>
+	<key>promiseBehavior</key>
+	<string>shouldinflateanimation</string>
+	<key>sortedRestriction</key>
+	<string>consultativesymbol</string>
+	<key>specifierspacing</key>
+	<string>batchstrength</string>
+</dict>
+</plist>

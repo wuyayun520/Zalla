@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionthroughput</key>
+	<string>disconnectConfiguration</string>
+	<key>customizedStream</key>
+	<string>spriteStatus</string>
+	<key>directNotification</key>
+	<string>imperativeReliability</string>
+	<key>featureshape</key>
+	<string>entitytiercoord</string>
+	<key>inheritedListView</key>
+	<string>directlyBinary</string>
+	<key>insteadsink</key>
+	<string>explicitPolygon</string>
+	<key>responsiveDelegate</key>
+	<string>canAttachBrush</string>
+	<key>sceneAlignment</key>
+	<string>respondChannel</string>
+	<key>webMobile</key>
+	<string>draggableReliability</string>
+</dict>
+</plist>

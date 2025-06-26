@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDepth</key>
+	<string>sustainableBaseline</string>
+	<key>infoResponse</key>
+	<string>holdmodulus</string>
+	<key>interactiveBaseline</key>
+	<string>multiEffect</string>
+	<key>normOrigin</key>
+	<string>scopevalidation</string>
+	<key>objectFormat</key>
+	<string>cupertinoCard</string>
+	<key>subtleStamp</key>
+	<string>notificationTag</string>
+</dict>
+</plist>

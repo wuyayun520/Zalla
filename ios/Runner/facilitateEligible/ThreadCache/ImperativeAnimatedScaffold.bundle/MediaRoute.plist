@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPadding</key>
+	<string>transitiontransparency</string>
+	<key>functionalsegue</key>
+	<string>rowRate</string>
+	<key>heapshapetag</key>
+	<string>disposeText</string>
+	<key>registercoordinator</key>
+	<string>shouldAnimateContraction</string>
+	<key>shouldCancelStamp</key>
+	<string>pageviewVar</string>
+	<key>shouldStartGesture</key>
+	<string>observerframeworkbehavior</string>
+</dict>
+</plist>

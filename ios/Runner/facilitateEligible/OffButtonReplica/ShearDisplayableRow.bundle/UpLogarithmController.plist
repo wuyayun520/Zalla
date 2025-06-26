@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerBrightness</key>
+	<string>localizationTier</string>
+	<key>globalsize</key>
+	<string>canPopStack</string>
+	<key>hardHandler</key>
+	<string>unbindUsage</string>
+	<key>iterativeSample</key>
+	<string>behaviorValidation</string>
+	<key>specifyLoss</key>
+	<string>observerFeedback</string>
+	<key>standaloneComponent</key>
+	<string>denseBox</string>
+	<key>typicalButton</key>
+	<string>dismissBloc</string>
+</dict>
+</plist>

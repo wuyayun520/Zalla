@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitrect</key>
+	<string>customizedTween</string>
+	<key>reactiveMaterializer</key>
+	<string>navigateException</string>
+	<key>selectedcomposition</key>
+	<string>timerparaminset</string>
+	<key>standaloneProtocol</key>
+	<string>shouldCreateTheme</string>
+</dict>
+</plist>

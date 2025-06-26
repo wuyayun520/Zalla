@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTweak</key>
+	<string>usecaseobject</string>
+	<key>evolutionDelay</key>
+	<string>animatorTint</string>
+	<key>globalpoint</key>
+	<string>resolverleft</string>
+	<key>hyperbolicCoordinator</key>
+	<string>canDecodeTransition</string>
+	<key>mapperTint</key>
+	<string>singleDrawer</string>
+	<key>pinchableConsumer</key>
+	<string>shouldLayoutSlash</string>
+	<key>publisherBorder</key>
+	<string>pauseboxshadow</string>
+	<key>shouldupdateskin</key>
+	<string>endpromise</string>
+	<key>uniformmodalmargin</key>
+	<string>shouldDispatchMap</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordespiteproxy</key>
+	<string>newestProject</string>
+	<key>bandwidthMode</key>
+	<string>shouldRenderRole</string>
+	<key>concurrentOverlay</key>
+	<string>canUnmountChannels</string>
+	<key>deferredTitle</key>
+	<string>binaryProcess</string>
+	<key>enabledCharacteristic</key>
+	<string>materializerColor</string>
+	<key>explicitTopic</key>
+	<string>batchParameter</string>
+	<key>timeTransparency</key>
+	<string>dynamicbuilderrate</string>
+	<key>visibleCurve</key>
+	<string>canCacheMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatInstruction</key>
+	<string>associatedPainter</string>
+	<key>immediateProgressBar</key>
+	<string>executeTransition</string>
+	<key>lastFragment</key>
+	<string>scopeTransparency</string>
+	<key>menulikelevel</key>
+	<string>canLoadDecoration</string>
+	<key>nextScalability</key>
+	<string>skinActivity</string>
+	<key>reusableGrid</key>
+	<string>intermediateResilience</string>
+	<key>robustArchitecture</key>
+	<string>materializerBound</string>
+	<key>shouldYieldStateless</key>
+	<string>introspectReducer</string>
+	<key>signaturenearframework</key>
+	<string>transitionNotifier</string>
+</dict>
+</plist>

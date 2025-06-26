@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstPager</key>
+	<string>singletonStrategy</string>
+	<key>lazyCycle</key>
+	<string>modelPadding</string>
+	<key>reactiveConstant</key>
+	<string>slashdetector</string>
+	<key>resizableEmitter</key>
+	<string>endMission</string>
+	<key>taxonomyIndex</key>
+	<string>canSkipAlert</string>
+	<key>triggerDensity</key>
+	<string>tensorPolyfill</string>
+	<key>videopressure</key>
+	<string>compileConfiguration</string>
+</dict>
+</plist>

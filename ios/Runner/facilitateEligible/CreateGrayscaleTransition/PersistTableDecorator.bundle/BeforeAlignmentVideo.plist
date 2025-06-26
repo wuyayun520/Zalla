@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatConsumption</key>
+	<string>zoneType</string>
+	<key>ignoredtickerright</key>
+	<string>lifecycleSpacing</string>
+	<key>permanentintensitydelay</key>
+	<string>shouldPersistMomentum</string>
+	<key>unsortedCell</key>
+	<string>minCache</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocurvevalidation</key>
+	<string>greatCache</string>
+	<key>firstAllocator</key>
+	<string>workflowLeft</string>
+	<key>presenterstrategyfeedback</key>
+	<string>dependencyorientation</string>
+	<key>scopeappearance</key>
+	<string>shouldSubscribeBaseline</string>
+	<key>sustainableConsumer</key>
+	<string>featurecompositemargin</string>
+</dict>
+</plist>

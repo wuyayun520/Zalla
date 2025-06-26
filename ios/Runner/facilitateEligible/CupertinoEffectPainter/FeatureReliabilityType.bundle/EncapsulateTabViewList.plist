@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelappearance</key>
+	<string>scrollrect</string>
+	<key>descriptormodule</key>
+	<string>grayscaleTail</string>
+	<key>futureconverter</key>
+	<string>createInjection</string>
+	<key>ignoredScalability</key>
+	<string>operationDistance</string>
+	<key>integerfragments</key>
+	<string>synchronousInteger</string>
+	<key>noderecursion</key>
+	<string>relationalCosine</string>
+	<key>prismaticText</key>
+	<string>diffableInfo</string>
+	<key>resizableParticle</key>
+	<string>diffableIndicator</string>
+	<key>shouldCancelRemainder</key>
+	<string>projectLeft</string>
+	<key>taxonomyOpacity</key>
+	<string>orchestrateRouter</string>
+</dict>
+</plist>

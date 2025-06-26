@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basetop</key>
+	<string>materialResilience</string>
+	<key>buttonShape</key>
+	<string>requestflags</string>
+	<key>effectDistance</key>
+	<string>maxMaster</string>
+	<key>functionalImage</key>
+	<string>storageMethod</string>
+	<key>immediateConfidentiality</key>
+	<string>prismaticSingleton</string>
+	<key>interactoroffset</key>
+	<string>canResumeScroll</string>
+	<key>shouldParseOption</key>
+	<string>continuethread</string>
+	<key>shouldResumeCupertino</key>
+	<string>managerduringjob</string>
+	<key>symmetricTentative</key>
+	<string>firstFragment</string>
+</dict>
+</plist>

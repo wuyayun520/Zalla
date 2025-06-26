@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasSkewX</key>
+	<string>globalGrayscale</string>
+	<key>decodestateless</key>
+	<string>canUnmountCheckbox</string>
+	<key>graphHead</key>
+	<string>enhanceTimer</string>
+	<key>litePoint</key>
+	<string>handlerOpacity</string>
+	<key>parallelDescent</key>
+	<string>storageObserver</string>
+	<key>particleoffset</key>
+	<string>canSkipChecklist</string>
+	<key>shouldDisposePlate</key>
+	<string>shouldFormatMovement</string>
+	<key>shouldSubscribeMatrix</key>
+	<string>immediateBox</string>
+</dict>
+</plist>

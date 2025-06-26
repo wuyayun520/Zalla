@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionanimation</key>
+	<string>holdNavigator</string>
+	<key>disparatecustompaintmargin</key>
+	<string>permutationResponse</string>
+	<key>dynamicDuration</key>
+	<string>shouldAttachSign</string>
+	<key>primaryPoint</key>
+	<string>gestureObserver</string>
+	<key>sharedCallback</key>
+	<string>responsivematrix</string>
+	<key>shouldAnimateInstruction</key>
+	<string>shouldNavigateWidget</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationwrapper</key>
+	<string>eraseText</string>
+	<key>euclideanScheduler</key>
+	<string>screenfuture</string>
+	<key>greatEntity</key>
+	<string>shouldPrepareMargin</string>
+	<key>prismaticNotifier</key>
+	<string>constraintevaluation</string>
+	<key>publicSensor</key>
+	<string>consumerTier</string>
+	<key>synchronousPicker</key>
+	<string>quantizerAction</string>
+	<key>topicacceleration</key>
+	<string>managerSystem</string>
+</dict>
+</plist>

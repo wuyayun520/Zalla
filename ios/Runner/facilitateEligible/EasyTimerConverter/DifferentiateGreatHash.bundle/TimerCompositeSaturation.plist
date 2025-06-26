@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxEdge</key>
+	<string>fillCurve</string>
+	<key>debugservice</key>
+	<string>cardOpacity</string>
+	<key>nativeSegue</key>
+	<string>statefulAppBar</string>
+	<key>pinchableBoxShadow</key>
+	<string>isMonster</string>
+	<key>shouldPersistCosine</key>
+	<string>layoutDistance</string>
+	<key>wrapusecase</key>
+	<string>canListenRoute</string>
+</dict>
+</plist>

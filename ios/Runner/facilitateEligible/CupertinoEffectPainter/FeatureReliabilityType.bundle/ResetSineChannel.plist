@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheInset</key>
+	<string>localizationType</string>
+	<key>comprehensivequeuedelay</key>
+	<string>enabledMargin</string>
+	<key>deactivatechapter</key>
+	<string>inheritedMetadata</string>
+	<key>directlyProcessor</key>
+	<string>themekind</string>
+	<key>rapidOptimizer</key>
+	<string>normalAmortization</string>
+	<key>triggerDistance</key>
+	<string>signNumber</string>
+</dict>
+</plist>

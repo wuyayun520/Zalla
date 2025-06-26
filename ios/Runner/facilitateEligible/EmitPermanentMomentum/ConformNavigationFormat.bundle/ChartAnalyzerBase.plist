@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncamortization</key>
+	<string>declarativeDisclaimer</string>
+	<key>diffableProcessor</key>
+	<string>calculateError</string>
+	<key>disabledbitratevalidation</key>
+	<string>immutableScenario</string>
+	<key>grainvisitorformat</key>
+	<string>imperativeFeature</string>
+	<key>menuKind</key>
+	<string>mountslider</string>
+	<key>searchbitrate</key>
+	<string>slidertension</string>
+	<key>transpilecanvas</key>
+	<string>techniqueComposite</string>
+</dict>
+</plist>

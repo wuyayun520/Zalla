@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteratfacade</key>
+	<string>pauseView</string>
+	<key>customColumn</key>
+	<string>provisionBrightness</string>
+	<key>dialogsnearbridge</key>
+	<string>endpresenter</string>
+	<key>euclideanProvider</key>
+	<string>hashVisibility</string>
+	<key>mechanismPadding</key>
+	<string>completedAnimation</string>
+	<key>protectedgraph</key>
+	<string>sizeScale</string>
+	<key>shouldpaintlistview</key>
+	<string>shouldEndCapacities</string>
+</dict>
+</plist>

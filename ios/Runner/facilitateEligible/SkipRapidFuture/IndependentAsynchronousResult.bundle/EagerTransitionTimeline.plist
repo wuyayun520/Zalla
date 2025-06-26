@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrectangle</key>
+	<string>loaderBorder</string>
+	<key>graphicBorder</key>
+	<string>connectCompleter</string>
+	<key>pivotalConstraint</key>
+	<string>smallcyclefeedback</string>
+	<key>slidersinceprocess</key>
+	<string>desktopOffset</string>
+	<key>threadSkewY</key>
+	<string>adaptiveConsumption</string>
+</dict>
+</plist>

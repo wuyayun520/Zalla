@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyBinder</key>
+	<string>requiredsubscriptionacceleration</string>
+	<key>requiredDependency</key>
+	<string>computeObserver</string>
+	<key>shouldCreateController</key>
+	<string>composableSelector</string>
+	<key>sortedgraphvisible</key>
+	<string>finishImage</string>
+	<key>streamlinebuilder</key>
+	<string>convolutionMethod</string>
+	<key>textfieldTop</key>
+	<string>disparateNorm</string>
+	<key>vectorTop</key>
+	<string>independentHandler</string>
+</dict>
+</plist>

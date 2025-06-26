@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionatstrategy</key>
+	<string>aggregateConstraint</string>
+	<key>defaultNotification</key>
+	<string>shouldUpdateInstruction</string>
+	<key>framename</key>
+	<string>iterativeScene</string>
+	<key>independentChallenge</key>
+	<string>smartImage</string>
+	<key>schedulerType</key>
+	<string>concurrentHeap</string>
+	<key>shouldStartSpine</key>
+	<string>resilientDispatcher</string>
+	<key>similarexpanded</key>
+	<string>canMountGestureDetector</string>
+</dict>
+</plist>

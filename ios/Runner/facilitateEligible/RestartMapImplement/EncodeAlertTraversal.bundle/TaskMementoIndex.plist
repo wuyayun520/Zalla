@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposecatalyst</key>
+	<string>stepPressure</string>
+	<key>dynamicpriority</key>
+	<string>tensorController</string>
+	<key>hasdocument</key>
+	<string>lastReference</string>
+	<key>inheritedFragment</key>
+	<string>shouldFormatTable</string>
+	<key>intuitiveTopic</key>
+	<string>utilscenario</string>
+	<key>unmountedallocator</key>
+	<string>animationtint</string>
+</dict>
+</plist>

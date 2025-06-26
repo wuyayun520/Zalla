@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCapacities</key>
+	<string>cupertinoSine</string>
+	<key>previewBottom</key>
+	<string>largeChannels</string>
+	<key>retainedRoute</key>
+	<string>histogramSpacing</string>
+	<key>sophisticatedMaterial</key>
+	<string>declarativeCanvas</string>
+</dict>
+</plist>

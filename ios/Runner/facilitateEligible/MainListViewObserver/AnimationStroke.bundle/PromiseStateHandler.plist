@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonStroke</key>
+	<string>globalTimer</string>
+	<key>mixinevent</key>
+	<string>interactorstroke</string>
+	<key>orchestratemember</key>
+	<string>cursorScale</string>
+	<key>reactivePageView</key>
+	<string>subsequentInfo</string>
+	<key>resilientCubit</key>
+	<string>detachTopic</string>
+	<key>shouldEndDocument</key>
+	<string>selectedNorm</string>
+	<key>shouldLayoutTextField</key>
+	<string>notifyAnimation</string>
+	<key>shouldcreatecontroller</key>
+	<string>zoneplatformspeed</string>
+</dict>
+</plist>

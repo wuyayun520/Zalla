@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcaption</key>
+	<string>challengeLocation</string>
+	<key>listviewawait</key>
+	<string>explicitTicker</string>
+	<key>onbrushtap</key>
+	<string>shouldRebuildContraction</string>
+	<key>shouldConnectUnary</key>
+	<string>marshalSink</string>
+	<key>vectorappearance</key>
+	<string>scenemend</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstEmitter</key>
+	<string>pivotalEffect</string>
+	<key>scalabilityDensity</key>
+	<string>displayableNorm</string>
+	<key>semanticView</key>
+	<string>adjustchapter</string>
+	<key>shoulddetachaxis</key>
+	<string>graphintemple</string>
+</dict>
+</plist>

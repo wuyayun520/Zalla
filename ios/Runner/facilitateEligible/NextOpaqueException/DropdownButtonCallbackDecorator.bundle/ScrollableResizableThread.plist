@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardItem</key>
+	<string>shouldRouteAppBar</string>
+	<key>defaultAnimation</key>
+	<string>globalJoiner</string>
+	<key>draggableMargin</key>
+	<string>graphCount</string>
+	<key>popuplevelfeedback</key>
+	<string>graphicjoiner</string>
+	<key>resilienceForce</key>
+	<string>standaloneternary</string>
+	<key>staticRequest</key>
+	<string>significantInfo</string>
+	<key>taskmetadata</key>
+	<string>reactiveChooser</string>
+</dict>
+</plist>

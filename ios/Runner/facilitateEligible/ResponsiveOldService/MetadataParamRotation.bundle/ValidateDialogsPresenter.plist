@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuecycle</key>
+	<string>substantialSubpixel</string>
+	<key>cosineShape</key>
+	<string>fixedRect</string>
+	<key>deferredSkin</key>
+	<string>animationdistinction</string>
+	<key>labelphasetag</key>
+	<string>sophisticatedAnimation</string>
+	<key>paddingBrightness</key>
+	<string>largeStore</string>
+	<key>toolAlignment</key>
+	<string>keySegue</string>
+</dict>
+</plist>

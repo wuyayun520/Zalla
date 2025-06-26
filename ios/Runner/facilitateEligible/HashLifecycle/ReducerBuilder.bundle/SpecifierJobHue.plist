@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTimeline</key>
+	<string>basicresolverfrequency</string>
+	<key>normalPageView</key>
+	<string>signbehavior</string>
+	<key>notifygrid</key>
+	<string>intermediateInteger</string>
+	<key>shouldLayoutSine</key>
+	<string>subscriberFlags</string>
+	<key>tablekindlocation</key>
+	<string>showCheckbox</string>
+</dict>
+</plist>

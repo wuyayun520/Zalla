@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorOrigin</key>
+	<string>shouldnotifyconvolution</string>
+	<key>declarativeListener</key>
+	<string>handleGesture</string>
+	<key>difficultEmitter</key>
+	<string>rectangleRight</string>
+	<key>easyMend</key>
+	<string>cupertinoDrawer</string>
+	<key>interfacevaluebound</key>
+	<string>independentHistogram</string>
+	<key>lastQuaternion</key>
+	<string>rebuildTable</string>
+	<key>shouldHandlePriority</key>
+	<string>controllerdecoratorfeedback</string>
+	<key>standaloneArithmetic</key>
+	<string>fragmentVisible</string>
+	<key>tickerBorder</key>
+	<string>maxBoxShadow</string>
+	<key>transformusecase</key>
+	<string>canDecodeCompletion</string>
+</dict>
+</plist>

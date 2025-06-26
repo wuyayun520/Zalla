@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinestrategyformat</key>
+	<string>interactorbridgecolor</string>
+	<key>globalFragments</key>
+	<string>discoverProvider</string>
+	<key>invisibleDecoration</key>
+	<string>behaviordensity</string>
+	<key>largeSplitter</key>
+	<string>usedClipper</string>
+	<key>lazyRecursion</key>
+	<string>shouldPublishArithmetic</string>
+	<key>mendColor</key>
+	<string>shouldSerializeScaffold</string>
+	<key>navigatorlifecycle</key>
+	<string>sustainableDrawer</string>
+</dict>
+</plist>

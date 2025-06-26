@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateprovider</key>
+	<string>futuresensor</string>
+	<key>deferredThroughput</key>
+	<string>advancedController</string>
+	<key>enabledstorehead</key>
+	<string>storetype</string>
+	<key>notificationvelocity</key>
+	<string>conformFactory</string>
+	<key>occasionPressure</key>
+	<string>agileprovidertension</string>
+	<key>opaquePainter</key>
+	<string>disabledScalability</string>
+	<key>tabledespiteproxy</key>
+	<string>dispatchfactory</string>
+</dict>
+</plist>

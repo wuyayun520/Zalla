@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExtension</key>
+	<string>shouldRebuildSlider</string>
+	<key>curvedensity</key>
+	<string>tweakFrequency</string>
+	<key>independentCycle</key>
+	<string>utilRight</string>
+	<key>missedbuffer</key>
+	<string>materializeModel</string>
+	<key>mountcurve</key>
+	<string>integrationOpacity</string>
+	<key>popdelegate</key>
+	<string>canKeepMobile</string>
+	<key>singleVolume</key>
+	<string>responderpadding</string>
+</dict>
+</plist>

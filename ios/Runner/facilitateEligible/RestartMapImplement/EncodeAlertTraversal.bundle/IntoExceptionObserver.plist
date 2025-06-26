@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalSpine</key>
+	<string>provideInjection</string>
+	<key>nativeinjection</key>
+	<string>dedicatedImage</string>
+	<key>newestdurationrate</key>
+	<string>rowDelay</string>
+	<key>threadTheme</key>
+	<string>independentBoxShadow</string>
+	<key>visualizeresult</key>
+	<string>maxAccessory</string>
+</dict>
+</plist>

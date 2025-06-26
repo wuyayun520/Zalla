@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMaster</key>
+	<string>customizedChannel</string>
+	<key>disconnectcubit</key>
+	<string>uniformAnimator</string>
+	<key>explicitDescent</key>
+	<string>offsetCubit</string>
+	<key>intermediateReceiver</key>
+	<string>priorAnalyzer</string>
+	<key>numericalShape</key>
+	<string>subtleExponent</string>
+	<key>seamlessPadding</key>
+	<string>managertaskname</string>
+</dict>
+</plist>

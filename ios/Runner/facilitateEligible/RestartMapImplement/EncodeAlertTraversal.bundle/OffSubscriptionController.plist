@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerarithmetic</key>
+	<string>beginnerslider</string>
+	<key>iterativeCurve</key>
+	<string>precisionEnvironment</string>
+	<key>joinerdelay</key>
+	<string>standaloneCaption</string>
+	<key>mainConnector</key>
+	<string>directSlider</string>
+	<key>prismaticNotification</key>
+	<string>gateAlignment</string>
+	<key>sessionscale</key>
+	<string>invisibleTheme</string>
+	<key>shouldformatcertificate</key>
+	<string>introspectDelegate</string>
+	<key>subtleEffect</key>
+	<string>shouldDeserializeTool</string>
+	<key>usageShade</key>
+	<string>nextMonster</string>
+</dict>
+</plist>

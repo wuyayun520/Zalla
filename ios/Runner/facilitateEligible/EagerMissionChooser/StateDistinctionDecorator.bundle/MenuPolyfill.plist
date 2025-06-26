@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>specifylabelcolor</key>
+	<string>renameEvent</string>
+	<key>specifypointcolor</key>
+	<string>fixedHeap</string>
+	<key>statefulGem</key>
+	<string>canTrainStep</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTopic</key>
+	<string>inactiveAperture</string>
+	<key>descriptoratparam</key>
+	<string>navigationTask</string>
+	<key>heroContrast</key>
+	<string>accessiblePageView</string>
+	<key>infoName</key>
+	<string>similarResult</string>
+	<key>inheritedSubscriber</key>
+	<string>escalateRequest</string>
+	<key>interfaceCenter</key>
+	<string>scrollableSession</string>
+	<key>intuitiveMapper</key>
+	<string>sineAppearance</string>
+	<key>mediocresignature</key>
+	<string>coordinatorscenario</string>
+	<key>shouldSetStateCheckbox</key>
+	<string>gemMemento</string>
+	<key>usedWidget</key>
+	<string>minContainer</string>
+</dict>
+</plist>

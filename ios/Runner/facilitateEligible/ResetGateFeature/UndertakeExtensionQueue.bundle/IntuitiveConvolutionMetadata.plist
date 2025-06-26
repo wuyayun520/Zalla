@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSkin</key>
+	<string>immediateStack</string>
+	<key>deserializemodel</key>
+	<string>mediumicon</string>
+	<key>euclideanalphastyle</key>
+	<string>independentMetrics</string>
+	<key>registeralignment</key>
+	<string>canAttachRichText</string>
+	<key>shouldReplaceSegue</key>
+	<string>disparateEquivalent</string>
+	<key>synchronousAscent</key>
+	<string>inflateTabBar</string>
+</dict>
+</plist>

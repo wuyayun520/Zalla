@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllercenter</key>
+	<string>canReplaceEntropy</string>
+	<key>enabledCache</key>
+	<string>flexibleProcessor</string>
+	<key>featureLocation</key>
+	<string>canNavigateSlash</string>
+	<key>oldGrid</key>
+	<string>restartCosine</string>
+	<key>respectiveFinder</key>
+	<string>animatedcontainerMediator</string>
+	<key>spotreducer</key>
+	<string>cupertinoEntity</string>
+	<key>synchronousMovement</key>
+	<string>textureskewx</string>
+	<key>tappableThreshold</key>
+	<string>wrapLayout</string>
+</dict>
+</plist>

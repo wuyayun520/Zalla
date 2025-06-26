@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserOrigin</key>
+	<string>animateFuture</string>
+	<key>observertemplemargin</key>
+	<string>storagetime</string>
+	<key>shouldEncodeScreen</key>
+	<string>shouldKeepCapsule</string>
+</dict>
+</plist>

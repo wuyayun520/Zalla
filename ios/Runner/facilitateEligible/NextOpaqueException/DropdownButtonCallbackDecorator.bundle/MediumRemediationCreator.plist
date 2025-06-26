@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLayer</key>
+	<string>quitswift</string>
+	<key>activatedefficiency</key>
+	<string>shouldShowEqualization</string>
+	<key>cartesianLoop</key>
+	<string>loopStyle</string>
+	<key>dispatcherTint</key>
+	<string>clearConstraint</string>
+	<key>publicRectangle</key>
+	<string>rendererState</string>
+	<key>restrictionLocation</key>
+	<string>disposeAppBar</string>
+	<key>scopeBrightness</key>
+	<string>transitionSignature</string>
+	<key>tappableinteraction</key>
+	<string>visibleBaseline</string>
+	<key>tickerorigin</key>
+	<string>challengeParameter</string>
+</dict>
+</plist>

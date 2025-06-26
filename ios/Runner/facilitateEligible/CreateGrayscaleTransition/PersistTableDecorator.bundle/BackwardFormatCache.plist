@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCompleter</key>
+	<string>bulletBehavior</string>
+	<key>custommethodbehavior</key>
+	<string>transformQueue</string>
+	<key>exponentstore</key>
+	<string>keyFinder</string>
+	<key>multiModal</key>
+	<string>resizableRouter</string>
+	<key>responsivehandler</key>
+	<string>keyGrayscale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectSize</key>
+	<string>enumerateparticle</string>
+	<key>commonAxis</key>
+	<string>publicgroup</string>
+	<key>globalSink</key>
+	<string>canLoadThread</string>
+	<key>pushboxshadow</key>
+	<string>canMountAxis</string>
+	<key>shouldSetStateText</key>
+	<string>notifyDecoration</string>
+</dict>
+</plist>

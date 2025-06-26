@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContainer</key>
+	<string>localDropdownButton</string>
+	<key>crucialStore</key>
+	<string>titleSpeed</string>
+	<key>enabledScenario</key>
+	<string>webProject</string>
+	<key>exceptionfeedback</key>
+	<string>lossValue</string>
+	<key>gridviewOrigin</key>
+	<string>dispatchDialogs</string>
+	<key>normalTriangles</key>
+	<string>prevOption</string>
+	<key>positionedTheme</key>
+	<string>materialQueue</string>
+	<key>rebuildtimer</key>
+	<string>certificateshape</string>
+	<key>replicaBound</key>
+	<string>flexibleFactory</string>
+</dict>
+</plist>

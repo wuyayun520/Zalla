@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertdialogs</key>
+	<string>largeMetadata</string>
+	<key>curveedge</key>
+	<string>durationCoord</string>
+	<key>directMechanism</key>
+	<string>ternaryComposite</string>
+	<key>provisionFormat</key>
+	<string>commonRadius</string>
+</dict>
+</plist>

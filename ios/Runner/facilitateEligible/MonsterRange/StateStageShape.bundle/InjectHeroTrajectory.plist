@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResilience</key>
+	<string>canUpdateTask</string>
+	<key>comparebutton</key>
+	<string>notifyChart</string>
+	<key>currentNavigation</key>
+	<string>textfieldPrototype</string>
+	<key>disabledresource</key>
+	<string>tensorGrain</string>
+	<key>expandedinaction</key>
+	<string>canDisconnectCurve</string>
+	<key>flexibleListView</key>
+	<string>setstatestep</string>
+	<key>prevTransformer</key>
+	<string>transformGift</string>
+	<key>reactiveInfrastructure</key>
+	<string>listenerframeworkposition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProject</key>
+	<string>firstGate</string>
+	<key>basicDecoration</key>
+	<string>rectifyprovider</string>
+	<key>coordinatorparametervisibility</key>
+	<string>canSaveButton</string>
+	<key>dynamicMap</key>
+	<string>renameAction</string>
+	<key>intuitiveConnector</key>
+	<string>momentumAdapter</string>
+	<key>mutableResilience</key>
+	<string>yieldController</string>
+	<key>nativeGesture</key>
+	<string>shouldAttachRichText</string>
+	<key>responderbrightness</key>
+	<string>displayableResilience</string>
+	<key>vectorbeyondtier</key>
+	<string>compositionaldropdownbuttontop</string>
+</dict>
+</plist>

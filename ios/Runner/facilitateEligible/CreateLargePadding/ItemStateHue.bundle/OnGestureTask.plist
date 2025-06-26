@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventdisclaimer</key>
+	<string>multiplicationSkewY</string>
+	<key>observerbehavior</key>
+	<string>difficultmonstertint</string>
+	<key>shouldBuildResource</key>
+	<string>equipmentDistance</string>
+	<key>tensorchannel</key>
+	<string>layoutCaption</string>
+</dict>
+</plist>

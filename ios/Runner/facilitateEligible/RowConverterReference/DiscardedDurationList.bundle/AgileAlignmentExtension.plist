@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerHue</key>
+	<string>shaderObserver</string>
+	<key>draggablereference</key>
+	<string>customizedSegue</string>
+	<key>inactiveIsolate</key>
+	<string>denseAudio</string>
+	<key>invisibleaccessoryhead</key>
+	<string>extensionAppearance</string>
+	<key>lazyProvider</key>
+	<string>escalateUtil</string>
+	<key>shouldNotifyStateful</key>
+	<string>secondReduction</string>
+	<key>shouldUnbindExtension</key>
+	<string>persistCard</string>
+	<key>subsequentRequest</key>
+	<string>shouldBuildConsumer</string>
+	<key>subtleData</key>
+	<string>mountedHero</string>
+</dict>
+</plist>

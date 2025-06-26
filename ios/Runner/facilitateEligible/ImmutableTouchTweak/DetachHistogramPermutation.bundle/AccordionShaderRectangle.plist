@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizeddata</key>
+	<string>debugcurve</string>
+	<key>layerfacadeoffset</key>
+	<string>shouldEndProvider</string>
+	<key>previewHue</key>
+	<string>dispatchBaseline</string>
+	<key>primaryWorkflow</key>
+	<string>elementskewy</string>
+	<key>resilientMetrics</key>
+	<string>canSubscribeUsage</string>
+	<key>richtextDistance</key>
+	<string>commonPainter</string>
+	<key>sequentialTransformer</key>
+	<string>deprecateLayer</string>
+	<key>shouldStreamHeap</key>
+	<string>stepascent</string>
+</dict>
+</plist>

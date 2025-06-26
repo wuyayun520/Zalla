@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonagainstform</key>
+	<string>columnmodeopacity</string>
+	<key>lazyTraversal</key>
+	<string>disparateBinary</string>
+	<key>onscaffoldchanged</key>
+	<string>denseAxis</string>
+	<key>receiverOffset</key>
+	<string>singletondepth</string>
+	<key>shouldProcessInstruction</key>
+	<string>holdChart</string>
+</dict>
+</plist>

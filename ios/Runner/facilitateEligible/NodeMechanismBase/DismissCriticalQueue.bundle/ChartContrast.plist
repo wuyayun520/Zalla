@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocexceptjob</key>
+	<string>advancedBuffer</string>
+	<key>disclaimerAlignment</key>
+	<string>appendmodulus</string>
+	<key>inheritedZone</key>
+	<string>dimensionopacity</string>
+	<key>polyfillInteraction</key>
+	<string>reducerMediator</string>
+	<key>shouldDisconnectOverlay</key>
+	<string>boxCenter</string>
+	<key>viewBehavior</key>
+	<string>rapidEntity</string>
+</dict>
+</plist>

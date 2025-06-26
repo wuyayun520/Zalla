@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMode</key>
+	<string>gridAppearance</string>
+	<key>deferredloopscale</key>
+	<string>routeEffect</string>
+	<key>freeswift</key>
+	<string>processStoryboard</string>
+	<key>injectionname</key>
+	<string>canReplaceDialogs</string>
+	<key>meshAcceleration</key>
+	<string>descriptioninteraction</string>
+	<key>primaryState</key>
+	<string>expandedTier</string>
+	<key>shouldTrainInstruction</key>
+	<string>paddingvideo</string>
+	<key>statefulName</key>
+	<string>cupertinoInterpolation</string>
+	<key>typicalMetadata</key>
+	<string>interfacerotation</string>
+	<key>unactivatedLatency</key>
+	<string>widgetskewy</string>
+</dict>
+</plist>

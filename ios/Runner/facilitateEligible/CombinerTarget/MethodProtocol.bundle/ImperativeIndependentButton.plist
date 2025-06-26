@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticShape</key>
+	<string>shouldYieldCaption</string>
+	<key>mainProfile</key>
+	<string>replicateParticle</string>
+	<key>precisionpercycle</key>
+	<string>shouldParseOption</string>
+	<key>prevRow</key>
+	<string>usecasebrightness</string>
+	<key>shouldHandleGradient</key>
+	<string>subsequentStrength</string>
+	<key>shouldReplaceCompletion</key>
+	<string>confidentialitySize</string>
+	<key>significantMember</key>
+	<string>deferredStateful</string>
+	<key>tentativeCoord</key>
+	<string>mapPrototype</string>
+	<key>unactivatedResource</key>
+	<string>mappercoord</string>
+</dict>
+</plist>

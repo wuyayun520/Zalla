@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTag</key>
+	<string>canPauseImage</string>
+	<key>declarativeKernel</key>
+	<string>sineSpacing</string>
+	<key>independentCoordinator</key>
+	<string>otherMember</string>
+	<key>processanimation</key>
+	<string>descentright</string>
+	<key>relationalLoss</key>
+	<string>inactiveOperation</string>
+	<key>shouldTransformMonster</key>
+	<string>giftMomentum</string>
+</dict>
+</plist>

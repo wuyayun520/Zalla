@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCallback</key>
+	<string>shouldPopGrayscale</string>
+	<key>compositionefficiency</key>
+	<string>deserializeCapsule</string>
+	<key>enabledTouch</key>
+	<string>presenterHue</string>
+	<key>gramMomentum</key>
+	<string>currentGestureDetector</string>
+	<key>requesttail</key>
+	<string>coordinatormomentum</string>
+	<key>sophisticatedManager</key>
+	<string>nodePhase</string>
+	<key>symmetricPresenter</key>
+	<string>localizationTag</string>
+</dict>
+</plist>

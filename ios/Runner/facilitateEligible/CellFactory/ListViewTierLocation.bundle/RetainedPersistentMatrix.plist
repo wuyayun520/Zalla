@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionColor</key>
+	<string>shouldMountedScreen</string>
+	<key>layoutprovider</key>
+	<string>standaloneModal</string>
+	<key>rowKind</key>
+	<string>multiSign</string>
+	<key>sequentialPermutation</key>
+	<string>slashValue</string>
+	<key>shouldHandleCosine</key>
+	<string>resumeMediaQuery</string>
+	<key>sophisticatedElasticity</key>
+	<string>skipslash</string>
+	<key>visibleResolver</key>
+	<string>finishScaffold</string>
+</dict>
+</plist>

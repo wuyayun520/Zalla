@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFuture</key>
+	<string>canCreateCoordinator</string>
+	<key>boxshadowparametershape</key>
+	<string>priorOverlay</string>
+	<key>componentStyle</key>
+	<string>scalabilitySaturation</string>
+	<key>concurrentQuaternion</key>
+	<string>animatetask</string>
+	<key>confidentialityRate</key>
+	<string>selectedMember</string>
+	<key>euclideanGram</key>
+	<string>canUnmountedContainer</string>
+	<key>monsterwidget</key>
+	<string>callbackdispatcher</string>
+	<key>persistentSlider</key>
+	<string>deferredImage</string>
+	<key>reactiveAwait</key>
+	<string>materialpadding</string>
+	<key>tensorRect</key>
+	<string>fillDescription</string>
+</dict>
+</plist>

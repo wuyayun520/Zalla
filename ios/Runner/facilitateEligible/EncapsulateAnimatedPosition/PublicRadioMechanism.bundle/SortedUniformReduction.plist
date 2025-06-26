@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTransparency</key>
+	<string>statefulindicator</string>
+	<key>asynchronousGrid</key>
+	<string>capsuleTag</string>
+	<key>fusedTransformer</key>
+	<string>websignature</string>
+	<key>managerEdge</key>
+	<string>reflectProvider</string>
+	<key>permanentPermutation</key>
+	<string>displayableSensor</string>
+	<key>pushusage</key>
+	<string>interactiveUseCase</string>
+	<key>sessionlinker</key>
+	<string>wrapAlignment</string>
+	<key>showaccessory</key>
+	<string>interceptPosition</string>
+</dict>
+</plist>

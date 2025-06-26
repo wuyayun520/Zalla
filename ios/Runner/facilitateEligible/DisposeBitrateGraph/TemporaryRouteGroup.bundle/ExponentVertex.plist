@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectalert</key>
+	<string>publiccustompaint</string>
+	<key>limitcontroller</key>
+	<string>buttonaudio</string>
+	<key>nodealignment</key>
+	<string>statefulInset</string>
+	<key>previewstatus</key>
+	<string>brushformat</string>
+	<key>touchContrast</key>
+	<string>sinkBrightness</string>
+	<key>transitiondensity</key>
+	<string>originalAccessory</string>
+	<key>webException</key>
+	<string>shouldHandleModulus</string>
+</dict>
+</plist>

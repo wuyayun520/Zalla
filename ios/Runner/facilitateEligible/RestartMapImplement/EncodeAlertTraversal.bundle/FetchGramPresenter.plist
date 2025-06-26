@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGate</key>
+	<string>smallDelegate</string>
+	<key>immediateConstraint</key>
+	<string>particleShape</string>
+	<key>layerTint</key>
+	<string>alertLevel</string>
+	<key>semanticStatus</key>
+	<string>scaffoldandwork</string>
+	<key>shouldEmitPositioned</key>
+	<string>asynctail</string>
+	<key>shouldNavigateCell</key>
+	<string>directlyCreator</string>
+	<key>similarView</key>
+	<string>delegateParameter</string>
+	<key>tensorStorage</key>
+	<string>extensionactivityindex</string>
+</dict>
+</plist>

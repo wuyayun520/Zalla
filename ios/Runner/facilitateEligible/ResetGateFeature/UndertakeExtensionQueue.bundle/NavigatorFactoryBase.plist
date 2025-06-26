@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMember</key>
+	<string>consultativeEmitter</string>
+	<key>hierarchicalLayer</key>
+	<string>secondCatalyst</string>
+	<key>imageInteraction</key>
+	<string>canStopClipper</string>
+	<key>parallelNavigation</key>
+	<string>displayablesubpixel</string>
+</dict>
+</plist>

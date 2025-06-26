@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorMomentum</key>
+	<string>cartesianListener</string>
+	<key>providerPosition</key>
+	<string>uniformAlpha</string>
+	<key>shouldRenderCanvas</key>
+	<string>minCache</string>
+	<key>subsequentReceiver</key>
+	<string>denseEqualization</string>
+	<key>touchInterval</key>
+	<string>entropyTheme</string>
+	<key>trainheap</key>
+	<string>shouldUnbindConstraint</string>
+	<key>wrapperBehavior</key>
+	<string>completionFeedback</string>
+</dict>
+</plist>

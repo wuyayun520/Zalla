@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionsincestyle</key>
+	<string>eagerbuttonindex</string>
+	<key>materializerName</key>
+	<string>retainedProtocol</string>
+	<key>renametransformer</key>
+	<string>uniqueImpression</string>
+	<key>selectedSkin</key>
+	<string>setstateflex</string>
+	<key>shouldResumeIcon</key>
+	<string>interpolateanchor</string>
+	<key>shouldpersistoverlay</key>
+	<string>animatorType</string>
+	<key>vertexFormat</key>
+	<string>missedaction</string>
+</dict>
+</plist>

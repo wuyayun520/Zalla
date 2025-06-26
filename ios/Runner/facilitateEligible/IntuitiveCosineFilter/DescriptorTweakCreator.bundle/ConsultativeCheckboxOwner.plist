@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcontextformat</key>
+	<string>resizableInteractor</string>
+	<key>groupskewx</key>
+	<string>uniqueScenario</string>
+	<key>independentcoordinatorskewy</key>
+	<string>canMountRichText</string>
+	<key>kernelmode</key>
+	<string>unactivatedAnimatedContainer</string>
+	<key>renderrow</key>
+	<string>analyzeTopic</string>
+	<key>taxonomyFeedback</key>
+	<string>positionedMediator</string>
+	<key>transformerInteraction</key>
+	<string>iterativeRoute</string>
+	<key>unactivatedTentative</key>
+	<string>hyperbolicColumn</string>
+</dict>
+</plist>

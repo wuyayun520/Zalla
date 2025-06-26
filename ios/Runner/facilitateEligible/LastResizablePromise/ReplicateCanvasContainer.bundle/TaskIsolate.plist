@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInterval</key>
+	<string>playSlider</string>
+	<key>comprehensiveTweak</key>
+	<string>reusablePreview</string>
+	<key>enabledhandler</key>
+	<string>flexibleLinker</string>
+	<key>imperativeTentative</key>
+	<string>spriteKind</string>
+	<key>infrastructureKind</key>
+	<string>cyclesaturation</string>
+	<key>paintroute</key>
+	<string>newestShader</string>
+	<key>shouldAnimateBitrate</key>
+	<string>checkboxCommand</string>
+	<key>shouldTransformConstraint</key>
+	<string>canSerializeTool</string>
+	<key>tabbarkind</key>
+	<string>threadAppearance</string>
+	<key>unsortedQueue</key>
+	<string>declarativeConvolution</string>
+</dict>
+</plist>

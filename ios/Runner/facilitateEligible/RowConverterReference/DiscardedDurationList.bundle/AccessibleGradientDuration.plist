@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerbridgecontrast</key>
+	<string>latencyInterval</string>
+	<key>euclideanAxis</key>
+	<string>receiverRate</string>
+	<key>globalBinder</key>
+	<string>layoutMedia</string>
+	<key>shouldShowOverlay</key>
+	<string>curvevalidation</string>
+</dict>
+</plist>

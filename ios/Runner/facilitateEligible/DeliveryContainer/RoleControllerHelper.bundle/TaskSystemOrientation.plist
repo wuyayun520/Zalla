@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorydensity</key>
+	<string>layeractivitykind</string>
+	<key>autoCosine</key>
+	<string>batchPadding</string>
+	<key>basicProgressBar</key>
+	<string>asyncBuffer</string>
+	<key>reactiveData</key>
+	<string>delicateMission</string>
+	<key>shouldHandlePoint</key>
+	<string>resultRight</string>
+	<key>shouldParseMaster</key>
+	<string>accessibleInteractor</string>
+	<key>temporaryRichText</key>
+	<string>computeService</string>
+	<key>unactivatedAmortization</key>
+	<string>canTrainCube</string>
+</dict>
+</plist>

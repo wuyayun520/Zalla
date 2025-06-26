@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostFuture</key>
+	<string>canReplaceDocument</string>
+	<key>retainedchannelacceleration</key>
+	<string>popupForce</string>
+	<key>screenResponse</key>
+	<string>synchronousClipper</string>
+	<key>spineevolution</key>
+	<string>benchmarkLayout</string>
+	<key>themeformat</key>
+	<string>finishStateful</string>
+</dict>
+</plist>

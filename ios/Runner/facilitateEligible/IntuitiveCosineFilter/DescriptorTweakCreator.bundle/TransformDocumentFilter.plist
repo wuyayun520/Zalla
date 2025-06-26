@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTentative</key>
+	<string>techniqueCenter</string>
+	<key>constraintEdge</key>
+	<string>stepflags</string>
+	<key>entropyindex</key>
+	<string>cosineBuffer</string>
+	<key>requestcache</key>
+	<string>loopOffset</string>
+	<key>resilienceColor</key>
+	<string>iterativecontroller</string>
+	<key>routespeed</key>
+	<string>tensorDescent</string>
+</dict>
+</plist>

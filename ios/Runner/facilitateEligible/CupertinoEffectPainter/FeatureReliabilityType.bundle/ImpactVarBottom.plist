@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSensor</key>
+	<string>convolutionlinker</string>
+	<key>compositionalChapter</key>
+	<string>deliveryState</string>
+	<key>explicitOperation</key>
+	<string>shouldEndProfile</string>
+	<key>granularobserver</key>
+	<string>cardScale</string>
+	<key>latencyLocation</key>
+	<string>customMetadata</string>
+	<key>shouldContinueUnary</key>
+	<string>utilSpeed</string>
+	<key>shouldInflateOperation</key>
+	<string>provisionInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorKind</key>
+	<string>semanticPosition</string>
+	<key>consultativeCheckbox</key>
+	<string>iterativeLoss</string>
+	<key>directDescription</key>
+	<string>tensorLabel</string>
+	<key>displayablerole</key>
+	<string>observerVar</string>
+	<key>flexibleModal</key>
+	<string>unmountBatch</string>
+	<key>heapOrientation</key>
+	<string>shouldSkipDrawer</string>
+	<key>immediateInstruction</key>
+	<string>canUnmountPromise</string>
+	<key>shouldReplaceReference</key>
+	<string>notifyFlex</string>
+</dict>
+</plist>

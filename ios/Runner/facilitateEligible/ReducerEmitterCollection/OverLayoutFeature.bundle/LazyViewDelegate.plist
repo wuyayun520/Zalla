@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintintegration</key>
+	<string>promisescheduler</string>
+	<key>durationandoperation</key>
+	<string>semanticDispatcher</string>
+	<key>exponentStyle</key>
+	<string>writeConfiguration</string>
+	<key>futurebridgeedge</key>
+	<string>priorityamongpattern</string>
+	<key>invisiblepoint</key>
+	<string>canSkipRole</string>
+	<key>largeScenario</key>
+	<string>ignoredPosition</string>
+	<key>mediumNotifier</key>
+	<string>moduleRotation</string>
+	<key>shouldNavigateGate</key>
+	<string>textBound</string>
+	<key>statelessoperationleft</key>
+	<string>greatModulus</string>
+</dict>
+</plist>

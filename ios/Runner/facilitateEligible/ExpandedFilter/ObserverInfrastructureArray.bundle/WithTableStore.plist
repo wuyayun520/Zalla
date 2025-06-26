@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialname</key>
+	<string>materializerAcceleration</string>
+	<key>positionedValidation</key>
+	<string>densecontainerfeedback</string>
+	<key>rolemenu</key>
+	<string>cupertinoKind</string>
+	<key>shouldHandleProtocol</key>
+	<string>reactivestatus</string>
+	<key>shouldPersistSkin</key>
+	<string>canShowMap</string>
+</dict>
+</plist>

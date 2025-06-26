@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadio</key>
+	<string>reconcileSlider</string>
+	<key>associatedChannels</key>
+	<string>aggregateWidget</string>
+	<key>curveresponse</key>
+	<string>locateResource</string>
+	<key>liteSubpixel</key>
+	<string>publicDescription</string>
+	<key>priorModulus</key>
+	<string>tweenName</string>
+	<key>protectedMerger</key>
+	<string>resilientTimer</string>
+	<key>restartgradient</key>
+	<string>shouldFetchSine</string>
+	<key>shouldPaintCustomPaint</key>
+	<string>staticscalability</string>
+	<key>statelessmodevalidation</key>
+	<string>sharedStoryboard</string>
+	<key>storeMargin</key>
+	<string>disabledResource</string>
+</dict>
+</plist>

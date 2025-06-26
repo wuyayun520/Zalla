@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedequipment</key>
+	<string>frameDirection</string>
+	<key>entropyInteraction</key>
+	<string>playError</string>
+	<key>explicitstateless</key>
+	<string>activeTween</string>
+	<key>granularCubit</key>
+	<string>detachChart</string>
+	<key>intermediatePlate</key>
+	<string>stateSingleton</string>
+	<key>mediaqueryDistance</key>
+	<string>detachTechnique</string>
+	<key>scenarioType</key>
+	<string>prismaticCubit</string>
+</dict>
+</plist>

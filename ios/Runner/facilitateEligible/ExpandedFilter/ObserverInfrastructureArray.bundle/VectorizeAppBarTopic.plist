@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcompletion</key>
+	<string>multiSymbol</string>
+	<key>awaitactionbehavior</key>
+	<string>setstateSession</string>
+	<key>commonmonstervisible</key>
+	<string>shouldTrainNotification</string>
+	<key>shouldUnmountedSlider</key>
+	<string>shouldShowDescriptor</string>
+</dict>
+</plist>

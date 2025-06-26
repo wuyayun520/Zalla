@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionaperturetheme</key>
+	<string>webinformation</string>
+	<key>animationflags</key>
+	<string>viewinsidefunction</string>
+	<key>autoEquipment</key>
+	<string>trianglesRight</string>
+	<key>currentInkWell</key>
+	<string>canShowResource</string>
+	<key>nativeBullet</key>
+	<string>descriptionshape</string>
+	<key>normalaction</key>
+	<string>subsequentRichText</string>
+	<key>restartslash</key>
+	<string>saveChecklist</string>
+	<key>shouldDispatchVariant</key>
+	<string>concurrentNotifier</string>
+	<key>shouldTransitionTool</key>
+	<string>sampleKind</string>
+	<key>videostatus</key>
+	<string>intermediateScale</string>
+</dict>
+</plist>

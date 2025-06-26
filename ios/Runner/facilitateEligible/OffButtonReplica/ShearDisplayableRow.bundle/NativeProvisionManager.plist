@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTheme</key>
+	<string>subpixelBorder</string>
+	<key>behaviorMomentum</key>
+	<string>associatemomentum</string>
+	<key>difficultAllocator</key>
+	<string>rapidAnimation</string>
+	<key>drawerbuffer</key>
+	<string>paintSensor</string>
+	<key>mediumAudio</key>
+	<string>cardRight</string>
+	<key>responsiveDimension</key>
+	<string>shouldMountBatch</string>
+	<key>shouldUnmountedMaster</key>
+	<string>composableRequest</string>
+</dict>
+</plist>

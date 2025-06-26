@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaHead</key>
+	<string>basicPermutation</string>
+	<key>deferredCompleter</key>
+	<string>insteadError</string>
+	<key>disparateCupertino</key>
+	<string>shouldPublishGrayscale</string>
+	<key>normalPolyfill</key>
+	<string>gridEnvironment</string>
+	<key>secondSprite</key>
+	<string>inkwellResponse</string>
+	<key>shouldTrainTextField</key>
+	<string>mapSpeed</string>
+	<key>sizeinterval</key>
+	<string>firstFrame</string>
+	<key>statefulConfiguration</key>
+	<string>instantiateSize</string>
+</dict>
+</plist>

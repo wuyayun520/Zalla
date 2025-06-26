@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousequivalent</key>
+	<string>shouldRestartBloc</string>
+	<key>delegateframeworkdensity</key>
+	<string>fetchnavigator</string>
+	<key>interactiveSession</key>
+	<string>evaluateCubit</string>
+	<key>retainedLatency</key>
+	<string>nextAudio</string>
+	<key>shouldProcessPositioned</key>
+	<string>nodesingletonbound</string>
+</dict>
+</plist>

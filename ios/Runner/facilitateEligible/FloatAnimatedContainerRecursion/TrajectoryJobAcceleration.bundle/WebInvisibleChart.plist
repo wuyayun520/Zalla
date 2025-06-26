@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatedelay</key>
+	<string>searcherDuration</string>
+	<key>durationpadding</key>
+	<string>criticalTrajectory</string>
+	<key>imperativeStatus</key>
+	<string>mainframe</string>
+	<key>informationFormat</key>
+	<string>rebuildcertificate</string>
+	<key>onmobiletap</key>
+	<string>canDetachUnary</string>
+	<key>providequeue</key>
+	<string>smallCreator</string>
+	<key>shouldProcessSubpixel</key>
+	<string>hasSpecifier</string>
+	<key>standaloneColor</key>
+	<string>quantizationSize</string>
+</dict>
+</plist>

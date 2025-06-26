@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerShape</key>
+	<string>crudePager</string>
+	<key>comprehensiveLatency</key>
+	<string>smallLatency</string>
+	<key>dedicatedProfile</key>
+	<string>debugPreview</string>
+	<key>deferredNavigation</key>
+	<string>webEmitter</string>
+	<key>instructionnavigator</key>
+	<string>subscriberbehavior</string>
+	<key>shouldLoadHistogram</key>
+	<string>pauseDuration</string>
+</dict>
+</plist>

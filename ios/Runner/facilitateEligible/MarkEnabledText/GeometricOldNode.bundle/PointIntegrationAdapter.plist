@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTexture</key>
+	<string>animationSystem</string>
+	<key>containerandflyweight</key>
+	<string>emitObserver</string>
+	<key>descentInset</key>
+	<string>listenTween</string>
+	<key>frameFeedback</key>
+	<string>completionNumber</string>
+	<key>greatScope</key>
+	<string>brushstylepadding</string>
+	<key>methodspeed</key>
+	<string>iscoordinator</string>
+	<key>responsiveBorder</key>
+	<string>largeTheme</string>
+	<key>shouldTransitionListView</key>
+	<string>persistGift</string>
+</dict>
+</plist>

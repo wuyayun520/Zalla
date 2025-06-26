@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveGram</key>
+	<string>setstateCard</string>
+	<key>locknorm</key>
+	<string>priorityitem</string>
+	<key>oldTimer</key>
+	<string>promiseMargin</string>
+	<key>protectedUnary</key>
+	<string>otherDuration</string>
+	<key>robustDecoration</key>
+	<string>stopframe</string>
+	<key>roleresolver</key>
+	<string>hasmediaquery</string>
+	<key>standaloneRichText</key>
+	<string>canDismissAspectRatio</string>
+	<key>subsequentActivity</key>
+	<string>originalProvision</string>
+	<key>timelineHue</key>
+	<string>firstEntity</string>
+</dict>
+</plist>

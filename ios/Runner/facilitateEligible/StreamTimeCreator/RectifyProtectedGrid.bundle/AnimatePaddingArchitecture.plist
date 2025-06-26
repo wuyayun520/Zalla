@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCustomPaint</key>
+	<string>stepforlayer</string>
+	<key>defaultInstruction</key>
+	<string>asynchronousStack</string>
+	<key>elasticTransition</key>
+	<string>traversalDirection</string>
+	<key>elasticpositiontype</key>
+	<string>handleProject</string>
+	<key>pivotalMap</key>
+	<string>symmetricStateful</string>
+	<key>standaloneComponent</key>
+	<string>channelsDelay</string>
+	<key>uniformButton</key>
+	<string>masterBridge</string>
+	<key>zonekindrotation</key>
+	<string>shoulddisconnectcoordinator</string>
+</dict>
+</plist>

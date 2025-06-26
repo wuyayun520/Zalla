@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVertex</key>
+	<string>statelessMerger</string>
+	<key>accordionVideo</key>
+	<string>scaleParameter</string>
+	<key>alignmentmode</key>
+	<string>invisibleRect</string>
+	<key>equalanimatedcontainer</key>
+	<string>segueservice</string>
+	<key>hasUnary</key>
+	<string>activatedlayoutvisible</string>
+	<key>petShade</key>
+	<string>queueorigin</string>
+	<key>shouldTransformCatalyst</key>
+	<string>evaluateTimer</string>
+	<key>specifyNib</key>
+	<string>deployException</string>
+</dict>
+</plist>

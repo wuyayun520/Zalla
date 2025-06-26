@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationopacity</key>
+	<string>observerVisible</string>
+	<key>geometricBehavior</key>
+	<string>boxshadowObserver</string>
+	<key>materialAnimator</key>
+	<string>stateTier</string>
+	<key>menuHue</key>
+	<string>attachAwait</string>
+	<key>relationalreliability</key>
+	<string>referenceCommand</string>
+	<key>shouldUnmountCurve</key>
+	<string>shouldEncodeStateful</string>
+	<key>subsequentFilter</key>
+	<string>notifierForm</string>
+	<key>tensorOverlay</key>
+	<string>restartMedia</string>
+</dict>
+</plist>

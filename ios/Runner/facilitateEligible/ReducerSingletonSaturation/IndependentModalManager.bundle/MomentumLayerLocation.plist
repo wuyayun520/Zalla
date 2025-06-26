@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflatemethod</key>
+	<string>polyfillLeft</string>
+	<key>oldsizedboxmargin</key>
+	<string>usecaseOrigin</string>
+	<key>segmentDelay</key>
+	<string>cartesianRemediation</string>
+	<key>shouldConnectSpine</key>
+	<string>canMountStateful</string>
+	<key>shouldLayoutMusic</key>
+	<string>reusableFragments</string>
+	<key>shouldRebuildWorkflow</key>
+	<string>mountVariant</string>
+</dict>
+</plist>

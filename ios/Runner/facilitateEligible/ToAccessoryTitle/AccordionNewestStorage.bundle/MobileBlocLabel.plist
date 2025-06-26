@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicContrast</key>
+	<string>shouldmountnorm</string>
+	<key>gesturedetectorefficiency</key>
+	<string>easyConsumer</string>
+	<key>interactivesegmenttransparency</key>
+	<string>interactiveQuaternion</string>
+	<key>iterativeAudio</key>
+	<string>popupFlags</string>
+	<key>momentumResponse</key>
+	<string>globalMediaQuery</string>
+	<key>shouldSerializeAnimatedContainer</key>
+	<string>secondCube</string>
+	<key>shouldValidateLog</key>
+	<string>createClipper</string>
+	<key>splitterOpacity</key>
+	<string>respondParticle</string>
+</dict>
+</plist>

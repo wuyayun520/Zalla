@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsoutsidestrategy</key>
+	<string>sustainablePublisher</string>
+	<key>executeerror</key>
+	<string>requiredCombiner</string>
+	<key>explicitBaseline</key>
+	<string>disparateoptimizerbrightness</string>
+	<key>firstequivalent</key>
+	<string>priorMember</string>
+	<key>pageviewskewy</key>
+	<string>shouldUnmountedMobile</string>
+	<key>replicaDensity</key>
+	<string>sharedThread</string>
+	<key>smallPainter</key>
+	<string>synchronousStrength</string>
+	<key>splitterHue</key>
+	<string>overlayMargin</string>
+	<key>subtleDelegate</key>
+	<string>directlyTangent</string>
+	<key>tolerancetheme</key>
+	<string>shouldpushoperation</string>
+</dict>
+</plist>

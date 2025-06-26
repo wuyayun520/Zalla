@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableConnector</key>
+	<string>canEmitCache</string>
+	<key>enabledFilter</key>
+	<string>declarativeInstruction</string>
+	<key>iterativeRange</key>
+	<string>intensityCycle</string>
+	<key>liteCube</key>
+	<string>durationagainstpattern</string>
+	<key>provideisolate</key>
+	<string>presenterVelocity</string>
+	<key>reconcilegrain</key>
+	<string>prepareNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedProvision</key>
+	<string>displayableBatch</string>
+	<key>gridviewSkewY</key>
+	<string>startentity</string>
+	<key>immutableCubit</key>
+	<string>canRenderCoordinator</string>
+	<key>independentAlignment</key>
+	<string>injectswitch</string>
+	<key>shouldDismissInstruction</key>
+	<string>beginnerTransformer</string>
+	<key>stackCenter</key>
+	<string>keepCurve</string>
+</dict>
+</plist>

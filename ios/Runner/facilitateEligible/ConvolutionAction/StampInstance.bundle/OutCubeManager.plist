@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertransition</key>
+	<string>canUnmountBox</string>
+	<key>criticalPromise</key>
+	<string>responsiveAsset</string>
+	<key>discardedTechnique</key>
+	<string>stopComposition</string>
+	<key>methodBottom</key>
+	<string>numericalThroughput</string>
+	<key>reusableAwait</key>
+	<string>alertVisibility</string>
+</dict>
+</plist>

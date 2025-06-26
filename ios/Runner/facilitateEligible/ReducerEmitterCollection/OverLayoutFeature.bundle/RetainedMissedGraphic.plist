@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTransition</key>
+	<string>composableEfficiency</string>
+	<key>dynamicBuffer</key>
+	<string>polygondistance</string>
+	<key>normalSlider</key>
+	<string>storeDepth</string>
+	<key>shouldAttachTechnique</key>
+	<string>dropoutListener</string>
+	<key>shouldInflateAlpha</key>
+	<string>canDisconnectBuilder</string>
+	<key>shouldSerializeScaffold</key>
+	<string>canPushEffect</string>
+	<key>touchequalization</key>
+	<string>permanentThread</string>
+</dict>
+</plist>

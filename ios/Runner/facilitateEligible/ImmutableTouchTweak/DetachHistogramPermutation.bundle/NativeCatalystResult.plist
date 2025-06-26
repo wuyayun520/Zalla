@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionstyle</key>
+	<string>curveuntilphase</string>
+	<key>disposebehavior</key>
+	<string>normalMultiplication</string>
+	<key>effectnearpattern</key>
+	<string>pinchableReducer</string>
+	<key>permanentGraphic</key>
+	<string>pushMargin</string>
+	<key>startrequest</key>
+	<string>screenEdge</string>
+	<key>tweenTension</key>
+	<string>movementscalability</string>
+</dict>
+</plist>

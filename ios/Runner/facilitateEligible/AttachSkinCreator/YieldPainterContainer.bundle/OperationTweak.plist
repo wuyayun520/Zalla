@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCount</key>
+	<string>resolvertraversal</string>
+	<key>layoutFrequency</key>
+	<string>mountedRoute</string>
+	<key>mapdecoratorhue</key>
+	<string>borderDelay</string>
+	<key>pinchablePlayback</key>
+	<string>priorityTag</string>
+	<key>semanticCursor</key>
+	<string>eventCycle</string>
+	<key>shouldCreateMember</key>
+	<string>canPauseGestureDetector</string>
+	<key>similargroup</key>
+	<string>syncRow</string>
+</dict>
+</plist>

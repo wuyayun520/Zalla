@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutsymbol</key>
+	<string>basicEffect</string>
+	<key>mobileParticle</key>
+	<string>priorconsumer</string>
+	<key>paralleldimension</key>
+	<string>activeLoss</string>
+	<key>particleinterpreterappearance</key>
+	<string>promiseDistance</string>
+	<key>shouldskiplayout</key>
+	<string>renameFactory</string>
+</dict>
+</plist>

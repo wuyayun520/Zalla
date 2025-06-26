@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncagainstmode</key>
+	<string>canDetachMargin</string>
+	<key>concreteFormat</key>
+	<string>expandedOpacity</string>
+	<key>configurationperplatform</key>
+	<string>listviewChain</string>
+	<key>eagerPresenter</key>
+	<string>roleactionmargin</string>
+	<key>iterativeDialogs</key>
+	<string>lazyException</string>
+	<key>retainedTouch</key>
+	<string>canStartStep</string>
+	<key>shouldBuildPet</key>
+	<string>showAppBar</string>
+</dict>
+</plist>

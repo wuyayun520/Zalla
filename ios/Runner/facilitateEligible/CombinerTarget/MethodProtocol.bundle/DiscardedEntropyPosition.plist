@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyStroke</key>
+	<string>textscheduler</string>
+	<key>enabledBinder</key>
+	<string>delicateSkin</string>
+	<key>schemaStyle</key>
+	<string>shouldinflatetextfield</string>
+	<key>titledespiteparameter</key>
+	<string>easyLocalization</string>
+	<key>titlethreshold</key>
+	<string>shapeInset</string>
+</dict>
+</plist>

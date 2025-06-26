@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDelay</key>
+	<string>imperativeStep</string>
+	<key>backwardMesh</key>
+	<string>mediumvolume</string>
+	<key>persistentModel</key>
+	<string>retainedUsage</string>
+	<key>progressbarforce</key>
+	<string>protectedcomponent</string>
+	<key>rectangleCenter</key>
+	<string>dynamicRadio</string>
+	<key>shouldFetchNib</key>
+	<string>stampfeature</string>
+	<key>utildirection</key>
+	<string>sharedListView</string>
+</dict>
+</plist>

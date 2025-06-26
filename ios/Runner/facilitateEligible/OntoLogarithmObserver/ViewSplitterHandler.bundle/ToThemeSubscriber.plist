@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachtitle</key>
+	<string>canTransitionCanvas</string>
+	<key>dispatchertag</key>
+	<string>semanticsContext</string>
+	<key>featureSaturation</key>
+	<string>sinktag</string>
+	<key>masterMomentum</key>
+	<string>charactervelocity</string>
+	<key>shouldHandleAlert</key>
+	<string>checkboxCount</string>
+</dict>
+</plist>

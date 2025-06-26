@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableinteractor</key>
+	<string>grainBrightness</string>
+	<key>dispatcherCount</key>
+	<string>permanentStoryboard</string>
+	<key>interactiveTransition</key>
+	<string>frameComposite</string>
+	<key>mainReplica</key>
+	<string>lostCaption</string>
+	<key>nativeDropdownButton</key>
+	<string>resolverRotation</string>
+	<key>protectedCollection</key>
+	<string>temporaryItem</string>
+	<key>shouldBuildNotification</key>
+	<string>shouldUnbindVariant</string>
+	<key>shouldEndInstruction</key>
+	<string>techniqueparameterbrightness</string>
+</dict>
+</plist>

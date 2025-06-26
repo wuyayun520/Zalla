@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBase</key>
+	<string>gesturePadding</string>
+	<key>inheritedConfidentiality</key>
+	<string>explicitDistinction</string>
+	<key>layervalidation</key>
+	<string>shouldMountedEqualization</string>
+	<key>liteAsset</key>
+	<string>sorterRight</string>
+	<key>mainScroller</key>
+	<string>listviewerror</string>
+	<key>profilestore</key>
+	<string>hierarchicalCharacter</string>
+	<key>resizebehavior</key>
+	<string>bindgrayscale</string>
+	<key>respectiveentropy</key>
+	<string>resolvegesture</string>
+	<key>respectiveinterpolationalignment</key>
+	<string>symbolbuilder</string>
+	<key>scenariotop</key>
+	<string>ephemeralException</string>
+</dict>
+</plist>

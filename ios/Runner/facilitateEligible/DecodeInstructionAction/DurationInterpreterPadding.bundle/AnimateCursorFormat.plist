@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderincludecycle</key>
+	<string>primaryAnchor</string>
+	<key>dispatchoverlay</key>
+	<string>shouldRebuildPageView</string>
+	<key>isCertificate</key>
+	<string>fillGrid</string>
+	<key>mobileSingleton</key>
+	<string>usedExponent</string>
+	<key>otherStrength</key>
+	<string>statefulRestriction</string>
+	<key>persistentItem</key>
+	<string>intermediateCustomPaint</string>
+	<key>persistentscheduler</key>
+	<string>synchronousDuration</string>
+	<key>shouldroutetouch</key>
+	<string>shouldTransitionCupertino</string>
+	<key>vertexFormat</key>
+	<string>hardScalability</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthinset</key>
+	<string>ephemeralobserver</string>
+	<key>currentContainer</key>
+	<string>shouldDisconnectExpanded</string>
+	<key>currentflex</key>
+	<string>shouldFormatPriority</string>
+	<key>descriptorPadding</key>
+	<string>advancedGem</string>
+	<key>discardedCursor</key>
+	<string>smallTransition</string>
+	<key>persistentState</key>
+	<string>tappableLayout</string>
+	<key>profileBorder</key>
+	<string>subscribeSymbol</string>
+	<key>rendererType</key>
+	<string>draggableProvision</string>
+	<key>shouldDetachPlayback</key>
+	<string>mainStoryboard</string>
+</dict>
+</plist>

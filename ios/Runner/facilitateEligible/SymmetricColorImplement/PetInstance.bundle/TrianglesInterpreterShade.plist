@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPopup</key>
+	<string>channelName</string>
+	<key>concreteRadio</key>
+	<string>smartResponder</string>
+	<key>consumerPadding</key>
+	<string>diffableListView</string>
+	<key>currentDependency</key>
+	<string>canRouteAspect</string>
+	<key>diversifiedOperation</key>
+	<string>advancedContraction</string>
+	<key>iterativeshader</key>
+	<string>margininset</string>
+	<key>prismaticBorder</key>
+	<string>canYieldSlash</string>
+	<key>respectiveScheduler</key>
+	<string>sustainableBehavior</string>
+	<key>taskbeyondstructure</key>
+	<string>seamlessobserver</string>
+</dict>
+</plist>

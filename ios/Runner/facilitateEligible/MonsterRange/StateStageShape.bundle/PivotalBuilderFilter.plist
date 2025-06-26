@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBehavior</key>
+	<string>dialogsAppearance</string>
+	<key>cacheinterpolation</key>
+	<string>inactiveReducer</string>
+	<key>consultativeTopic</key>
+	<string>subsequentScroller</string>
+	<key>liteProjection</key>
+	<string>shouldFormatCoordinator</string>
+	<key>multiTicker</key>
+	<string>unregisterZone</string>
+	<key>musicHead</key>
+	<string>annotateLocalization</string>
+	<key>protocolaction</key>
+	<string>cartesianTabView</string>
+	<key>routerthroughmediator</key>
+	<string>prepareTabView</string>
+	<key>shouldcontinuescroll</key>
+	<string>popupVisible</string>
+	<key>variantColor</key>
+	<string>meshDensity</string>
+</dict>
+</plist>

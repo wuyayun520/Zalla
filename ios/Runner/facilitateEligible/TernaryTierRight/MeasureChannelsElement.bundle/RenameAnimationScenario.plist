@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeChallenge</key>
+	<string>rectleft</string>
+	<key>diversifiedmethod</key>
+	<string>emitterMode</string>
+	<key>interfaceBorder</key>
+	<string>sortedTraversal</string>
+	<key>shouldBuildAxis</key>
+	<string>independentInterface</string>
+	<key>shouldTransitionKernel</key>
+	<string>animatedreducer</string>
+	<key>shouldUnbindCapacities</key>
+	<string>pickerspeed</string>
+	<key>shoulddisconnectnotification</key>
+	<string>pickerLocation</string>
+	<key>tensorLogarithm</key>
+	<string>activeCompleter</string>
+</dict>
+</plist>

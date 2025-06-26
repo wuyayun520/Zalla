@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableModule</key>
+	<string>publicNib</string>
+	<key>histogrammementomode</key>
+	<string>cubitSpacing</string>
+	<key>inactiveMaster</key>
+	<string>bitrateSaturation</string>
+	<key>methodnearcommand</key>
+	<string>validateSensor</string>
+	<key>refreshmethod</key>
+	<string>replicateNode</string>
+	<key>shouldPauseScreen</key>
+	<string>shouldFormatStep</string>
+	<key>tappablerequest</key>
+	<string>exponentComposite</string>
+	<key>usedTolerance</key>
+	<string>concreteProfile</string>
+</dict>
+</plist>

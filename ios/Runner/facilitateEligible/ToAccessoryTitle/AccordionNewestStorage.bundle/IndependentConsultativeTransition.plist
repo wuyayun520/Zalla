@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextIntegration</key>
+	<string>shadertriangles</string>
+	<key>routeatscope</key>
+	<string>sustainablegraphstate</string>
+	<key>rowallocator</key>
+	<string>materialController</string>
+	<key>sessionintegration</key>
+	<string>usecaseTask</string>
+	<key>synchronousView</key>
+	<string>activityName</string>
+</dict>
+</plist>

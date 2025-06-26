@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoryboard</key>
+	<string>canUpdateResource</string>
+	<key>labelintegrity</key>
+	<string>thresholdBottom</string>
+	<key>publicResponse</key>
+	<string>canStreamSubpixel</string>
+	<key>selectedMedia</key>
+	<string>agileTrajectory</string>
+	<key>standaloneReference</key>
+	<string>canListenGraphic</string>
+	<key>techniquebufferduration</key>
+	<string>createsegment</string>
+</dict>
+</plist>

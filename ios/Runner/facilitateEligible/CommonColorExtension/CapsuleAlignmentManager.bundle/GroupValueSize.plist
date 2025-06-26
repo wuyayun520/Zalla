@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRow</key>
+	<string>consultativeGestureDetector</string>
+	<key>autograinbottom</key>
+	<string>permanentLoader</string>
+	<key>consultativetraversal</key>
+	<string>capacitiesType</string>
+	<key>coordinatorColor</key>
+	<string>accessibleMargin</string>
+	<key>dynamicProtocol</key>
+	<string>shouldStartTouch</string>
+	<key>originalTool</key>
+	<string>largeConstraint</string>
+	<key>sinkTag</key>
+	<string>shouldBuildButton</string>
+</dict>
+</plist>

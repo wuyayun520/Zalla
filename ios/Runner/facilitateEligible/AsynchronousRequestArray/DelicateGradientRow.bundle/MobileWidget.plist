@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGraph</key>
+	<string>consumeTopic</string>
+	<key>brushMode</key>
+	<string>delegateRow</string>
+	<key>directEquivalent</key>
+	<string>zoneVelocity</string>
+	<key>otherGrid</key>
+	<string>invisibleMargin</string>
+	<key>reflectsingleton</key>
+	<string>associatedThreshold</string>
+	<key>respectiveIntensity</key>
+	<string>layoutMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalHandler</key>
+	<string>cubitOffset</string>
+	<key>elasticAlert</key>
+	<string>emitNavigation</string>
+	<key>inactiveAspectRatio</key>
+	<string>capacitiesResponse</string>
+	<key>liteImpact</key>
+	<string>sinkframe</string>
+	<key>mergerResponse</key>
+	<string>updateMaterial</string>
+	<key>shouldReplaceCapsule</key>
+	<string>boxshadowcontextacceleration</string>
+	<key>volumeHead</key>
+	<string>onfuturechanged</string>
+</dict>
+</plist>

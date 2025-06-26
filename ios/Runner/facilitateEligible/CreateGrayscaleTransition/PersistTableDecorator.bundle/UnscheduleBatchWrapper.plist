@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultEquipment</key>
+	<string>discardedReduction</string>
+	<key>gatePressure</key>
+	<string>finishSegue</string>
+	<key>handlerShape</key>
+	<string>substantialbloctint</string>
+	<key>materializerFlags</key>
+	<string>upgradeService</string>
+	<key>missedCluster</key>
+	<string>stringifyUtil</string>
+	<key>progressbaranimator</key>
+	<string>interactorFacade</string>
+	<key>repositoryoperation</key>
+	<string>continuestream</string>
+	<key>responsivepolygon</key>
+	<string>immutableAnimator</string>
+	<key>shouldSubscribeBullet</key>
+	<string>constructConstraint</string>
+</dict>
+</plist>

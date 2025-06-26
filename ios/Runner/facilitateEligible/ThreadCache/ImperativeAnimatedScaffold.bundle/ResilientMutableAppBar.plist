@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerbeyondshape</key>
+	<string>chapterSingleton</string>
+	<key>hierarchicalInstruction</key>
+	<string>shouldValidateTool</string>
+	<key>persistentCatalyst</key>
+	<string>presenterscopevisibility</string>
+	<key>routePosition</key>
+	<string>replacefuture</string>
+	<key>shouldReplaceCell</key>
+	<string>canAnimateObserver</string>
+	<key>unactivatedPopup</key>
+	<string>interactiveChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCatalyst</key>
+	<string>visitprogressbar</string>
+	<key>gradientValidation</key>
+	<string>standaloneTitle</string>
+	<key>modalcommandkind</key>
+	<string>shouldSubscribeReference</string>
+	<key>momentumbufferorigin</key>
+	<string>shouldValidateSlash</string>
+	<key>prismaticgraphinteraction</key>
+	<string>themeType</string>
+	<key>robustshader</key>
+	<string>baseBorder</string>
+	<key>shouldRestartTechnique</key>
+	<string>fragmentsTransparency</string>
+	<key>shouldUnmountedScroll</key>
+	<string>channelLeft</string>
+	<key>webListView</key>
+	<string>containerStatus</string>
+</dict>
+</plist>

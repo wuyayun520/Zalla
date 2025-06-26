@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticgate</key>
+	<string>euclideanListener</string>
+	<key>backwardView</key>
+	<string>trainStoryboard</string>
+	<key>cardType</key>
+	<string>histogramVelocity</string>
+	<key>effectmesh</key>
+	<string>pushanchor</string>
+	<key>parallelColumn</key>
+	<string>priorBandwidth</string>
+	<key>shouldListenGradient</key>
+	<string>cacheNib</string>
+	<key>significantAscent</key>
+	<string>resilientStream</string>
+</dict>
+</plist>

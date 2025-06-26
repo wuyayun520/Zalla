@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNotification</key>
+	<string>splitterOrientation</string>
+	<key>operationvelocity</key>
+	<string>ontaskchanged</string>
+	<key>optimizerTail</key>
+	<string>framecontrast</string>
+	<key>shaderEdge</key>
+	<string>nextReduction</string>
+	<key>shouldUnmountedDecoration</key>
+	<string>bulletRotation</string>
+	<key>shouldfetchoption</key>
+	<string>popScene</string>
+	<key>subsequentContraction</key>
+	<string>notifyProjection</string>
+	<key>touchresource</key>
+	<string>constraintTemple</string>
+	<key>validatecoordinator</key>
+	<string>canResumeScale</string>
+</dict>
+</plist>

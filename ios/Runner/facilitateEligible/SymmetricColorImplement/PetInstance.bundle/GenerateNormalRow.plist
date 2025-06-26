@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderloop</key>
+	<string>statusEdge</string>
+	<key>dedicatedAction</key>
+	<string>remainderInteraction</string>
+	<key>formatmetadata</key>
+	<string>pageviewPhase</string>
+	<key>fusedLogarithm</key>
+	<string>resumeDescriptor</string>
+	<key>parallelActivity</key>
+	<string>delegatewidget</string>
+	<key>resourcejobindex</key>
+	<string>repositorySingleton</string>
+</dict>
+</plist>

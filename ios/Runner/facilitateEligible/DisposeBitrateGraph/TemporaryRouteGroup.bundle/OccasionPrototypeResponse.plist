@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPicker</key>
+	<string>unsortedFinder</string>
+	<key>generatecontainer</key>
+	<string>sophisticatedGesture</string>
+	<key>protocolBehavior</key>
+	<string>mediumMargin</string>
+	<key>resourcetension</key>
+	<string>viewwrapper</string>
+	<key>robustInfo</key>
+	<string>grayscaleDistance</string>
+	<key>statefulItem</key>
+	<string>catalystPressure</string>
+	<key>ternaryResponse</key>
+	<string>canResumeGesture</string>
+</dict>
+</plist>

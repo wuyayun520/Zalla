@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSingleton</key>
+	<string>shouldFetchBitrate</string>
+	<key>evolutionScale</key>
+	<string>deactivateTicker</string>
+	<key>hardResponder</key>
+	<string>largemission</string>
+	<key>holdoverlay</key>
+	<string>selectedSemantics</string>
+	<key>scenedirection</key>
+	<string>criticalInjection</string>
+	<key>similarRepository</key>
+	<string>sizedboxBorder</string>
+	<key>uniformChannels</key>
+	<string>unbindExpanded</string>
+	<key>uniformSkirt</key>
+	<string>meshShade</string>
+</dict>
+</plist>

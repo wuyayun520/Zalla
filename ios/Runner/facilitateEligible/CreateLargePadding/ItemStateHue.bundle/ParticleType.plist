@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLinker</key>
+	<string>canFetchBaseline</string>
+	<key>associatedTaxonomy</key>
+	<string>decoupleUseCase</string>
+	<key>elasticTouch</key>
+	<string>shouldRebuildObserver</string>
+	<key>globalskin</key>
+	<string>numericalAxis</string>
+	<key>inheritedController</key>
+	<string>hashbufferpadding</string>
+	<key>instructionawaynumber</key>
+	<string>mutableSelector</string>
+	<key>prevBloc</key>
+	<string>routekind</string>
+	<key>shouldMountedRadio</key>
+	<string>sizedboxSaturation</string>
+	<key>sinkValidation</key>
+	<string>independentSound</string>
+	<key>videoBehavior</key>
+	<string>measureAllocator</string>
+</dict>
+</plist>

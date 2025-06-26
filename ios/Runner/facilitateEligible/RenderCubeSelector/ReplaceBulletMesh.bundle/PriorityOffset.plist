@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCustomPaint</key>
+	<string>swiftOpacity</string>
+	<key>asynchronouscupertinohead</key>
+	<string>visualizeLayout</string>
+	<key>flexiblemenu</key>
+	<string>associatedGridView</string>
+	<key>handlerdistinction</key>
+	<string>defaultProject</string>
+	<key>immediateElement</key>
+	<string>geometricElement</string>
+	<key>listenerexceptjob</key>
+	<string>borderAction</string>
+	<key>permanentFuture</key>
+	<string>normalprovider</string>
+	<key>shouldSetStateCupertino</key>
+	<string>validateNotification</string>
+</dict>
+</plist>

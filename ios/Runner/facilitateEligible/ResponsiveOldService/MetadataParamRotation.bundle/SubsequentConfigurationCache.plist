@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPopup</key>
+	<string>intermediateStream</string>
+	<key>delegatedirection</key>
+	<string>deserializeasset</string>
+	<key>displayableEffect</key>
+	<string>navigateScroll</string>
+	<key>dynamicdetector</key>
+	<string>nativeFragment</string>
+	<key>greatStroke</key>
+	<string>texturesearcher</string>
+	<key>registerview</key>
+	<string>offsetChart</string>
+	<key>shouldMountGift</key>
+	<string>movementAppearance</string>
+	<key>smallaspect</key>
+	<string>restoreBloc</string>
+	<key>standaloneProject</key>
+	<string>requiredEvaluation</string>
+</dict>
+</plist>

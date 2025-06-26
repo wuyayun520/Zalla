@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTool</key>
+	<string>rectangleBound</string>
+	<key>extendcubit</key>
+	<string>replaceEqualization</string>
+	<key>geometricpointrotation</key>
+	<string>missedCanvas</string>
+	<key>shouldcontinuetransition</key>
+	<string>canCancelTernary</string>
+</dict>
+</plist>

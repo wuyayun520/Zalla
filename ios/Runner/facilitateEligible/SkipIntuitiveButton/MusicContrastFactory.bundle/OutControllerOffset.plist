@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultGift</key>
+	<string>drawerBottom</string>
+	<key>gatechooser</key>
+	<string>diffablePresenter</string>
+	<key>newestModel</key>
+	<string>consultativeLayout</string>
+	<key>nextBatch</key>
+	<string>repositoryleft</string>
+	<key>singleVector</key>
+	<string>globalSink</string>
+	<key>singletonPressure</key>
+	<string>smartcolumnappearance</string>
+	<key>themeCoord</key>
+	<string>viewoutsidebridge</string>
+</dict>
+</plist>

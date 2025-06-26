@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivePainter</key>
+	<string>equalizationContrast</string>
+	<key>notificationtaxonomy</key>
+	<string>trajectoryOffset</string>
+	<key>particleStyle</key>
+	<string>multiSound</string>
+	<key>persistentCanvas</key>
+	<string>receiveError</string>
+	<key>scrollplatformcount</key>
+	<string>newestRole</string>
+	<key>shouldpausegate</key>
+	<string>shouldHandleArithmetic</string>
+	<key>shouldrebuildoverlay</key>
+	<string>observercoord</string>
+	<key>symmetricFlex</key>
+	<string>wrapperAlignment</string>
+	<key>tappableextensionmode</key>
+	<string>exponentthroughlevel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCluster</key>
+	<string>menufacadepadding</string>
+	<key>latencyDelay</key>
+	<string>shouldCancelSensor</string>
+	<key>preparegraph</key>
+	<string>mountHeap</string>
+	<key>processpadding</key>
+	<string>signatureCenter</string>
+	<key>semanticPainter</key>
+	<string>clipperAppearance</string>
+	<key>sharedMesh</key>
+	<string>oldRadius</string>
+	<key>shouldDetachSpecifier</key>
+	<string>tableDistance</string>
+	<key>sortedRect</key>
+	<string>comprehensiveEffect</string>
+	<key>uniqueEntropy</key>
+	<string>deserializeScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSensor</key>
+	<string>connectGrain</string>
+	<key>explicitExpanded</key>
+	<string>publishSign</string>
+	<key>gemgrid</key>
+	<string>vertexInteraction</string>
+	<key>rapidMechanism</key>
+	<string>convertGrain</string>
+	<key>responseSize</key>
+	<string>sustainableLifecycle</string>
+	<key>shouldDeserializeRoute</key>
+	<string>computeReducer</string>
+	<key>spotPosition</key>
+	<string>mainDocument</string>
+</dict>
+</plist>

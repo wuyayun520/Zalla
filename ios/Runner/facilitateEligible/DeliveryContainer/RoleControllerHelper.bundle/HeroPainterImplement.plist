@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionuntilenvironment</key>
+	<string>uniqueUtil</string>
+	<key>cursorrect</key>
+	<string>graphFacade</string>
+	<key>secondInkWell</key>
+	<string>semanticsnumberbound</string>
+	<key>sequentialPicker</key>
+	<string>fetchProject</string>
+	<key>shouldDisposeExponent</key>
+	<string>mainOccasion</string>
+	<key>shouldLayoutTheme</key>
+	<string>copyBuffer</string>
+	<key>uniformEmitter</key>
+	<string>deploySubscription</string>
+	<key>vectorizeconfiguration</key>
+	<string>lazyNorm</string>
+</dict>
+</plist>

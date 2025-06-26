@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStore</key>
+	<string>liteBorder</string>
+	<key>dedicatedEqualization</key>
+	<string>optimizermetrics</string>
+	<key>delicatebrushfeedback</key>
+	<string>descriptorBridge</string>
+	<key>fusedReplica</key>
+	<string>apertureTask</string>
+	<key>meshSize</key>
+	<string>statefulScenario</string>
+	<key>optionTheme</key>
+	<string>chartContext</string>
+	<key>provisionBorder</key>
+	<string>smartTopic</string>
+	<key>threadinsideflyweight</key>
+	<string>responsecenter</string>
+</dict>
+</plist>

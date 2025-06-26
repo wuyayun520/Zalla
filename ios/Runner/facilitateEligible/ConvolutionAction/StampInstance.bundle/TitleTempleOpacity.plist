@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursordetector</key>
+	<string>widgetofprototype</string>
+	<key>deferredPadding</key>
+	<string>requestBuilder</string>
+	<key>intuitiveSize</key>
+	<string>normalCanvas</string>
+	<key>missedIndicator</key>
+	<string>canAnimateCharacter</string>
+	<key>primaryMedia</key>
+	<string>confidentialityRotation</string>
+	<key>subpixelinterval</key>
+	<string>customizedTransition</string>
+</dict>
+</plist>

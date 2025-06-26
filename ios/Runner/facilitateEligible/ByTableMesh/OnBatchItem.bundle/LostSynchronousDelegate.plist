@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSink</key>
+	<string>semanticState</string>
+	<key>interactiveBatch</key>
+	<string>permissiveInstruction</string>
+	<key>logAcceleration</key>
+	<string>subscribefactory</string>
+	<key>relationalnavigatortop</key>
+	<string>immediateFragment</string>
+	<key>shouldNavigateProjection</key>
+	<string>draggablePainter</string>
+</dict>
+</plist>

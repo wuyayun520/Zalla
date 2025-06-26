@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAmortization</key>
+	<string>metricsHead</string>
+	<key>elasticTolerance</key>
+	<string>shouldrenderaspect</string>
+	<key>explicitusage</key>
+	<string>listviewCycle</string>
+	<key>modelbrightness</key>
+	<string>featurebridgetag</string>
+	<key>publicExtension</key>
+	<string>cloneGrain</string>
+	<key>schedulerFeedback</key>
+	<string>disabledRepository</string>
+	<key>shouldEmitScreen</key>
+	<string>indicatorduringmemento</string>
+	<key>shouldPauseAccessory</key>
+	<string>popSkin</string>
+	<key>uniformSegment</key>
+	<string>unmarshalRepository</string>
+</dict>
+</plist>

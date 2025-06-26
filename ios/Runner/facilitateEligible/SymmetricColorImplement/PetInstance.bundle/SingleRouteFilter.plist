@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBottom</key>
+	<string>threadBehavior</string>
+	<key>analyzerBorder</key>
+	<string>masteractionvalidation</string>
+	<key>hierarchicalContraction</key>
+	<string>singleChannel</string>
+	<key>independentAnchor</key>
+	<string>trainslider</string>
+	<key>ontransitiontap</key>
+	<string>declarativeproviderstatus</string>
+	<key>resilientChallenge</key>
+	<string>resilientplate</string>
+	<key>sequentialStack</key>
+	<string>localCluster</string>
+	<key>strokeAcceleration</key>
+	<string>uniformJoiner</string>
+</dict>
+</plist>

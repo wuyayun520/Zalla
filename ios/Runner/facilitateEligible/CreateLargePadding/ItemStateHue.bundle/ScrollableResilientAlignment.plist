@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentDepth</key>
+	<string>canRouteMatrix</string>
+	<key>channelstructurebottom</key>
+	<string>gridviewCenter</string>
+	<key>elasticTable</key>
+	<string>protocolpressure</string>
+	<key>offsetreliability</key>
+	<string>bufferdelay</string>
+	<key>pinchablelooplocation</key>
+	<string>shouldDetachRadio</string>
+	<key>prevPicker</key>
+	<string>positionofchain</string>
+	<key>shouldNavigateCell</key>
+	<string>baselinestatus</string>
+	<key>subsequentCoordinator</key>
+	<string>splitterSize</string>
+</dict>
+</plist>

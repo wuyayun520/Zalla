@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphavideo</key>
+	<string>stampcontroller</string>
+	<key>combinerhue</key>
+	<string>functionalstoragebrightness</string>
+	<key>findradius</key>
+	<string>opaqueEvaluation</string>
+	<key>functionalAction</key>
+	<string>seamlessRow</string>
+	<key>functionalNotifier</key>
+	<string>canDetachMovement</string>
+	<key>losscolor</key>
+	<string>canTrainChecklist</string>
+	<key>materialisolatedelay</key>
+	<string>shouldKeepReference</string>
+	<key>retainedAllocator</key>
+	<string>shouldInflatePadding</string>
+	<key>shouldValidateAlert</key>
+	<string>startController</string>
+	<key>substantialInfrastructure</key>
+	<string>shouldRebuildRemainder</string>
+</dict>
+</plist>

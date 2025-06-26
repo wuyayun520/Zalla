@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationdescription</key>
+	<string>shouldPopScale</string>
+	<key>interactiveChannels</key>
+	<string>keyMediaQuery</string>
+	<key>mediocreElement</key>
+	<string>synchronousConstant</string>
+	<key>oldBloc</key>
+	<string>newestMovement</string>
+	<key>requestvalidation</key>
+	<string>providerpolyfill</string>
+	<key>restrictionOrientation</key>
+	<string>singletontheme</string>
+	<key>rowrotation</key>
+	<string>wrapperOffset</string>
+	<key>schedulerDirection</key>
+	<string>evolutioninterval</string>
+	<key>shouldHandleSpecifier</key>
+	<string>swiftrequest</string>
+</dict>
+</plist>

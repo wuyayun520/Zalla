@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterAlignment</key>
+	<string>mediocreRoute</string>
+	<key>shouldMountChecklist</key>
+	<string>adaptiveQuaternion</string>
+	<key>tabbarFlags</key>
+	<string>limitcolumn</string>
+	<key>textcenter</key>
+	<string>selectedtask</string>
+	<key>uniqueChooser</key>
+	<string>mediajoiner</string>
+	<key>usedRemainder</key>
+	<string>precisionandplatform</string>
+</dict>
+</plist>

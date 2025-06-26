@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMenu</key>
+	<string>sortedGradient</string>
+	<key>displayableBloc</key>
+	<string>pickerInterval</string>
+	<key>fixedService</key>
+	<string>smartRepository</string>
+	<key>immediateStrength</key>
+	<string>stopinterface</string>
+	<key>logcontainer</key>
+	<string>custompaintcoordinator</string>
+	<key>shouldBuildCertificate</key>
+	<string>sequentialText</string>
+</dict>
+</plist>

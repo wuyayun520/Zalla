@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTransformer</key>
+	<string>explicitPermutation</string>
+	<key>crudeSubpixel</key>
+	<string>opaqueevent</string>
+	<key>infrastructureSkewY</key>
+	<string>baselineSpeed</string>
+	<key>positionedOpacity</key>
+	<string>navigationframeworkright</string>
+	<key>recursionState</key>
+	<string>featureSystem</string>
+	<key>scrollableInkWell</key>
+	<string>richtextofscope</string>
+	<key>timerOrientation</key>
+	<string>diversifiedSingleton</string>
+</dict>
+</plist>

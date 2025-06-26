@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheOrientation</key>
+	<string>convolutionRight</string>
+	<key>curveorigin</key>
+	<string>notifyDescriptor</string>
+	<key>discardedlayoutresponse</key>
+	<string>functionalTechnique</string>
+	<key>futureexceptfacade</key>
+	<string>baseOffset</string>
+	<key>inactiveTouch</key>
+	<string>consumeObserver</string>
+	<key>restartfragment</key>
+	<string>associatedConstraint</string>
+	<key>rotatetexture</key>
+	<string>linkerTop</string>
+	<key>symmetricNavigation</key>
+	<string>enabledFactory</string>
+</dict>
+</plist>

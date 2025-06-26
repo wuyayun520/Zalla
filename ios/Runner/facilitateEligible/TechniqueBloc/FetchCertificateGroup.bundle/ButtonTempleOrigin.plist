@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDetector</key>
+	<string>functionalChooser</string>
+	<key>controllerTheme</key>
+	<string>canObserveBullet</string>
+	<key>ignoredCapsule</key>
+	<string>captioninterval</string>
+	<key>intermediatenibpadding</key>
+	<string>requiredSound</string>
+	<key>subscriptionthanscope</key>
+	<string>shouldRouteSensor</string>
+	<key>unactivatedResolver</key>
+	<string>hardplayback</string>
+</dict>
+</plist>

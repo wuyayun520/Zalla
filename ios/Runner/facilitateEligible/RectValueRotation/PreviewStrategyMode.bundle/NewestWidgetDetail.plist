@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTopic</key>
+	<string>dismissUnary</string>
+	<key>callbacktiervisible</key>
+	<string>histogramLocation</string>
+	<key>commonMapper</key>
+	<string>detachConfiguration</string>
+	<key>directListener</key>
+	<string>opaqueRow</string>
+	<key>enabledNib</key>
+	<string>rowSaturation</string>
+	<key>mobilebandwidth</key>
+	<string>asynchronousOverlay</string>
+	<key>retainedTechnique</key>
+	<string>radioNumber</string>
+	<key>traincompletion</key>
+	<string>shouldcreatecontainer</string>
+</dict>
+</plist>

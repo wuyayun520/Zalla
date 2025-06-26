@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatelayerbehavior</key>
+	<string>inheritedAnalyzer</string>
+	<key>globalIntensity</key>
+	<string>shouldDisposeSegment</string>
+	<key>inactiveTrigger</key>
+	<string>replicatelocalization</string>
+	<key>keyTimeline</key>
+	<string>sharedcanvas</string>
+	<key>protocolTension</key>
+	<string>validateCoordinator</string>
+	<key>soundOffset</key>
+	<string>expandedresponse</string>
+</dict>
+</plist>

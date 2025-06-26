@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPreview</key>
+	<string>tappableExtension</string>
+	<key>requiredAwait</key>
+	<string>shouldDetachUsage</string>
+	<key>shouldBindScroll</key>
+	<string>fusedController</string>
+	<key>shouldsaveprojection</key>
+	<string>canKeepCosine</string>
+</dict>
+</plist>

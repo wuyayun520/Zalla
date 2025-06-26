@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalbuttonflags</key>
+	<string>evaluateLayout</string>
+	<key>deferredElement</key>
+	<string>hierarchicaltaskinset</string>
+	<key>denseUtil</key>
+	<string>lazyTransformer</string>
+	<key>interactorInterval</key>
+	<string>partitionListener</string>
+	<key>persistentstore</key>
+	<string>hardCanvas</string>
+	<key>pinchableCapacity</key>
+	<string>crudeTrigger</string>
+	<key>positionLocation</key>
+	<string>mergerHue</string>
+	<key>staticSpot</key>
+	<string>routeMember</string>
+</dict>
+</plist>

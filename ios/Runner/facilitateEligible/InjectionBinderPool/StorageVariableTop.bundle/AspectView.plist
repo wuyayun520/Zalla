@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAnalogy</key>
+	<string>liteFactory</string>
+	<key>hardPrecision</key>
+	<string>serializeTimer</string>
+	<key>mitigatemultiplication</key>
+	<string>canBuildTask</string>
+	<key>replacegrain</key>
+	<string>bindMap</string>
+	<key>significantCollection</key>
+	<string>mountTool</string>
+	<key>symmetricDetector</key>
+	<string>shouldDispatchCapsule</string>
+</dict>
+</plist>

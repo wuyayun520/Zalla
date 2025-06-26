@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorDepth</key>
+	<string>immutableFinder</string>
+	<key>deferredTabBar</key>
+	<string>symmetricAspect</string>
+	<key>lastOption</key>
+	<string>drawerWork</string>
+	<key>listviewexceptprototype</key>
+	<string>appbarOffset</string>
+	<key>seamlessGem</key>
+	<string>integrationtint</string>
+	<key>singleRouter</key>
+	<string>shouldLoadExponent</string>
+	<key>variantAcceleration</key>
+	<string>notationShade</string>
+</dict>
+</plist>

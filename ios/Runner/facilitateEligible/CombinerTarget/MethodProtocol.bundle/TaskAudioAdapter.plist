@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityOffset</key>
+	<string>singleTicker</string>
+	<key>histogramvisibility</key>
+	<string>cacheParam</string>
+	<key>onfuturechanged</key>
+	<string>concurrentPromise</string>
+	<key>onpromisetap</key>
+	<string>temporaryTransition</string>
+	<key>particleHead</key>
+	<string>shouldNotifyFuture</string>
+	<key>resizableStack</key>
+	<string>canMountedMomentum</string>
+	<key>singleChooser</key>
+	<string>staticInjection</string>
+	<key>sortedequipment</key>
+	<string>encodeLog</string>
+</dict>
+</plist>

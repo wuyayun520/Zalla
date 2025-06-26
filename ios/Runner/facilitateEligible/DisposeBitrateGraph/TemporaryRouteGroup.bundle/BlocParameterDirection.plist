@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activealphatransparency</key>
+	<string>basicUtil</string>
+	<key>deferredItem</key>
+	<string>specifyUseCase</string>
+	<key>modelCount</key>
+	<string>modelFlags</string>
+	<key>shouldPrepareCollection</key>
+	<string>primaryController</string>
+	<key>shouldRebuildNorm</key>
+	<string>dissociateRadius</string>
+	<key>singleCapacities</key>
+	<string>shouldPrepareEffect</string>
+	<key>taxonomyFrequency</key>
+	<string>shouldStreamModal</string>
+	<key>transitionpadding</key>
+	<string>extensionVisible</string>
+	<key>unsortedFragments</key>
+	<string>shouldProcessExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGem</key>
+	<string>connectStep</string>
+	<key>delicatePageView</key>
+	<string>configureInteractor</string>
+	<key>inheritedScenario</key>
+	<string>mainTouch</string>
+	<key>lastTask</key>
+	<string>imperativeLog</string>
+	<key>providervisible</key>
+	<string>basicEntity</string>
+	<key>symbolmodeorientation</key>
+	<string>futurepermutation</string>
+	<key>usedTransformer</key>
+	<string>formatremainder</string>
+</dict>
+</plist>

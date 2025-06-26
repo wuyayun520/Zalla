@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresolver</key>
+	<string>canEncodeSensor</string>
+	<key>difficultAlpha</key>
+	<string>asyncObserver</string>
+	<key>itemOffset</key>
+	<string>iterativeListener</string>
+	<key>numericalSegment</key>
+	<string>gemDepth</string>
+	<key>sceneFlags</key>
+	<string>canRestartSlider</string>
+</dict>
+</plist>

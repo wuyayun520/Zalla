@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippermediatorhead</key>
+	<string>pickerCenter</string>
+	<key>crucialTentative</key>
+	<string>canPushAccessory</string>
+	<key>enhanceentity</key>
+	<string>bindCursor</string>
+	<key>liteLatency</key>
+	<string>dropoutZone</string>
+	<key>logSkewX</key>
+	<string>spotStyle</string>
+	<key>missionBottom</key>
+	<string>shouldResumeScaffold</string>
+	<key>respectiveComponent</key>
+	<string>composableListener</string>
+	<key>retainedModulus</key>
+	<string>displayMethod</string>
+	<key>unsortedSpot</key>
+	<string>canProcessEqualization</string>
+</dict>
+</plist>

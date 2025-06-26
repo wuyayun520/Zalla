@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rapidTitle</key>
+	<string>mobiletweak</string>
+	<key>shouldPersistOption</key>
+	<string>inheritedReliability</string>
+	<key>shouldResumeMomentum</key>
+	<string>shouldSkipDocument</string>
+	<key>sliderAlignment</key>
+	<string>prismaticCheckbox</string>
+	<key>uniformState</key>
+	<string>onbaselinechanged</string>
+</dict>
+</plist>

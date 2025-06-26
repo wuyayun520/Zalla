@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAnimator</key>
+	<string>temporaryProjection</string>
+	<key>checkboxorpattern</key>
+	<string>containerscene</string>
+	<key>currentchallenge</key>
+	<string>converterAppearance</string>
+	<key>inkwellMomentum</key>
+	<string>canObserveComposition</string>
+	<key>localAllocator</key>
+	<string>integerTransparency</string>
+	<key>lostEquivalent</key>
+	<string>statefulBatch</string>
+	<key>mediumScene</key>
+	<string>scenarioCoord</string>
+	<key>missioncount</key>
+	<string>uniformFinder</string>
+	<key>painterawaynumber</key>
+	<string>transformerinterval</string>
+	<key>smallSorter</key>
+	<string>shouldUnmountGift</string>
+</dict>
+</plist>

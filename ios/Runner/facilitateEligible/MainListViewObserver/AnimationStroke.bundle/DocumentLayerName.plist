@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedBorder</key>
+	<string>fusedSkin</string>
+	<key>imageisolate</key>
+	<string>nativeDialogs</string>
+	<key>sharedAnchor</key>
+	<string>decorationObserver</string>
+	<key>shouldNavigateSensor</key>
+	<string>gradientAcceleration</string>
+	<key>vectorplatformrotation</key>
+	<string>canDecodeIcon</string>
+</dict>
+</plist>

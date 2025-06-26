@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasResponse</key>
+	<string>rapidAnimator</string>
+	<key>defaultclipper</key>
+	<string>awaitindex</string>
+	<key>gradienttail</key>
+	<string>pageviewSingleton</string>
+	<key>immediateReference</key>
+	<string>checkboxFrequency</string>
+	<key>intermediateCapsule</key>
+	<string>activeloop</string>
+	<key>stepFeedback</key>
+	<string>permissiverecursion</string>
+</dict>
+</plist>

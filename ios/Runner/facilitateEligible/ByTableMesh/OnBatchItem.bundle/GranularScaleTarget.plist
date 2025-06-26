@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGrain</key>
+	<string>activeConfidentiality</string>
+	<key>concurrentPager</key>
+	<string>canPushGate</string>
+	<key>liteDialogs</key>
+	<string>animatedSpine</string>
+	<key>nativeStateful</key>
+	<string>backwardAsync</string>
+	<key>parallelmethodappearance</key>
+	<string>handlerProcess</string>
+	<key>pivotalspecifier</key>
+	<string>eventanalyzer</string>
+	<key>resourcetopic</key>
+	<string>shouldAttachStoryboard</string>
+	<key>seamlessAction</key>
+	<string>standaloneUtil</string>
+</dict>
+</plist>

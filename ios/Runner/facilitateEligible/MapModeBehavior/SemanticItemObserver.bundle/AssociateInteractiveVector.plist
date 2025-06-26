@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianWorkflow</key>
+	<string>liteChooser</string>
+	<key>equivalentCenter</key>
+	<string>bundleError</string>
+	<key>menutimeline</key>
+	<string>tasklifecycle</string>
+	<key>navigatorforframework</key>
+	<string>validateTask</string>
+	<key>schemaHead</key>
+	<string>concurrentListView</string>
+</dict>
+</plist>

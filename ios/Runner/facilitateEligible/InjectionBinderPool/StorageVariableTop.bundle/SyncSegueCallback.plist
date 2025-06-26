@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChallenge</key>
+	<string>symmetricDependency</string>
+	<key>cartesianConnector</key>
+	<string>mastertop</string>
+	<key>equivalentspeed</key>
+	<string>localCursor</string>
+	<key>materialEvolution</key>
+	<string>dataVisibility</string>
+	<key>protectedPlate</key>
+	<string>gateMediator</string>
+	<key>shouldSaveHistogram</key>
+	<string>rebuildMomentum</string>
+	<key>shouldpersistworkflow</key>
+	<string>pushColumn</string>
+	<key>webReliability</key>
+	<string>easySink</string>
+	<key>zoneOffset</key>
+	<string>modelcolor</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveDocument</key>
+	<string>dialogstext</string>
+	<key>previewdistance</key>
+	<string>prepareBatch</string>
+	<key>primaryresponse</key>
+	<string>streamcard</string>
+	<key>webCubit</key>
+	<string>tweenMediator</string>
+</dict>
+</plist>

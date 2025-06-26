@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertorigin</key>
+	<string>statelessEffect</string>
+	<key>exponentSkewX</key>
+	<string>signatureOrientation</string>
+	<key>marginPressure</key>
+	<string>animatedcontainerNumber</string>
+	<key>particlePressure</key>
+	<string>interpolateAwait</string>
+	<key>shouldYieldDuration</key>
+	<string>displayableOptimizer</string>
+	<key>transitionDensity</key>
+	<string>shouldPaintGate</string>
+</dict>
+</plist>

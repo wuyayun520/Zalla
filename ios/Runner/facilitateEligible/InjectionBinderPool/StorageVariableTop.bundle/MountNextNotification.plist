@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlogskewy</key>
+	<string>binarynumberindex</string>
+	<key>composabledelegate</key>
+	<string>canPersistAnimation</string>
+	<key>directPositioned</key>
+	<string>notifyrect</string>
+	<key>interactorslider</key>
+	<string>otherGraph</string>
+	<key>isboxshadow</key>
+	<string>taskstrategytype</string>
+	<key>smartSound</key>
+	<string>routecontroller</string>
+	<key>stampfacadepressure</key>
+	<string>showException</string>
+	<key>tabviewvisibility</key>
+	<string>subscribeTheme</string>
+</dict>
+</plist>

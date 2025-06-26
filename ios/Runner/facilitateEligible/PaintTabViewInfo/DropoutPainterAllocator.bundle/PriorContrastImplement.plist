@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBound</key>
+	<string>parseSpine</string>
+	<key>decorationRate</key>
+	<string>primarySubscriber</string>
+	<key>dependencyflags</key>
+	<string>ephemeralDialogs</string>
+	<key>permissiveAction</key>
+	<string>workflowDelay</string>
+	<key>shouldEndStream</key>
+	<string>interactionhead</string>
+	<key>shouldParseProvider</key>
+	<string>canFetchPlayback</string>
+	<key>shouldUnmountedSine</key>
+	<string>handlezone</string>
+	<key>singlePublisher</key>
+	<string>streamRole</string>
+</dict>
+</plist>

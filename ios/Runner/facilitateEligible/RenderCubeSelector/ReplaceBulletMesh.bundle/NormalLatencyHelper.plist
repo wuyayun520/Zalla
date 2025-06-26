@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderobservertension</key>
+	<string>scrollerStyle</string>
+	<key>descriptorframeworkstatus</key>
+	<string>diffableGestureDetector</string>
+	<key>handleprofile</key>
+	<string>directAudio</string>
+	<key>isScroll</key>
+	<string>semanticFrame</string>
+	<key>shouldRenderSlash</key>
+	<string>robustDependency</string>
+	<key>shouldUnbindFragment</key>
+	<string>canDismissRoute</string>
+	<key>subtleRect</key>
+	<string>elasticscaffoldskewy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScene</key>
+	<string>screenresult</string>
+	<key>autoText</key>
+	<string>shouldListenView</string>
+	<key>desktopMenu</key>
+	<string>canLayoutModulus</string>
+	<key>eagerDescent</key>
+	<string>previewchooser</string>
+	<key>paralleltrajectory</key>
+	<string>consumerOpacity</string>
+	<key>singleMend</key>
+	<string>builderdistance</string>
+</dict>
+</plist>

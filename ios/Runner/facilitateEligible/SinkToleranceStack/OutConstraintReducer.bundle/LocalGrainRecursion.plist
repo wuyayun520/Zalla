@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTop</key>
+	<string>intuitiveReducer</string>
+	<key>euclideanInterpolation</key>
+	<string>providerSaturation</string>
+	<key>lazycustompaintalignment</key>
+	<string>actionrecursion</string>
+	<key>mobileternarypadding</key>
+	<string>shouldParseReduction</string>
+	<key>repositoryShade</key>
+	<string>euclideanScene</string>
+</dict>
+</plist>

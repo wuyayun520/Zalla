@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAcceleration</key>
+	<string>techniqueDuration</string>
+	<key>graphbinder</key>
+	<string>shouldBuildSession</string>
+	<key>mutableCache</key>
+	<string>mobileCount</string>
+	<key>statefulGridView</key>
+	<string>constructIsolate</string>
+	<key>staticMovement</key>
+	<string>builderLevel</string>
+	<key>transformermethodname</key>
+	<string>shouldPersistGraphic</string>
+</dict>
+</plist>

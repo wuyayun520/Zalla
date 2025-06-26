@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUsage</key>
+	<string>pendingCertificate</string>
+	<key>hardAudio</key>
+	<string>basicSession</string>
+	<key>ignoredTouch</key>
+	<string>zoneframeworksaturation</string>
+	<key>rectInset</key>
+	<string>occasionsize</string>
+	<key>shouldListenSpot</key>
+	<string>protectedElement</string>
+	<key>streamdescription</key>
+	<string>saveborder</string>
+	<key>unsortedProtocol</key>
+	<string>singleNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCustomPaint</key>
+	<string>shouldPopStep</string>
+	<key>coordinatorstroke</key>
+	<string>retainedTouch</string>
+	<key>fixedPromise</key>
+	<string>pinchablesearcher</string>
+	<key>musicimpact</key>
+	<string>uniqueDecoration</string>
+	<key>pointfrequency</key>
+	<string>canNavigateMedia</string>
+	<key>shouldunbindrow</key>
+	<string>strengthVisibility</string>
+	<key>signatureandtype</key>
+	<string>granularbatch</string>
+	<key>uniformReliability</key>
+	<string>gesturedetectorBuffer</string>
+	<key>visibleScreen</key>
+	<string>largeCatalyst</string>
+</dict>
+</plist>

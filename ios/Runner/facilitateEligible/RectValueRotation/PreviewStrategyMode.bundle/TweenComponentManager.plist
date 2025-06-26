@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProgressBar</key>
+	<string>apertureHead</string>
+	<key>draggableLabel</key>
+	<string>missedExponent</string>
+	<key>managerDensity</key>
+	<string>disconnectScreen</string>
+	<key>tappableDependency</key>
+	<string>canFormatMargin</string>
+	<key>viewatparam</key>
+	<string>activatedSpine</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeScalability</key>
+	<string>declarativeTextField</string>
+	<key>inkwellStatus</key>
+	<string>orchestratetransition</string>
+	<key>mediumCapacities</key>
+	<string>screenObserver</string>
+	<key>mixininteger</key>
+	<string>inflateCanvas</string>
+	<key>numericalSizedBox</key>
+	<string>inactiveQueue</string>
+	<key>permanentImage</key>
+	<string>unscheduleFuture</string>
+	<key>semanticPlate</key>
+	<string>delicateGrain</string>
+	<key>shouldTrainTechnique</key>
+	<string>resolverinteraction</string>
+	<key>sizedboxShade</key>
+	<string>canDetachSpecifier</string>
+	<key>stopcoordinator</key>
+	<string>reflectResult</string>
+</dict>
+</plist>

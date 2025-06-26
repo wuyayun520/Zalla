@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionsize</key>
+	<string>animationdirection</string>
+	<key>euclideanresponseappearance</key>
+	<string>removeDependency</string>
+	<key>intuitiveBehavior</key>
+	<string>sustainableRemainder</string>
+	<key>overlayBottom</key>
+	<string>canFinishAnimatedContainer</string>
+	<key>previewDensity</key>
+	<string>dimensionSkewX</string>
+	<key>workflowBottom</key>
+	<string>ignoredalpha</string>
+</dict>
+</plist>

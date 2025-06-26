@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyUnary</key>
+	<string>hasroute</string>
+	<key>featureacceleration</key>
+	<string>robustLifecycle</string>
+	<key>ignoredChannel</key>
+	<string>findentropy</string>
+	<key>permanentSine</key>
+	<string>descriptorMomentum</string>
+	<key>variantcommandspacing</key>
+	<string>adaptiveRectangle</string>
+</dict>
+</plist>

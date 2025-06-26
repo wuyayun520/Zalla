@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchforadapter</key>
+	<string>destroyScene</string>
+	<key>graphicKind</key>
+	<string>tappableSelector</string>
+	<key>musicOrigin</key>
+	<string>discardedTabBar</string>
+	<key>performpresenter</key>
+	<string>exceptionpublisher</string>
+	<key>shouldPersistStep</key>
+	<string>sophisticatedMultiplication</string>
+</dict>
+</plist>

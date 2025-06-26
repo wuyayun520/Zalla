@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityformat</key>
+	<string>intensityDecorator</string>
+	<key>directlysprite</key>
+	<string>permanentTentative</string>
+	<key>explicitnode</key>
+	<string>secondAlert</string>
+	<key>moduleShade</key>
+	<string>custompaintFlyweight</string>
+	<key>resilientdialogsvisibility</key>
+	<string>profileorientation</string>
+	<key>shouldAttachDocument</key>
+	<string>descriptionWork</string>
+	<key>specifiermechanism</key>
+	<string>signatureKind</string>
+</dict>
+</plist>

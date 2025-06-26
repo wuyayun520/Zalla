@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPermutation</key>
+	<string>temporarySensor</string>
+	<key>customPermutation</key>
+	<string>selectedcycle</string>
+	<key>ephemeralFinder</key>
+	<string>unlockChapter</string>
+	<key>imperativeFragments</key>
+	<string>bindTabView</string>
+	<key>marginindex</key>
+	<string>independentDetector</string>
+	<key>nextBandwidth</key>
+	<string>respectiveScreen</string>
+</dict>
+</plist>

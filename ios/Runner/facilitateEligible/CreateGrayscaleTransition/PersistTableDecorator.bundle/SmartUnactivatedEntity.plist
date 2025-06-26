@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSession</key>
+	<string>completedSwitch</string>
+	<key>capacityBrightness</key>
+	<string>canHandleGrayscale</string>
+	<key>cubitresilience</key>
+	<string>itemLocation</string>
+	<key>smartGestureDetector</key>
+	<string>shouldCacheMomentum</string>
+	<key>webOccasion</key>
+	<string>crucialCaption</string>
+</dict>
+</plist>

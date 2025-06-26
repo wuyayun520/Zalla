@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdistinction</key>
+	<string>nativeModel</string>
+	<key>eagerTweak</key>
+	<string>explicitMargin</string>
+	<key>shouldRenderCanvas</key>
+	<string>unactivatedscene</string>
+</dict>
+</plist>

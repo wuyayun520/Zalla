@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicDepth</key>
+	<string>canCancelNotification</string>
+	<key>collectionasscope</key>
+	<string>playbackoutsideparam</string>
+	<key>elasticGesture</key>
+	<string>currentsubscriptioncount</string>
+	<key>limitdropdownbutton</key>
+	<string>augmentChapter</string>
+	<key>requiredtexture</key>
+	<string>iterativeinterpolationposition</string>
+	<key>shouldMountedBuilder</key>
+	<string>explicitCoordinator</string>
+</dict>
+</plist>

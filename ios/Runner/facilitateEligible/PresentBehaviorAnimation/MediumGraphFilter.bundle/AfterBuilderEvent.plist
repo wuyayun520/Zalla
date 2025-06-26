@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChart</key>
+	<string>detachHero</string>
+	<key>curveDirection</key>
+	<string>shouldshowrow</string>
+	<key>flexOpacity</key>
+	<string>rotatebitrate</string>
+	<key>gestureAcceleration</key>
+	<string>othermetrics</string>
+	<key>lastTheme</key>
+	<string>mutableAspectRatio</string>
+	<key>pinchableOccasion</key>
+	<string>disconnectNib</string>
+	<key>rebuildimage</key>
+	<string>popFragment</string>
+	<key>scaleVisibility</key>
+	<string>mobileTable</string>
+	<key>scrollasset</key>
+	<string>yieldstream</string>
+</dict>
+</plist>

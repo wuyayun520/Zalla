@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containersingletonpressure</key>
+	<string>upgradeListener</string>
+	<key>iterativeComposition</key>
+	<string>signDirection</string>
+	<key>priorRemainder</key>
+	<string>positionedCenter</string>
+	<key>scrollableConsumption</key>
+	<string>notifierMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermementobehavior</key>
+	<string>tabbarPhase</string>
+	<key>curvevolume</key>
+	<string>shouldListenDescriptor</string>
+	<key>localChallenge</key>
+	<string>shouldReplaceListView</string>
+	<key>losscontrast</key>
+	<string>equipmentVisitor</string>
+	<key>prismaticalignment</key>
+	<string>publishBitrate</string>
+	<key>reactiveObserver</key>
+	<string>shoulddecodetable</string>
+	<key>setupreference</key>
+	<string>consultativeSession</string>
+</dict>
+</plist>

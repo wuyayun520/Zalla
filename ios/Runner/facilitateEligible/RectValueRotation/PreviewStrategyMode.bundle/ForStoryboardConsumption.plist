@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderanimation</key>
+	<string>iterativeContraction</string>
+	<key>intuitiveslider</key>
+	<string>canBindListView</string>
+	<key>nextpresentersaturation</key>
+	<string>dynamicRequest</string>
+	<key>selectedoperation</key>
+	<string>associatedGift</string>
+	<key>shouldDecodeSession</key>
+	<string>swiftParam</string>
+</dict>
+</plist>

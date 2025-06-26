@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTint</key>
+	<string>titlewithscope</string>
+	<key>animationtypecount</key>
+	<string>euclideanBuffer</string>
+	<key>callbackalignment</key>
+	<string>routeDensity</string>
+	<key>immutableAspect</key>
+	<string>navigateCustomPaint</string>
+	<key>materialOptimizer</key>
+	<string>animatecycle</string>
+	<key>mendScale</key>
+	<string>emitReduction</string>
+	<key>missionPosition</key>
+	<string>keepCatalyst</string>
+	<key>smartView</key>
+	<string>shouldMountCertificate</string>
+	<key>statelessAsset</key>
+	<string>detailDirection</string>
+</dict>
+</plist>

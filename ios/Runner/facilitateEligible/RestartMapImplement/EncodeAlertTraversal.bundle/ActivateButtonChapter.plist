@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicElement</key>
+	<string>interactiveData</string>
+	<key>dedicatedData</key>
+	<string>updateEqualization</string>
+	<key>directSwift</key>
+	<string>shouldValidateStoryboard</string>
+	<key>mobilehue</key>
+	<string>streamlineerror</string>
+	<key>resilienttitle</key>
+	<string>hardConstraint</string>
+	<key>seamlessSprite</key>
+	<string>integrationsaturation</string>
+	<key>shouldInflateBitrate</key>
+	<string>beginnerMomentum</string>
+	<key>shouldLoadMomentum</key>
+	<string>multiCallback</string>
+	<key>taskmementotransparency</key>
+	<string>localActivity</string>
+	<key>viewobserverdepth</key>
+	<string>comprehensiveRadius</string>
+</dict>
+</plist>

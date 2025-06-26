@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMovement</key>
+	<string>standaloneGestureDetector</string>
+	<key>fusedTabView</key>
+	<string>volumeShade</string>
+	<key>intensityHue</key>
+	<string>canPopLog</string>
+	<key>interactorAppearance</key>
+	<string>listenerBrightness</string>
+	<key>interfaceleft</key>
+	<string>shouldBindBloc</string>
+	<key>shouldEndDialogs</key>
+	<string>clipperLeft</string>
+	<key>shouldLoadWidget</key>
+	<string>deferredpresenter</string>
+	<key>validatebullet</key>
+	<string>baseInteraction</string>
+	<key>widgetlistener</key>
+	<string>canRestartTransition</string>
+</dict>
+</plist>

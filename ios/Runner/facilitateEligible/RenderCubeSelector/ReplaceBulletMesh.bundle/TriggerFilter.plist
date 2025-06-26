@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAxis</key>
+	<string>hyperbolicBrush</string>
+	<key>dynamicRepository</key>
+	<string>canRebuildMaterial</string>
+	<key>euclideanBuffer</key>
+	<string>shouldStopReduction</string>
+	<key>masterOpacity</key>
+	<string>extensionMomentum</string>
+	<key>observerTag</key>
+	<string>remainderShape</string>
+	<key>screenframe</key>
+	<string>mobileLocation</string>
+	<key>seamlessAnalyzer</key>
+	<string>builderFacade</string>
+	<key>shouldFetchBase</key>
+	<string>zonepressure</string>
+</dict>
+</plist>

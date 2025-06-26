@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModule</key>
+	<string>modulusDepth</string>
+	<key>overlaymend</key>
+	<string>rebuildSign</string>
+	<key>shouldMountCanvas</key>
+	<string>findTitle</string>
+	<key>shouldMountedBehavior</key>
+	<string>concreteCaption</string>
+	<key>transitionsize</key>
+	<string>promiseLeft</string>
+</dict>
+</plist>

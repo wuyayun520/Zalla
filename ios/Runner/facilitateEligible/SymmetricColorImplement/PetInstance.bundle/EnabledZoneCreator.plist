@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChannel</key>
+	<string>oldchooser</string>
+	<key>disconnectvariant</key>
+	<string>missedMethod</string>
+	<key>numericalConverter</key>
+	<string>layoutLayer</string>
+	<key>shoulddeserializetheme</key>
+	<string>oldDistinction</string>
+	<key>viewconstant</key>
+	<string>detachController</string>
+</dict>
+</plist>

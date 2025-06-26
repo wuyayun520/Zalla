@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscriber</key>
+	<string>resumeSemantics</string>
+	<key>binaryFeedback</key>
+	<string>dropdownbuttonleft</string>
+	<key>directlycursorinterval</key>
+	<string>shouldbuildview</string>
+	<key>futurestageindex</key>
+	<string>intuitiveNib</string>
+	<key>greatTheme</key>
+	<string>elasticProvider</string>
+	<key>hardEffect</key>
+	<string>canNavigateEqualization</string>
+	<key>shouldloadnotifier</key>
+	<string>cupertinoCoord</string>
+</dict>
+</plist>

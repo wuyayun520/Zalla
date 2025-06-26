@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedtechniqueduration</key>
+	<string>restartLogarithm</string>
+	<key>gesturedetectortween</key>
+	<string>manageratshape</string>
+	<key>hierarchicalroutervelocity</key>
+	<string>ignoredContainer</string>
+	<key>mutableInteractor</key>
+	<string>canKeepHistogram</string>
+	<key>retainedStack</key>
+	<string>fusedallocatororientation</string>
+	<key>shouldkeepstoryboard</key>
+	<string>challengeBuffer</string>
+</dict>
+</plist>

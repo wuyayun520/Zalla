@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorshade</key>
+	<string>easyGrid</string>
+	<key>batchTint</key>
+	<string>segueRate</string>
+	<key>heroaudio</key>
+	<string>allocateAnimation</string>
+	<key>mitigateoffset</key>
+	<string>positiondistance</string>
+	<key>permissiveColor</key>
+	<string>combineFrame</string>
+	<key>primarytrajectory</key>
+	<string>canPaintMatrix</string>
+	<key>smartThread</key>
+	<string>activateChapter</string>
+	<key>uniqueHero</key>
+	<string>semanticsviavar</string>
+</dict>
+</plist>

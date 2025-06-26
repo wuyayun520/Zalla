@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFeedback</key>
+	<string>modelobserverhue</string>
+	<key>documentawaymode</key>
+	<string>persistentIntensity</string>
+	<key>interactiveCursor</key>
+	<string>ternarytension</string>
+	<key>labelBottom</key>
+	<string>crucialCompletion</string>
+	<key>mainPadding</key>
+	<string>onseguetap</string>
+	<key>presenterdespitemethod</key>
+	<string>shouldYieldSwitch</string>
+	<key>shouldCancelGestureDetector</key>
+	<string>paintFuture</string>
+	<key>shouldNavigateSession</key>
+	<string>staticModulus</string>
+	<key>shouldPresentListView</key>
+	<string>poolchart</string>
+	<key>webintensity</key>
+	<string>brushPlatform</string>
+</dict>
+</plist>

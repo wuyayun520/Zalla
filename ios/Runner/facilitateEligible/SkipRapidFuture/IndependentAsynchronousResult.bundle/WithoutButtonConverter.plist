@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesmenu</key>
+	<string>losskindstatus</string>
+	<key>discardedRenderer</key>
+	<string>nativeTicker</string>
+	<key>fixedTraversal</key>
+	<string>criticalpageviewflags</string>
+	<key>otherDescription</key>
+	<string>fusedEntropy</string>
+	<key>reducernumberdelay</key>
+	<string>cosineMediator</string>
+	<key>resultinteraction</key>
+	<string>publicanimatedcontainerspacing</string>
+	<key>shouldSerializeFlex</key>
+	<string>publishGestureDetector</string>
+	<key>shouldValidateModal</key>
+	<string>combinerDepth</string>
+	<key>temporaryColumn</key>
+	<string>keepPet</string>
+</dict>
+</plist>

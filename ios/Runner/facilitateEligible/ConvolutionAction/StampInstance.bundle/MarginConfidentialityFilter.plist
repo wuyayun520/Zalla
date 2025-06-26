@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatesegment</key>
+	<string>schedulerOrientation</string>
+	<key>consumerForce</key>
+	<string>statelessAsync</string>
+	<key>rapidDuration</key>
+	<string>animateframe</string>
+	<key>semanticcapsulesaturation</key>
+	<string>cacheTier</string>
+</dict>
+</plist>

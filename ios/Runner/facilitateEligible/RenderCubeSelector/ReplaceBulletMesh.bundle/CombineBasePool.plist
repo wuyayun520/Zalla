@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectSaturation</key>
+	<string>navigatorshapeorientation</string>
+	<key>ephemeralChannel</key>
+	<string>liteBase</string>
+	<key>nibRotation</key>
+	<string>unsortedSine</string>
+	<key>profileaspectratio</key>
+	<string>observePreview</string>
+	<key>protectedTimeline</key>
+	<string>crudeScroll</string>
+	<key>providerInset</key>
+	<string>canPauseArithmetic</string>
+</dict>
+</plist>

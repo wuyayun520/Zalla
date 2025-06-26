@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordermethodappearance</key>
+	<string>analyzeStorage</string>
+	<key>encodestream</key>
+	<string>configurationflyweightdelay</string>
+	<key>inactiveReliability</key>
+	<string>projectionDuration</string>
+	<key>navigatorHue</key>
+	<string>interactiveCoordinator</string>
+</dict>
+</plist>

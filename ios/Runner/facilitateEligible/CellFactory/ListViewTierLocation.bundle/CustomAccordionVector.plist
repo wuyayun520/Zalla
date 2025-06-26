@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLatency</key>
+	<string>inactiveStateful</string>
+	<key>cupertinoBox</key>
+	<string>tensorcombiner</string>
+	<key>deliveryColor</key>
+	<string>delegatechannel</string>
+	<key>efficiencyInset</key>
+	<string>webFactory</string>
+	<key>restorebloc</key>
+	<string>currentanimatedcontainer</string>
+	<key>sessionTag</key>
+	<string>frameMargin</string>
+</dict>
+</plist>

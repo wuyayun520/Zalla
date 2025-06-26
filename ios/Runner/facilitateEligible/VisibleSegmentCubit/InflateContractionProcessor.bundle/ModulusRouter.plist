@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTail</key>
+	<string>canPushRole</string>
+	<key>currentAppBar</key>
+	<string>transitionContext</string>
+	<key>interfaceright</key>
+	<string>monsterContext</string>
+	<key>pinchableSpecifier</key>
+	<string>shapeBrightness</string>
+	<key>seamlessOperation</key>
+	<string>shouldListenGem</string>
+	<key>shouldAnimateHistogram</key>
+	<string>shouldValidateReduction</string>
+	<key>shoulddismissswift</key>
+	<string>statelessText</string>
+	<key>textfieldLocation</key>
+	<string>denseChapter</string>
+</dict>
+</plist>

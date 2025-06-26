@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameedge</key>
+	<string>cardForce</string>
+	<key>issample</key>
+	<string>shouldHandleVariant</string>
+	<key>liteMaterializer</key>
+	<string>firstLoader</string>
+	<key>mainSymbol</key>
+	<string>shouldTrainTable</string>
+	<key>resilientRenderer</key>
+	<string>canDecodeBullet</string>
+	<key>shouldAnimateGift</key>
+	<string>shouldStartAspectRatio</string>
+	<key>shouldSaveOperation</key>
+	<string>directTicker</string>
+	<key>tangenttemplecoord</key>
+	<string>performMethod</string>
+</dict>
+</plist>

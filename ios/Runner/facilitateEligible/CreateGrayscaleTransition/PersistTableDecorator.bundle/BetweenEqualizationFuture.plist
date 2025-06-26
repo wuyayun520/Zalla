@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRow</key>
+	<string>hardIntensity</string>
+	<key>dedicatedArithmetic</key>
+	<string>erroracceleration</string>
+	<key>draggableCharacteristic</key>
+	<string>providerbrightness</string>
+	<key>equalizationEdge</key>
+	<string>canDetachOverlay</string>
+	<key>prevRange</key>
+	<string>nextImage</string>
+	<key>temporaryInterface</key>
+	<string>imperativelistview</string>
+</dict>
+</plist>

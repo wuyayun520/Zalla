@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationparameterfrequency</key>
+	<string>spinEntity</string>
+	<key>brushskewx</key>
+	<string>allocateStore</string>
+	<key>eventdepth</key>
+	<string>finishMonster</string>
+	<key>granularmusicformat</key>
+	<string>pivotalMission</string>
+	<key>scaffoldTint</key>
+	<string>introspectLoop</string>
+	<key>shouldLoadUnary</key>
+	<string>parallelassetvisible</string>
+	<key>similarCosine</key>
+	<string>rectifyEntity</string>
+</dict>
+</plist>

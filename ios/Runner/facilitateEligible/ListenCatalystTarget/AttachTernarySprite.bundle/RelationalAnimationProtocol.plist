@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFeedback</key>
+	<string>respondSink</string>
+	<key>globalAlignment</key>
+	<string>asynchronousStorage</string>
+	<key>largeAspect</key>
+	<string>agileDescriptor</string>
+	<key>mediaqueryAppearance</key>
+	<string>shouldListenCosine</string>
+	<key>missionShade</key>
+	<string>shouldUnmountedScreen</string>
+	<key>smallTicker</key>
+	<string>invisiblemethod</string>
+	<key>smartDescent</key>
+	<string>asynccommandsize</string>
+	<key>stateSkewY</key>
+	<string>skirtStatus</string>
+</dict>
+</plist>

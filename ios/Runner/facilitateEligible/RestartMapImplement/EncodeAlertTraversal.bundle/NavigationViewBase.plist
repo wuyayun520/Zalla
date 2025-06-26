@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderCenter</key>
+	<string>shouldEmitMultiplication</string>
+	<key>disabledVariant</key>
+	<string>canYieldCursor</string>
+	<key>iterativeEntropy</key>
+	<string>playEvent</string>
+	<key>poolloss</key>
+	<string>independentTweak</string>
+	<key>shouldSetStateDescriptor</key>
+	<string>diversifiedChart</string>
+	<key>standalonePopup</key>
+	<string>presentMaterial</string>
+</dict>
+</plist>

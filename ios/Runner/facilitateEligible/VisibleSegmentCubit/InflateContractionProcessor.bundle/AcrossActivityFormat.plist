@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTolerance</key>
+	<string>durationfilter</string>
+	<key>decorationstagespeed</key>
+	<string>evaluateFuture</string>
+	<key>discoverresource</key>
+	<string>servicePlatform</string>
+	<key>graphicdespiteshape</key>
+	<string>pauseSymbol</string>
+	<key>inkwellvisible</key>
+	<string>notifierProxy</string>
+	<key>resetaperture</key>
+	<string>durationFramework</string>
+	<key>shouldCreateNotifier</key>
+	<string>titlemend</string>
+</dict>
+</plist>

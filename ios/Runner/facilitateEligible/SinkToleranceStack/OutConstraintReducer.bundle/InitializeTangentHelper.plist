@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubpixel</key>
+	<string>inactiveRouter</string>
+	<key>cartesiangrainborder</key>
+	<string>canObserveComposition</string>
+	<key>fixedRouter</key>
+	<string>fusedMetadata</string>
+	<key>imagetop</key>
+	<string>pageviewPrototype</string>
+	<key>originalGridView</key>
+	<string>metricsDistance</string>
+	<key>scrollerFrequency</key>
+	<string>canStreamSample</string>
+	<key>shouldInflateArithmetic</key>
+	<string>convolutionStatus</string>
+	<key>shouldpersisttouch</key>
+	<string>criticalAnimatedContainer</string>
+	<key>topiccontextcontrast</key>
+	<string>initializebuilder</string>
+</dict>
+</plist>

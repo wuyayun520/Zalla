@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariant</key>
+	<string>diffableevaluation</string>
+	<key>combinervisible</key>
+	<string>ephemeralternary</string>
+	<key>containerInterval</key>
+	<string>cupertinoElement</string>
+	<key>linkerAlignment</key>
+	<string>polygonCenter</string>
+	<key>pagerStatus</key>
+	<string>unactivatedThreshold</string>
+	<key>parsebrush</key>
+	<string>statefulRow</string>
+	<key>shouldCacheBatch</key>
+	<string>catalystanimation</string>
+	<key>shouldSaveContainer</key>
+	<string>resultBound</string>
+	<key>typicalRect</key>
+	<string>priorTask</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopScroll</key>
+	<string>dimensionbehavior</string>
+	<key>gestureTag</key>
+	<string>buttonOffset</string>
+	<key>modalTransparency</key>
+	<string>staticExpanded</string>
+	<key>shouldFinishCollection</key>
+	<string>thresholdAcceleration</string>
+	<key>usedviewtag</key>
+	<string>accessibleDelegate</string>
+</dict>
+</plist>

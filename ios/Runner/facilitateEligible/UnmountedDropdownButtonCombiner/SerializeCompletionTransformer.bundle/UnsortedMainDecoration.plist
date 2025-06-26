@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioTag</key>
+	<string>enabledProgressBar</string>
+	<key>diffableLocalization</key>
+	<string>provisionBehavior</string>
+	<key>interactortop</key>
+	<string>checkboxFacade</string>
+	<key>seamlessAppBar</key>
+	<string>canPushTabView</string>
+	<key>sharedBitrate</key>
+	<string>canDisposeCatalyst</string>
+</dict>
+</plist>

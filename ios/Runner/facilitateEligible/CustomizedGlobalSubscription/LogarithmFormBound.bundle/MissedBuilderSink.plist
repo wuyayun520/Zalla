@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directAspectRatio</key>
+	<string>shouldlistenalpha</string>
+	<key>handlecapacities</key>
+	<string>canObserveBorder</string>
+	<key>initializeanimation</key>
+	<string>responsiveMenu</string>
+	<key>mainCursor</key>
+	<string>parallelprovider</string>
+	<key>shaderEdge</key>
+	<string>basicMomentum</string>
+	<key>subscriptionMode</key>
+	<string>constraintactionsaturation</string>
+	<key>unsortedTransformer</key>
+	<string>multiCanvas</string>
+</dict>
+</plist>

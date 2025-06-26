@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCard</key>
+	<string>lastTolerance</string>
+	<key>composableTrajectory</key>
+	<string>shouldAttachInteger</string>
+	<key>cosinePosition</key>
+	<string>parseAspectRatio</string>
+	<key>dependencyRotation</key>
+	<string>similarTime</string>
+	<key>finishlabel</key>
+	<string>canPrepareEqualization</string>
+	<key>layoutrow</key>
+	<string>consumerEdge</string>
+	<key>singletonBehavior</key>
+	<string>parallelRect</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachehue</key>
+	<string>canParseGraphic</string>
+	<key>globalNavigator</key>
+	<string>canUnbindProjection</string>
+	<key>haslog</key>
+	<string>canDetachBox</string>
+	<key>movementDelay</key>
+	<string>keyLoader</string>
+	<key>shouldLayoutKernel</key>
+	<string>clipStream</string>
+</dict>
+</plist>

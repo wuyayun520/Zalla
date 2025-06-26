@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rapidRestriction</key>
+	<string>resolveaxis</string>
+	<key>scenematrix</key>
+	<string>sequentialpolygon</string>
+	<key>shouldFetchCollection</key>
+	<string>positionedparameterdelay</string>
+	<key>statelessasync</key>
+	<string>listenerlevelappearance</string>
+	<key>strengthHue</key>
+	<string>shouldYieldBuilder</string>
+</dict>
+</plist>

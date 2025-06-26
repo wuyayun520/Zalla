@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerspacing</key>
+	<string>cacheTheme</string>
+	<key>delegateprocessorientation</key>
+	<string>trainMonster</string>
+	<key>lossFlags</key>
+	<string>canShowCard</string>
+	<key>methodStyle</key>
+	<string>pinchableLog</string>
+	<key>providemovement</key>
+	<string>canBuildCollection</string>
+	<key>rapidallocatordensity</key>
+	<string>streamMaster</string>
+	<key>shouldCreateController</key>
+	<string>dimensionVelocity</string>
+	<key>shouldrouteskin</key>
+	<string>crudemechanism</string>
+	<key>specifyBitrate</key>
+	<string>eventColor</string>
+</dict>
+</plist>

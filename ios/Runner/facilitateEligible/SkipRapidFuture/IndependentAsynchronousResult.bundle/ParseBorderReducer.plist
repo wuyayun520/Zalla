@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeDelegate</key>
+	<string>consumerDuration</string>
+	<key>intermediateView</key>
+	<string>resolverKind</string>
+	<key>mainProvider</key>
+	<string>navigatoralongmediator</string>
+	<key>newestSubpixel</key>
+	<string>canCancelGrayscale</string>
+	<key>offsetstatus</key>
+	<string>platebrightness</string>
+	<key>shouldLoadProvider</key>
+	<string>viewInterval</string>
+	<key>shouldSerializeMonster</key>
+	<string>ascentFrequency</string>
+	<key>visibleProject</key>
+	<string>specifyCertificate</string>
+	<key>volumeHue</key>
+	<string>canTransitionStateless</string>
+</dict>
+</plist>

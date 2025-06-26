@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFlags</key>
+	<string>intermediateMaster</string>
+	<key>numericalvolume</key>
+	<string>shouldAttachSensor</string>
+	<key>priorInterpolation</key>
+	<string>ignoredFeature</string>
+	<key>protocolAppearance</key>
+	<string>themePosition</string>
+	<key>referenceRotation</key>
+	<string>significantMonster</string>
+	<key>staticWorkflow</key>
+	<string>unmountedModulus</string>
+	<key>strengthInteraction</key>
+	<string>boxDuration</string>
+	<key>sustainablecompleter</key>
+	<string>flexibleBitrate</string>
+	<key>uniformScheduler</key>
+	<string>awaitDensity</string>
+</dict>
+</plist>

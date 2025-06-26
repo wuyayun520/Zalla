@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityName</key>
+	<string>geometricGrayscale</string>
+	<key>keyError</key>
+	<string>commonTask</string>
+	<key>opaqueThread</key>
+	<string>interpolationmatrix</string>
+	<key>scrollindex</key>
+	<string>equivalentDepth</string>
+	<key>setstatecoordinator</key>
+	<string>sophisticatedNavigation</string>
+	<key>shouldNotifyBullet</key>
+	<string>refactorAllocator</string>
+	<key>smallUseCase</key>
+	<string>requestdescent</string>
+	<key>sustainableDetail</key>
+	<string>taskbyvar</string>
+</dict>
+</plist>

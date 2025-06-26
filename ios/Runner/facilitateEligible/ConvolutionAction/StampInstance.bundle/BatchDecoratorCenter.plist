@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSubpixel</key>
+	<string>skipHeap</string>
+	<key>errorshape</key>
+	<string>inflatebutton</string>
+	<key>fusedTexture</key>
+	<string>criticalParticle</string>
+	<key>greatConsumer</key>
+	<string>plateWork</string>
+	<key>repositorychaininterval</key>
+	<string>disabledPositioned</string>
+	<key>samplePadding</key>
+	<string>aspectPadding</string>
+</dict>
+</plist>

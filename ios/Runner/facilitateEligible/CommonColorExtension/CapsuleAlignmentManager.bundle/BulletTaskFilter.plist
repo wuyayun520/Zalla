@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTheme</key>
+	<string>smartstreamhue</string>
+	<key>cleancosine</key>
+	<string>reusableAmortization</string>
+	<key>crudeDescriptor</key>
+	<string>currentslash</string>
+	<key>directUnary</key>
+	<string>rectHue</string>
+	<key>immediateAsync</key>
+	<string>responsiveExponent</string>
+	<key>polygonBound</key>
+	<string>shouldSerializeIcon</string>
+</dict>
+</plist>

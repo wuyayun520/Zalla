@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAlignment</key>
+	<string>momentumVelocity</string>
+	<key>mobileTension</key>
+	<string>rotateLabel</string>
+	<key>priorEffect</key>
+	<string>registerTask</string>
+	<key>processorFrequency</key>
+	<string>directlySingleton</string>
+	<key>texturerestriction</key>
+	<string>inactiveText</string>
+	<key>toolAppearance</key>
+	<string>replacePosition</string>
+	<key>usedmonsterlocation</key>
+	<string>shouldMountPrecision</string>
+</dict>
+</plist>

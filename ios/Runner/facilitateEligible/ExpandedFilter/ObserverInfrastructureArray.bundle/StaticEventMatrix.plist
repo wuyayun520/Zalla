@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVisibility</key>
+	<string>shouldSubscribeScreen</string>
+	<key>promisegraph</key>
+	<string>reliabilityVisible</string>
+	<key>shouldrenderindicator</key>
+	<string>rapidCanvas</string>
+	<key>subsequentOptimizer</key>
+	<string>shouldSaveContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorduration</key>
+	<string>aspectratiocurve</string>
+	<key>logarithmLocation</key>
+	<string>analogyMode</string>
+	<key>missionSize</key>
+	<string>shouldPublishSwitch</string>
+	<key>positionstate</key>
+	<string>otherbehavior</string>
+	<key>streamDistance</key>
+	<string>constructStore</string>
+	<key>subtleTolerance</key>
+	<string>tweensystemhead</string>
+	<key>topicfacadespacing</key>
+	<string>mainState</string>
+</dict>
+</plist>

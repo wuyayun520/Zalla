@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReduction</key>
+	<string>executeText</string>
+	<key>cubitagainstphase</key>
+	<string>persistResource</string>
+	<key>futureBorder</key>
+	<string>endGate</string>
+	<key>pivotalJoiner</key>
+	<string>scaleName</string>
+	<key>rapidProgressBar</key>
+	<string>canLayoutMonster</string>
+	<key>seamlessProtocol</key>
+	<string>shouldValidateLog</string>
+	<key>sorterFlags</key>
+	<string>richtexterror</string>
+</dict>
+</plist>

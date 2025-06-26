@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVideo</key>
+	<string>canInflateCursor</string>
+	<key>intensityasmethod</key>
+	<string>flexibleText</string>
+	<key>largeMaterial</key>
+	<string>largeTouch</string>
+	<key>publicInjection</key>
+	<string>customtime</string>
+	<key>resizableCreator</key>
+	<string>interpolationPosition</string>
+</dict>
+</plist>

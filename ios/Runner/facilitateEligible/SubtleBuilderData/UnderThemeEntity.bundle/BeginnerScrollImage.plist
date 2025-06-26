@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAlignment</key>
+	<string>decoupleprovider</string>
+	<key>captionduringactivity</key>
+	<string>paddingStatus</string>
+	<key>charactercenter</key>
+	<string>skinInterval</string>
+	<key>commonPublisher</key>
+	<string>otherscroller</string>
+	<key>compositionEdge</key>
+	<string>marginBehavior</string>
+	<key>fusedAction</key>
+	<string>synchronousRole</string>
+	<key>particleanalyzer</key>
+	<string>hardDecoration</string>
+</dict>
+</plist>

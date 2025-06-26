@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCheckbox</key>
+	<string>touchwithvalue</string>
+	<key>keyLocalization</key>
+	<string>embraceChannel</string>
+	<key>mainFormat</key>
+	<string>captionDecorator</string>
+	<key>opaqueFormat</key>
+	<string>radiusasdecorator</string>
+	<key>pivotalLoader</key>
+	<string>imageVelocity</string>
+	<key>resilientAlert</key>
+	<string>responsiveContraction</string>
+	<key>shouldDispatchPadding</key>
+	<string>activeDependency</string>
+	<key>shouldformatinterpolation</key>
+	<string>tickeratdecorator</string>
+	<key>syncgrid</key>
+	<string>fillOffset</string>
+</dict>
+</plist>

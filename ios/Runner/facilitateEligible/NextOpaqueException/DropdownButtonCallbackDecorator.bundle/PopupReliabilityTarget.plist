@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCombiner</key>
+	<string>documentDistance</string>
+	<key>disparateIsolate</key>
+	<string>beginnerReference</string>
+	<key>imperativeParticle</key>
+	<string>parallelNib</string>
+	<key>memberbridgevisibility</key>
+	<string>typicalInteraction</string>
+	<key>mountedbatch</key>
+	<string>statefulSensor</string>
+	<key>particlemode</key>
+	<string>canAnimateNotification</string>
+	<key>shouldCacheWorkflow</key>
+	<string>handlerDelay</string>
+	<key>shouldrebuildlog</key>
+	<string>shouldDismissLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProtocol</key>
+	<string>initializeResponse</string>
+	<key>invisibleUsage</key>
+	<string>deferredStream</string>
+	<key>loadalpha</key>
+	<string>seamlessOperation</string>
+	<key>prioritycolor</key>
+	<string>trainTool</string>
+	<key>shouldConnectObserver</key>
+	<string>occasionSpacing</string>
+	<key>shouldObserveTheme</key>
+	<string>customizedcatalystdelay</string>
+	<key>sustainableActivity</key>
+	<string>usedStack</string>
+</dict>
+</plist>

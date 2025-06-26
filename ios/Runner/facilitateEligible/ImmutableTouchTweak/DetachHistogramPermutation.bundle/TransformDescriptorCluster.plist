@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianZone</key>
+	<string>shouldAnimateStateful</string>
+	<key>pivotalReducer</key>
+	<string>expandedbottom</string>
+	<key>sessionpadding</key>
+	<string>prismaticFrame</string>
+	<key>shouldDecodeEqualization</key>
+	<string>canPauseController</string>
+	<key>shouldsubscribegrayscale</key>
+	<string>modalBridge</string>
+	<key>tweakBottom</key>
+	<string>baselineMethod</string>
+</dict>
+</plist>

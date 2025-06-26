@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledNavigator</key>
+	<string>descriptionProxy</string>
+	<key>discardedAnimation</key>
+	<string>fixedaspect</string>
+	<key>disparateDropdownButton</key>
+	<string>streamvector</string>
+	<key>equipmentversusshape</key>
+	<string>heroComposite</string>
+	<key>equivalentStyle</key>
+	<string>consumeQueue</string>
+	<key>finderState</key>
+	<string>mitigatetween</string>
+	<key>previewmaterial</key>
+	<string>shouldObserveGridView</string>
+	<key>protocolFlags</key>
+	<string>opaqueModule</string>
+	<key>shouldPresentSwift</key>
+	<string>performSize</string>
+	<key>titletension</key>
+	<string>interpolationdensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScreen</key>
+	<string>durationsingletonspeed</string>
+	<key>cosinestatebottom</key>
+	<string>shouldFetchIcon</string>
+	<key>deferredRequest</key>
+	<string>seekChapter</string>
+	<key>easyJoiner</key>
+	<string>canObserveExponent</string>
+	<key>ephemeralPosition</key>
+	<string>pinchableMenu</string>
+	<key>keyGestureDetector</key>
+	<string>asynchronousFormat</string>
+	<key>parsemetadata</key>
+	<string>groupforce</string>
+	<key>pivotalGesture</key>
+	<string>canCreateModal</string>
+	<key>roleresponse</key>
+	<string>canStreamHeap</string>
+</dict>
+</plist>

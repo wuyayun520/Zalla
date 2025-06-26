@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudestatus</key>
+	<string>persistArithmetic</string>
+	<key>customizedBehavior</key>
+	<string>disabledSwitch</string>
+	<key>displayableDependency</key>
+	<string>canBindKernel</string>
+	<key>immutableNavigator</key>
+	<string>sanitizeProgressBar</string>
+	<key>resultColor</key>
+	<string>deactivateBuilder</string>
+	<key>substantialstoryboard</key>
+	<string>significantPriority</string>
+	<key>uniformBuffer</key>
+	<string>canRouteImage</string>
+</dict>
+</plist>

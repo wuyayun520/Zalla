@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errortop</key>
+	<string>functionalRadio</string>
+	<key>geometricCupertino</key>
+	<string>activityTask</string>
+	<key>modulusTheme</key>
+	<string>listenerValidation</string>
+	<key>nativeThroughput</key>
+	<string>stampType</string>
+	<key>reactivePopup</key>
+	<string>scrollableAllocator</string>
+	<key>shouldObserveSlider</key>
+	<string>permanentSorter</string>
+	<key>tweakRight</key>
+	<string>descriptorProcess</string>
+</dict>
+</plist>

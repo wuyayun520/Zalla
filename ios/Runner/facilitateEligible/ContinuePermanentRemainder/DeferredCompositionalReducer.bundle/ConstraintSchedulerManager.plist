@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTentative</key>
+	<string>presenterinfo</string>
+	<key>chaptershapename</key>
+	<string>composableHero</string>
+	<key>deprecatedimension</key>
+	<string>imagenumberkind</string>
+	<key>inactiveCell</key>
+	<string>generateService</string>
+	<key>independentElement</key>
+	<string>segmentNumber</string>
+	<key>servicebufferrotation</key>
+	<string>primarystoryboardforce</string>
+	<key>stamplayout</key>
+	<string>iconAlignment</string>
+	<key>tabbarCount</key>
+	<string>canYieldStamp</string>
+</dict>
+</plist>

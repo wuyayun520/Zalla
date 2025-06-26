@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSize</key>
+	<string>propagateException</string>
+	<key>diversifiedGrid</key>
+	<string>freesymbol</string>
+	<key>iconbysystem</key>
+	<string>indicatorDensity</string>
+	<key>otherScreen</key>
+	<string>sizedboxStructure</string>
+	<key>precisionforlevel</key>
+	<string>canTrainCapacities</string>
+	<key>prevIntegration</key>
+	<string>canFormatDrawer</string>
+	<key>smallThroughput</key>
+	<string>blocefficiency</string>
+</dict>
+</plist>

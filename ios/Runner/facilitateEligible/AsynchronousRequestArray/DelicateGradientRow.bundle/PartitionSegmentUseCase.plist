@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionBottom</key>
+	<string>canUpdateSemantics</string>
+	<key>difficultSorter</key>
+	<string>newestShape</string>
+	<key>quitplayback</key>
+	<string>markBuffer</string>
+	<key>resilientChart</key>
+	<string>statelessVideo</string>
+	<key>routefilter</key>
+	<string>gesturedetectorBridge</string>
+	<key>shouldMountedStateless</key>
+	<string>ephemeralWrapper</string>
+	<key>shouldStartCurve</key>
+	<string>statelessequivalent</string>
+</dict>
+</plist>

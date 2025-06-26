@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderPosition</key>
+	<string>removeLabel</string>
+	<key>currentbatch</key>
+	<string>tensorCube</string>
+	<key>impressionFeedback</key>
+	<string>deflateAsset</string>
+	<key>retainedRadius</key>
+	<string>mapedge</string>
+	<key>shouldNotifySegue</key>
+	<string>renameParticle</string>
+</dict>
+</plist>

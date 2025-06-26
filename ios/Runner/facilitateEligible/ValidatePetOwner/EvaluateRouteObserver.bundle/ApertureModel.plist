@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleQuaternion</key>
+	<string>intuitiveDocument</string>
+	<key>frameFormat</key>
+	<string>shouldfinishnib</string>
+	<key>hardIndicator</key>
+	<string>animateasset</string>
+	<key>immutablerectangle</key>
+	<string>blocWork</string>
+	<key>obtaingrayscale</key>
+	<string>strokeFlags</string>
+	<key>primaryPermutation</key>
+	<string>shouldStreamDropdownButton</string>
+	<key>singleasync</key>
+	<string>compileTitle</string>
+</dict>
+</plist>

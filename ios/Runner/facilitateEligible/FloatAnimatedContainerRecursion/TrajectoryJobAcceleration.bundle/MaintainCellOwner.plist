@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveModule</key>
+	<string>inactiveSound</string>
+	<key>directSkin</key>
+	<string>gateSaturation</string>
+	<key>disparateGrayscale</key>
+	<string>rotatebatch</string>
+	<key>shouldRestartAxis</key>
+	<string>canAnimateMaterial</string>
+	<key>symbolPadding</key>
+	<string>titleVar</string>
+	<key>tabbarscopeforce</key>
+	<string>substantialQuaternion</string>
+	<key>timerrate</key>
+	<string>shouldAttachShader</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileinstruction</key>
+	<string>interpolationParam</string>
+	<key>criticalScale</key>
+	<string>shouldskipdropdownbutton</string>
+	<key>dedicatedPreview</key>
+	<string>activeDetector</string>
+	<key>directlyoffset</key>
+	<string>canSetStateDropdownButton</string>
+	<key>gateBrightness</key>
+	<string>zoneComposite</string>
+	<key>maplinker</key>
+	<string>constantLeft</string>
+	<key>metadataBound</key>
+	<string>shouldSkipStamp</string>
+	<key>operationincludechain</key>
+	<string>resultValue</string>
+	<key>shouldEncodeCell</key>
+	<string>canHandleTable</string>
+</dict>
+</plist>

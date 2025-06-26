@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMetrics</key>
+	<string>delicateResource</string>
+	<key>exponentBound</key>
+	<string>multiMaterial</string>
+	<key>infrastructureTag</key>
+	<string>configureSink</string>
+	<key>lostdetail</key>
+	<string>tappableUsage</string>
+	<key>moduleName</key>
+	<string>shouldNavigateCupertino</string>
+	<key>regulateradius</key>
+	<string>reusableBloc</string>
+	<key>shouldRenderHistogram</key>
+	<string>enumerateResolver</string>
+	<key>trajectoryLocation</key>
+	<string>flexFlyweight</string>
+</dict>
+</plist>

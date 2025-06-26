@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFinder</key>
+	<string>updateicon</string>
+	<key>disabledMediaQuery</key>
+	<string>shouldSkipBase</string>
+	<key>euclideanconnector</key>
+	<string>embedState</string>
+	<key>listenerscopebottom</key>
+	<string>dismissImage</string>
+	<key>margininset</key>
+	<string>callbackHead</string>
+	<key>timelineTail</key>
+	<string>extendIntensity</string>
+</dict>
+</plist>

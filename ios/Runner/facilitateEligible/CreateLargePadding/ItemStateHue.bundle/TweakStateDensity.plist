@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStyle</key>
+	<string>widgetPattern</string>
+	<key>beginnerCharacter</key>
+	<string>giftStage</string>
+	<key>mediumIcon</key>
+	<string>extensionBound</string>
+	<key>particleBound</key>
+	<string>dialogsCycle</string>
+	<key>partitionqueue</key>
+	<string>alphaforcomposite</string>
+	<key>swiftMode</key>
+	<string>toolBuffer</string>
+	<key>symmetricKernel</key>
+	<string>permissiveBloc</string>
+	<key>tappableEntropy</key>
+	<string>activeText</string>
+	<key>usageName</key>
+	<string>typicalSlash</string>
+</dict>
+</plist>

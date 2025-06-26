@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstail</key>
+	<string>listviewMediator</string>
+	<key>creatorColor</key>
+	<string>groupScale</string>
+	<key>customizedinfo</key>
+	<string>widgetObserver</string>
+	<key>disabledView</key>
+	<string>queueDecorator</string>
+	<key>invisiblestateful</key>
+	<string>canTransformText</string>
+	<key>itemVelocity</key>
+	<string>canTransformMember</string>
+	<key>shouldInflateBatch</key>
+	<string>beginnerReduction</string>
+	<key>standaloneEntity</key>
+	<string>uniformStateless</string>
+	<key>tweaktheme</key>
+	<string>frameTag</string>
+</dict>
+</plist>

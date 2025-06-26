@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowbufferorientation</key>
+	<string>listviewMethod</string>
+	<key>liteLayout</key>
+	<string>respectivecycle</string>
+	<key>managerName</key>
+	<string>uniqueCompleter</string>
+	<key>roletrigger</key>
+	<string>cellmementoduration</string>
+	<key>seamlessSelector</key>
+	<string>parallelNavigator</string>
+	<key>sizeBound</key>
+	<string>activeLinker</string>
+	<key>sizedboxpadding</key>
+	<string>gridBrightness</string>
+	<key>subsequentInkWell</key>
+	<string>immediateOffset</string>
+</dict>
+</plist>

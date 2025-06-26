@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTail</key>
+	<string>materializerOrigin</string>
+	<key>fusedTopic</key>
+	<string>lifecycleVisibility</string>
+	<key>hierarchicalPager</key>
+	<string>advancedTimeline</string>
+	<key>interactiveCompleter</key>
+	<string>desktopCompleter</string>
+	<key>publishfuture</key>
+	<string>canRenderCollection</string>
+</dict>
+</plist>

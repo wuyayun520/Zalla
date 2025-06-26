@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableMaterializer</key>
+	<string>metadataDensity</string>
+	<key>encodecurve</key>
+	<string>otherMerger</string>
+	<key>isInkWell</key>
+	<string>trainMedia</string>
+	<key>priorityTransparency</key>
+	<string>basicNotifier</string>
+	<key>searcherHue</key>
+	<string>revisitWidget</string>
+	<key>shouldDecodeSemantics</key>
+	<string>clipperInset</string>
+	<key>signatureAppearance</key>
+	<string>showPromise</string>
+	<key>threaddistance</key>
+	<string>cartesianBox</string>
+</dict>
+</plist>

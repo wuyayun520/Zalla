@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRenderer</key>
+	<string>customcompletion</string>
+	<key>agileShape</key>
+	<string>requestBuilder</string>
+	<key>multisinkmode</key>
+	<string>routevisibility</string>
+	<key>priorPublisher</key>
+	<string>granularSplitter</string>
+	<key>retainmetadata</key>
+	<string>statusTint</string>
+	<key>routebound</key>
+	<string>cupertinoKernel</string>
+	<key>streamanimatedcontainer</key>
+	<string>smallBatch</string>
+</dict>
+</plist>

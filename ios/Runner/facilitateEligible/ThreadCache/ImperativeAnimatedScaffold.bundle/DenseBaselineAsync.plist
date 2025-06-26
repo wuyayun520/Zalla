@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushuntillayer</key>
+	<string>completedCharacter</string>
+	<key>immediateProject</key>
+	<string>popMenu</string>
+	<key>resizableOffset</key>
+	<string>scrollerName</string>
+	<key>sharedAnimator</key>
+	<string>synchronousCreator</string>
+	<key>shouldstartaspectratio</key>
+	<string>attachMetadata</string>
+	<key>uniformProvider</key>
+	<string>canUnmountedSign</string>
+</dict>
+</plist>

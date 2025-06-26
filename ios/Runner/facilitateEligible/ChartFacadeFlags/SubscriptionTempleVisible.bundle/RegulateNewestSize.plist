@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkpresenter</key>
+	<string>labelperoperation</string>
+	<key>containerStyle</key>
+	<string>clonecell</string>
+	<key>convolutionCoord</key>
+	<string>contractionCycle</string>
+	<key>onentropychanged</key>
+	<string>unmountedAperture</string>
+	<key>optionlayerrate</key>
+	<string>cartesianUnary</string>
+	<key>secondRecursion</key>
+	<string>uniformView</string>
+	<key>shouldBindTouch</key>
+	<string>rectCount</string>
+	<key>usedHandler</key>
+	<string>secondBinary</string>
+</dict>
+</plist>

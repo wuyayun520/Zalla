@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventspeed</key>
+	<string>shouldFormatAccessory</string>
+	<key>persistentSlash</key>
+	<string>concurrentremainder</string>
+	<key>pivotalGrayscale</key>
+	<string>groupvisible</string>
+	<key>specifyPriority</key>
+	<string>insteadResult</string>
+</dict>
+</plist>

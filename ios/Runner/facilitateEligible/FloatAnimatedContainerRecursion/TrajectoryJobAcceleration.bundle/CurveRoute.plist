@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBorder</key>
+	<string>transitionsignature</string>
+	<key>hyperbolicLoop</key>
+	<string>profiletop</string>
+	<key>intensitysaturation</key>
+	<string>injectionstroke</string>
+	<key>permissiveRadio</key>
+	<string>reducerColor</string>
+	<key>protectedTouch</key>
+	<string>canStartHero</string>
+	<key>shouldCacheColumn</key>
+	<string>significantInterface</string>
+	<key>singleslidertension</key>
+	<string>hyperbolicDuration</string>
+</dict>
+</plist>

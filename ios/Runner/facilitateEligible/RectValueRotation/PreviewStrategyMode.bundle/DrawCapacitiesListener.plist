@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadmodulus</key>
+	<string>constantTransparency</string>
+	<key>particlevisible</key>
+	<string>iterativeCompleter</string>
+	<key>persistentDrawer</key>
+	<string>canBindPositioned</string>
+	<key>relationalCustomPaint</key>
+	<string>requesttransparency</string>
+	<key>sharedInjection</key>
+	<string>aspectFormat</string>
+	<key>statefullayoutstatus</key>
+	<string>shouldDisposePositioned</string>
+</dict>
+</plist>

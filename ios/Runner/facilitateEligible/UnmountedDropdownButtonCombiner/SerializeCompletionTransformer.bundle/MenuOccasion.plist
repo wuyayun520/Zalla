@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMode</key>
+	<string>textureKind</string>
+	<key>cupertinoRouter</key>
+	<string>immutableSorter</string>
+	<key>dynamicObserver</key>
+	<string>pivotalAnalyzer</string>
+	<key>sortedWorkflow</key>
+	<string>hashStatus</string>
+	<key>storeDistance</key>
+	<string>revisitchannels</string>
+</dict>
+</plist>

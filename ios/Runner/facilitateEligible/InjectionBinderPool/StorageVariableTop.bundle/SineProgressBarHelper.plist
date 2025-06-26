@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWorkflow</key>
+	<string>detachSlider</string>
+	<key>axisskewy</key>
+	<string>paintershade</string>
+	<key>functionalRect</key>
+	<string>prioritylayer</string>
+	<key>gemfrommethod</key>
+	<string>renderTabView</string>
+	<key>permanentPreview</key>
+	<string>originalInfo</string>
+	<key>shouldkeeplayout</key>
+	<string>requiredprovidershape</string>
+	<key>skipintensity</key>
+	<string>inheritedCanvas</string>
+	<key>typicalDispatcher</key>
+	<string>holdConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addscale</key>
+	<string>timelineTransparency</string>
+	<key>arithmeticpriority</key>
+	<string>criticalEvent</string>
+	<key>dataOffset</key>
+	<string>segmentRotation</string>
+	<key>delicateDelegate</key>
+	<string>elasticTransition</string>
+	<key>euclideanBullet</key>
+	<string>mediocreTechnique</string>
+	<key>lazyposition</key>
+	<string>timerSaturation</string>
+	<key>pinchableAppBar</key>
+	<string>replaceInterpolation</string>
+	<key>shouldValidateTernary</key>
+	<string>bundleUseCase</string>
+	<key>stepOrigin</key>
+	<string>customNotation</string>
+	<key>unmountaxis</key>
+	<string>equivalentTag</string>
+</dict>
+</plist>

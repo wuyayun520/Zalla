@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deprecateconstraint</key>
+	<string>findObserver</string>
+	<key>equalizationCenter</key>
+	<string>utilexceptvalue</string>
+	<key>musicMomentum</key>
+	<string>keyObserver</string>
+	<key>storeTension</key>
+	<string>shouldKeepPlayback</string>
+	<key>symbolindex</key>
+	<string>webFilter</string>
+</dict>
+</plist>

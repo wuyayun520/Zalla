@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStyle</key>
+	<string>inflateOffset</string>
+	<key>convolutionRate</key>
+	<string>handleTexture</string>
+	<key>crudeAspectRatio</key>
+	<string>hyperbolicGroup</string>
+	<key>effectOffset</key>
+	<string>nibKind</string>
+	<key>featuresize</key>
+	<string>enabledLinker</string>
+	<key>managerandsystem</key>
+	<string>disparateBinary</string>
+	<key>mediumReducer</key>
+	<string>normalStoryboard</string>
+	<key>reactivePainter</key>
+	<string>propagateResource</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activequeue</key>
+	<string>scrollabletaskpadding</string>
+	<key>advancedInterpolation</key>
+	<string>bufferrotation</string>
+	<key>delicateConnector</key>
+	<string>stateshade</string>
+	<key>deprecateoption</key>
+	<string>euclideanSegment</string>
+	<key>equipmenthead</key>
+	<string>typicalcontainer</string>
+	<key>fixedModulus</key>
+	<string>objectCenter</string>
+	<key>instructionprovider</key>
+	<string>masterBridge</string>
+	<key>interpolatedecoration</key>
+	<string>endReference</string>
+	<key>menuvolume</key>
+	<string>validateAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifyframe</key>
+	<string>consumershade</string>
+	<key>receiverBrightness</key>
+	<string>originalLoop</string>
+	<key>resizableexponent</key>
+	<string>provideLayout</string>
+	<key>sessioninteraction</key>
+	<string>invisibleAppBar</string>
+	<key>shouldCancelOption</key>
+	<string>inflatesemantics</string>
+	<key>traversalSkewX</key>
+	<string>listenBaseline</string>
+</dict>
+</plist>

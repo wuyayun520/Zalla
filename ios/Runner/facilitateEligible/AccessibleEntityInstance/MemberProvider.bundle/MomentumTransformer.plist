@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLatency</key>
+	<string>activateRouter</string>
+	<key>iterativeWrapper</key>
+	<string>shouldRouteInteger</string>
+	<key>methodamongprocess</key>
+	<string>sanitizeResult</string>
+	<key>platecontrast</key>
+	<string>canPresentClipper</string>
+	<key>servicedetector</key>
+	<string>nextGrayscale</string>
+</dict>
+</plist>

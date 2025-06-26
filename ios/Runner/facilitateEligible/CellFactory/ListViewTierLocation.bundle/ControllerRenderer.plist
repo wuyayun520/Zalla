@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeModule</key>
+	<string>displayableShader</string>
+	<key>numericalCube</key>
+	<string>reliabilityEdge</string>
+	<key>receiverFlags</key>
+	<string>missionAction</string>
+	<key>samplescenario</key>
+	<string>fusedExponent</string>
+	<key>shouldResumePainter</key>
+	<string>shouldPublishCatalyst</string>
+	<key>shouldTransitionSubpixel</key>
+	<string>shouldloadmission</string>
+	<key>statelessInterface</key>
+	<string>processCycle</string>
+</dict>
+</plist>

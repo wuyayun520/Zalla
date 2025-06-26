@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grouptype</key>
+	<string>registerdependency</string>
+	<key>obtainsession</key>
+	<string>markTicker</string>
+	<key>robustdurationshape</key>
+	<string>scrollableNotification</string>
+	<key>shouldunbindskin</key>
+	<string>discardedStateful</string>
+</dict>
+</plist>

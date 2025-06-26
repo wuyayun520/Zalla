@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSink</key>
+	<string>shouldSerializeTransition</string>
+	<key>projectframe</key>
+	<string>canSkipResource</string>
+	<key>resolverskewx</key>
+	<string>geometricMaterializer</string>
+	<key>reusableRemediation</key>
+	<string>animatedRect</string>
+	<key>shouldMountAnimatedContainer</key>
+	<string>fusedTable</string>
+	<key>shouldResumeResource</key>
+	<string>movementRight</string>
+	<key>shouldemitcycle</key>
+	<string>canRouteSwift</string>
+	<key>storeAppearance</key>
+	<string>amortizationSaturation</string>
+	<key>textfieldRate</key>
+	<string>shouldSkipMission</string>
+</dict>
+</plist>

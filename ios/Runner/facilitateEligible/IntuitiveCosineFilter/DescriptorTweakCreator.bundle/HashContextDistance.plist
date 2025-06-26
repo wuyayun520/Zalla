@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticThroughput</key>
+	<string>shouldStartDecoration</string>
+	<key>fixedSchema</key>
+	<string>resizeException</string>
+	<key>greatGraph</key>
+	<string>cupertinoResilience</string>
+	<key>mergerDistance</key>
+	<string>protectedModule</string>
+	<key>mutableAnimation</key>
+	<string>intensityContext</string>
+	<key>notationTheme</key>
+	<string>storeappearance</string>
+	<key>respondpresenter</key>
+	<string>shouldstopnotification</string>
+</dict>
+</plist>

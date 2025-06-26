@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryview</key>
+	<string>prepareEqualization</string>
+	<key>dedicatedListView</key>
+	<string>canSubscribeCosine</string>
+	<key>directlySize</key>
+	<string>modalInset</string>
+	<key>gemchooser</key>
+	<string>clipperbottom</string>
+	<key>heroType</key>
+	<string>fusedTentative</string>
+	<key>opaquelayer</key>
+	<string>routeDelay</string>
+	<key>presenterrectangle</key>
+	<string>paintCube</string>
+	<key>shouldNotifyMobile</key>
+	<string>maxCapacities</string>
+</dict>
+</plist>

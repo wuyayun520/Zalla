@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPosition</key>
+	<string>subscribeDuration</string>
+	<key>numericalConnector</key>
+	<string>sortedResilience</string>
+	<key>otherequipment</key>
+	<string>builderPrototype</string>
+	<key>sensorShape</key>
+	<string>transitionOffset</string>
+	<key>servicenearstyle</key>
+	<string>criticalbuttonposition</string>
+	<key>shouldFormatMargin</key>
+	<string>transformResource</string>
+	<key>shoulddeserializestream</key>
+	<string>limitticker</string>
+	<key>shoulddismissmusic</key>
+	<string>inactiveDispatcher</string>
+	<key>streamappearance</key>
+	<string>basicAction</string>
+	<key>unactivatedConstraint</key>
+	<string>canSerializeLabel</string>
+</dict>
+</plist>

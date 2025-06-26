@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorBorder</key>
+	<string>setstatewidget</string>
+	<key>displayableMapper</key>
+	<string>shouldDetachSegue</string>
+	<key>invisibleAsset</key>
+	<string>shouldSerializeRoute</string>
+	<key>logarithmName</key>
+	<string>canStartMediaQuery</string>
+	<key>menuOpacity</key>
+	<string>activeReliability</string>
+	<key>onsignaturechanged</key>
+	<string>sharedFeature</string>
+	<key>opaqueCursor</key>
+	<string>nextGrid</string>
+	<key>richtextshapeshape</key>
+	<string>stringifyInjection</string>
+	<key>shouldYieldHeap</key>
+	<string>liteAnalyzer</string>
+	<key>usedfactoryappearance</key>
+	<string>canStartStoryboard</string>
+</dict>
+</plist>

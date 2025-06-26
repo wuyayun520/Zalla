@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderPadding</key>
+	<string>shouldRebuildCheckbox</string>
+	<key>disabledReference</key>
+	<string>unmountedpreview</string>
+	<key>discardedcaption</key>
+	<string>wrapperEdge</string>
+	<key>gridviewhash</key>
+	<string>reconcileException</string>
+	<key>logbesidemode</key>
+	<string>shouldDecodeTextField</string>
+	<key>transformername</key>
+	<string>stampColor</string>
+	<key>unactivatedInformation</key>
+	<string>positionedMomentum</string>
+</dict>
+</plist>

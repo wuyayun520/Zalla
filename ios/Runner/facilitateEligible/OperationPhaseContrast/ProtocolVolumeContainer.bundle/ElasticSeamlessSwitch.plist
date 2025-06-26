@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializetouch</key>
+	<string>rapidspinerate</string>
+	<key>enabledInterpolation</key>
+	<string>shouldDetachGem</string>
+	<key>lastProvision</key>
+	<string>loadresult</string>
+	<key>observerVisible</key>
+	<string>sequentialSchema</string>
+	<key>radiusmomentum</key>
+	<string>canPrepareActivity</string>
+	<key>resolverinterval</key>
+	<string>yieldDrawer</string>
+</dict>
+</plist>

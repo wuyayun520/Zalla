@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTheme</key>
+	<string>layoutLayout</string>
+	<key>fusedParticle</key>
+	<string>deliveryDistance</string>
+	<key>gridStyle</key>
+	<string>shouldunmountedsymbol</string>
+	<key>selectedspot</key>
+	<string>spriteChain</string>
+	<key>significantBox</key>
+	<string>optionNumber</string>
+</dict>
+</plist>

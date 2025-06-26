@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisible</key>
+	<string>easySwitch</string>
+	<key>easyResilience</key>
+	<string>shouldFinishCapacities</string>
+	<key>hierarchicalResilience</key>
+	<string>globalCallback</string>
+	<key>positionAppearance</key>
+	<string>transformerposition</string>
+	<key>setstateanimatedcontainer</key>
+	<string>descriptiontheme</string>
+	<key>shouldUnmountListView</key>
+	<string>batchShape</string>
+	<key>usecaseRate</key>
+	<string>hasInteger</string>
+</dict>
+</plist>

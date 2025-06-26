@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureroute</key>
+	<string>shouldSetStateCapacities</string>
+	<key>effectrate</key>
+	<string>singletonOffset</string>
+	<key>euclideanfutureacceleration</key>
+	<string>overlayContrast</string>
+	<key>kernelTop</key>
+	<string>emitscreen</string>
+	<key>matrixMode</key>
+	<string>clipperEnvironment</string>
+	<key>offsetInset</key>
+	<string>grouptransparency</string>
+	<key>spriteDuration</key>
+	<string>rapidPosition</string>
+	<key>subtleSkirt</key>
+	<string>cubitFlyweight</string>
+</dict>
+</plist>

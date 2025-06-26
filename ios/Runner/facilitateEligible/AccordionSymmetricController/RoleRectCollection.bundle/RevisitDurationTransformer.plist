@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConnector</key>
+	<string>semanticcustompaintdirection</string>
+	<key>listenerbinder</key>
+	<string>eventStyle</string>
+	<key>mainBorder</key>
+	<string>shouldNotifyArithmetic</string>
+	<key>protocolSpacing</key>
+	<string>movementFlags</string>
+	<key>shouldLayoutTheme</key>
+	<string>observemetadata</string>
+	<key>shouldUnmountedFuture</key>
+	<string>canStreamColumn</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterVisibility</key>
+	<string>durationObserver</string>
+	<key>filterCount</key>
+	<string>pagerTop</string>
+	<key>interactivegesturedetector</key>
+	<string>canCacheTabView</string>
+	<key>rangeTail</key>
+	<string>numericalLoop</string>
+	<key>shaderpresenter</key>
+	<string>displayableSpecifier</string>
+	<key>standaloneSingleton</key>
+	<string>shouldYieldSession</string>
+	<key>vectorizeradius</key>
+	<string>updateListView</string>
+</dict>
+</plist>

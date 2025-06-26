@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueSignature</key>
+	<string>directposition</string>
+	<key>parallelVolume</key>
+	<string>canMountedListView</string>
+	<key>shouldDeserializeClipper</key>
+	<string>tableCommand</string>
+	<key>spritecontainstate</key>
+	<string>canBindScreen</string>
+	<key>sustainableConverter</key>
+	<string>dismissbutton</string>
+</dict>
+</plist>

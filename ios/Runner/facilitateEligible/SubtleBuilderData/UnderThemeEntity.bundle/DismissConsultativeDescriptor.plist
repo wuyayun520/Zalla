@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateDirection</key>
+	<string>architectureAlignment</string>
+	<key>polyfillFormat</key>
+	<string>tweaktop</string>
+	<key>requiredDimension</key>
+	<string>priorSprite</string>
+	<key>scrollableprotocol</key>
+	<string>canEndBloc</string>
+	<key>segmentMode</key>
+	<string>profilebloc</string>
+	<key>semanticsAppearance</key>
+	<string>canMountPadding</string>
+</dict>
+</plist>

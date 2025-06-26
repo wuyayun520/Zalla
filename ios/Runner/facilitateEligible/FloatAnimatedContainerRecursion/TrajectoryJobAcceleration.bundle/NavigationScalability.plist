@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeUnary</key>
+	<string>sampleobservername</string>
+	<key>disabledfactory</key>
+	<string>zoneDecorator</string>
+	<key>mutableHistogram</key>
+	<string>formatpressure</string>
+	<key>permutationDirection</key>
+	<string>shouldTransitionConvolution</string>
+	<key>promiseSkewX</key>
+	<string>analyzezone</string>
+	<key>substantialProvider</key>
+	<string>rangeCoord</string>
+	<key>tappableDescent</key>
+	<string>symmetricArithmetic</string>
+</dict>
+</plist>

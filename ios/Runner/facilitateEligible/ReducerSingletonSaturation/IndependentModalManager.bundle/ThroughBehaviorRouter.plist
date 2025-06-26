@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationdirection</key>
+	<string>dedicatedEffect</string>
+	<key>globalCapacities</key>
+	<string>decorationDuration</string>
+	<key>inheritedAppBar</key>
+	<string>copyUseCase</string>
+	<key>labelthanlevel</key>
+	<string>delegateStatus</string>
+	<key>lastsensorfrequency</key>
+	<string>touchResource</string>
+	<key>parallelSize</key>
+	<string>shouldSubscribeLabel</string>
+	<key>reusableSubpixel</key>
+	<string>commonSpine</string>
+</dict>
+</plist>

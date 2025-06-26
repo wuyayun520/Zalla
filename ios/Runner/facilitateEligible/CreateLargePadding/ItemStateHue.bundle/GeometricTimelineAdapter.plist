@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkliststatevisible</key>
+	<string>canFinishUsage</string>
+	<key>modulusAppearance</key>
+	<string>directlySymbol</string>
+	<key>momentumSaturation</key>
+	<string>oninstructiontap</string>
+	<key>retainedArithmetic</key>
+	<string>renderstream</string>
+	<key>retainedAscent</key>
+	<string>shouldparsetechnique</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfrequency</key>
+	<string>responsevideo</string>
+	<key>descriptorRate</key>
+	<string>displayablespineoffset</string>
+	<key>diversifiedLatency</key>
+	<string>pinchableSearcher</string>
+	<key>lastProvider</key>
+	<string>bitrateVelocity</string>
+	<key>mutableProcessor</key>
+	<string>scaffoldWork</string>
+	<key>resilientPrecision</key>
+	<string>exceptionJob</string>
+</dict>
+</plist>

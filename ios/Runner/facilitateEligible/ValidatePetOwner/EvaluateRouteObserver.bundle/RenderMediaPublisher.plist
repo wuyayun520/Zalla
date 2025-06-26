@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenstorage</key>
+	<string>specifierBound</string>
+	<key>mainNorm</key>
+	<string>basicDispatcher</string>
+	<key>metricsFormat</key>
+	<string>handlerVariable</string>
+	<key>responsestatus</key>
+	<string>materialforce</string>
+	<key>scrollableJoiner</key>
+	<string>shouldEncodeBitrate</string>
+	<key>significantController</key>
+	<string>shouldFinishModal</string>
+	<key>sizedboxSpacing</key>
+	<string>canDetachMonster</string>
+	<key>webMetrics</key>
+	<string>shouldResumeConstraint</string>
+</dict>
+</plist>

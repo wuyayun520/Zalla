@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTabView</key>
+	<string>decouplestoryboard</string>
+	<key>functionalSegue</key>
+	<string>shouldPauseIndicator</string>
+	<key>intermediateChooser</key>
+	<string>chaptercapacity</string>
+	<key>polygonFormat</key>
+	<string>tappableExponent</string>
+	<key>respectiveListener</key>
+	<string>painterChain</string>
+	<key>smallScene</key>
+	<string>deferredRestriction</string>
+	<key>streamvalidation</key>
+	<string>layoutstyledepth</string>
+	<key>switchOrigin</key>
+	<string>backwardIcon</string>
+	<key>texturemode</key>
+	<string>cupertinoDimension</string>
+</dict>
+</plist>

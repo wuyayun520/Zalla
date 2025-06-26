@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationjobskewy</key>
+	<string>canStreamStamp</string>
+	<key>buttonTheme</key>
+	<string>isolatePosition</string>
+	<key>clipperticker</key>
+	<string>shouldmountreduction</string>
+	<key>compositionalGate</key>
+	<string>sceneOrigin</string>
+	<key>immediateView</key>
+	<string>shouldDisconnectSine</string>
+	<key>integrationFlags</key>
+	<string>constraintcombiner</string>
+	<key>multiplicationColor</key>
+	<string>shouldShowModal</string>
+	<key>resilientAccessory</key>
+	<string>shouldRestartGift</string>
+</dict>
+</plist>

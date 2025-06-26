@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStamp</key>
+	<string>localVolume</string>
+	<key>coordinatorexceptobserver</key>
+	<string>tensorModal</string>
+	<key>offsetduringcontext</key>
+	<string>inflateLayout</string>
+	<key>presentsegue</key>
+	<string>switchKind</string>
+	<key>reusableSorter</key>
+	<string>shouldFormatSign</string>
+	<key>steporstrategy</key>
+	<string>statemediatorborder</string>
+</dict>
+</plist>

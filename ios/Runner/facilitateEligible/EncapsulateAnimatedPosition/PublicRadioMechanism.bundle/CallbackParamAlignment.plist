@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRequest</key>
+	<string>hardExtension</string>
+	<key>bufferinstyle</key>
+	<string>metadataStyle</string>
+	<key>grayscaleKind</key>
+	<string>renameresponse</string>
+	<key>indicatorShape</key>
+	<string>disposeAlert</string>
+	<key>interactionTop</key>
+	<string>frameEdge</string>
+	<key>mediaTension</key>
+	<string>materialTexture</string>
+	<key>staticFactory</key>
+	<string>shouldSkipRichText</string>
+</dict>
+</plist>

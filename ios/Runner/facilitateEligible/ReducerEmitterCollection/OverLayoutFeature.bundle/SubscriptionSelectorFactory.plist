@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLayout</key>
+	<string>endMedia</string>
+	<key>imageuntilvariable</key>
+	<string>statelessFragments</string>
+	<key>invisibleProcessor</key>
+	<string>pagerOrientation</string>
+	<key>primaryConnector</key>
+	<string>canInflateCoordinator</string>
+</dict>
+</plist>

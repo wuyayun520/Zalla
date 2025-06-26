@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintBorder</key>
+	<string>checkboxEnvironment</string>
+	<key>globalIcon</key>
+	<string>canPresentModal</string>
+	<key>informationPressure</key>
+	<string>heroBuffer</string>
+	<key>sliderStyle</key>
+	<string>radiusAdapter</string>
+	<key>utilBehavior</key>
+	<string>multiplicationrotation</string>
+</dict>
+</plist>

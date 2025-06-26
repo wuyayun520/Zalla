@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBloc</key>
+	<string>segmentBorder</string>
+	<key>directData</key>
+	<string>reactiveSchema</string>
+	<key>shouldFinishScaffold</key>
+	<string>renameLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAperture</key>
+	<string>shouldtransformmaster</string>
+	<key>histogramBehavior</key>
+	<string>exitnavigator</string>
+	<key>independentAperture</key>
+	<string>activeUtil</string>
+	<key>monsterState</key>
+	<string>heapAdapter</string>
+	<key>notifierinteraction</key>
+	<string>encodeScene</string>
+	<key>tappableTabView</key>
+	<string>radiusspacing</string>
+	<key>throughputfeedback</key>
+	<string>seamlessIsolate</string>
+</dict>
+</plist>

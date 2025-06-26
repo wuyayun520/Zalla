@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontheme</key>
+	<string>canValidatePromise</string>
+	<key>directlyScaffold</key>
+	<string>immutableHeap</string>
+	<key>hasReduction</key>
+	<string>servicetheme</string>
+	<key>indicatormomentum</key>
+	<string>unmountChecklist</string>
+	<key>projectionincludepattern</key>
+	<string>pointFunction</string>
+</dict>
+</plist>

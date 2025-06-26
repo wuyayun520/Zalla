@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentgrain</key>
+	<string>singleDecoration</string>
+	<key>constraintkindfrequency</key>
+	<string>canObserveBinary</string>
+	<key>positionColor</key>
+	<string>extensionStyle</string>
+	<key>reliabilityvelocity</key>
+	<string>titleInteraction</string>
+	<key>resizableTween</key>
+	<string>shouldHandleOperation</string>
+	<key>responsiveError</key>
+	<string>spinSubscription</string>
+	<key>shouldEndShader</key>
+	<string>streamforsingleton</string>
+	<key>skinVelocity</key>
+	<string>basicevolution</string>
+	<key>strengthDistance</key>
+	<string>intensityHead</string>
+</dict>
+</plist>

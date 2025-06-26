@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAlignment</key>
+	<string>ephemeralTransformer</string>
+	<key>crudeWidget</key>
+	<string>transpileAsync</string>
+	<key>denseChooser</key>
+	<string>hascontraction</string>
+	<key>descriptionSkewX</key>
+	<string>utilappearance</string>
+	<key>directlyReliability</key>
+	<string>repositoryBottom</string>
+	<key>listviewstorage</key>
+	<string>symbolLeft</string>
+	<key>shouldSubscribeMap</key>
+	<string>subsequentFrame</string>
+	<key>toolDistance</key>
+	<string>buttonmodemargin</string>
+</dict>
+</plist>

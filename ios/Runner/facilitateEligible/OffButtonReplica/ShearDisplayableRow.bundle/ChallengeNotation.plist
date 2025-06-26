@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseAscent</key>
+	<string>copyAlignment</string>
+	<key>effectDirection</key>
+	<string>directComposition</string>
+	<key>geometricInfo</key>
+	<string>publicSlider</string>
+	<key>greatMaterial</key>
+	<string>metadataLayer</string>
+	<key>metadatadecoratorformat</key>
+	<string>dismissMetadata</string>
+	<key>parallelButton</key>
+	<string>shouldConnectStateless</string>
+	<key>storecontroller</key>
+	<string>imperativeCallback</string>
+</dict>
+</plist>

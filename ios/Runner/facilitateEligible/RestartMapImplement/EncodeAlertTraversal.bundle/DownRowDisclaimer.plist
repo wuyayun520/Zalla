@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionactionspeed</key>
+	<string>attachModulus</string>
+	<key>shouldFetchPositioned</key>
+	<string>cartesianCompletion</string>
+	<key>shouldUnmountPositioned</key>
+	<string>loopFacade</string>
+	<key>statelessSprite</key>
+	<string>shouldRenderClipper</string>
+	<key>tableSpeed</key>
+	<string>iconFlyweight</string>
+	<key>transformerVisibility</key>
+	<string>animateChannels</string>
+</dict>
+</plist>

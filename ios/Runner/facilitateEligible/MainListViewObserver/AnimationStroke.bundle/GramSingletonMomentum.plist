@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationBorder</key>
+	<string>largePager</string>
+	<key>associatedScope</key>
+	<string>shouldContinueMember</string>
+	<key>draggableGrayscale</key>
+	<string>imperativeRouter</string>
+	<key>featureagainstoperation</key>
+	<string>significantRole</string>
+	<key>mainIntegrity</key>
+	<string>shouldPersistCursor</string>
+	<key>resizableSubpixel</key>
+	<string>usecasefromvariable</string>
+	<key>shouldRenderOption</key>
+	<string>constructText</string>
+	<key>specifyMomentum</key>
+	<string>compositionalTimeline</string>
+</dict>
+</plist>

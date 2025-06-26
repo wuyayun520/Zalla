@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStyle</key>
+	<string>graphicvisibility</string>
+	<key>giftShade</key>
+	<string>discoverController</string>
+	<key>operationversustype</key>
+	<string>canSkipDescriptor</string>
+	<key>shouldMountFlex</key>
+	<string>mediumCapsule</string>
+	<key>tensorOptimizer</key>
+	<string>precisionInset</string>
+</dict>
+</plist>

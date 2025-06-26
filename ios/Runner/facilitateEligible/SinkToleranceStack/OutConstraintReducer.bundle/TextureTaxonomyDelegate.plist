@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivescalability</key>
+	<string>shouldBindNib</string>
+	<key>animatedcontainerbyvar</key>
+	<string>temporaryThreshold</string>
+	<key>createinterface</key>
+	<string>explicitListener</string>
+	<key>lastcollectionresponse</key>
+	<string>connectmedia</string>
+	<key>shadervaluepadding</key>
+	<string>requestFramework</string>
+	<key>streamfacadebrightness</key>
+	<string>inkwellinteraction</string>
+</dict>
+</plist>

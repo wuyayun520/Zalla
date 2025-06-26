@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLoss</key>
+	<string>selectedCharacter</string>
+	<key>diversifiedSymbol</key>
+	<string>buttonintegration</string>
+	<key>gesturedetectorincludeshape</key>
+	<string>effectVisible</string>
+	<key>lazyTernary</key>
+	<string>geometricOperation</string>
+	<key>protectedItem</key>
+	<string>canObserveMap</string>
+	<key>visibleModel</key>
+	<string>optionMediator</string>
+	<key>webScalability</key>
+	<string>agileNotifier</string>
+</dict>
+</plist>

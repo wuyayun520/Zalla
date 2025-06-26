@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStream</key>
+	<string>equipmentDecorator</string>
+	<key>directlyEvent</key>
+	<string>parseGroup</string>
+	<key>dropdownbuttonPosition</key>
+	<string>discardedFeature</string>
+	<key>progressbarDelay</key>
+	<string>euclideanDistinction</string>
+	<key>shouldBindConvolution</key>
+	<string>rebuildProject</string>
+	<key>shouldSerializeOptimizer</key>
+	<string>canDisconnectMaster</string>
+	<key>sortedSwift</key>
+	<string>reconcileEntity</string>
+	<key>toolBorder</key>
+	<string>disparateMenu</string>
+</dict>
+</plist>

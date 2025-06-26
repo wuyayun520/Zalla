@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelborder</key>
+	<string>significantMerger</string>
+	<key>crudeChallenge</key>
+	<string>sortedMetrics</string>
+	<key>dedicatedBloc</key>
+	<string>cloneStore</string>
+	<key>hascontraction</key>
+	<string>limitinterface</string>
+	<key>lossTail</key>
+	<string>swiftContrast</string>
+	<key>statelessError</key>
+	<string>ternaryAdapter</string>
+</dict>
+</plist>

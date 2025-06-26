@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonReceiver</key>
+	<string>associatedScreen</string>
+	<key>mediaqueryconstraint</key>
+	<string>draggableSplitter</string>
+	<key>navigationscopebehavior</key>
+	<string>onslashtap</string>
+	<key>pinchableResource</key>
+	<string>parallelShader</string>
+	<key>reliabilityState</key>
+	<string>cursorInterpreter</string>
+	<key>tableVelocity</key>
+	<string>subpixelBuffer</string>
+	<key>titlemesh</key>
+	<string>canStreamNavigator</string>
+	<key>usecaseofstrategy</key>
+	<string>startPlate</string>
+	<key>zoneedge</key>
+	<string>skirtPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMargin</key>
+	<string>taskbridgehead</string>
+	<key>animatedcontainerspacing</key>
+	<string>shouldUpdateWidget</string>
+	<key>petconfidentiality</key>
+	<string>obtainScene</string>
+	<key>reactiveBandwidth</key>
+	<string>canCacheFragment</string>
+	<key>shouldYieldEffect</key>
+	<string>controllerFramework</string>
+	<key>topicvisible</key>
+	<string>bulletamongstate</string>
+	<key>videoSize</key>
+	<string>ascentColor</string>
+</dict>
+</plist>

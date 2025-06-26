@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedArchitecture</key>
+	<string>subsequentMenu</string>
+	<key>interactorHue</key>
+	<string>shouldPaintBloc</string>
+	<key>modalstate</key>
+	<string>shouldDeserializeScreen</string>
+	<key>skipticker</key>
+	<string>missedDescription</string>
+</dict>
+</plist>

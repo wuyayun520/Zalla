@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilebuilderpadding</key>
+	<string>tweenthroughput</string>
+	<key>precisioninteraction</key>
+	<string>reactiveProcessor</string>
+	<key>queueduration</key>
+	<string>shouldbuildmap</string>
+	<key>requiredArithmetic</key>
+	<string>invisibleComponent</string>
+	<key>shouldEncodeChannels</key>
+	<string>interactionIndex</string>
+	<key>shouldKeepEffect</key>
+	<string>concreteSkirt</string>
+	<key>shouldParseBoxShadow</key>
+	<string>resolverBuffer</string>
+	<key>shouldPublishSwift</key>
+	<string>unmarshalStorage</string>
+</dict>
+</plist>

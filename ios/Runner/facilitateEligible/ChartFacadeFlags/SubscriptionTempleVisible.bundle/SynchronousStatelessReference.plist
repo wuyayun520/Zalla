@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHistogram</key>
+	<string>flexibleImpact</string>
+	<key>diffableBloc</key>
+	<string>canUnbindTransition</string>
+	<key>multiplicationVisible</key>
+	<string>interactorTint</string>
+	<key>navigatenotifier</key>
+	<string>vectorizeAction</string>
+	<key>otherpolyfill</key>
+	<string>scrollableCoordinator</string>
+	<key>singletonHue</key>
+	<string>inheritedPermutation</string>
+	<key>synchronousTween</key>
+	<string>visitMenu</string>
+	<key>unarycommandbrightness</key>
+	<string>restartStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directDocument</key>
+	<string>discardedBitrate</string>
+	<key>enabledOption</key>
+	<string>arithmeticEffect</string>
+	<key>opaqueGestureDetector</key>
+	<string>asynchronousMission</string>
+	<key>permanentSwitch</key>
+	<string>originalTouch</string>
+	<key>shouldCancelModal</key>
+	<string>beginnergesturedetectorvelocity</string>
+	<key>singleAudio</key>
+	<string>constructAlignment</string>
+	<key>standaloneHero</key>
+	<string>symmetricMission</string>
+	<key>usagemanager</key>
+	<string>resilientCupertino</string>
+</dict>
+</plist>

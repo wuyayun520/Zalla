@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelimpression</key>
+	<string>easyAspectRatio</string>
+	<key>checklistTransparency</key>
+	<string>isbuilder</string>
+	<key>deactivatepopup</key>
+	<string>clonecustompaint</string>
+	<key>playbackType</key>
+	<string>controllerperjob</string>
+	<key>responsivePicker</key>
+	<string>mixinfuture</string>
+	<key>shouldInflateDrawer</key>
+	<string>renameIntensity</string>
+</dict>
+</plist>

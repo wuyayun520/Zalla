@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMusic</key>
+	<string>resolveText</string>
+	<key>commonDistinction</key>
+	<string>ternarylikekind</string>
+	<key>connecthero</key>
+	<string>playbackContext</string>
+	<key>cupertinoInterpolation</key>
+	<string>boxBuffer</string>
+	<key>desktopThread</key>
+	<string>keepBloc</string>
+	<key>dimensionSkewX</key>
+	<string>firstOperation</string>
+	<key>directLocalization</key>
+	<string>widgetmodecenter</string>
+	<key>shouldDisconnectCustomPaint</key>
+	<string>segmentInterpreter</string>
+	<key>uniformReceiver</key>
+	<string>reducerResponse</string>
+	<key>unsortedcontractionname</key>
+	<string>pendingOverlay</string>
+</dict>
+</plist>

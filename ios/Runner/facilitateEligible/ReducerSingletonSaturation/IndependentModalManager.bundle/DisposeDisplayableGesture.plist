@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAnimator</key>
+	<string>operationtype</string>
+	<key>concreteClipper</key>
+	<string>createEffect</string>
+	<key>expandedDistance</key>
+	<string>setstateSymbol</string>
+	<key>explicitLayout</key>
+	<string>protectedlistenerbrightness</string>
+	<key>materialindex</key>
+	<string>substantialComposition</string>
+	<key>materialstateleft</key>
+	<string>euclideanRadius</string>
+	<key>notificationDelay</key>
+	<string>attachscene</string>
+	<key>notificationType</key>
+	<string>selectedaxis</string>
+	<key>positionedFlags</key>
+	<string>pinchableScroll</string>
+	<key>semanticrowdirection</key>
+	<string>fixedTriangles</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricGrain</key>
+	<string>consultativeIsolate</string>
+	<key>iconHead</key>
+	<string>crucialcheckbox</string>
+	<key>loopShade</key>
+	<string>invisibleGradient</string>
+	<key>nextTangent</key>
+	<string>controllerChain</string>
+	<key>originalDimension</key>
+	<string>logNumber</string>
+	<key>robustPriority</key>
+	<string>priorityaction</string>
+	<key>shouldRenderDrawer</key>
+	<string>dynamicGrain</string>
+	<key>staticCustomPaint</key>
+	<string>interceptCurve</string>
+	<key>unactivatedScroll</key>
+	<string>lossInterval</string>
+</dict>
+</plist>

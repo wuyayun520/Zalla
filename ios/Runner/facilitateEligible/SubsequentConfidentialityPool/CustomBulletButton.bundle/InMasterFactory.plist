@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInfo</key>
+	<string>labelinteraction</string>
+	<key>advancedPolyfill</key>
+	<string>shouldValidateAnchor</string>
+	<key>backwardNib</key>
+	<string>parallelGesture</string>
+	<key>localboxtheme</key>
+	<string>explicitInformation</string>
+	<key>newestStep</key>
+	<string>canPreparePageView</string>
+	<key>opaquerectskewy</key>
+	<string>localizationPhase</string>
+	<key>resizableFormat</key>
+	<string>shouldPopBehavior</string>
+	<key>semanticAnimator</key>
+	<string>mechanismLeft</string>
+	<key>significantScenario</key>
+	<string>canSubscribeMap</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBinary</key>
+	<string>skinFunction</string>
+	<key>mediaResponse</key>
+	<string>buildMedia</string>
+	<key>zoneState</key>
+	<string>canAttachProject</string>
+</dict>
+</plist>

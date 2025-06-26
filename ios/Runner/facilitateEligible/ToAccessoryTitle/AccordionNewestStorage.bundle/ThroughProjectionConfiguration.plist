@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousListView</key>
+	<string>discardedInfrastructure</string>
+	<key>fetchevent</key>
+	<string>typicalConsumer</string>
+	<key>firstTouch</key>
+	<string>concreteImpression</string>
+	<key>hasTouch</key>
+	<string>canDispatchInkWell</string>
+	<key>isStoryboard</key>
+	<string>insteadFactory</string>
+	<key>metricsLocation</key>
+	<string>shouldProcessBitrate</string>
+	<key>multiAnalogy</key>
+	<string>permanentOption</string>
+	<key>typicalCell</key>
+	<string>scrollevaluation</string>
+	<key>typicalTentative</key>
+	<string>persisttask</string>
+</dict>
+</plist>

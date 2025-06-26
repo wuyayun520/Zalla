@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitinprototype</key>
+	<string>canObserveReference</string>
+	<key>cellmodel</key>
+	<string>overridecoordinator</string>
+	<key>cupertinoObserver</key>
+	<string>dialogsspacing</string>
+	<key>directlyWorkflow</key>
+	<string>resilientSingleton</string>
+	<key>framemechanism</key>
+	<string>fusedEmitter</string>
+	<key>meshRate</key>
+	<string>shouldfinishbutton</string>
+	<key>responsiveStateless</key>
+	<string>evaluateresult</string>
+</dict>
+</plist>

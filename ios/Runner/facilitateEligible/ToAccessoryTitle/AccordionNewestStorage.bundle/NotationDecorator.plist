@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstQueue</key>
+	<string>hasscreen</string>
+	<key>resizableAlert</key>
+	<string>interpolationStyle</string>
+	<key>robustConstraint</key>
+	<string>missedImpression</string>
+	<key>shouldFetchSubpixel</key>
+	<string>processCard</string>
+	<key>shouldPublishFlex</key>
+	<string>accelerateLocalization</string>
+	<key>shouldvalidateprofile</key>
+	<string>lazychannelname</string>
+</dict>
+</plist>

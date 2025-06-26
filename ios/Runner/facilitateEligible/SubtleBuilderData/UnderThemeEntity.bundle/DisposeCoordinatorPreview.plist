@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultContraction</key>
+	<string>hardslideredge</string>
+	<key>localFragment</key>
+	<string>shouldMountCaption</string>
+	<key>retainedManager</key>
+	<string>currentmargin</string>
+	<key>shouldPresentListView</key>
+	<string>materialMetadata</string>
+	<key>statelesspermutation</key>
+	<string>canPrepareThread</string>
+	<key>themeHead</key>
+	<string>particleRotation</string>
+</dict>
+</plist>

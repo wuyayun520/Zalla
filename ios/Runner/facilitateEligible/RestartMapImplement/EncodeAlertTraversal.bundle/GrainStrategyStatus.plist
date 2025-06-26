@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalParticle</key>
+	<string>shouldEncodeAnchor</string>
+	<key>dialogsHead</key>
+	<string>singletonshapebrightness</string>
+	<key>invisibleExpanded</key>
+	<string>navigateTangent</string>
+	<key>normalClipper</key>
+	<string>shouldRestartCharacter</string>
+	<key>rangeborder</key>
+	<string>layoutMap</string>
+	<key>thresholdbehavior</key>
+	<string>tangentzone</string>
+	<key>webBehavior</key>
+	<string>nextVolume</string>
+</dict>
+</plist>

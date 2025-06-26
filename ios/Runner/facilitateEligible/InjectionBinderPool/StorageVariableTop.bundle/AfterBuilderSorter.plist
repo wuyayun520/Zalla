@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeView</key>
+	<string>pendingStoryboard</string>
+	<key>functionalreducer</key>
+	<string>fixedPriority</string>
+	<key>ignoredResource</key>
+	<string>keyReceiver</string>
+	<key>pointsensor</key>
+	<string>isolateLocation</string>
+	<key>sharedtolerance</key>
+	<string>navigationWork</string>
+	<key>spineHue</key>
+	<string>presenterPressure</string>
+	<key>symbolInterval</key>
+	<string>desktopOffset</string>
+</dict>
+</plist>

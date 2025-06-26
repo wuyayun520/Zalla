@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyDelay</key>
+	<string>symmetricInteractor</string>
+	<key>cursordependency</key>
+	<string>cacheExpanded</string>
+	<key>errormomentum</key>
+	<string>signatureFunction</string>
+	<key>missedqueueinteraction</key>
+	<string>shouldRebuildScaffold</string>
+	<key>notificationDuration</key>
+	<string>clipperCycle</string>
+	<key>replacenode</key>
+	<string>shaderFrequency</string>
+	<key>shouldMountRemainder</key>
+	<string>singleOccasion</string>
+	<key>shouldPrepareDescriptor</key>
+	<string>symmetricinterface</string>
+	<key>shouldUpdatePoint</key>
+	<string>canValidateDimension</string>
+</dict>
+</plist>

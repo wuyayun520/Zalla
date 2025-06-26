@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTheme</key>
+	<string>mixinState</string>
+	<key>crudeSorter</key>
+	<string>descriptionCenter</string>
+	<key>disparateEqualization</key>
+	<string>navigateCube</string>
+	<key>handlercontrast</key>
+	<string>integersaturation</string>
+	<key>liteInformation</key>
+	<string>observeramonginterpreter</string>
+	<key>numericalmenubrightness</key>
+	<string>elasticHistogram</string>
+	<key>primaryPolyfill</key>
+	<string>seamlessTextField</string>
+	<key>responsebeyondstructure</key>
+	<string>disposeSubpixel</string>
+	<key>shouldPushContraction</key>
+	<string>buildBrush</string>
+	<key>spritestructuretag</key>
+	<string>tappableRouter</string>
+</dict>
+</plist>

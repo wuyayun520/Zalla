@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAllocator</key>
+	<string>labelJob</string>
+	<key>pageviewimpact</key>
+	<string>expandedMediator</string>
+	<key>repositoryresilience</key>
+	<string>sequentialParticle</string>
+</dict>
+</plist>

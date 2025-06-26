@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVector</key>
+	<string>canRebuildOperation</string>
+	<key>newestJoiner</key>
+	<string>dependencyPhase</string>
+	<key>staticKernel</key>
+	<string>initializeAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStyle</key>
+	<string>immediateChart</string>
+	<key>contrastMargin</key>
+	<string>scrollableDelegate</string>
+	<key>customizedChart</key>
+	<string>trainCard</string>
+	<key>flexibleEffect</key>
+	<string>composableDependency</string>
+	<key>heapForce</key>
+	<string>labelprovision</string>
+	<key>layoutdecoration</key>
+	<string>streamStrategy</string>
+	<key>lifecycleleft</key>
+	<string>promisechannel</string>
+	<key>sortedInformation</key>
+	<string>instructionForm</string>
+</dict>
+</plist>

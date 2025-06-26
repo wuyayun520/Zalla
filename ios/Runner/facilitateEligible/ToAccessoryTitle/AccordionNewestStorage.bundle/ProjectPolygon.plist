@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSwift</key>
+	<string>semanticstransition</string>
+	<key>projectionBrightness</key>
+	<string>inheritedFilter</string>
+	<key>temporarySine</key>
+	<string>ispadding</string>
+	<key>temporaryshaderspeed</key>
+	<string>shouldDispatchText</string>
+</dict>
+</plist>

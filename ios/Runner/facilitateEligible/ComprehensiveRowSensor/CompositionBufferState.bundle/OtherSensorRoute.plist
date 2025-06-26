@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCanvas</key>
+	<string>columnBuffer</string>
+	<key>delegatecreator</key>
+	<string>statefulAsset</string>
+	<key>synchronizenavigation</key>
+	<string>canValidateSkin</string>
+	<key>uniqueConverter</key>
+	<string>receiverSize</string>
+	<key>wrapperdelay</key>
+	<string>serializeListView</string>
+</dict>
+</plist>

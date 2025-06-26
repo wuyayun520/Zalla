@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentFormat</key>
+	<string>shouldReplaceScaffold</string>
+	<key>itemBorder</key>
+	<string>customAnchor</string>
+	<key>liteSubscriber</key>
+	<string>poolProgressBar</string>
+	<key>mediumDispatcher</key>
+	<string>directlyHash</string>
+	<key>shouldLoadGridView</key>
+	<string>uniqueCaption</string>
+	<key>shouldSerializeNotification</key>
+	<string>cloneContainer</string>
+	<key>shouldTransitionHistogram</key>
+	<string>canValidatePlayback</string>
+</dict>
+</plist>

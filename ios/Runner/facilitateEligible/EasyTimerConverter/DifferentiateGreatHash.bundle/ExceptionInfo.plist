@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGraphic</key>
+	<string>shouldSkipText</string>
+	<key>denseMediaQuery</key>
+	<string>canUnmountCatalyst</string>
+	<key>diffableKernel</key>
+	<string>publicSign</string>
+	<key>iconconstraint</key>
+	<string>shouldValidatePlayback</string>
+	<key>localTextField</key>
+	<string>repositoryBuffer</string>
+	<key>mobileVideo</key>
+	<string>integercommandtag</string>
+	<key>notificationscalability</key>
+	<string>movementbridgecenter</string>
+	<key>protectedTrigger</key>
+	<string>validateoffset</string>
+	<key>shouldRenderFragment</key>
+	<string>tolerancePosition</string>
+</dict>
+</plist>

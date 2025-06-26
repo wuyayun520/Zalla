@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaintegrity</key>
+	<string>significantLocalization</string>
+	<key>dependencybesideprocess</key>
+	<string>transitiontext</string>
+	<key>gramCount</key>
+	<string>variantChain</string>
+	<key>localBandwidth</key>
+	<string>secondPublisher</string>
+	<key>lossmethodmode</key>
+	<string>insteadTitle</string>
+	<key>lossrange</key>
+	<string>shapeCount</string>
+	<key>mediocreMobile</key>
+	<string>timerProcess</string>
+	<key>responsivedimension</key>
+	<string>canLoadUnary</string>
+</dict>
+</plist>

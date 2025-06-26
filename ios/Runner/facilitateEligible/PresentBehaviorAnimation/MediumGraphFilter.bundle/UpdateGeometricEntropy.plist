@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRadius</key>
+	<string>canPersistInstruction</string>
+	<key>agileCallback</key>
+	<string>exceptionTransparency</string>
+	<key>carddescription</key>
+	<string>shouldLayoutAccessory</string>
+	<key>disparateDelivery</key>
+	<string>informationIndex</string>
+	<key>dynamicAppBar</key>
+	<string>defaultSample</string>
+	<key>gateposition</key>
+	<string>composableLocalization</string>
+	<key>opaqueStatus</key>
+	<string>shouldResumeMobile</string>
+</dict>
+</plist>

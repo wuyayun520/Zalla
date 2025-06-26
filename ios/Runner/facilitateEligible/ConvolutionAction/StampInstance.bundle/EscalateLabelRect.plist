@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoManager</key>
+	<string>dispatchBaseline</string>
+	<key>calculatenode</key>
+	<string>significantCapacities</string>
+	<key>controllerOrientation</key>
+	<string>momentumLevel</string>
+	<key>draggableConfiguration</key>
+	<string>canConnectCustomPaint</string>
+	<key>dropoutallocator</key>
+	<string>streamlineCurve</string>
+	<key>objectpressure</key>
+	<string>oldElement</string>
+	<key>skiptransition</key>
+	<string>dialogsFramework</string>
+	<key>subtleBullet</key>
+	<string>descentAlignment</string>
+	<key>tickerTheme</key>
+	<string>subsequentMission</string>
+</dict>
+</plist>

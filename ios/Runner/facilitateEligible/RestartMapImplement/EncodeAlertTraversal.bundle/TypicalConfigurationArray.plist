@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWorkflow</key>
+	<string>shouldencodenavigation</string>
+	<key>controllersearcher</key>
+	<string>bufferBehavior</string>
+	<key>desktopstate</key>
+	<string>occasionSkewX</string>
+	<key>equipmentasfacade</key>
+	<string>shouldLayoutRole</string>
+	<key>handlerPressure</key>
+	<string>pethandler</string>
+	<key>integrationRate</key>
+	<string>originalDecoration</string>
+	<key>liteMediaQuery</key>
+	<string>touchChapter</string>
+	<key>rowflags</key>
+	<string>resizeLoop</string>
+	<key>shouldListenPageView</key>
+	<string>canPrepareBase</string>
+</dict>
+</plist>

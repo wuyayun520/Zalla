@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticworkorientation</key>
+	<string>usecaseCommand</string>
+	<key>checklistTransparency</key>
+	<string>shouldSavePageView</string>
+	<key>immutableNotification</key>
+	<string>otherArchitecture</string>
+	<key>independentBinary</key>
+	<string>saveMusic</string>
+	<key>interactorLocation</key>
+	<string>techniquealongflyweight</string>
+	<key>lazyInkWell</key>
+	<string>encodeGraph</string>
+	<key>navigationsize</key>
+	<string>shouldAnimateMission</string>
+	<key>shouldStopEntropy</key>
+	<string>unbindStream</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilebloc</key>
+	<string>responsiveSink</string>
+	<key>autoOffset</key>
+	<string>interfacealongtask</string>
+	<key>customResult</key>
+	<string>logAction</string>
+	<key>impressionvisible</key>
+	<string>resolvewidget</string>
+</dict>
+</plist>

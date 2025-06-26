@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferstagevelocity</key>
+	<string>mediasystemindex</string>
+	<key>custompaintorientation</key>
+	<string>shouldStartGate</string>
+	<key>easyDimension</key>
+	<string>requestGraph</string>
+	<key>flexibleRoute</key>
+	<string>restrictionScale</string>
+	<key>hardFlex</key>
+	<string>canDecodeGraphic</string>
+	<key>opaqueCube</key>
+	<string>provisionBound</string>
+	<key>pausepresenter</key>
+	<string>firstInteger</string>
+	<key>shouldDisconnectAnchor</key>
+	<string>canListenRadio</string>
+	<key>shouldLoadBox</key>
+	<string>routerSaturation</string>
+	<key>singletonshade</key>
+	<string>liteAmortization</string>
+</dict>
+</plist>

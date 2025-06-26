@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCharacteristic</key>
+	<string>projectEnvironment</string>
+	<key>copyinjection</key>
+	<string>chooserContrast</string>
+	<key>shouldEncodeCustomPaint</key>
+	<string>consultativeAnalyzer</string>
+	<key>statelessitem</key>
+	<string>performTask</string>
+</dict>
+</plist>

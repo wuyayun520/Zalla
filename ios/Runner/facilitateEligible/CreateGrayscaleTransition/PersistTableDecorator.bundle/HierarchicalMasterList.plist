@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerindex</key>
+	<string>shouldDeserializeMaster</string>
+	<key>defaultmaterial</key>
+	<string>currentbox</string>
+	<key>expandedscale</key>
+	<string>ongraphictap</string>
+	<key>fusedelement</key>
+	<string>cupertinoAccessory</string>
+	<key>isolateOrientation</key>
+	<string>canProcessOption</string>
+	<key>materialOption</key>
+	<string>canEmitScale</string>
+	<key>reusableTabView</key>
+	<string>presenterAction</string>
+</dict>
+</plist>

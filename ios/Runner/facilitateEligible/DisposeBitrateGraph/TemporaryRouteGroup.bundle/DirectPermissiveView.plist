@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildernotation</key>
+	<string>routervalidation</string>
+	<key>permissivePadding</key>
+	<string>mainRestriction</string>
+	<key>secondTask</key>
+	<string>attachGestureDetector</string>
+	<key>sharedbitrateinterval</key>
+	<string>equipmentdepth</string>
+	<key>shouldDeserializePet</key>
+	<string>analogyTint</string>
+	<key>touchStyle</key>
+	<string>shouldProcessActivity</string>
+</dict>
+</plist>

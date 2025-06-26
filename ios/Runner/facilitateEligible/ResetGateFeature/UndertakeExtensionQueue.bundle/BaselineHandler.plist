@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorcombiner</key>
+	<string>provideBuffer</string>
+	<key>imperativeDetector</key>
+	<string>finishFragment</string>
+	<key>previewatchain</key>
+	<string>shouldAttachCheckbox</string>
+	<key>restarttangent</key>
+	<string>shouldTrainController</string>
+	<key>shouldUnmountSlider</key>
+	<string>ternaryDuration</string>
+	<key>unsortedReplica</key>
+	<string>vectorScope</string>
+</dict>
+</plist>

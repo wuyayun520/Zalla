@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNavigation</key>
+	<string>compositionallabelshape</string>
+	<key>channelsSpeed</key>
+	<string>animationtaskcontrast</string>
+	<key>compositionallistviewoffset</key>
+	<string>groupsize</string>
+	<key>deferredtext</key>
+	<string>strokeAppearance</string>
+	<key>delicateEfficiency</key>
+	<string>inflateAnimatedContainer</string>
+	<key>desktopMetadata</key>
+	<string>temporaryGrayscale</string>
+	<key>missedResponse</key>
+	<string>shouldNavigatePet</string>
+	<key>offsetTail</key>
+	<string>restoreVector</string>
+	<key>sustainableTexture</key>
+	<string>streamlineInteractor</string>
+</dict>
+</plist>

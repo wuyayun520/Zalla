@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTimeline</key>
+	<string>roleFlyweight</string>
+	<key>infoSaturation</key>
+	<string>performScene</string>
+	<key>intuitivedelegate</key>
+	<string>shouldInflateIndicator</string>
+	<key>listenerValidation</key>
+	<string>sessionVisible</string>
+	<key>navigateclipper</key>
+	<string>mutableQuaternion</string>
+	<key>permissiveException</key>
+	<string>flexibleProjection</string>
+</dict>
+</plist>

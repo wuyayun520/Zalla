@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedUseCase</key>
+	<string>canFinishModal</string>
+	<key>replicatecatalyst</key>
+	<string>routecallback</string>
+	<key>singletoninsideaction</key>
+	<string>oldCurve</string>
+	<key>sizedboxDuration</key>
+	<string>shouldTransitionTabBar</string>
+	<key>tabviewforce</key>
+	<string>dedicatedDescriptor</string>
+	<key>timeAppearance</key>
+	<string>featurecoord</string>
+</dict>
+</plist>

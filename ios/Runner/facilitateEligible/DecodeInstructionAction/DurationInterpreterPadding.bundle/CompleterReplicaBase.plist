@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataPressure</key>
+	<string>transformcurve</string>
+	<key>shouldpersistprotocol</key>
+	<string>euclideanPoint</string>
+	<key>shouldtrainbuilder</key>
+	<string>eventFacade</string>
+	<key>stepscroller</key>
+	<string>diffableEvolution</string>
+</dict>
+</plist>

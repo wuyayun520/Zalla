@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationoutsidecycle</key>
+	<string>canResumeCapsule</string>
+	<key>coordinatorawayactivity</key>
+	<string>subscriptionFlags</string>
+	<key>multiGraphic</key>
+	<string>canValidateScreen</string>
+	<key>multiZone</key>
+	<string>alphaValidation</string>
+	<key>reliabilitybrightness</key>
+	<string>publicConstraint</string>
+	<key>requiredSpine</key>
+	<string>denseCubit</string>
+	<key>smartItem</key>
+	<string>interactiveConfidentiality</string>
+	<key>statelessObject</key>
+	<string>pauseSpecifier</string>
+	<key>storeContrast</key>
+	<string>shouldNavigateRow</string>
+</dict>
+</plist>

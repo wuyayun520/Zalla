@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataFeedback</key>
+	<string>setupInjection</string>
+	<key>escalateasset</key>
+	<string>gesturedetectorEdge</string>
+	<key>hasheap</key>
+	<string>shouldSkipSegment</string>
+	<key>oldRecursion</key>
+	<string>plateShape</string>
+	<key>slashFlags</key>
+	<string>autoEqualization</string>
+	<key>statefulSelector</key>
+	<string>modulusPattern</string>
+	<key>temporarydescriptionvisible</key>
+	<string>sanitizeAllocator</string>
+</dict>
+</plist>

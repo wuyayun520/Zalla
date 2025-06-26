@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityFlags</key>
+	<string>undertakeBuffer</string>
+	<key>hierarchicalWrapper</key>
+	<string>canEncodeLogarithm</string>
+	<key>permissiveAspect</key>
+	<string>symmetricSink</string>
+	<key>symmetricAppBar</key>
+	<string>accessoryDelay</string>
+</dict>
+</plist>

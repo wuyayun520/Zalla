@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorInterval</key>
+	<string>tabbarFeedback</string>
+	<key>cupertinoAnalyzer</key>
+	<string>standaloneDescent</string>
+	<key>declarativesplitter</key>
+	<string>sizedboxPadding</string>
+	<key>layoutpainter</key>
+	<string>relationalActivity</string>
+	<key>notifycontainer</key>
+	<string>richtextMethod</string>
+	<key>shouldprepareskirt</key>
+	<string>firstCapsule</string>
+	<key>transposenavigator</key>
+	<string>notifierPressure</string>
+	<key>usedContainer</key>
+	<string>dispatchMember</string>
+</dict>
+</plist>

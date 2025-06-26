@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTopic</key>
+	<string>sensorTransparency</string>
+	<key>dynamicMaterial</key>
+	<string>modalVisible</string>
+	<key>explicitfinder</key>
+	<string>storageRotation</string>
+	<key>labelmementoscale</key>
+	<string>imperativeEntity</string>
+	<key>scrollerstatus</key>
+	<string>navigatorappearance</string>
+</dict>
+</plist>

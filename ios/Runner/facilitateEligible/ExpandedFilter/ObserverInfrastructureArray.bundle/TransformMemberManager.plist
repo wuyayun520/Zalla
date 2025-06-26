@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easySwitch</key>
+	<string>reusableInteractor</string>
+	<key>mappervisibility</key>
+	<string>defaultTabView</string>
+	<key>secondStoryboard</key>
+	<string>sequentialConfidentiality</string>
+	<key>shouldConnectBehavior</key>
+	<string>dataDelay</string>
+</dict>
+</plist>

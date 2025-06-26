@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsplitter</key>
+	<string>stringifySingleton</string>
+	<key>delegateduringdecorator</key>
+	<string>mountRemainder</string>
+	<key>metricsMargin</key>
+	<string>combineText</string>
+	<key>priorEvent</key>
+	<string>plateProxy</string>
+	<key>scrollerKind</key>
+	<string>statelessElement</string>
+	<key>tentativeTop</key>
+	<string>shouldSkipMap</string>
+</dict>
+</plist>

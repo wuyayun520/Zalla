@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawercubit</key>
+	<string>routeNotifier</string>
+	<key>flexibleSpine</key>
+	<string>eagerBase</string>
+	<key>gradientTheme</key>
+	<string>emitAccessory</string>
+	<key>lostMend</key>
+	<string>richtextphaseflags</string>
+	<key>materialSplitter</key>
+	<string>decoupleTransition</string>
+	<key>refreshtext</key>
+	<string>responsiveMaterial</string>
+	<key>synchronousCupertino</key>
+	<string>smallWrapper</string>
+</dict>
+</plist>

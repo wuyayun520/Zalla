@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedScalability</key>
+	<string>robustEqualization</string>
+	<key>granularTicker</key>
+	<string>oldStroke</string>
+	<key>materialBottom</key>
+	<string>erroratvalue</string>
+	<key>opaqueMovement</key>
+	<string>mainBoxShadow</string>
+	<key>streamhero</key>
+	<string>listviewParam</string>
+	<key>synchronousIntensity</key>
+	<string>synchronousCollection</string>
+</dict>
+</plist>

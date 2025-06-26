@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitorstage</key>
+	<string>mediocreBuffer</string>
+	<key>captionBound</key>
+	<string>canNavigatePlate</string>
+	<key>denseReceiver</key>
+	<string>holdController</string>
+	<key>immutableSpine</key>
+	<string>replaceDelegate</string>
+	<key>permanentMediaQuery</key>
+	<string>canDispatchCursor</string>
+	<key>shouldValidateStep</key>
+	<string>sceneVariable</string>
+	<key>shouldYieldChecklist</key>
+	<string>buttonCommand</string>
+	<key>sortedMap</key>
+	<string>permanentAudio</string>
+	<key>typicalDimension</key>
+	<string>protocolcluster</string>
+</dict>
+</plist>

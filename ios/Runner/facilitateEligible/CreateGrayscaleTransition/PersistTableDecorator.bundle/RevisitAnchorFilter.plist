@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintShape</key>
+	<string>retrieveAlignment</string>
+	<key>descentIndex</key>
+	<string>embedController</string>
+	<key>fetchtween</key>
+	<string>shouldAttachOperation</string>
+	<key>tableCount</key>
+	<string>localizationParam</string>
+	<key>usageState</key>
+	<string>multiCluster</string>
+	<key>vectorName</key>
+	<string>mountedFragment</string>
+</dict>
+</plist>

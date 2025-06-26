@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMesh</key>
+	<string>finishbloc</string>
+	<key>invisibleListView</key>
+	<string>unactivatedgraph</string>
+	<key>shouldRenderStoryboard</key>
+	<string>intensityFlyweight</string>
+	<key>sortedInfo</key>
+	<string>viewindex</string>
+</dict>
+</plist>

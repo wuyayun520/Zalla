@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeFlex</key>
+	<string>clipperfactory</string>
+	<key>normalChart</key>
+	<string>draggableUnary</string>
+	<key>primaryArithmetic</key>
+	<string>publisherTop</string>
+	<key>shouldStartUsage</key>
+	<string>parallelSymbol</string>
+	<key>shouldpreparebaseline</key>
+	<string>shouldProcessRole</string>
+	<key>tabbarmementodirection</key>
+	<string>quantizationConfiguration</string>
+	<key>tangentVisible</key>
+	<string>textDecorator</string>
+</dict>
+</plist>

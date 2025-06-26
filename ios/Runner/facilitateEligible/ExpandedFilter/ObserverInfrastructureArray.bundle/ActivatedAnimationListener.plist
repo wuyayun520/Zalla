@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptertypeappearance</key>
+	<string>subtleScheduler</string>
+	<key>descriptorPadding</key>
+	<string>intuitiveTween</string>
+	<key>shoulddisconnectactivity</key>
+	<string>selectedfuture</string>
+	<key>shouldresumeanimatedcontainer</key>
+	<string>crucialPadding</string>
+	<key>statusAppearance</key>
+	<string>exitParticle</string>
+</dict>
+</plist>

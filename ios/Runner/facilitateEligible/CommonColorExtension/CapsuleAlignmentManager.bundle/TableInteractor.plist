@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartResponse</key>
+	<string>constructstate</string>
+	<key>compositionpatternscale</key>
+	<string>seamlessBinary</string>
+	<key>draggableResolver</key>
+	<string>shouldDisconnectCard</string>
+	<key>elementDensity</key>
+	<string>canHandleLoss</string>
+	<key>loadexception</key>
+	<string>keyDescent</string>
+	<key>petBorder</key>
+	<string>criticalModel</string>
+	<key>selectedcolumn</key>
+	<string>startSession</string>
+	<key>shouldobserveroute</key>
+	<string>optimizerSkewY</string>
+</dict>
+</plist>

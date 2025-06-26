@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTask</key>
+	<string>canSkipHistogram</string>
+	<key>cupertinoVertex</key>
+	<string>responsiveNorm</string>
+	<key>smallPolygon</key>
+	<string>canRebuildShader</string>
+	<key>uniqueSubscription</key>
+	<string>optimizerMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkvector</key>
+	<string>painterPrototype</string>
+	<key>consumeraboutcontext</key>
+	<string>transformerCenter</string>
+	<key>exittask</key>
+	<string>navigationwithoutactivity</string>
+	<key>insteadstack</key>
+	<string>factorydensity</string>
+	<key>sortedSpot</key>
+	<string>canAttachSlider</string>
+</dict>
+</plist>

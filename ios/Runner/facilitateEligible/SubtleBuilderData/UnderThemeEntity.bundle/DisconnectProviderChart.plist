@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDepth</key>
+	<string>impactFeedback</string>
+	<key>concretecallback</key>
+	<string>singleDimension</string>
+	<key>newestcoordinator</key>
+	<string>accessibleInjection</string>
+	<key>observeasset</key>
+	<string>hardAxis</string>
+	<key>resizableDependency</key>
+	<string>greatTangent</string>
+	<key>statefulcallbackresponse</key>
+	<string>canStopCanvas</string>
+	<key>uniquecell</key>
+	<string>temporaryMovement</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoConstant</key>
+	<string>menuPadding</string>
+	<key>graphcontextskewx</key>
+	<string>deprecateHandler</string>
+	<key>respectiveChannels</key>
+	<string>newestCube</string>
+	<key>shouldInflateAspect</key>
+	<string>subpixelSaturation</string>
+	<key>shouldMountFuture</key>
+	<string>shouldDispatchSymbol</string>
+	<key>shouldsaveactivity</key>
+	<string>shouldRenderPositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardType</key>
+	<string>seamlessTimer</string>
+	<key>characterviastyle</key>
+	<string>nativeLifecycle</string>
+	<key>heapAppearance</key>
+	<string>arithmeticCosine</string>
+	<key>interpolatecoordinator</key>
+	<string>canStreamProtocol</string>
+	<key>liteIntensity</key>
+	<string>endTangent</string>
+	<key>responseLocation</key>
+	<string>shouldSkipChannels</string>
+	<key>shouldHandleEqualization</key>
+	<string>queueprototypedelay</string>
+	<key>shouldSubscribeLog</key>
+	<string>ephemeralDetail</string>
+</dict>
+</plist>

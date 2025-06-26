@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticsteporientation</key>
+	<string>agileAlert</string>
+	<key>globalSymbol</key>
+	<string>shoulddisposecaption</string>
+	<key>mediocreOffset</key>
+	<string>defaultsession</string>
+	<key>opaqueTicker</key>
+	<string>cellaroundvariable</string>
+	<key>prevStatus</key>
+	<string>associatedMaterializer</string>
+	<key>sessionAppearance</key>
+	<string>shouldObserveFlex</string>
+	<key>statusContrast</key>
+	<string>shouldpreparebatch</string>
+	<key>subsequentChooser</key>
+	<string>easyHash</string>
+</dict>
+</plist>

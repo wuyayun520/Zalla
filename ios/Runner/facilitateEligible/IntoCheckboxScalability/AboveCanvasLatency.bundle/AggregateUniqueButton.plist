@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSpacing</key>
+	<string>marshalRouter</string>
+	<key>ignoredListView</key>
+	<string>notifierTransparency</string>
+	<key>independentDisclaimer</key>
+	<string>curveLevel</string>
+	<key>otherSorter</key>
+	<string>flexibleawait</string>
+	<key>shouldLoadWidget</key>
+	<string>priorityposition</string>
+	<key>webmodulusinset</key>
+	<string>imperativeinstruction</string>
+</dict>
+</plist>

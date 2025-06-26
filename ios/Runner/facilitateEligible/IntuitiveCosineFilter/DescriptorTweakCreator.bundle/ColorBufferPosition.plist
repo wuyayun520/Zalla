@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRoute</key>
+	<string>pivotalNib</string>
+	<key>concreteChecklist</key>
+	<string>pickerbottom</string>
+	<key>eagerGridView</key>
+	<string>startDrawer</string>
+	<key>flexibleMechanism</key>
+	<string>currentHandler</string>
+	<key>presenterormediator</key>
+	<string>diffableDescription</string>
+	<key>shouldcreatebase</key>
+	<string>accordionResult</string>
+	<key>unlockprogressbar</key>
+	<string>localCluster</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderkind</key>
+	<string>shouldContinueCheckbox</string>
+	<key>bulletValidation</key>
+	<string>accordionMonster</string>
+	<key>checklistFormat</key>
+	<string>originalCustomPaint</string>
+	<key>customizedItem</key>
+	<string>keepEquipment</string>
+	<key>deploybloc</key>
+	<string>arithmeticview</string>
+	<key>immutablepopup</key>
+	<string>loadActivity</string>
+	<key>requiredNode</key>
+	<string>invisibleCheckbox</string>
+	<key>reusableScreen</key>
+	<string>segueimpression</string>
+	<key>sustainableCharacteristic</key>
+	<string>mastercolor</string>
+</dict>
+</plist>

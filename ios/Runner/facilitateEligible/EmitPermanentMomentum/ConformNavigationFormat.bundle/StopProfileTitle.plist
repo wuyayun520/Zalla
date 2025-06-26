@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlystorage</key>
+	<string>resourceskewx</string>
+	<key>durationinteraction</key>
+	<string>starttask</string>
+	<key>graphicDelay</key>
+	<string>tappableInkWell</string>
+	<key>numericalDependency</key>
+	<string>ternaryAlignment</string>
+	<key>shouldpushcontroller</key>
+	<string>dynamicSchema</string>
+	<key>wrapperTheme</key>
+	<string>constructNode</string>
+</dict>
+</plist>

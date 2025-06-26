@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticicontype</key>
+	<string>handlerleft</string>
+	<key>canvasResponse</key>
+	<string>clusterStatus</string>
+	<key>commonexponent</key>
+	<string>labelLeft</string>
+	<key>customRemainder</key>
+	<string>processrow</string>
+	<key>radioLocation</key>
+	<string>imageedge</string>
+	<key>typicalLifecycle</key>
+	<string>viewDistance</string>
+</dict>
+</plist>

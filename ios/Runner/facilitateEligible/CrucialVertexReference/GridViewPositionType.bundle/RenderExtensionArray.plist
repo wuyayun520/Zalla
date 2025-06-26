@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageInset</key>
+	<string>indicatorPhase</string>
+	<key>popswift</key>
+	<string>shouldPauseContainer</string>
+	<key>shouldFinishOperation</key>
+	<string>shouldLoadNotification</string>
+	<key>shouldFinishPadding</key>
+	<string>consultativeReference</string>
+	<key>shouldLoadScroll</key>
+	<string>connectTabBar</string>
+	<key>transitionlocalization</key>
+	<string>requiredawait</string>
+</dict>
+</plist>

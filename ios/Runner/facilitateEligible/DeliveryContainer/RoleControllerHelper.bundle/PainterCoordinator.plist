@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionhead</key>
+	<string>exceptionTemple</string>
+	<key>hasSemantics</key>
+	<string>euclideanGrain</string>
+	<key>popupDirection</key>
+	<string>initializeManager</string>
+	<key>scrollneartype</key>
+	<string>reusableSymbol</string>
+	<key>shouldStreamBinary</key>
+	<string>sharedFactory</string>
+	<key>stampShape</key>
+	<string>integerTag</string>
+	<key>stringifypromise</key>
+	<string>apertureSaturation</string>
+	<key>widgetindex</key>
+	<string>delicateDuration</string>
+</dict>
+</plist>

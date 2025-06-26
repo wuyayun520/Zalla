@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTernary</key>
+	<string>stackSpacing</string>
+	<key>iconLocation</key>
+	<string>priorprovider</string>
+	<key>independentOffset</key>
+	<string>buttonprototypepadding</string>
+	<key>multiDecoration</key>
+	<string>shouldTransformScreen</string>
+	<key>retainedStateless</key>
+	<string>shouldSkipListView</string>
+	<key>shaderPosition</key>
+	<string>shouldTransformDuration</string>
+</dict>
+</plist>

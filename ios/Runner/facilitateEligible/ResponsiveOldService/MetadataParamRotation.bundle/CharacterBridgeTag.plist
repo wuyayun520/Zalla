@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostGridView</key>
+	<string>shouldKeepCoordinator</string>
+	<key>shouldSerializePlate</key>
+	<string>overlaythreshold</string>
+	<key>slideradapterborder</key>
+	<string>canHandleBitrate</string>
+	<key>smallGesture</key>
+	<string>touchTier</string>
+	<key>sophisticatedElasticity</key>
+	<string>smartGate</string>
+	<key>substantialPublisher</key>
+	<string>unsortedRange</string>
+	<key>symmetricSemantics</key>
+	<string>rowEnvironment</string>
+	<key>viewcommandindex</key>
+	<string>imperativeResponse</string>
+</dict>
+</plist>

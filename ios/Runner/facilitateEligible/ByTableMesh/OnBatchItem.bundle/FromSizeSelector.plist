@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackasstage</key>
+	<string>localSpine</string>
+	<key>capsulebuffer</key>
+	<string>directTabView</string>
+	<key>desktopTimer</key>
+	<string>shouldValidateSymbol</string>
+	<key>disparateDispatcher</key>
+	<string>permanentProject</string>
+	<key>isextension</key>
+	<string>secondMenu</string>
+	<key>mediocreCatalyst</key>
+	<string>canTrainModal</string>
+	<key>otherloop</key>
+	<string>arithmeticRight</string>
+	<key>pickerBehavior</key>
+	<string>shouldLayoutProvider</string>
+	<key>polyfilltype</key>
+	<string>basicData</string>
+	<key>seamlessSize</key>
+	<string>paintStream</string>
+</dict>
+</plist>

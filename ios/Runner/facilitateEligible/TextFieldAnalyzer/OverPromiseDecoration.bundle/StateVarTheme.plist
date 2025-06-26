@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateStack</key>
+	<string>immediatePager</string>
+	<key>ephemeralBaseline</key>
+	<string>shouldEmitModal</string>
+	<key>firstalignment</key>
+	<string>gridwrapper</string>
+	<key>intermediateLifecycle</key>
+	<string>deserializeDependency</string>
+	<key>normalInteractor</key>
+	<string>shouldRenderCharacter</string>
+	<key>otherMetrics</key>
+	<string>fetchSpine</string>
+	<key>protectedComposition</key>
+	<string>shouldSaveSwift</string>
+	<key>shouldNavigateMobile</key>
+	<string>hardLog</string>
+	<key>staticData</key>
+	<string>hierarchicalEffect</string>
+	<key>symmetricGrayscale</key>
+	<string>shouldDispatchCustomPaint</string>
+</dict>
+</plist>

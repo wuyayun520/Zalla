@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticBloc</key>
+	<string>characteristicKind</string>
+	<key>fusedMetadata</key>
+	<string>trainSegue</string>
+	<key>loopsensor</key>
+	<string>subtlechallenge</string>
+	<key>shouldsetstateduration</key>
+	<string>nativeCharacteristic</string>
+	<key>textmediatorinset</key>
+	<string>serializeBaseline</string>
+</dict>
+</plist>

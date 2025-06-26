@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePermutation</key>
+	<string>observeNib</string>
+	<key>exceptionEdge</key>
+	<string>mediocreEmitter</string>
+	<key>interactorLocation</key>
+	<string>seeknavigator</string>
+	<key>opaqueTool</key>
+	<string>responsiveObserver</string>
+	<key>overlayresult</key>
+	<string>cacheSpecifier</string>
+	<key>relationalInterface</key>
+	<string>defaultPositioned</string>
+	<key>resourceorientation</key>
+	<string>bufferStructure</string>
+</dict>
+</plist>

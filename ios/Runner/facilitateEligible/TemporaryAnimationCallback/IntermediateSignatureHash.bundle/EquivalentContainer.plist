@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSwift</key>
+	<string>asyncOrientation</string>
+	<key>mediocreAnalyzer</key>
+	<string>globalStream</string>
+	<key>shouldStreamMission</key>
+	<string>pausePlate</string>
+	<key>transitionresponder</key>
+	<string>screenVelocity</string>
+</dict>
+</plist>

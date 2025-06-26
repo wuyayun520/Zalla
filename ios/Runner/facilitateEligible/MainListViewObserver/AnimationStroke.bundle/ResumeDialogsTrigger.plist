@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthSaturation</key>
+	<string>diversifiedTextField</string>
+	<key>directStroke</key>
+	<string>eraseAlignment</string>
+	<key>draggableStatus</key>
+	<string>ignoredThroughput</string>
+	<key>independentEvolution</key>
+	<string>custompaintStructure</string>
+	<key>intermediateStep</key>
+	<string>concurrentGridView</string>
+	<key>mainLatency</key>
+	<string>unaryHead</string>
+</dict>
+</plist>

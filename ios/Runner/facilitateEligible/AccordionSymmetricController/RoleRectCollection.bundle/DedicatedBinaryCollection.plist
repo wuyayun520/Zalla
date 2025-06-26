@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReference</key>
+	<string>customBase</string>
+	<key>easysprite</key>
+	<string>trainrole</string>
+	<key>frameColor</key>
+	<string>shouldSerializeBullet</string>
+	<key>permanentConfiguration</key>
+	<string>reductioncontextfrequency</string>
+	<key>pivotalNotation</key>
+	<string>renderCertificate</string>
+	<key>sharedContrast</key>
+	<string>shouldDisposeSwitch</string>
+	<key>shouldDispatchProtocol</key>
+	<string>persistentImage</string>
+	<key>specifyFormat</key>
+	<string>eagerconfiguration</string>
+	<key>synchronousRepository</key>
+	<string>directlyComponent</string>
+</dict>
+</plist>

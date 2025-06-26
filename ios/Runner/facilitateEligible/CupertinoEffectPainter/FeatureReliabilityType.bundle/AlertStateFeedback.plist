@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorborder</key>
+	<string>cubeShape</string>
+	<key>permanentNode</key>
+	<string>canReplaceCompletion</string>
+	<key>seamlessReducer</key>
+	<string>futureaudio</string>
+	<key>specifyChooser</key>
+	<string>specifyusecaseshape</string>
+	<key>spotscale</key>
+	<string>rapidBorder</string>
+	<key>storedelay</key>
+	<string>ignoredHandler</string>
+	<key>substantialSlider</key>
+	<string>scaleSaturation</string>
+	<key>uniqueQueue</key>
+	<string>canEmitCube</string>
+</dict>
+</plist>

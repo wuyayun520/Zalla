@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRestriction</key>
+	<string>shouldkeepthread</string>
+	<key>euclideannotation</key>
+	<string>canNotifyNib</string>
+	<key>granularScale</key>
+	<string>containerVariable</string>
+	<key>processorColor</key>
+	<string>deactivatetext</string>
+	<key>shouldPauseMonster</key>
+	<string>handlersaturation</string>
+	<key>timelineDepth</key>
+	<string>popupOpacity</string>
+	<key>transitionDepth</key>
+	<string>dedicatedQueue</string>
+	<key>uniqueOptimizer</key>
+	<string>restartSpot</string>
+	<key>usagePosition</key>
+	<string>concatenateHash</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeOption</key>
+	<string>respectiveConsumption</string>
+	<key>currentGestureDetector</key>
+	<string>shaderScale</string>
+	<key>menuOrientation</key>
+	<string>priorAnalogy</string>
+	<key>shouldsavehero</key>
+	<string>diffableMargin</string>
+</dict>
+</plist>

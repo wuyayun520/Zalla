@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHistogram</key>
+	<string>independentChart</string>
+	<key>connectsession</key>
+	<string>enabledRectangle</string>
+	<key>cupertinoConfidentiality</key>
+	<string>buildSlash</string>
+	<key>easyResponse</key>
+	<string>cancelmethod</string>
+	<key>hardGrain</key>
+	<string>rebuildController</string>
+	<key>hardRequest</key>
+	<string>ephemeralDecoration</string>
+	<key>queueContrast</key>
+	<string>renameSprite</string>
+	<key>richtextrect</key>
+	<string>pushPageView</string>
+	<key>shouldCreateActivity</key>
+	<string>normPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLifecycle</key>
+	<string>compositionLocation</string>
+	<key>groupShade</key>
+	<string>shouldDisposeChannels</string>
+	<key>localRectangle</key>
+	<string>canSubscribeImage</string>
+	<key>requiredstorecenter</key>
+	<string>stopListView</string>
+	<key>routeenvironmentsaturation</key>
+	<string>canSerializeShader</string>
+	<key>sceneTransparency</key>
+	<string>tensorCompleter</string>
+	<key>shouldlayoutskirt</key>
+	<string>responderTag</string>
+	<key>usecaseintegrity</key>
+	<string>rectfacadedelay</string>
+</dict>
+</plist>

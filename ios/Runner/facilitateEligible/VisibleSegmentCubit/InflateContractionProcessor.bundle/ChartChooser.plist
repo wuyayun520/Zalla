@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLoss</key>
+	<string>textfieldTask</string>
+	<key>bufferRight</key>
+	<string>kernelRate</string>
+	<key>callbackkinddelay</key>
+	<string>canNavigateTextField</string>
+	<key>graphiccolor</key>
+	<string>canDispatchAnchor</string>
+	<key>publicView</key>
+	<string>rowSpacing</string>
+	<key>rowstate</key>
+	<string>immediateStateless</string>
+	<key>searcherfrequency</key>
+	<string>canKeepFuture</string>
+	<key>tabviewloop</key>
+	<string>channelsResponse</string>
+	<key>visibleNotation</key>
+	<string>chapterProcess</string>
+</dict>
+</plist>

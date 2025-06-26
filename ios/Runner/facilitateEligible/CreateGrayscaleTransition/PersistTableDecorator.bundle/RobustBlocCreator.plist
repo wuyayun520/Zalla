@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsdensity</key>
+	<string>polyfillDensity</string>
+	<key>discardedTextField</key>
+	<string>unmountedRow</string>
+	<key>displayableAnimation</key>
+	<string>usecaseObserver</string>
+	<key>featureResponse</key>
+	<string>exponentMode</string>
+	<key>fragmentactivitytype</key>
+	<string>shouldAttachPet</string>
+	<key>shouldAttachPlayback</key>
+	<string>deferredRemainder</string>
+	<key>tickerLocation</key>
+	<string>globalGroup</string>
+</dict>
+</plist>

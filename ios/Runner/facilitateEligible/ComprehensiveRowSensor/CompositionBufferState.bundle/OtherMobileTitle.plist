@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialReduction</key>
+	<string>extendLabel</string>
+	<key>mobilecontainerscale</key>
+	<string>stateVariable</string>
+	<key>protectedBuffer</key>
+	<string>aspectInterval</string>
+	<key>recursiondensity</key>
+	<string>variantalignment</string>
+	<key>resolvearithmetic</key>
+	<string>entityCount</string>
+	<key>shouldformatstack</key>
+	<string>uniformTrajectory</string>
+	<key>shouldpushanchor</key>
+	<string>denseEvaluation</string>
+</dict>
+</plist>

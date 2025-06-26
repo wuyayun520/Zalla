@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectType</key>
+	<string>canHandleMultiplication</string>
+	<key>characterHead</key>
+	<string>responseHead</string>
+	<key>constraintSpeed</key>
+	<string>shouldFormatPromise</string>
+	<key>distinctionappearance</key>
+	<string>associatedoffset</string>
+	<key>profileskewx</key>
+	<string>timerselector</string>
+	<key>shoulddisposestream</key>
+	<string>interpolationProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOffset</key>
+	<string>detachAxis</string>
+	<key>concreteCapacities</key>
+	<string>canNavigateMusic</string>
+	<key>kernelcontainer</key>
+	<string>rectifyView</string>
+	<key>shouldListenBase</key>
+	<string>sharedPolyfill</string>
+	<key>subsequentSpot</key>
+	<string>unaryShape</string>
+</dict>
+</plist>

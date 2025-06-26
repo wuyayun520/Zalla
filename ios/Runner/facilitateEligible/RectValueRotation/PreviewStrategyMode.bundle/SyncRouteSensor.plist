@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioPadding</key>
+	<string>fusedskincenter</string>
+	<key>checkaspectratio</key>
+	<string>restartprojection</string>
+	<key>entityBound</key>
+	<string>hierarchicalticker</string>
+	<key>shouldFinishPlayback</key>
+	<string>shouldRouteCaption</string>
+</dict>
+</plist>

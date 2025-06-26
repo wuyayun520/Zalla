@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPriority</key>
+	<string>musicScale</string>
+	<key>basicStep</key>
+	<string>granularGrayscale</string>
+	<key>deferredmanagerduration</key>
+	<string>detachController</string>
+	<key>disparateInkWell</key>
+	<string>nodeinstrategy</string>
+	<key>elementVelocity</key>
+	<string>ignoredAsync</string>
+	<key>localPriority</key>
+	<string>isolaterate</string>
+	<key>manageramongtask</key>
+	<string>renderAlpha</string>
+	<key>statelessModal</key>
+	<string>switchCommand</string>
+	<key>themeResponse</key>
+	<string>granularFactory</string>
+</dict>
+</plist>

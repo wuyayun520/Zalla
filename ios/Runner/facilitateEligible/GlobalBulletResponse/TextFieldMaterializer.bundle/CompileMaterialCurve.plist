@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitFormat</key>
+	<string>canObservePageView</string>
+	<key>hardStep</key>
+	<string>batchVelocity</string>
+	<key>parsetouch</key>
+	<string>observeProtocol</string>
+	<key>popuparchitecture</key>
+	<string>immediatepager</string>
+	<key>statefulInteractor</key>
+	<string>iterativeBinary</string>
+	<key>subsequentnodeoffset</key>
+	<string>symmetricContraction</string>
+	<key>subtlespecifierlocation</key>
+	<string>constraintandmethod</string>
+	<key>traversalHead</key>
+	<string>overrideOffset</string>
+</dict>
+</plist>

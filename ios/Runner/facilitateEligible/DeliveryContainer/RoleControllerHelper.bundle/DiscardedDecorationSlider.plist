@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildmodel</key>
+	<string>lazyMatrix</string>
+	<key>deferredChart</key>
+	<string>shouldEncodeSizedBox</string>
+	<key>hierarchicalMaster</key>
+	<string>indicatorTheme</string>
+	<key>lazyStream</key>
+	<string>standaloneprojecttransparency</string>
+	<key>promisethancycle</key>
+	<string>pooltransformer</string>
+	<key>rapidMenu</key>
+	<string>canTransformCard</string>
+	<key>resourceDistance</key>
+	<string>retainedUseCase</string>
+	<key>shouldStartScreen</key>
+	<string>factoryTension</string>
+</dict>
+</plist>

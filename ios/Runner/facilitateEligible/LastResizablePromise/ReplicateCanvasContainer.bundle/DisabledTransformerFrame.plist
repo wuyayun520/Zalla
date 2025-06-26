@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticgradientspacing</key>
+	<string>momentumOrigin</string>
+	<key>shouldCacheAspectRatio</key>
+	<string>denseConsumption</string>
+	<key>stopcursor</key>
+	<string>shouldFormatReference</string>
+	<key>subpixelhue</key>
+	<string>staticPlayback</string>
+	<key>subtletimeline</key>
+	<string>priorsliderbehavior</string>
+	<key>vectorEdge</key>
+	<string>bufferVisible</string>
+</dict>
+</plist>

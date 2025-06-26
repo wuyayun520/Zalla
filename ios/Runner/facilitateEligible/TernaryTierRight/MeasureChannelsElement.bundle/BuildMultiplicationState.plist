@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalConvolution</key>
+	<string>confidentialityStyle</string>
+	<key>denseMatrix</key>
+	<string>requireddetector</string>
+	<key>intuitiveNavigator</key>
+	<string>themeBorder</string>
+	<key>pinchableProgressBar</key>
+	<string>prepareCursor</string>
+	<key>shouldAnimateSpine</key>
+	<string>referencebehavior</string>
+</dict>
+</plist>

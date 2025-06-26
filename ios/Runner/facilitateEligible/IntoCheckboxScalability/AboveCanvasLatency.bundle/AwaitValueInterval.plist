@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintdistance</key>
+	<string>addPosition</string>
+	<key>delegateStyle</key>
+	<string>firstReference</string>
+	<key>eagerDependency</key>
+	<string>mixinDelegate</string>
+	<key>imageStatus</key>
+	<string>setstateArithmetic</string>
+	<key>shouldDispatchCube</key>
+	<string>requiredefficiency</string>
+	<key>shouldYieldTable</key>
+	<string>diversifiedInfo</string>
+	<key>shouldskipbloc</key>
+	<string>mainJoiner</string>
+	<key>usedTrajectory</key>
+	<string>currentoverlay</string>
+	<key>utilscopebound</key>
+	<string>tabviewEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAspectRatio</key>
+	<string>currentarithmetic</string>
+	<key>equipmentIndex</key>
+	<string>captionFormat</string>
+	<key>gridMargin</key>
+	<string>durationContext</string>
+	<key>intuitivecycle</key>
+	<string>shouldDecodeFlex</string>
+	<key>permissiveTexture</key>
+	<string>declarativeDescriptor</string>
+	<key>radiustint</key>
+	<string>statefulSizedBox</string>
+	<key>reliabilityInteraction</key>
+	<string>immutableaction</string>
+	<key>statelessliketier</key>
+	<string>directlyindicator</string>
+</dict>
+</plist>

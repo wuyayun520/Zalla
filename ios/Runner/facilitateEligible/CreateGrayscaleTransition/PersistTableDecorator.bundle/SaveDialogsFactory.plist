@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionMode</key>
+	<string>saveBitrate</string>
+	<key>dynamicfactoryoffset</key>
+	<string>nodebinder</string>
+	<key>elasticAnalyzer</key>
+	<string>directsine</string>
+	<key>savestore</key>
+	<string>mainNavigation</string>
+	<key>taxonomyHue</key>
+	<string>currentRow</string>
+</dict>
+</plist>

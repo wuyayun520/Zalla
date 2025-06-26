@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedpageview</key>
+	<string>connectGroup</string>
+	<key>colorIndex</key>
+	<string>poolRoute</string>
+	<key>respectiveAccessory</key>
+	<string>intermediateIndicator</string>
+	<key>shouldBindSession</key>
+	<string>primaryZone</string>
+</dict>
+</plist>

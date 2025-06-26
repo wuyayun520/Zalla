@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDetector</key>
+	<string>missedTransition</string>
+	<key>cartesianQuaternion</key>
+	<string>resilientThread</string>
+	<key>composablerichtext</key>
+	<string>chapterActivity</string>
+	<key>comprehensivepadding</key>
+	<string>flexinstyle</string>
+	<key>largePolygon</key>
+	<string>smartMerger</string>
+	<key>retainedShape</key>
+	<string>unschedulePresenter</string>
+	<key>shouldAnimateDialogs</key>
+	<string>intermediateDetector</string>
+	<key>shouldRenderChallenge</key>
+	<string>inkwellHead</string>
+	<key>slideruntildecorator</key>
+	<string>pinchableGraph</string>
+	<key>soundIndex</key>
+	<string>logarithmMargin</string>
+</dict>
+</plist>

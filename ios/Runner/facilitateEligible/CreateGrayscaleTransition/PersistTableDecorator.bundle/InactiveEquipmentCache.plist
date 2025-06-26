@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercapsule</key>
+	<string>enabledSwitch</string>
+	<key>draweropacity</key>
+	<string>startSlash</string>
+	<key>errornearvar</key>
+	<string>isTangent</string>
+	<key>hyperbolicSignature</key>
+	<string>smallAlert</string>
+	<key>particleofstyle</key>
+	<string>pauseStateful</string>
+	<key>shouldCacheCursor</key>
+	<string>alignmentbottom</string>
+	<key>shouldTransformExponent</key>
+	<string>shouldmountedgrayscale</string>
+</dict>
+</plist>

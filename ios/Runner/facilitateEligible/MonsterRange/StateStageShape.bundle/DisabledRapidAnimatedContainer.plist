@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatepresenter</key>
+	<string>yieldAlpha</string>
+	<key>emitterName</key>
+	<string>autoDelegate</string>
+	<key>graphcontextinterval</key>
+	<string>canDeserializeLayout</string>
+	<key>publishloop</key>
+	<string>streamlinenavigator</string>
+	<key>reducerchaintype</key>
+	<string>dedicatedmatrixresponse</string>
+	<key>spriteSize</key>
+	<string>newestWrapper</string>
+	<key>subscribescene</key>
+	<string>rectangleVelocity</string>
+	<key>tweeninpattern</key>
+	<string>decodeRequest</string>
+</dict>
+</plist>

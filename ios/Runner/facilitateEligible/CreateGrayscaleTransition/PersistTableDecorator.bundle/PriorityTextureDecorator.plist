@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTimer</key>
+	<string>fixedProvider</string>
+	<key>delicateListView</key>
+	<string>shouldLayoutTask</string>
+	<key>disabledAnchor</key>
+	<string>navigatorCycle</string>
+	<key>hasBuilder</key>
+	<string>geometricOption</string>
+	<key>liteMonster</key>
+	<string>implementScene</string>
+	<key>parallelAspect</key>
+	<string>progressbarFeedback</string>
+	<key>robustrouter</key>
+	<string>materialloophue</string>
+	<key>shouldsetstateprovider</key>
+	<string>monsterStage</string>
+	<key>signatureFeedback</key>
+	<string>resumenorm</string>
+	<key>unsortedEfficiency</key>
+	<string>curveFacade</string>
+</dict>
+</plist>

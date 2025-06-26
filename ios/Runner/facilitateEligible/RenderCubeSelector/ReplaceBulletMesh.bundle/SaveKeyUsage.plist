@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartflyweightsize</key>
+	<string>associatedShape</string>
+	<key>crucialSink</key>
+	<string>rowCoord</string>
+	<key>factorycolor</key>
+	<string>subtleboxshadow</string>
+	<key>methodDepth</key>
+	<string>usedcapacities</string>
+	<key>offsetmodeindex</key>
+	<string>missedOperation</string>
+	<key>paddinginvalue</key>
+	<string>diffableDocument</string>
+	<key>projectSkewX</key>
+	<string>exitOffset</string>
+	<key>rowtension</key>
+	<string>visibleInterpolation</string>
+	<key>shouldLoadBatch</key>
+	<string>canPushInstruction</string>
+	<key>shouldPublishSlider</key>
+	<string>baselineSaturation</string>
+</dict>
+</plist>

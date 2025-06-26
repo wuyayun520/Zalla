@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmargin</key>
+	<string>newestMend</string>
+	<key>compositionalDependency</key>
+	<string>bandwidthInset</string>
+	<key>cubitStyle</key>
+	<string>handleChannels</string>
+	<key>declarativeVariant</key>
+	<string>masterVisible</string>
+	<key>disabledCatalyst</key>
+	<string>collectionShade</string>
+	<key>easyFilter</key>
+	<string>shouldBindCycle</string>
+	<key>finishcurve</key>
+	<string>processBatch</string>
+	<key>overlaySkewY</key>
+	<string>attachStack</string>
+	<key>statelessskewx</key>
+	<string>selectedcaption</string>
+</dict>
+</plist>

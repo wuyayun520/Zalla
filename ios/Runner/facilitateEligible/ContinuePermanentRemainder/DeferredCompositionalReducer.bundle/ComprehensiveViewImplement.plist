@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationMode</key>
+	<string>playbackformdelay</string>
+	<key>dispatcherBound</key>
+	<string>fixedResilience</string>
+	<key>interactiveFactory</key>
+	<string>resumeLog</string>
+	<key>respondermode</key>
+	<string>canLoadTechnique</string>
+	<key>sceneBound</key>
+	<string>aspectratioindex</string>
+	<key>sharedCanvas</key>
+	<string>unmountedProvider</string>
+</dict>
+</plist>

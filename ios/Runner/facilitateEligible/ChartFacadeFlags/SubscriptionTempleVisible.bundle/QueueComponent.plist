@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containernearparameter</key>
+	<string>framecenter</string>
+	<key>deserializealignment</key>
+	<string>publishChecklist</string>
+	<key>greatPreview</key>
+	<string>extendDependency</string>
+	<key>ignoredConstant</key>
+	<string>granularScreen</string>
+	<key>inheritedDetector</key>
+	<string>streambase</string>
+	<key>invisibleTechnique</key>
+	<string>mountBaseline</string>
+	<key>mixintransition</key>
+	<string>buildBase</string>
+	<key>shouldResumeSensor</key>
+	<string>showPet</string>
+	<key>singlemusicrate</key>
+	<string>sceneOpacity</string>
+	<key>webLoss</key>
+	<string>checkboxTint</string>
+</dict>
+</plist>

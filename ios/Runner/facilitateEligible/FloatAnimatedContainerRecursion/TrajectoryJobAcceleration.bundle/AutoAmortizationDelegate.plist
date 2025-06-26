@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchsincestyle</key>
+	<string>canKeepMonster</string>
+	<key>crucialModel</key>
+	<string>nibStage</string>
+	<key>flexibleMesh</key>
+	<string>canTransformResource</string>
+	<key>hierarchicalCharacter</key>
+	<string>adaptiveResult</string>
+	<key>lostBorder</key>
+	<string>converterContrast</string>
+	<key>mediumCupertino</key>
+	<string>quitView</string>
+	<key>shouldNavigateSign</key>
+	<string>descentFrequency</string>
+	<key>shouldattachcycle</key>
+	<string>comprehensivedescriptortop</string>
+</dict>
+</plist>

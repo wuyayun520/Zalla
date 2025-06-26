@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicScaffold</key>
+	<string>benchmarkLoop</string>
+	<key>concurrentWorkflow</key>
+	<string>constantCoord</string>
+	<key>granularConvolution</key>
+	<string>sharedConstraint</string>
+	<key>modalHead</key>
+	<string>cloneFrame</string>
+	<key>oldSymbol</key>
+	<string>specifyAnalogy</string>
+	<key>resolverMode</key>
+	<string>permissiveMaterial</string>
+	<key>skinmodel</key>
+	<string>nextLabel</string>
+</dict>
+</plist>

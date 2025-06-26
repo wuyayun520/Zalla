@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentchartstatus</key>
+	<string>routeOverlay</string>
+	<key>graphplatformcolor</key>
+	<string>canDetachSemantics</string>
+	<key>shouldBuildPositioned</key>
+	<string>compositionalTheme</string>
+	<key>shouldDismissAppBar</key>
+	<string>canAttachSpine</string>
+	<key>statefullistview</key>
+	<string>accessibleMatrix</string>
+</dict>
+</plist>

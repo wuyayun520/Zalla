@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricFactory</key>
+	<string>associatedGem</string>
+	<key>keychapterforce</key>
+	<string>lostAnimation</string>
+	<key>shouldBindAnimation</key>
+	<string>matriximage</string>
+	<key>shouldRestartChannels</key>
+	<string>interpolationValidation</string>
+</dict>
+</plist>

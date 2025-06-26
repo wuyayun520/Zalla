@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerCoord</key>
+	<string>tabletransformer</string>
+	<key>controllerlabel</key>
+	<string>subscriptionDistance</string>
+	<key>gestureFrequency</key>
+	<string>canMountedDelegate</string>
+	<key>immediateProtocol</key>
+	<string>loaddrawer</string>
+	<key>mapsaturation</key>
+	<string>gateStage</string>
+	<key>mendTag</key>
+	<string>showEntity</string>
+	<key>operationlocation</key>
+	<string>canUpdateMaster</string>
+	<key>publicnavigatorstatus</key>
+	<string>alphacenter</string>
+	<key>resizableIndicator</key>
+	<string>mediaProxy</string>
+</dict>
+</plist>

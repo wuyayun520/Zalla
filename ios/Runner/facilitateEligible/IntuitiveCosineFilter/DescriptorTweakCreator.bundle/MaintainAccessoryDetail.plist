@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionpressure</key>
+	<string>labelValidation</string>
+	<key>lostMechanism</key>
+	<string>serializeDropdownButton</string>
+	<key>mediumCard</key>
+	<string>canDeserializeColumn</string>
+	<key>shouldReplaceScroll</key>
+	<string>shouldFetchColumn</string>
+	<key>shouldconnectcanvas</key>
+	<string>shouldCancelPainter</string>
+	<key>unbindscroll</key>
+	<string>shouldtransitionnorm</string>
+</dict>
+</plist>

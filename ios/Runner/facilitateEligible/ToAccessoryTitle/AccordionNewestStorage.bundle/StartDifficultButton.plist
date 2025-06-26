@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapperMode</key>
+	<string>singletonActivity</string>
+	<key>multiplicationRotation</key>
+	<string>canTransitionInterpolation</string>
+	<key>secondStamp</key>
+	<string>canRestartSign</string>
+	<key>shouldSubscribeTouch</key>
+	<string>directlyAnimator</string>
+	<key>showmediaquery</key>
+	<string>lastAwait</string>
+	<key>statusSkewX</key>
+	<string>shouldYieldCube</string>
+</dict>
+</plist>

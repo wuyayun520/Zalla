@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInformation</key>
+	<string>seamlessBox</string>
+	<key>animationorientation</key>
+	<string>resizableDelegate</string>
+	<key>contrastInteraction</key>
+	<string>stopmanager</string>
+	<key>curveRate</key>
+	<string>persistScale</string>
+	<key>featurelistener</key>
+	<string>autoCapacity</string>
+	<key>granularMatrix</key>
+	<string>canInflateOperation</string>
+	<key>lastAsync</key>
+	<string>hardGroup</string>
+	<key>mechanismBound</key>
+	<string>publicEntropy</string>
+	<key>sequentialDescription</key>
+	<string>desktopButton</string>
+</dict>
+</plist>

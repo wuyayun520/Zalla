@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushType</key>
+	<string>capsuleStructure</string>
+	<key>ignoredInfo</key>
+	<string>shouldUnmountLayout</string>
+	<key>overridedescription</key>
+	<string>canPopChecklist</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>lazyMetadata</string>
+	<key>statefulSpeed</key>
+	<string>iterativeCatalyst</string>
+</dict>
+</plist>

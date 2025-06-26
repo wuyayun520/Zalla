@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicProtocol</key>
+	<string>dispatcherTag</string>
+	<key>formatpriority</key>
+	<string>intermediateresilience</string>
+	<key>granularConfiguration</key>
+	<string>createPrecision</string>
+	<key>mainReference</key>
+	<string>bitrateSize</string>
+	<key>relationalgrayscalevisibility</key>
+	<string>chapterTier</string>
+	<key>shouldYieldTangent</key>
+	<string>stackRight</string>
+	<key>shouldtransformcache</key>
+	<string>layoutrotation</string>
+</dict>
+</plist>

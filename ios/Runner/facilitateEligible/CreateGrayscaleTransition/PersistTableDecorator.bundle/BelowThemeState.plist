@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDialogs</key>
+	<string>shouldDecodeMultiplication</string>
+	<key>commonStateless</key>
+	<string>dedicatedbandwidth</string>
+	<key>futurevisibility</key>
+	<string>eventName</string>
+	<key>lastTool</key>
+	<string>liteColumn</string>
+	<key>missedTentative</key>
+	<string>shouldUpdateGestureDetector</string>
+	<key>pivotalLatency</key>
+	<string>mainResource</string>
+	<key>shouldDisconnectScroll</key>
+	<string>serializeSkin</string>
+	<key>shouldRenderScroll</key>
+	<string>defaultDropdownButton</string>
+	<key>shouldTransformController</key>
+	<string>reusableQuaternion</string>
+</dict>
+</plist>

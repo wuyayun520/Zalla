@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcatalyst</key>
+	<string>routeEntropy</string>
+	<key>chapterposition</key>
+	<string>canResumeSpot</string>
+	<key>crudecursor</key>
+	<string>concurrentPresenter</string>
+	<key>disabledImpression</key>
+	<string>reductionInteraction</string>
+	<key>permanentTweak</key>
+	<string>intermediateAnchor</string>
+	<key>shouldDecodeExpanded</key>
+	<string>shouldEndConsumer</string>
+	<key>tappablevectoredge</key>
+	<string>desktopDependency</string>
+	<key>textorigin</key>
+	<string>basicCombiner</string>
+	<key>transitionstorage</key>
+	<string>respectiveCell</string>
+</dict>
+</plist>

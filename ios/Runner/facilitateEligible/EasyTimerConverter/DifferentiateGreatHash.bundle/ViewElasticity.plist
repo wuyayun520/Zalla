@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatescroll</key>
+	<string>plateTint</string>
+	<key>autoSymbol</key>
+	<string>canStreamWidget</string>
+	<key>checklisttop</key>
+	<string>utilskewy</string>
+	<key>consumerroute</key>
+	<string>poolObserver</string>
+	<key>containerconstraint</key>
+	<string>lossTransparency</string>
+	<key>isstep</key>
+	<string>robustManager</string>
+	<key>newestScroll</key>
+	<string>intermediateFeature</string>
+</dict>
+</plist>

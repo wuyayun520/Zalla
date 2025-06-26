@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFlags</key>
+	<string>dedicatedIcon</string>
+	<key>eagerConstraint</key>
+	<string>graphtension</string>
+	<key>ephemeralMobile</key>
+	<string>semanticMovement</string>
+	<key>nativeBatch</key>
+	<string>reconcileMetadata</string>
+	<key>performscaffold</key>
+	<string>dismissCertificate</string>
+	<key>replicaStatus</key>
+	<string>shouldPrepareNavigation</string>
+	<key>seamlessSubscription</key>
+	<string>graphicVariable</string>
+	<key>significantcallback</key>
+	<string>logarithmLocation</string>
+	<key>specifierfinder</key>
+	<string>unmountedstamp</string>
+	<key>webIntensity</key>
+	<string>selectedAlert</string>
+</dict>
+</plist>

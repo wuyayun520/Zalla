@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyDelay</key>
+	<string>transformvariant</string>
+	<key>awaitBehavior</key>
+	<string>hardCycle</string>
+	<key>bulletShape</key>
+	<string>numericalFrame</string>
+	<key>compositionalcontainer</key>
+	<string>eagerCluster</string>
+	<key>independentModal</key>
+	<string>shouldPrepareThread</string>
+	<key>integrityTheme</key>
+	<string>publicLayout</string>
+	<key>lostschema</key>
+	<string>modalTemple</string>
+	<key>parallelLayout</key>
+	<string>canPaintEquipment</string>
+	<key>permanentAmortization</key>
+	<string>rebuildSpecifier</string>
+	<key>prismaticoverlaymargin</key>
+	<string>deferredChannel</string>
+</dict>
+</plist>

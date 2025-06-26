@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLabel</key>
+	<string>shouldProcessStoryboard</string>
+	<key>disabledBinary</key>
+	<string>shouldCreateMusic</string>
+	<key>firstBandwidth</key>
+	<string>granularintensitykind</string>
+	<key>parallelStream</key>
+	<string>immediatescalerotation</string>
+	<key>primaryContainer</key>
+	<string>priorScene</string>
+	<key>sharedMargin</key>
+	<string>profileError</string>
+	<key>sophisticatedReliability</key>
+	<string>associatedElement</string>
+</dict>
+</plist>

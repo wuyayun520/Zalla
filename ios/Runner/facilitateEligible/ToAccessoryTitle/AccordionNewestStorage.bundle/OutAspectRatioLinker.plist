@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requiredSample</key>
+	<string>canPresentCaption</string>
+	<key>skinwithoutmediator</key>
+	<string>temporaryDialogs</string>
+	<key>slideractivityflags</key>
+	<string>easyAscent</string>
+	<key>stopcontainer</key>
+	<string>shouldNavigateFuture</string>
+</dict>
+</plist>

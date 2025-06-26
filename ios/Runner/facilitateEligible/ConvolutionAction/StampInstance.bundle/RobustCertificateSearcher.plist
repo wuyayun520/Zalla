@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCollection</key>
+	<string>tappableAxis</string>
+	<key>consumptionalignment</key>
+	<string>protocolSkewX</string>
+	<key>ephemeralfutureborder</key>
+	<string>mainShape</string>
+	<key>independentrepositoryvelocity</key>
+	<string>draggableLayout</string>
+	<key>lazyBatch</key>
+	<string>shoulddisconnectgesturedetector</string>
+	<key>shouldDecodePrecision</key>
+	<string>reactiveTransition</string>
+	<key>unaryleft</key>
+	<string>gateBrightness</string>
+	<key>unscheduletabbar</key>
+	<string>interfacemediatorshape</string>
+	<key>utilchooser</key>
+	<string>particlealignment</string>
+</dict>
+</plist>

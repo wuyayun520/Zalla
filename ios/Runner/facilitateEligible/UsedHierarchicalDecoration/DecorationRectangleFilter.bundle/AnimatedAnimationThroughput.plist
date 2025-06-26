@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProtocol</key>
+	<string>memberindex</string>
+	<key>difficultTolerance</key>
+	<string>crucialLoader</string>
+	<key>explicitPicker</key>
+	<string>ignoredCaption</string>
+	<key>gesturedescent</key>
+	<string>shouldserializealert</string>
+	<key>mobileWorkflow</key>
+	<string>indicatorbymethod</string>
+	<key>shouldresumestamp</key>
+	<string>parseSize</string>
+	<key>updatedropdownbutton</key>
+	<string>transformerValue</string>
+</dict>
+</plist>

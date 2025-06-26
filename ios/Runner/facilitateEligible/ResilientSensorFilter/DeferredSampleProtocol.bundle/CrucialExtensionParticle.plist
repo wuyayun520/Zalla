@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatrouter</key>
+	<string>paintPet</string>
+	<key>nativeOptimizer</key>
+	<string>intuitiveAspect</string>
+	<key>numericalSink</key>
+	<string>chartagainstvisitor</string>
+	<key>routetint</key>
+	<string>triggerBorder</string>
+	<key>shouldFinishCursor</key>
+	<string>canAttachSegment</string>
+	<key>statefulInteraction</key>
+	<string>canEmitGate</string>
+	<key>unactivatedFragments</key>
+	<string>shouldFinishMobile</string>
+</dict>
+</plist>

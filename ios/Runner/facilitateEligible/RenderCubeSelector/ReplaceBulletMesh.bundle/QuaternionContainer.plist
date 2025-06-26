@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicProtocol</key>
+	<string>resolverfortemple</string>
+	<key>pivotalSine</key>
+	<string>petVelocity</string>
+	<key>scrollerAppearance</key>
+	<string>explicitnavigator</string>
+	<key>shouldDisconnectCollection</key>
+	<string>catalystPressure</string>
+	<key>themefrequency</key>
+	<string>mediaForm</string>
+	<key>tweenScale</key>
+	<string>toolVisibility</string>
+	<key>videoStyle</key>
+	<string>shouldPauseCursor</string>
+	<key>zoneEdge</key>
+	<string>shouldPresentContraction</string>
+</dict>
+</plist>

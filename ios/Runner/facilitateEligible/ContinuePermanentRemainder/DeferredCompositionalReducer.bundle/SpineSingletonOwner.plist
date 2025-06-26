@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerformat</key>
+	<string>keyScheduler</string>
+	<key>geometricSemantics</key>
+	<string>mainTaxonomy</string>
+	<key>joinerPressure</key>
+	<string>signVisible</string>
+	<key>missionhandler</key>
+	<string>responseBridge</string>
+	<key>radiodespitesystem</key>
+	<string>mainCallback</string>
+	<key>shouldContinueIndicator</key>
+	<string>transposeBloc</string>
+	<key>standaloneComposition</key>
+	<string>measurerect</string>
+</dict>
+</plist>

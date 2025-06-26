@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedUsage</key>
+	<string>shouldPersistMusic</string>
+	<key>descriptiondecoratorformat</key>
+	<string>arithmeticHue</string>
+	<key>lostRadio</key>
+	<string>frameMethod</string>
+	<key>mainresponseright</key>
+	<string>swiftResponse</string>
+	<key>resolverBehavior</key>
+	<string>shouldUnbindBatch</string>
+	<key>robustDelivery</key>
+	<string>fragmentsleft</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorspeed</key>
+	<string>greatShader</string>
+	<key>dedicatedTween</key>
+	<string>queueChain</string>
+	<key>navigationContrast</key>
+	<string>appendternary</string>
+	<key>stepFrequency</key>
+	<string>frameawayvariable</string>
+	<key>typicalInformation</key>
+	<string>unaryvaracceleration</string>
+	<key>usecasetension</key>
+	<string>canBindMember</string>
+</dict>
+</plist>

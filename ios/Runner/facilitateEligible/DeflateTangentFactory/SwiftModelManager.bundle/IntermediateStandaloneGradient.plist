@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSplitter</key>
+	<string>localRole</string>
+	<key>bulletbridgestyle</key>
+	<string>autoThroughput</string>
+	<key>containerjobappearance</key>
+	<string>paddingTask</string>
+	<key>dependencysound</key>
+	<string>diversifiedSelector</string>
+	<key>detailDuration</key>
+	<string>sliderTag</string>
+	<key>durationslider</key>
+	<string>brushtext</string>
+	<key>shouldPauseGram</key>
+	<string>seamlessItem</string>
+	<key>stepcommandhue</key>
+	<string>desktopLatency</string>
+	<key>substantialTangent</key>
+	<string>webObserver</string>
+	<key>titlebesideflyweight</key>
+	<string>canLoadGridView</string>
+</dict>
+</plist>

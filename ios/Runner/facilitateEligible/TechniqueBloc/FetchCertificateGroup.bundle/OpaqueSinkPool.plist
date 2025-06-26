@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveChannel</key>
+	<string>handleCheckbox</string>
+	<key>cupertinoPermutation</key>
+	<string>fillDependency</string>
+	<key>largeAscent</key>
+	<string>cosineFramework</string>
+	<key>normalDescent</key>
+	<string>immutableBoxShadow</string>
+	<key>optionRotation</key>
+	<string>adaptiveIndicator</string>
+	<key>richtextOrigin</key>
+	<string>latencyCoord</string>
+	<key>taskfinder</key>
+	<string>canRestartBehavior</string>
+	<key>unaryTail</key>
+	<string>canFetchCosine</string>
+</dict>
+</plist>

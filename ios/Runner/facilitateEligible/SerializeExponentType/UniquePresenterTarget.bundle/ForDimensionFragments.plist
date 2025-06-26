@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorflags</key>
+	<string>shouldReplaceMovement</string>
+	<key>formatinjection</key>
+	<string>buildStateless</string>
+	<key>shaderqueue</key>
+	<string>significantSpecifier</string>
+	<key>shouldEndStamp</key>
+	<string>sharedBinary</string>
+	<key>subsequentPoint</key>
+	<string>brushname</string>
+	<key>tickertemplevisibility</key>
+	<string>gridstateorientation</string>
+	<key>updateresolver</key>
+	<string>shouldKeepShader</string>
+</dict>
+</plist>

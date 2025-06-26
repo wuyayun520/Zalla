@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoWorkflow</key>
+	<string>displayremainder</string>
+	<key>exceptionFormat</key>
+	<string>deferredNotifier</string>
+	<key>kernelanimation</key>
+	<string>canPublishEqualization</string>
+	<key>protocolCoord</key>
+	<string>collectionreceiver</string>
+	<key>sliderVisible</key>
+	<string>showNotification</string>
+	<key>tensorChart</key>
+	<string>priortime</string>
+</dict>
+</plist>

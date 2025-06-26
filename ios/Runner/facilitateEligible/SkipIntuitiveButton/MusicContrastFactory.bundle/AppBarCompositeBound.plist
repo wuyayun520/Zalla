@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationmargin</key>
+	<string>segueScope</string>
+	<key>dedicatedTrigger</key>
+	<string>routeSkewX</string>
+	<key>directlyWrapper</key>
+	<string>inkwellDepth</string>
+	<key>easynavigationopacity</key>
+	<string>radiusreducer</string>
+	<key>materialReliability</key>
+	<string>keyisolate</string>
+	<key>permissiveemitter</key>
+	<string>shouldYieldSign</string>
+	<key>pushequipment</key>
+	<string>shouldDisposeEquipment</string>
+	<key>receivecomposition</key>
+	<string>disclaimerAppearance</string>
+</dict>
+</plist>

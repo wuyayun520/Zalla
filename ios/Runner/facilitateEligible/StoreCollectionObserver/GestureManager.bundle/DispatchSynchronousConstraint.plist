@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDelay</key>
+	<string>wrapperPressure</string>
+	<key>elasticButton</key>
+	<string>delegateTheme</string>
+	<key>entityShape</key>
+	<string>touchOrientation</string>
+	<key>finishsine</key>
+	<string>extensionChain</string>
+	<key>inheritedMaterial</key>
+	<string>declarativeScroll</string>
+</dict>
+</plist>

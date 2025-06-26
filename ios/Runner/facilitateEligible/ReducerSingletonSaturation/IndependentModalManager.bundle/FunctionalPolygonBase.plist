@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionDuration</key>
+	<string>transformerspeed</string>
+	<key>intensityOpacity</key>
+	<string>inflatebox</string>
+	<key>polygonHue</key>
+	<string>writePreview</string>
+	<key>shouldLayoutConsumer</key>
+	<string>implementgraph</string>
+	<key>shouldPausePrecision</key>
+	<string>mediumCluster</string>
+	<key>sophisticatedCursor</key>
+	<string>musicVisible</string>
+	<key>strengthAcceleration</key>
+	<string>createDialogs</string>
+</dict>
+</plist>

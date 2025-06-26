@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedprovider</key>
+	<string>layoutmetrics</string>
+	<key>buttonDensity</key>
+	<string>floatSingleton</string>
+	<key>framewithoutscope</key>
+	<string>canDisposeUsage</string>
+	<key>oldrequestforce</key>
+	<string>switchResponse</string>
+	<key>reliabilityvisible</key>
+	<string>ignoredPicker</string>
+	<key>stringifystore</key>
+	<string>resilientDropdownButton</string>
+</dict>
+</plist>

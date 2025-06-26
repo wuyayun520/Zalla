@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralDelegate</key>
+	<string>spritescroller</string>
+	<key>granularGroup</key>
+	<string>yieldChecklist</string>
+	<key>intuitiveallocatorvisible</key>
+	<string>rapidDocument</string>
+	<key>invisibleMesh</key>
+	<string>oldMonster</string>
+	<key>missedLatency</key>
+	<string>liteRect</string>
+	<key>pivotalSelector</key>
+	<string>hashkind</string>
+	<key>protectedDialogs</key>
+	<string>ternaryaroundtype</string>
+	<key>pushisolate</key>
+	<string>providerPosition</string>
+	<key>replicaColor</key>
+	<string>loopAction</string>
+	<key>streamlinemanager</key>
+	<string>injectionandtask</string>
+</dict>
+</plist>

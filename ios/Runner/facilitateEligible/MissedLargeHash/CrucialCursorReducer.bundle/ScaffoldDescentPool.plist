@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleArchitecture</key>
+	<string>restoreLoop</string>
+	<key>accessibleCoordinator</key>
+	<string>projectthantype</string>
+	<key>currentmenu</key>
+	<string>subsequentVolume</string>
+	<key>customizedScene</key>
+	<string>callbackskewy</string>
+	<key>desktopLogarithm</key>
+	<string>layoutcallback</string>
+	<key>ignoredBorder</key>
+	<string>quitInjection</string>
+	<key>shouldKeepMission</key>
+	<string>prepareCheckbox</string>
+	<key>shouldParseEffect</key>
+	<string>polyfillFeedback</string>
+	<key>sophisticatedGesture</key>
+	<string>freeSize</string>
+	<key>widgetmode</key>
+	<string>litequeue</string>
+</dict>
+</plist>

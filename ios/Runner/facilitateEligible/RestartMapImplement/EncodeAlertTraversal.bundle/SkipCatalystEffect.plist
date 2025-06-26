@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionutilindex</key>
+	<string>independentAxis</string>
+	<key>basicDisclaimer</key>
+	<string>symmetricScope</string>
+	<key>cardqueue</key>
+	<string>inflateSubpixel</string>
+	<key>cosineAcceleration</key>
+	<string>compareListener</string>
+	<key>originalDocument</key>
+	<string>composableswift</string>
+	<key>projectionFlags</key>
+	<string>observerOpacity</string>
+	<key>shouldListenComposition</key>
+	<string>showSink</string>
+	<key>singlecycledelay</key>
+	<string>gramPressure</string>
+</dict>
+</plist>

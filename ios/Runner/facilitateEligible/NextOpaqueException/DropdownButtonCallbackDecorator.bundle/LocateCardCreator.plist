@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSession</key>
+	<string>intuitiveLoop</string>
+	<key>directlyEvent</key>
+	<string>shouldListenActivity</string>
+	<key>explicitOccasion</key>
+	<string>shouldfetchfragment</string>
+	<key>queueBound</key>
+	<string>cartesianTexture</string>
+	<key>retainedWrapper</key>
+	<string>deflateMenu</string>
+</dict>
+</plist>

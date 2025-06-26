@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModulus</key>
+	<string>statelessCount</string>
+	<key>granularAscent</key>
+	<string>fusedinterpolation</string>
+	<key>greatevolution</key>
+	<string>shouldResumeSignature</string>
+	<key>ignoredequipment</key>
+	<string>shouldConnectScreen</string>
+	<key>regulatelayer</key>
+	<string>cacheStateless</string>
+	<key>shouldSubscribeNotification</key>
+	<string>pushStack</string>
+</dict>
+</plist>

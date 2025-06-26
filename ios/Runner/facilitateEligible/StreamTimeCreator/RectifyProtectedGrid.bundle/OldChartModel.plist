@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultBitrate</key>
+	<string>delicateInformation</string>
+	<key>impactTop</key>
+	<string>immediateNotifier</string>
+	<key>parallelChannel</key>
+	<string>endGesture</string>
+	<key>requiredBloc</key>
+	<string>canLoadProtocol</string>
+	<key>respectiveGift</key>
+	<string>encodeSprite</string>
+	<key>shouldEmitCharacter</key>
+	<string>liteNotifier</string>
+</dict>
+</plist>

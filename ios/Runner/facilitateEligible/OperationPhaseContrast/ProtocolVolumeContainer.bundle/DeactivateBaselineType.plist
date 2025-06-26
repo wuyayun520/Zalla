@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicLeft</key>
+	<string>tappableTernary</string>
+	<key>eventShape</key>
+	<string>currentMenu</string>
+	<key>geometricHero</key>
+	<string>usecaseDistance</string>
+	<key>multiplicationTension</key>
+	<string>shouldParseContainer</string>
+	<key>normalMend</key>
+	<string>heroStage</string>
+	<key>regulatecaption</key>
+	<string>canUnbindPadding</string>
+	<key>timelinetop</key>
+	<string>priorityState</string>
+	<key>yieldreference</key>
+	<string>temporarySound</string>
+</dict>
+</plist>

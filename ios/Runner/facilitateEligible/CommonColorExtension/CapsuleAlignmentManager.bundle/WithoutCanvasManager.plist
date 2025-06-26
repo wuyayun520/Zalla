@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleTheme</key>
+	<string>optimizerInterpreter</string>
+	<key>mediumColumn</key>
+	<string>othermetrics</string>
+	<key>precisionpresenter</key>
+	<string>shaderMode</string>
+	<key>quitsine</key>
+	<string>shouldMountedPlate</string>
+	<key>similarEntity</key>
+	<string>shouldobservepoint</string>
+	<key>tangentplatformacceleration</key>
+	<string>schemaHue</string>
+</dict>
+</plist>

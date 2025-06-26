@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedexceptionstyle</key>
+	<string>statefulDependency</string>
+	<key>basicPoint</key>
+	<string>shouldDecodeMaster</string>
+	<key>eagerTime</key>
+	<string>sortedShader</string>
+	<key>elasticChannel</key>
+	<string>cupertinopreviewdensity</string>
+	<key>mapMargin</key>
+	<string>canReplaceExpanded</string>
+	<key>otherSpecifier</key>
+	<string>canShowFuture</string>
+	<key>tabbarState</key>
+	<string>positionedProcess</string>
+	<key>temporaryPoint</key>
+	<string>compositionInterpreter</string>
+	<key>uniqueOperation</key>
+	<string>comprehensiveviewskewy</string>
+	<key>visualizealert</key>
+	<string>canReplaceEqualization</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedMargin</key>
+	<string>canKeepMobile</string>
+	<key>intermediateBloc</key>
+	<string>keyText</string>
+	<key>intuitivemarginstate</key>
+	<string>quitInteractor</string>
+	<key>mutableDescent</key>
+	<string>canFetchSubpixel</string>
+	<key>navigatorDistance</key>
+	<string>shouldunbindcontraction</string>
+	<key>synchronousArchitecture</key>
+	<string>activeLayout</string>
+	<key>techniqueSaturation</key>
+	<string>masterType</string>
+</dict>
+</plist>

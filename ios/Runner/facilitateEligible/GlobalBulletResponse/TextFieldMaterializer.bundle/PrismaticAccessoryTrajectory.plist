@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensioninsidecomposite</key>
+	<string>discardedItem</string>
+	<key>efficiencyDirection</key>
+	<string>canFormatNib</string>
+	<key>imperativeController</key>
+	<string>calculateLayer</string>
+	<key>monsterservice</key>
+	<string>fillAlignment</string>
+	<key>multiplicationimage</key>
+	<string>replaceOverlay</string>
+	<key>progressbarInteraction</key>
+	<string>gestureTransparency</string>
+	<key>shouldDeserializeGraphic</key>
+	<string>canPauseColumn</string>
+	<key>shouldProcessSwift</key>
+	<string>kernelValue</string>
+</dict>
+</plist>

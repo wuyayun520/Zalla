@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSegment</key>
+	<string>selectedskin</string>
+	<key>consultativeNode</key>
+	<string>cacheEqualization</string>
+	<key>dataacceleration</key>
+	<string>canEndSign</string>
+	<key>denseAnchor</key>
+	<string>playAnimation</string>
+	<key>durationAlignment</key>
+	<string>shouldrouteinterpolation</string>
+	<key>pointchapter</key>
+	<string>aspectMomentum</string>
+	<key>shouldTransitionCursor</key>
+	<string>promiseResponse</string>
+	<key>subtleWorkflow</key>
+	<string>shouldtransitionscreen</string>
+	<key>toolStyle</key>
+	<string>operationParameter</string>
+</dict>
+</plist>

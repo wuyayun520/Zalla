@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerKind</key>
+	<string>backwardArithmetic</string>
+	<key>debugalpha</key>
+	<string>tickersize</string>
+	<key>difficultBehavior</key>
+	<string>statefulsaturation</string>
+	<key>elasticStep</key>
+	<string>shouldInflateMember</string>
+	<key>graphCount</key>
+	<string>associatedWidget</string>
+	<key>synchronousnotification</key>
+	<string>touchForce</string>
+	<key>wrapperAcceleration</key>
+	<string>canLayoutAnimatedContainer</string>
+</dict>
+</plist>

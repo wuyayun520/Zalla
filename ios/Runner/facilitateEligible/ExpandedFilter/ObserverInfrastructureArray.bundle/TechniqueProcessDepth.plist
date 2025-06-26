@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPopup</key>
+	<string>primaryMargin</string>
+	<key>integerinterval</key>
+	<string>singletonPrototype</string>
+	<key>lostCanvas</key>
+	<string>spineAlignment</string>
+	<key>mediaqueryprototypestyle</key>
+	<string>symmetricCapacities</string>
+	<key>primaryresolver</key>
+	<string>boxCommand</string>
+	<key>smartanimator</key>
+	<string>navigatorValue</string>
+	<key>tweenStyle</key>
+	<string>materialzone</string>
+</dict>
+</plist>

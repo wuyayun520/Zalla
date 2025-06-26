@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCaption</key>
+	<string>adaptiveStatus</string>
+	<key>autoreducer</key>
+	<string>regulateGrain</string>
+	<key>beginnerImage</key>
+	<string>makeService</string>
+	<key>hierarchicalImage</key>
+	<string>tabviewActivity</string>
+	<key>inheritedCustomPaint</key>
+	<string>shouldPrepareDocument</string>
+	<key>invisibleresultskewx</key>
+	<string>richtextAction</string>
+	<key>mediocrePolygon</key>
+	<string>mediocreData</string>
+	<key>parsecompletion</key>
+	<string>sharedBrush</string>
+	<key>selectedfuture</key>
+	<string>detachListView</string>
+</dict>
+</plist>

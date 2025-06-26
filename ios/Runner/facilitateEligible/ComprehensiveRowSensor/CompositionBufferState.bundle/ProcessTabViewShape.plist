@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainZone</key>
+	<string>createPlayback</string>
+	<key>shouldLayoutVariant</key>
+	<string>unsortedScroller</string>
+	<key>shouldconnectcomposition</key>
+	<string>defaultinstruction</string>
+</dict>
+</plist>

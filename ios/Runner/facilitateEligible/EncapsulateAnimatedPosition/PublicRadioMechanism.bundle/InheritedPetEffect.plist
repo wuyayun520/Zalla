@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercontroller</key>
+	<string>smallTicker</string>
+	<key>directallocatorstatus</key>
+	<string>startShader</string>
+	<key>shouldMountBullet</key>
+	<string>sensorDecorator</string>
+	<key>shouldSaveGem</key>
+	<string>presentView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCheckbox</key>
+	<string>metadatareliability</string>
+	<key>directScroll</key>
+	<string>shouldUnmountedEffect</string>
+	<key>hasgraphic</key>
+	<string>cancelmovement</string>
+	<key>operationDuration</key>
+	<string>shouldListenReference</string>
+	<key>serviceresponse</key>
+	<string>consumeracceleration</string>
+	<key>usedPageView</key>
+	<string>statefulComposite</string>
+</dict>
+</plist>

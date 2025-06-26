@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorException</key>
+	<string>shouldBuildMission</string>
+	<key>sharedAnalogy</key>
+	<string>grayscaleScope</string>
+	<key>shouldBuildGrayscale</key>
+	<string>factoryAdapter</string>
+	<key>shouldEndSegue</key>
+	<string>unmarshalRequest</string>
+	<key>specifierrepository</key>
+	<string>analyzeConfiguration</string>
+	<key>tensormedia</key>
+	<string>drawerAppearance</string>
+	<key>timelineFormat</key>
+	<string>directBatch</string>
+	<key>visibleArithmetic</key>
+	<string>keepExpanded</string>
+</dict>
+</plist>

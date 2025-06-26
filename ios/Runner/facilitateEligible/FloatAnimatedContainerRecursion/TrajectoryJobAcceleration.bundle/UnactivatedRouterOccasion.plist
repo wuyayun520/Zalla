@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisrange</key>
+	<string>staticTween</string>
+	<key>beginnerclipperborder</key>
+	<string>sustainableVolume</string>
+	<key>decorationbystate</key>
+	<string>variantBehavior</string>
+	<key>explicitresourcevisible</key>
+	<string>segmentJob</string>
+	<key>labelvaluecontrast</key>
+	<string>freeException</string>
+	<key>rectbesidestrategy</key>
+	<string>backwardLog</string>
+	<key>resultMode</key>
+	<string>optionInteraction</string>
+	<key>stopplayback</key>
+	<string>tweenTop</string>
+	<key>swiftTransparency</key>
+	<string>createChapter</string>
+</dict>
+</plist>

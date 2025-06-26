@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilenavigator</key>
+	<string>discoverLayer</string>
+	<key>diffableRadius</key>
+	<string>originalAppBar</string>
+	<key>flexibleTechnique</key>
+	<string>gridviewValue</string>
+	<key>ignoredTrajectory</key>
+	<string>imperativeAlert</string>
+	<key>parallelCubit</key>
+	<string>mergerTension</string>
+	<key>routeeffect</key>
+	<string>canPersistVariant</string>
+	<key>shouldAnimateEquipment</key>
+	<string>sortedLoop</string>
+	<key>shouldpushsensor</key>
+	<string>completedCosine</string>
+	<key>storageVisibility</key>
+	<string>shouldValidateHeap</string>
+</dict>
+</plist>

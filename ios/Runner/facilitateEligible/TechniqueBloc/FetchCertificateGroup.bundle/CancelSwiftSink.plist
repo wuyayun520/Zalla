@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBottom</key>
+	<string>accordionLayer</string>
+	<key>criticalPopup</key>
+	<string>freeMenu</string>
+	<key>cubeIndex</key>
+	<string>reusableText</string>
+	<key>mediumScroll</key>
+	<string>apertureMemento</string>
+	<key>precisionrate</key>
+	<string>renameIsolate</string>
+	<key>reliabilitySkewX</key>
+	<string>crudeActivity</string>
+	<key>tickeredge</key>
+	<string>canUnmountedNib</string>
+	<key>unregisterreduction</key>
+	<string>protectedSingleton</string>
+</dict>
+</plist>

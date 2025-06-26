@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioTail</key>
+	<string>primaryHash</string>
+	<key>disparateMesh</key>
+	<string>allocatorreducer</string>
+	<key>enabledEntropy</key>
+	<string>canEndBorder</string>
+	<key>indicatorflags</key>
+	<string>detachstore</string>
+	<key>permissiveLatency</key>
+	<string>layoutinset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResponder</key>
+	<string>canDisconnectNorm</string>
+	<key>activitymenu</key>
+	<string>diversifiedjoiner</string>
+	<key>composablepopuphue</key>
+	<string>canTransitionBullet</string>
+	<key>logarithmvariablerate</key>
+	<string>shouldContinueClipper</string>
+	<key>singletonType</key>
+	<string>disclaimerStatus</string>
+	<key>vectorintegrity</key>
+	<string>shouldAnimateAspect</string>
+</dict>
+</plist>

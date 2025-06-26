@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultbinary</key>
+	<string>configurationindex</string>
+	<key>diffableTitle</key>
+	<string>canPaintMomentum</string>
+	<key>immediateworkflow</key>
+	<string>histogramtypescale</string>
+	<key>pivotalSkirt</key>
+	<string>presentSymbol</string>
+	<key>segueFrequency</key>
+	<string>interfaceStatus</string>
+	<key>shouldNavigateFragment</key>
+	<string>offsetManager</string>
+	<key>shouldSetStateObserver</key>
+	<string>selectedCupertino</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInterface</key>
+	<string>detectorFormat</string>
+	<key>immutableSymbol</key>
+	<string>greatIntegrity</string>
+	<key>optionRotation</key>
+	<string>canMountOverlay</string>
+	<key>pivotalResolver</key>
+	<string>canAnimateTabBar</string>
+	<key>shouldPushMission</key>
+	<string>navigateDependency</string>
+</dict>
+</plist>

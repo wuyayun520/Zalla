@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineRight</key>
+	<string>singletonbandwidth</string>
+	<key>hasBitrate</key>
+	<string>agilePreview</string>
+	<key>mountedheap</key>
+	<string>oldNavigation</string>
+	<key>shouldConnectGraphic</key>
+	<string>denseQuaternion</string>
+	<key>shouldShowBrush</key>
+	<string>propagateLabel</string>
+</dict>
+</plist>

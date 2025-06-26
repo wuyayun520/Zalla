@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerinset</key>
+	<string>bufferDepth</string>
+	<key>dedicatedRepository</key>
+	<string>poolInterface</string>
+	<key>immediateTheme</key>
+	<string>setstateExpanded</string>
+	<key>liteCurve</key>
+	<string>mediaBuffer</string>
+	<key>occasionIndex</key>
+	<string>itemPadding</string>
+	<key>setstateresource</key>
+	<string>coordinatorasvalue</string>
+	<key>symmetricScenario</key>
+	<string>optionRight</string>
+</dict>
+</plist>

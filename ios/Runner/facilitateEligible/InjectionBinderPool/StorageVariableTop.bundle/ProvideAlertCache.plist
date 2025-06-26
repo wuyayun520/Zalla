@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLocation</key>
+	<string>canResumePadding</string>
+	<key>confidentialityFormat</key>
+	<string>independentPicker</string>
+	<key>grayscaleLeft</key>
+	<string>defaultAlert</string>
+	<key>immutableDependency</key>
+	<string>routeSwift</string>
+	<key>inflatetext</key>
+	<string>shouldParseSignature</string>
+	<key>inkwellPressure</key>
+	<string>resolveLabel</string>
+	<key>notifiertag</key>
+	<string>gatepatternbound</string>
+	<key>previewsinceform</key>
+	<string>zonescroller</string>
+	<key>specifyAscent</key>
+	<string>canPersistTangent</string>
+	<key>standaloneUnary</key>
+	<string>giftstrategycount</string>
+</dict>
+</plist>

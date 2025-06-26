@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStack</key>
+	<string>rotatepadding</string>
+	<key>equivalentsaturation</key>
+	<string>crucialThreshold</string>
+	<key>hyperbolicTernary</key>
+	<string>shouldformatdialogs</string>
+	<key>independentDescent</key>
+	<string>extendDecoration</string>
+	<key>mainCursor</key>
+	<string>continueScreen</string>
+	<key>popbuilder</key>
+	<string>deprecateText</string>
+	<key>promiseproxyvalidation</key>
+	<string>priorityBehavior</string>
+	<key>respectiveBinary</key>
+	<string>newestQueue</string>
+</dict>
+</plist>

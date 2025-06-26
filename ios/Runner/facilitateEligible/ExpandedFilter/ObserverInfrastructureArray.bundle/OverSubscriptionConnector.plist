@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledScalability</key>
+	<string>navigationValidation</string>
+	<key>geometricLoss</key>
+	<string>enabledMaterial</string>
+	<key>numericalpreviewhue</key>
+	<string>architectureScale</string>
+	<key>storedensity</key>
+	<string>canRebuildKernel</string>
+	<key>visibleTouch</key>
+	<string>consultativeCustomPaint</string>
+</dict>
+</plist>

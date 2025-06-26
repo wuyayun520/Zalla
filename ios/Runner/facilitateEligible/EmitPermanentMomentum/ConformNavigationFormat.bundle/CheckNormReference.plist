@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFrequency</key>
+	<string>respectiveProject</string>
+	<key>displayableThreshold</key>
+	<string>shouldEmitConsumer</string>
+	<key>imperativeIndicator</key>
+	<string>shouldConnectEqualization</string>
+	<key>localLifecycle</key>
+	<string>descriptionVisitor</string>
+	<key>permissiveTween</key>
+	<string>imageRate</string>
+	<key>resolverTop</key>
+	<string>boxOpacity</string>
+	<key>shouldPublishCompletion</key>
+	<string>shouldResumeRemainder</string>
+	<key>tappableScope</key>
+	<string>retainTicker</string>
+</dict>
+</plist>

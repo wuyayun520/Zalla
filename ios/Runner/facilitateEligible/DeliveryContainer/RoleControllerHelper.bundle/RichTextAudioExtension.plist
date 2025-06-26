@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSprite</key>
+	<string>durationOperation</string>
+	<key>arithmeticConverter</key>
+	<string>skirtAdapter</string>
+	<key>mechanismCoord</key>
+	<string>skipText</string>
+	<key>pageviewContrast</key>
+	<string>positionOperation</string>
+	<key>rowcreator</key>
+	<string>sophisticatedView</string>
+	<key>shouldEndNib</key>
+	<string>unmountModal</string>
+	<key>spinebrightness</key>
+	<string>shouldreplacedocument</string>
+	<key>spotLeft</key>
+	<string>primaryCurve</string>
+	<key>usedAwait</key>
+	<string>canKeepAxis</string>
+</dict>
+</plist>

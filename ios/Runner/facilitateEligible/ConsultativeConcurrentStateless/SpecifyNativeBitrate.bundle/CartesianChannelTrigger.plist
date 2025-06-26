@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectRotation</key>
+	<string>attachPadding</string>
+	<key>disabledTool</key>
+	<string>rectifyResource</string>
+	<key>iconchart</key>
+	<string>scaleFeedback</string>
+	<key>interactivenavigator</key>
+	<string>shouldRebuildVariant</string>
+	<key>intuitiveVertex</key>
+	<string>invisibleResilience</string>
+	<key>modelleft</key>
+	<string>baselineTask</string>
+</dict>
+</plist>

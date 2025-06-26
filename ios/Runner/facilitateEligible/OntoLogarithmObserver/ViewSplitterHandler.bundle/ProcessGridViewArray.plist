@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStorage</key>
+	<string>accessibleCallback</string>
+	<key>customanalogy</key>
+	<string>decorationCycle</string>
+	<key>euclideanChooser</key>
+	<string>splitterDuration</string>
+	<key>hasternary</key>
+	<string>durationbottom</string>
+	<key>inactiveCubit</key>
+	<string>priorityTask</string>
+	<key>retrievebox</key>
+	<string>hasSign</string>
+	<key>setstateconfiguration</key>
+	<string>shaderParam</string>
+	<key>shouldPopKernel</key>
+	<string>datasize</string>
+	<key>taskquaternion</key>
+	<string>ignoredgrid</string>
+	<key>updatelayer</key>
+	<string>canPrepareController</string>
+</dict>
+</plist>

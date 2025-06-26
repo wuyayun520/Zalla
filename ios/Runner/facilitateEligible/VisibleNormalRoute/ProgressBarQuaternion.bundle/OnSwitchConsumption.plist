@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredOverlay</key>
+	<string>entropysaturation</string>
+	<key>lazyprotocolcenter</key>
+	<string>mixinModel</string>
+	<key>pagerPadding</key>
+	<string>gridComposite</string>
+	<key>shouldTrainReference</key>
+	<string>canCancelDelegate</string>
+</dict>
+</plist>

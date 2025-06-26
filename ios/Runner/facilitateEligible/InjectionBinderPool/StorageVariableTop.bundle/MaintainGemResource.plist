@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOrigin</key>
+	<string>platePhase</string>
+	<key>cycleDuration</key>
+	<string>audioResponse</string>
+	<key>deferredeffect</key>
+	<string>declarativeTaxonomy</string>
+	<key>detailStyle</key>
+	<string>canMountDecoration</string>
+	<key>fixedIntegration</key>
+	<string>normOrigin</string>
+	<key>immediateTrigger</key>
+	<string>shouldStopCoordinator</string>
+	<key>shouldFetchSpine</key>
+	<string>customizedpriority</string>
+	<key>statefulSkin</key>
+	<string>menuselector</string>
+	<key>ternaryawayvisitor</key>
+	<string>lossFlyweight</string>
+</dict>
+</plist>

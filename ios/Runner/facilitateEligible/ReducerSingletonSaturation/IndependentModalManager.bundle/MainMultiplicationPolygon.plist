@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeMobile</key>
+	<string>currentStack</string>
+	<key>defaultScroll</key>
+	<string>processorbottom</string>
+	<key>denseCurve</key>
+	<string>configureFeature</string>
+	<key>directlyGridView</key>
+	<string>typicalTweak</string>
+	<key>gridSize</key>
+	<string>canContinueTable</string>
+	<key>impactHead</key>
+	<string>shouldSaveTouch</string>
+	<key>selectedcosine</key>
+	<string>isrow</string>
+</dict>
+</plist>

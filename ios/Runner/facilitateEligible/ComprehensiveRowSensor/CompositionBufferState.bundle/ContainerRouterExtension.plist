@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderasync</key>
+	<string>publicNavigation</string>
+	<key>declarativeConfiguration</key>
+	<string>interactivestream</string>
+	<key>explicitVector</key>
+	<string>colorVelocity</string>
+	<key>mapperScale</key>
+	<string>canStreamOption</string>
+	<key>singleWorkflow</key>
+	<string>cacheMaterial</string>
+	<key>unsortedwidgetvisible</key>
+	<string>keepunary</string>
+</dict>
+</plist>

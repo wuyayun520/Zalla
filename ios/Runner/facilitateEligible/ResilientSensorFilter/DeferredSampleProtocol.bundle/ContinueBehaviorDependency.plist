@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalobserverborder</key>
+	<string>canUnmountController</string>
+	<key>musicscopefrequency</key>
+	<string>isolateSpacing</string>
+	<key>positionedVelocity</key>
+	<string>destroypresenter</string>
+	<key>shouldDisposeSlash</key>
+	<string>uniformscroller</string>
+	<key>shoulddisconnectrichtext</key>
+	<string>optimizerMemento</string>
+	<key>storeleft</key>
+	<string>canSaveBitrate</string>
+</dict>
+</plist>

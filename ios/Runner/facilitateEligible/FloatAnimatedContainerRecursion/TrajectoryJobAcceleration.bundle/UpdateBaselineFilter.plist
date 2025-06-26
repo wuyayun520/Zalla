@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubelistener</key>
+	<string>displayableGroup</string>
+	<key>customizedAspect</key>
+	<string>custompaintMargin</string>
+	<key>numericalAction</key>
+	<string>implementBuffer</string>
+	<key>numericalConverter</key>
+	<string>ephemeralSign</string>
+	<key>shouldDisposeStateless</key>
+	<string>eagerTable</string>
+	<key>sinkdepth</key>
+	<string>shouldUpdateTabView</string>
+	<key>storagemargin</key>
+	<string>fusedImage</string>
+	<key>taskdistance</key>
+	<string>projectanimation</string>
+</dict>
+</plist>

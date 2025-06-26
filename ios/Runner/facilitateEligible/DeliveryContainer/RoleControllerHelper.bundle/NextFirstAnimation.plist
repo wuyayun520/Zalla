@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintRate</key>
+	<string>canFormatChannels</string>
+	<key>dedicatedsample</key>
+	<string>diffableProtocol</string>
+	<key>difficultEmitter</key>
+	<string>inheritedSorter</string>
+	<key>materialLocation</key>
+	<string>releasestream</string>
+	<key>textureVisible</key>
+	<string>shouldProcessRichText</string>
+	<key>unsortedScheduler</key>
+	<string>visualizeResult</string>
+</dict>
+</plist>

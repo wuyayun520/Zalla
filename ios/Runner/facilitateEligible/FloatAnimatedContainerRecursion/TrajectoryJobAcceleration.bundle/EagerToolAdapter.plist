@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonoffset</key>
+	<string>onindicatorchanged</string>
+	<key>deserializestream</key>
+	<string>associatedAspect</string>
+	<key>multiplicationscene</key>
+	<string>allocatorthroughphase</string>
+	<key>shouldConnectSegment</key>
+	<string>formatcursor</string>
+	<key>specifyInterpolation</key>
+	<string>indicatorDensity</string>
+</dict>
+</plist>

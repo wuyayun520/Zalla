@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerstatus</key>
+	<string>drawZone</string>
+	<key>lostDependency</key>
+	<string>prevScaffold</string>
+	<key>petdependency</key>
+	<string>functionalGrid</string>
+	<key>reactivedecorationacceleration</key>
+	<string>multiResult</string>
+	<key>reusableLinker</key>
+	<string>kernelParam</string>
+	<key>seamlessCheckbox</key>
+	<string>consultativePosition</string>
+	<key>shouldCreateBinary</key>
+	<string>asynchronousduration</string>
+	<key>unsortedFactory</key>
+	<string>imagebrightness</string>
+</dict>
+</plist>

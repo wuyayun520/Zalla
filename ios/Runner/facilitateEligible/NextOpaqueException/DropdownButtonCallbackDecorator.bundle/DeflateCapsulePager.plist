@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInterval</key>
+	<string>renderpresenter</string>
+	<key>attachresolver</key>
+	<string>obtainAllocator</string>
+	<key>comprehensiveChooser</key>
+	<string>makeIntensity</string>
+	<key>loopSize</key>
+	<string>inactiveDialogs</string>
+	<key>nativePrecision</key>
+	<string>shaderprototypescale</string>
+	<key>normalmaterializer</key>
+	<string>canAnimateTabBar</string>
+	<key>publiccallback</key>
+	<string>canEmitNorm</string>
+	<key>relationalGroup</key>
+	<string>startAspect</string>
+	<key>singlePlayback</key>
+	<string>sharedPicker</string>
+</dict>
+</plist>

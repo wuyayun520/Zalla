@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeobserver</key>
+	<string>pendingGraphic</string>
+	<key>easyAnimator</key>
+	<string>parseInjection</string>
+	<key>prismaticScale</key>
+	<string>shouldCreateScale</string>
+	<key>relationalInterface</key>
+	<string>parallelSubscriber</string>
+	<key>tappableoffset</key>
+	<string>quantizercontroller</string>
+</dict>
+</plist>

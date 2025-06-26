@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursortheme</key>
+	<string>backwardStep</string>
+	<key>indicatorSize</key>
+	<string>writeUtil</string>
+	<key>mediumListView</key>
+	<string>accessibleCanvas</string>
+	<key>modalsincecycle</key>
+	<string>deflateChart</string>
+	<key>oninkwellchanged</key>
+	<string>transitionAlpha</string>
+	<key>persistentpositionedtint</key>
+	<string>interactionlocation</string>
+	<key>provisionmomentum</key>
+	<string>canBindPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFlags</key>
+	<string>inactiveSorter</string>
+	<key>defaultmember</key>
+	<string>stringifyText</string>
+	<key>discardedroutecenter</key>
+	<string>canPrepareBrush</string>
+	<key>globaldata</key>
+	<string>activityMargin</string>
+	<key>meshTop</key>
+	<string>timerKind</string>
+	<key>tappableEntity</key>
+	<string>globalColor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerinterpreterspacing</key>
+	<string>permissivePosition</string>
+	<key>notationleft</key>
+	<string>shouldRouteWorkflow</string>
+	<key>pinchablePlayback</key>
+	<string>playbackParam</string>
+	<key>positionTint</key>
+	<string>shouldUnmountOption</string>
+	<key>reducercount</key>
+	<string>protocolForm</string>
+	<key>sophisticatedstatelessborder</key>
+	<string>shouldEmitGate</string>
+	<key>timerthroughlevel</key>
+	<string>notifierworkbottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionaroundmode</key>
+	<string>streamlineDuration</string>
+	<key>retainedtask</key>
+	<string>activecubitopacity</string>
+	<key>shouldHandleProvider</key>
+	<string>futureflyweightdelay</string>
+	<key>shouldPauseTheme</key>
+	<string>appbarOrientation</string>
+	<key>specifyview</key>
+	<string>rapidProvider</string>
+	<key>staticBorder</key>
+	<string>shouldFetchSkin</string>
+	<key>throughputRate</key>
+	<string>restoreListener</string>
+</dict>
+</plist>

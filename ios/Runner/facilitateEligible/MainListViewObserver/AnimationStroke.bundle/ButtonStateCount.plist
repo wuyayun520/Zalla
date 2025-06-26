@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbridgevisibility</key>
+	<string>shouldcachecompletion</string>
+	<key>defaultprotocol</key>
+	<string>fixedSpine</string>
+	<key>directlyProfile</key>
+	<string>paintStep</string>
+	<key>elasticpaddingtype</key>
+	<string>metadataCoord</string>
+	<key>indicatorradius</key>
+	<string>regulateRadius</string>
+	<key>materialStyle</key>
+	<string>ignoredSchema</string>
+	<key>radiusvalueforce</key>
+	<string>vectorizeWidget</string>
+	<key>symmetricMesh</key>
+	<string>seamlessCard</string>
+</dict>
+</plist>

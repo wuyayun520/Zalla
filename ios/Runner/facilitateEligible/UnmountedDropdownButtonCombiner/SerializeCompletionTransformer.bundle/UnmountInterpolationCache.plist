@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilespineacceleration</key>
+	<string>reactiveStroke</string>
+	<key>arithmeticStroke</key>
+	<string>elasticCapsule</string>
+	<key>aspectbloc</key>
+	<string>makeListener</string>
+	<key>basicAudio</key>
+	<string>keySound</string>
+	<key>concurrentProvider</key>
+	<string>marginEnvironment</string>
+	<key>constraintprocessor</key>
+	<string>descriptionVisible</string>
+	<key>opaqueScale</key>
+	<string>mechanismFrequency</string>
+	<key>semanticlistener</key>
+	<string>bindShader</string>
+	<key>sessionbyadapter</key>
+	<string>replaceSignature</string>
+	<key>variantanimation</key>
+	<string>lastFrame</string>
+</dict>
+</plist>

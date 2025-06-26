@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorfrequency</key>
+	<string>cellAdapter</string>
+	<key>effectOpacity</key>
+	<string>provideScene</string>
+	<key>gridbottom</key>
+	<string>configurationRotation</string>
+	<key>immediateObserver</key>
+	<string>occasionTag</string>
+	<key>inactiveEvent</key>
+	<string>aspectratioBridge</string>
+	<key>mutableLifecycle</key>
+	<string>publicGridView</string>
+	<key>requiredScroller</key>
+	<string>comparebuilder</string>
+	<key>shouldAttachPriority</key>
+	<string>disparateTime</string>
+	<key>shouldunbindwidget</key>
+	<string>significantDetail</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRepository</key>
+	<string>shouldEncodePlate</string>
+	<key>optionDuration</key>
+	<string>delicateGraphic</string>
+	<key>persistentView</key>
+	<string>canNavigateChannels</string>
+	<key>previewamongstrategy</key>
+	<string>currentcycle</string>
+	<key>sessiondecoratoralignment</key>
+	<string>nativeConsumption</string>
+	<key>shouldFinishHistogram</key>
+	<string>pinchableUsage</string>
+	<key>shouldStopCustomPaint</key>
+	<string>shouldDispatchCanvas</string>
+	<key>subsequentCollection</key>
+	<string>shouldFormatCollection</string>
+</dict>
+</plist>

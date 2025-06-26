@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertagainsttier</key>
+	<string>mediumCatalyst</string>
+	<key>channelsobserverdensity</key>
+	<string>pauseMovement</string>
+	<key>convolutioncontainer</key>
+	<string>eventFeedback</string>
+	<key>dedicatedGridView</key>
+	<string>reactiveRange</string>
+	<key>mainEmitter</key>
+	<string>parallelEquipment</string>
+	<key>shouldSaveBitrate</key>
+	<string>desktopTexture</string>
+	<key>shouldValidateStream</key>
+	<string>cubesubscription</string>
+	<key>significantScale</key>
+	<string>spotSkewX</string>
+</dict>
+</plist>

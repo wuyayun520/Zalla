@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatepresenter</key>
+	<string>createDocument</string>
+	<key>disabledNavigator</key>
+	<string>scenarioSkewX</string>
+	<key>durationIndex</key>
+	<string>shouldSerializeListView</string>
+	<key>eagercanvas</key>
+	<string>responsivePicker</string>
+	<key>menuScale</key>
+	<string>scaffoldMediator</string>
+	<key>schemaVelocity</key>
+	<string>accordionMesh</string>
+	<key>shouldReplaceCube</key>
+	<string>interceptCubit</string>
+</dict>
+</plist>

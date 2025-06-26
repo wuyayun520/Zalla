@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpatterninteraction</key>
+	<string>parseStateless</string>
+	<key>compositionalBloc</key>
+	<string>bulletValidation</string>
+	<key>directObserver</key>
+	<string>sustainablemaster</string>
+	<key>directlyProfile</key>
+	<string>dimensiontransformer</string>
+	<key>mobileEquivalent</key>
+	<string>directNavigator</string>
+	<key>observermethodorientation</key>
+	<string>activatelocalization</string>
+	<key>shouldRestartGraphic</key>
+	<string>disparateMaterial</string>
+	<key>shouldTransitionExponent</key>
+	<string>projectionOrientation</string>
+	<key>shouldUpdateBitrate</key>
+	<string>shouldencodestateful</string>
+</dict>
+</plist>

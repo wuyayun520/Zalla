@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatemodeborder</key>
+	<string>pagerBorder</string>
+	<key>elasticdescent</key>
+	<string>presentmediaquery</string>
+	<key>indicatorResponse</key>
+	<string>rotateAsync</string>
+	<key>spotRotation</key>
+	<string>detachBinary</string>
+</dict>
+</plist>

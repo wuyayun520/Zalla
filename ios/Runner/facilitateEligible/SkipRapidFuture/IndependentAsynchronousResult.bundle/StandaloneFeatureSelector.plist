@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabel</key>
+	<string>currenttextfield</string>
+	<key>elasticModule</key>
+	<string>animateDropdownButton</string>
+	<key>shouldConnectEquipment</key>
+	<string>analogyFrequency</string>
+	<key>usecasesystemedge</key>
+	<string>measurechallenge</string>
+</dict>
+</plist>

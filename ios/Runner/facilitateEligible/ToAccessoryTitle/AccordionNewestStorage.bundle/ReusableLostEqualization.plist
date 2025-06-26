@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGrayscale</key>
+	<string>gemperinterpreter</string>
+	<key>backwardArithmetic</key>
+	<string>providertheme</string>
+	<key>consumerrectangle</key>
+	<string>visibleResponder</string>
+	<key>errorMode</key>
+	<string>directSpine</string>
+	<key>mediumSession</key>
+	<string>animatedRouter</string>
+	<key>nodeMargin</key>
+	<string>buildUsage</string>
+	<key>singleBatch</key>
+	<string>bulletfacadealignment</string>
+	<key>substantialBaseline</key>
+	<string>similarAlignment</string>
+	<key>zoneenvironmentmode</key>
+	<string>fixedStateless</string>
+</dict>
+</plist>

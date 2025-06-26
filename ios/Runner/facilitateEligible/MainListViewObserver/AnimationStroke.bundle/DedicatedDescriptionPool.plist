@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocchart</key>
+	<string>showAlert</string>
+	<key>pinchableColor</key>
+	<string>positionOpacity</string>
+	<key>repositoryShape</key>
+	<string>popTransition</string>
+	<key>unaryVisible</key>
+	<string>canResumeArithmetic</string>
+</dict>
+</plist>

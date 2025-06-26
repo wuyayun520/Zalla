@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystexceptproxy</key>
+	<string>optimizeAwait</string>
+	<key>difficultMetrics</key>
+	<string>denseHistogram</string>
+	<key>effectState</key>
+	<string>curvelocation</string>
+	<key>exceptionIndex</key>
+	<string>paintDimension</string>
+	<key>imperativesubscriber</key>
+	<string>roleVar</string>
+	<key>lastPet</key>
+	<string>invokeDuration</string>
+	<key>subpixelbloc</key>
+	<string>commonAllocator</string>
+</dict>
+</plist>

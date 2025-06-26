@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBorder</key>
+	<string>activatedproviderbottom</string>
+	<key>difficultChooser</key>
+	<string>shouldSerializeBase</string>
+	<key>operationBottom</key>
+	<string>preparesignature</string>
+	<key>publicConstraint</key>
+	<string>effecttop</string>
+	<key>shouldShowDocument</key>
+	<string>selectedmediaquery</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProtocol</key>
+	<string>customizedMobile</string>
+	<key>diffableMap</key>
+	<string>usagestructurepadding</string>
+	<key>directLayout</key>
+	<string>scenarioTail</string>
+	<key>easyNavigator</key>
+	<string>lazyCurve</string>
+	<key>equipmentresponse</key>
+	<string>deployButton</string>
+	<key>prevDuration</key>
+	<string>onsinechanged</string>
+	<key>shouldDetachSubpixel</key>
+	<string>indicatorForm</string>
+	<key>shouldPauseSkin</key>
+	<string>connectLoop</string>
+	<key>smallCursor</key>
+	<string>serializeModal</string>
+</dict>
+</plist>

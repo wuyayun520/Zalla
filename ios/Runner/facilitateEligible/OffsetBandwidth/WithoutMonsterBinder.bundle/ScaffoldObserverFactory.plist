@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionflags</key>
+	<string>parallelTolerance</string>
+	<key>deliveryStyle</key>
+	<string>unscheduleIntensity</string>
+	<key>materialcubit</key>
+	<string>replicateCoordinator</string>
+	<key>parallelMaterializer</key>
+	<string>unsortedReliability</string>
+	<key>quantizerusage</key>
+	<string>temporaryPreview</string>
+	<key>robustScroller</key>
+	<string>skirtResponse</string>
+	<key>sensorVelocity</key>
+	<string>startsingleton</string>
+	<key>shouldStopCupertino</key>
+	<string>shapeDirection</string>
+</dict>
+</plist>

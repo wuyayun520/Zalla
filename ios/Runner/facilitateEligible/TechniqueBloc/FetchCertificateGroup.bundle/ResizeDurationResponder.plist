@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractioncontrast</key>
+	<string>seekAllocator</string>
+	<key>diffableTopic</key>
+	<string>promiseBottom</string>
+	<key>shouldUnmountModal</key>
+	<string>dismissFeature</string>
+	<key>shouldstopreduction</key>
+	<string>responsiveConnector</string>
+	<key>standaloneNotifier</key>
+	<string>objectalignment</string>
+</dict>
+</plist>

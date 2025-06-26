@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastTransparency</key>
+	<string>backwardReducer</string>
+	<key>fusedOption</key>
+	<string>newestCapacity</string>
+	<key>parallelMaster</key>
+	<string>profileForce</string>
+	<key>streamShade</key>
+	<string>canInflatePromise</string>
+	<key>taskincludekind</key>
+	<string>loadGraphic</string>
+</dict>
+</plist>

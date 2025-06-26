@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancontainerlocation</key>
+	<string>canContinueChannels</string>
+	<key>factoryIndex</key>
+	<string>normalExpanded</string>
+	<key>granularBloc</key>
+	<string>plateCenter</string>
+	<key>selectedMediaQuery</key>
+	<string>canEncodeNavigator</string>
+	<key>streamthanscope</key>
+	<string>canProcessHeap</string>
+	<key>threadVisibility</key>
+	<string>scrollTail</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMediaQuery</key>
+	<string>shouldEncodeTheme</string>
+	<key>denseMission</key>
+	<string>dismissPet</string>
+	<key>directlyStrength</key>
+	<string>gridviewtint</string>
+	<key>histogramSpeed</key>
+	<string>canCacheFlex</string>
+</dict>
+</plist>

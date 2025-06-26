@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedrequesttype</key>
+	<string>canProcessPriority</string>
+	<key>graphspeed</key>
+	<string>analyzeAwait</string>
+	<key>labelsingletonresponse</key>
+	<string>annotateTimer</string>
+	<key>multiMovement</key>
+	<string>onslidertap</string>
+	<key>shouldBuildNorm</key>
+	<string>priorPromise</string>
+	<key>workflowContrast</key>
+	<string>unactivatedMapper</string>
+</dict>
+</plist>

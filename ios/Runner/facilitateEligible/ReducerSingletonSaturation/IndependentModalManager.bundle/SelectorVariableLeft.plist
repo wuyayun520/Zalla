@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindisolate</key>
+	<string>usedConstraint</string>
+	<key>consumefeature</key>
+	<string>chartatvariable</string>
+	<key>declarativeTriangles</key>
+	<string>navigatorinsidememento</string>
+	<key>drawerBehavior</key>
+	<string>mergerCoord</string>
+	<key>missedDelivery</key>
+	<string>dynamicDescent</string>
+	<key>renamegesture</key>
+	<string>transformerOperation</string>
+	<key>splitterMargin</key>
+	<string>compositionalProjection</string>
+</dict>
+</plist>

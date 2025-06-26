@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResource</key>
+	<string>euclideanTechnique</string>
+	<key>arithmeticNotifier</key>
+	<string>shouldTransformSensor</string>
+	<key>composableCapsule</key>
+	<string>evaluateGraph</string>
+	<key>criticalTrigger</key>
+	<string>keypicker</string>
+	<key>criticalappbar</key>
+	<string>allocatorcapacity</string>
+	<key>euclideanSubscription</key>
+	<string>enabledAnalogy</string>
+	<key>nativeimage</key>
+	<string>eventMethod</string>
+	<key>shouldFormatMusic</key>
+	<string>cardperoperation</string>
+	<key>substantialRectangle</key>
+	<string>indicatorScale</string>
+	<key>usagerouter</key>
+	<string>triggerPadding</string>
+</dict>
+</plist>

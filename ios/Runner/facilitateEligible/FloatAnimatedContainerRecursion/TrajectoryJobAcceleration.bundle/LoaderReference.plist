@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOpacity</key>
+	<string>freeScene</string>
+	<key>customRadius</key>
+	<string>paintCatalyst</string>
+	<key>recursionSkewY</key>
+	<string>sharedresolver</string>
+	<key>spotContrast</key>
+	<string>emitListView</string>
+	<key>tabviewFeedback</key>
+	<string>beginnerFlex</string>
+</dict>
+</plist>

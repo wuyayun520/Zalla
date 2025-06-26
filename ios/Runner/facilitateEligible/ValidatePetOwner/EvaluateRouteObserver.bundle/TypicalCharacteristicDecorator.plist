@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMonster</key>
+	<string>instantiateWidget</string>
+	<key>descriptionbyadapter</key>
+	<string>multiDropdownButton</string>
+	<key>inheritedsensor</key>
+	<string>immutableNotification</string>
+	<key>segueRotation</key>
+	<string>semanticMethod</string>
+	<key>sensorEdge</key>
+	<string>repositoryMode</string>
+	<key>similarCapsule</key>
+	<string>evaluateInteractor</string>
+	<key>staticSound</key>
+	<string>painterRight</string>
+	<key>subtleInterpolation</key>
+	<string>basicCursor</string>
+</dict>
+</plist>

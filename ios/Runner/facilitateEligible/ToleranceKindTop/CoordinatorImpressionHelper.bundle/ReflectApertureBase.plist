@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicUnary</key>
+	<string>canEndNavigator</string>
+	<key>immediateCompletion</key>
+	<string>mobileSegment</string>
+	<key>nativeGate</key>
+	<string>requiredAsset</string>
+	<key>newestComponent</key>
+	<string>canPersistEqualization</string>
+	<key>plateLeft</key>
+	<string>dispatchEquipment</string>
+	<key>polyfillCount</key>
+	<string>sizedboxformfrequency</string>
+	<key>shouldloadcompletion</key>
+	<string>parallelInstruction</string>
+	<key>shouldpresentalert</key>
+	<string>shouldpersistbuilder</string>
+	<key>substantialNode</key>
+	<string>inflateReduction</string>
+	<key>unactivatedDisclaimer</key>
+	<string>hyperbolicexception</string>
+</dict>
+</plist>

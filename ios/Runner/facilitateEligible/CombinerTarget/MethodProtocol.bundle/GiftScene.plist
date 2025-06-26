@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCapacities</key>
+	<string>explicitcardtheme</string>
+	<key>delegateTheme</key>
+	<string>pivotalBaseline</string>
+	<key>persistentextensionresponse</key>
+	<string>cliptext</string>
+	<key>shouldDispatchSensor</key>
+	<string>tickerForce</string>
+	<key>shouldParseMission</key>
+	<string>customTitle</string>
+</dict>
+</plist>

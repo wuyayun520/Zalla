@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePadding</key>
+	<string>activevolume</string>
+	<key>configurationDistance</key>
+	<string>logarithmresponse</string>
+	<key>detectorDirection</key>
+	<string>activatedUsage</string>
+	<key>effectContrast</key>
+	<string>unaryValidation</string>
+	<key>heroreducer</key>
+	<string>shouldTransformConsumer</string>
+	<key>intermediatepopup</key>
+	<string>equalZone</string>
+	<key>managerdistance</key>
+	<string>elastictransition</string>
+	<key>numericalpromisebottom</key>
+	<string>eagerProtocol</string>
+	<key>persistrepository</key>
+	<string>mutableRole</string>
+</dict>
+</plist>

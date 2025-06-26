@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFactory</key>
+	<string>provideNode</string>
+	<key>asynchronousAllocator</key>
+	<string>radiusAdapter</string>
+	<key>capacityhue</key>
+	<string>canEncodeSwitch</string>
+	<key>currentBinder</key>
+	<string>accessoryFrequency</string>
+	<key>fixedtopic</key>
+	<string>functionalResponse</string>
+	<key>respondlabel</key>
+	<string>shouldDeserializeStateless</string>
+	<key>shouldStreamCollection</key>
+	<string>managervariablevisible</string>
+	<key>smartBloc</key>
+	<string>shouldSerializeSample</string>
+</dict>
+</plist>

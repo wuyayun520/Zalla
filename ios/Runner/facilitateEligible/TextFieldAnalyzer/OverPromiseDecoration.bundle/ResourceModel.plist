@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellRight</key>
+	<string>accelerateContainer</string>
+	<key>concreteResolver</key>
+	<string>discardedGradient</string>
+	<key>densetransformer</key>
+	<string>particlemapper</string>
+	<key>fragmenterror</key>
+	<string>shouldPauseRichText</string>
+	<key>greatRenderer</key>
+	<string>positionedTension</string>
+	<key>immediatechannel</key>
+	<string>customMomentum</string>
+	<key>sharedInteractor</key>
+	<string>serializeChannel</string>
+</dict>
+</plist>

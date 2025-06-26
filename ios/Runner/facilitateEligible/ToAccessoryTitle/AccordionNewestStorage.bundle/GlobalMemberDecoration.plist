@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTextField</key>
+	<string>shouldHandleBuilder</string>
+	<key>imperativeCursor</key>
+	<string>customizedInteractor</string>
+	<key>integerlayout</key>
+	<string>tabbarBehavior</string>
+	<key>overridemodel</key>
+	<string>shouldValidateMovement</string>
+	<key>specifyView</key>
+	<string>segmentOrigin</string>
+	<key>sustainablesymbol</key>
+	<string>normalcontroller</string>
+	<key>synccurve</key>
+	<string>restartEqualization</string>
+	<key>syncresolver</key>
+	<string>setstateOptimizer</string>
+	<key>tappableBorder</key>
+	<string>paintReference</string>
+	<key>timeMode</key>
+	<string>keyData</string>
+</dict>
+</plist>

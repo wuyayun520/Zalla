@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuesymbol</key>
+	<string>screenChain</string>
+	<key>functionalUsage</key>
+	<string>modelbeyondadapter</string>
+	<key>responsiveMaterial</key>
+	<string>synchronousIndicator</string>
+	<key>smartLayout</key>
+	<string>canTransformEntropy</string>
+	<key>transformerDirection</key>
+	<string>sequentialGrayscale</string>
+</dict>
+</plist>

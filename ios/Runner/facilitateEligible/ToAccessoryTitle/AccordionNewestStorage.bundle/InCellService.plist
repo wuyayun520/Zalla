@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitfeedback</key>
+	<string>tweenNumber</string>
+	<key>consultativePager</key>
+	<string>reflectMenu</string>
+	<key>detachsingleton</key>
+	<string>shouldPauseCaption</string>
+	<key>diversifiedAlignment</key>
+	<string>shouldContinueAspect</string>
+	<key>listviewRotation</key>
+	<string>controllerPadding</string>
+	<key>mainChart</key>
+	<string>canBuildSemantics</string>
+	<key>particleForce</key>
+	<string>implementTimer</string>
+	<key>persistentTrigger</key>
+	<string>canRebuildDescriptor</string>
+	<key>publicProgressBar</key>
+	<string>shouldLoadBitrate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audiotag</key>
+	<string>serializeResult</string>
+	<key>controllerScale</key>
+	<string>streamlineMenu</string>
+	<key>currentAsync</key>
+	<string>canCancelBox</string>
+	<key>largeNotification</key>
+	<string>collectionvalidation</string>
+	<key>listviewTint</key>
+	<string>criticalSchema</string>
+	<key>loopstagedensity</key>
+	<string>resultValidation</string>
+	<key>selectedTangent</key>
+	<string>materialButton</string>
+	<key>spritepager</key>
+	<string>lockSprite</string>
+	<key>usedsize</key>
+	<string>hasPriority</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcontrollerspacing</key>
+	<string>mediocreCluster</string>
+	<key>composableBorder</key>
+	<string>disposecubit</string>
+	<key>factoryfromchain</key>
+	<string>oldScenario</string>
+	<key>overridebuilder</key>
+	<string>criticalLoop</string>
+	<key>shouldPresentPlate</key>
+	<string>autoCubit</string>
+	<key>shouldconnectequalization</key>
+	<string>mainBuilder</string>
+</dict>
+</plist>

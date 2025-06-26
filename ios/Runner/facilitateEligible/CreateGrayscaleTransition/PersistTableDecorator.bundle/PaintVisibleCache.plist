@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTask</key>
+	<string>resumeCard</string>
+	<key>completionoradapter</key>
+	<string>specifyService</string>
+	<key>globalRoute</key>
+	<string>unbindreducer</string>
+	<key>permissiveRange</key>
+	<string>inactiveVector</string>
+	<key>shouldEmitBox</key>
+	<string>resizableThreshold</string>
+	<key>shouldStreamButton</key>
+	<string>evolutionCount</string>
+</dict>
+</plist>

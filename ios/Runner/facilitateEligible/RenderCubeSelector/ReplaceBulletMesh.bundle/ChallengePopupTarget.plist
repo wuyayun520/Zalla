@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDepth</key>
+	<string>canTrainUsage</string>
+	<key>customizedBehavior</key>
+	<string>rapidPriority</string>
+	<key>greatNib</key>
+	<string>processorDensity</string>
+	<key>matrixtail</key>
+	<string>spotAction</string>
+	<key>resizableTriangles</key>
+	<string>synchronousConsumer</string>
+	<key>shouldPaintPriority</key>
+	<string>fillRepository</string>
+	<key>switchtweak</key>
+	<string>dependencyCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetransformer</key>
+	<string>persistSubpixel</string>
+	<key>skirtVisibility</key>
+	<string>diversifiedTouch</string>
+	<key>webPresenter</key>
+	<string>alphabridgeindex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySwitch</key>
+	<string>shouldPushMap</string>
+	<key>largeCanvas</key>
+	<string>kernelinteractor</string>
+	<key>publisherIndex</key>
+	<string>resetMenu</string>
+	<key>servicenearbridge</key>
+	<string>canRebuildBaseline</string>
+	<key>unactivatedCapacities</key>
+	<string>uniqueRenderer</string>
+</dict>
+</plist>

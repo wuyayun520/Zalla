@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocorientation</key>
+	<string>canUnmountScale</string>
+	<key>displayablePresenter</key>
+	<string>lastFilter</string>
+	<key>priorityType</key>
+	<string>lazyTexture</string>
+	<key>responsivePolyfill</key>
+	<string>concretePicker</string>
+	<key>reusableIsolate</key>
+	<string>backwardMedia</string>
+	<key>sharedAwait</key>
+	<string>desktopCharacteristic</string>
+	<key>subsequentDelivery</key>
+	<string>routeProcess</string>
+	<key>topicVelocity</key>
+	<string>canTransitionDescriptor</string>
+</dict>
+</plist>

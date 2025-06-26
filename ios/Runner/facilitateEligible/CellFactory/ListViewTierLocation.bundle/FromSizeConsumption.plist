@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourcethroughmediator</key>
+	<string>screenPhase</string>
+	<key>shouldBindNavigator</key>
+	<string>prevChannels</string>
+	<key>smallConnector</key>
+	<string>canMountObserver</string>
+	<key>transformerror</key>
+	<string>canInflateTransition</string>
+	<key>tweenDuration</key>
+	<string>originalRemainder</string>
+</dict>
+</plist>

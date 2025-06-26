@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentSkewY</key>
+	<string>transformerinterval</string>
+	<key>interactionfrequency</key>
+	<string>draggableTitle</string>
+	<key>replacechapter</key>
+	<string>substantialeventalignment</string>
+	<key>responsiveFrame</key>
+	<string>resolverFormat</string>
+	<key>shouldSaveAspectRatio</key>
+	<string>listenLog</string>
+	<key>textrotation</key>
+	<string>euclideanReplica</string>
+</dict>
+</plist>

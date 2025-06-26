@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartprovider</key>
+	<string>decodePlayback</string>
+	<key>disparateGridView</key>
+	<string>capacitiesBrightness</string>
+	<key>emitproject</key>
+	<string>requestState</string>
+	<key>normaloffset</key>
+	<string>shouldReplaceEquipment</string>
+	<key>opaqueShader</key>
+	<string>enumeratePresenter</string>
+	<key>shouldNavigateInkWell</key>
+	<string>insteadEntity</string>
+	<key>standaloneRemediation</key>
+	<string>setupAwait</string>
+	<key>statelessitem</key>
+	<string>shouldCreateSizedBox</string>
+</dict>
+</plist>

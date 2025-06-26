@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultextension</key>
+	<string>declarativeanalyzer</string>
+	<key>rowcoord</key>
+	<string>grainBorder</string>
+	<key>shouldDecodeShader</key>
+	<string>asyncLayer</string>
+	<key>shouldUnmountedSkirt</key>
+	<string>rebuildLayout</string>
+	<key>spotAcceleration</key>
+	<string>layerTop</string>
+	<key>symmetricAnalogy</key>
+	<string>canPaintButton</string>
+	<key>webIntensity</key>
+	<string>unlockScene</string>
+</dict>
+</plist>

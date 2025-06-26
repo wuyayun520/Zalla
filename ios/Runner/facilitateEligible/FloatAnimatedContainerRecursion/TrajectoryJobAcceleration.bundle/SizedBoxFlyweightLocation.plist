@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentOpacity</key>
+	<string>resettext</string>
+	<key>autoscale</key>
+	<string>denseDuration</string>
+	<key>callbackSpeed</key>
+	<string>injectionalignment</string>
+	<key>cupertinoMusic</key>
+	<string>clipSink</string>
+	<key>customListener</key>
+	<string>alphaTransparency</string>
+	<key>emitcycle</key>
+	<string>disconnectCell</string>
+	<key>firstcoordinatoralignment</key>
+	<string>detachHero</string>
+	<key>publisherinterval</key>
+	<string>alphaprovision</string>
+	<key>shouldDisconnectPromise</key>
+	<string>specifyPainter</string>
+</dict>
+</plist>

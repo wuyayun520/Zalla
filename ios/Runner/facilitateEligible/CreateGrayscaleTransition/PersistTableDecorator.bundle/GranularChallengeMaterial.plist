@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTweak</key>
+	<string>shouldhandleicon</string>
+	<key>kernelVelocity</key>
+	<string>canResumeEqualization</string>
+	<key>mainMission</key>
+	<string>observeview</string>
+</dict>
+</plist>

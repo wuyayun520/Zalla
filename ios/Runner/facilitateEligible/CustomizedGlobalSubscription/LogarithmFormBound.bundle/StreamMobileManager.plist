@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatenotifier</key>
+	<string>canEmitBatch</string>
+	<key>equalizationSkewY</key>
+	<string>functionalChecklist</string>
+	<key>mapperAlignment</key>
+	<string>resilientIsolate</string>
+	<key>rectaroundstrategy</key>
+	<string>topicDistance</string>
+	<key>schedulerSpacing</key>
+	<string>infoSpeed</string>
+	<key>shouldListenAlpha</key>
+	<string>canInflateTable</string>
+	<key>smallBehavior</key>
+	<string>taskAdapter</string>
+</dict>
+</plist>

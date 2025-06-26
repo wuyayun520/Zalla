@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorlikevariable</key>
+	<string>loglevelrate</string>
+	<key>lastProjection</key>
+	<string>mediaincludesingleton</string>
+	<key>nativeJoiner</key>
+	<string>borderCycle</string>
+	<key>nibgroup</key>
+	<string>lockFuture</string>
+</dict>
+</plist>

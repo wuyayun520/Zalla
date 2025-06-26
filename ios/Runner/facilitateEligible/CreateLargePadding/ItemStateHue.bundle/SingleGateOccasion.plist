@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityHead</key>
+	<string>fragmentsMode</string>
+	<key>composableSpot</key>
+	<string>globalUtil</string>
+	<key>elasticpopup</key>
+	<string>greatthroughput</string>
+	<key>hardManager</key>
+	<string>mediaBridge</string>
+	<key>relationalDecoration</key>
+	<string>dependencyfrequency</string>
+	<key>sequentialTrigger</key>
+	<string>equalizationVar</string>
+	<key>sortedSegment</key>
+	<string>shouldResumeAnimation</string>
+</dict>
+</plist>

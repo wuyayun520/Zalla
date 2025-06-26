@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetflags</key>
+	<string>profilecyclecenter</string>
+	<key>declarativesampleinset</key>
+	<string>poolcontainer</string>
+	<key>ignoredPromise</key>
+	<string>independentAnimatedContainer</string>
+	<key>responsiveDetail</key>
+	<string>localContrast</string>
+	<key>shouldNotifyNotifier</key>
+	<string>cupertinoVector</string>
+	<key>shouldbindprotocol</key>
+	<string>canUpdateSwitch</string>
+	<key>synchronousLog</key>
+	<string>canAnimateTransition</string>
+	<key>typicalText</key>
+	<string>confidentialityType</string>
+</dict>
+</plist>

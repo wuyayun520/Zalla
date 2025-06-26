@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProcessor</key>
+	<string>granularStamp</string>
+	<key>declarativecubitsize</key>
+	<string>canPushTool</string>
+	<key>instructionfrequency</key>
+	<string>cellcombiner</string>
+	<key>intuitiveMetadata</key>
+	<string>groupshade</string>
+	<key>mediocreButton</key>
+	<string>gemDensity</string>
+	<key>oldwidget</key>
+	<string>restartCurve</string>
+	<key>shouldEncodeInteger</key>
+	<string>entropyOpacity</string>
+	<key>taskstyle</key>
+	<string>advancedChannels</string>
+	<key>tensorInteger</key>
+	<string>scalabilityOffset</string>
+</dict>
+</plist>

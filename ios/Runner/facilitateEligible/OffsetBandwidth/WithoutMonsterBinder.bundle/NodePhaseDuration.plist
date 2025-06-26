@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardWidget</key>
+	<string>tappableContainer</string>
+	<key>bitrateanalyzer</key>
+	<string>dependencyenvironmentedge</string>
+	<key>cleanstateless</key>
+	<string>shouldNavigateMargin</string>
+	<key>shouldPauseCharacter</key>
+	<string>modalStage</string>
+	<key>shouldPopPriority</key>
+	<string>multiplicationFlyweight</string>
+	<key>unmountedtextfield</key>
+	<string>pagerTop</string>
+	<key>updatetween</key>
+	<string>nativeCubit</string>
+	<key>webTechnique</key>
+	<string>responsiveSample</string>
+</dict>
+</plist>

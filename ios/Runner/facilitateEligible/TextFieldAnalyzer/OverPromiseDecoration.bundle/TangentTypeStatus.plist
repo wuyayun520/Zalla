@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesstorage</key>
+	<string>receiverstatus</string>
+	<key>customizedNotification</key>
+	<string>gridlayerhue</string>
+	<key>documentstyle</key>
+	<string>publishstate</string>
+	<key>prismaticprioritytransparency</key>
+	<string>stopTangent</string>
+	<key>projectCenter</key>
+	<string>alphaInterpreter</string>
+	<key>resizableChapter</key>
+	<string>interactorPhase</string>
+	<key>scaffoldshade</key>
+	<string>opaqueOptimizer</string>
+	<key>shouldUnmountCompletion</key>
+	<string>shouldTrainSkin</string>
+	<key>similarAnalyzer</key>
+	<string>eventmediatorposition</string>
+</dict>
+</plist>

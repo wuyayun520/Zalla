@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListener</key>
+	<string>cancelCosine</string>
+	<key>latencyIndex</key>
+	<string>standaloneConverter</string>
+	<key>mediumImpression</key>
+	<string>geometricRichText</string>
+	<key>shouldNavigateAnimation</key>
+	<string>shouldEndActivity</string>
+	<key>sineCoord</key>
+	<string>logarithmEnvironment</string>
+	<key>sinkmodel</key>
+	<string>enabledResource</string>
+	<key>spotTheme</key>
+	<string>differentiateFeature</string>
+</dict>
+</plist>

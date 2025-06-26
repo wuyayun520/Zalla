@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedbaselinevalidation</key>
+	<string>shouldstartarithmetic</string>
+	<key>activeMetrics</key>
+	<string>canFetchProjection</string>
+	<key>cupertinoTechnique</key>
+	<string>composableVertex</string>
+	<key>dispatcherMode</key>
+	<string>shouldUnmountAppBar</string>
+	<key>eagerBandwidth</key>
+	<string>tabviewDuration</string>
+	<key>primaryDescriptor</key>
+	<string>permanentStorage</string>
+</dict>
+</plist>

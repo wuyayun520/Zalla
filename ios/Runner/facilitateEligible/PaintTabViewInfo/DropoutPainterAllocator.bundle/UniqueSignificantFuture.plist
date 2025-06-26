@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerandmethod</key>
+	<string>themePressure</string>
+	<key>cubitbuilder</key>
+	<string>restartRichText</string>
+	<key>delicateZone</key>
+	<string>plateOpacity</string>
+	<key>hyperboliccube</key>
+	<string>sharedGestureDetector</string>
+	<key>impactTop</key>
+	<string>reflectCompleter</string>
+	<key>otherScale</key>
+	<string>arithmeticCharacteristic</string>
+	<key>primaryConnector</key>
+	<string>synchronizeFrame</string>
+	<key>staticStream</key>
+	<string>brushTransparency</string>
+</dict>
+</plist>

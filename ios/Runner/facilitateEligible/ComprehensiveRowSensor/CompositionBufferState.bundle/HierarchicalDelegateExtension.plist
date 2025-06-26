@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionsearcher</key>
+	<string>notifyThread</string>
+	<key>eventTension</key>
+	<string>lostTouch</string>
+	<key>labelresponse</key>
+	<string>sequentialEntity</string>
+	<key>modalDuration</key>
+	<string>adaptiveResolver</string>
+	<key>onkerneltap</key>
+	<string>selectedbase</string>
+	<key>publicSound</key>
+	<string>shouldPaintCurve</string>
+	<key>rapidTool</key>
+	<string>canUpdateBullet</string>
+	<key>resizableReplica</key>
+	<string>resolverfromsystem</string>
+	<key>shouldSetStateSubpixel</key>
+	<string>profileBrightness</string>
+</dict>
+</plist>

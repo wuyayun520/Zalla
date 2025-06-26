@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMargin</key>
+	<string>animationVariable</string>
+	<key>diversifiedSemantics</key>
+	<string>singleIndicator</string>
+	<key>observetimer</key>
+	<string>subsequentpromiseopacity</string>
+	<key>providerconverter</key>
+	<string>revisitTimer</string>
+</dict>
+</plist>

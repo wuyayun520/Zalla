@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInterpolation</key>
+	<string>contractionMode</string>
+	<key>flexibleBandwidth</key>
+	<string>eagerSemantics</string>
+	<key>globalAmortization</key>
+	<string>cupertinoBox</string>
+	<key>handlecomposition</key>
+	<string>occasionIndex</string>
+	<key>shouldPauseCustomPaint</key>
+	<string>controllerselector</string>
+	<key>shouldRebuildListView</key>
+	<string>logaroundvalue</string>
+	<key>shouldendaspectratio</key>
+	<string>permanentTextField</string>
+	<key>typicalLatency</key>
+	<string>finishFragment</string>
+</dict>
+</plist>

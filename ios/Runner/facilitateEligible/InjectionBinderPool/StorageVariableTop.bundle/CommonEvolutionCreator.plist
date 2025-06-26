@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSymbol</key>
+	<string>viewborder</string>
+	<key>basicQueue</key>
+	<string>shouldYieldThread</string>
+	<key>enabledRect</key>
+	<string>flexibleTentative</string>
+	<key>nextRepository</key>
+	<string>responsiveProfile</string>
+	<key>responsivegridrate</key>
+	<string>monsterStrategy</string>
+	<key>significantScreen</key>
+	<string>radiusValue</string>
+	<key>standaloneConfidentiality</key>
+	<string>priorView</string>
+	<key>tweenType</key>
+	<string>iterativePageView</string>
+</dict>
+</plist>

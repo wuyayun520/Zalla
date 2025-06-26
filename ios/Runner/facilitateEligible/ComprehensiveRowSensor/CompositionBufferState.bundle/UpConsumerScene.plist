@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardService</key>
+	<string>groupexceptjob</string>
+	<key>basicBehavior</key>
+	<string>publishText</string>
+	<key>discardedResilience</key>
+	<string>composableconsumption</string>
+	<key>disparatespotsize</key>
+	<string>containeractionvelocity</string>
+	<key>processorright</key>
+	<string>descriptorSize</string>
+	<key>roleTail</key>
+	<string>subtleClipper</string>
+	<key>scrollableAxis</key>
+	<string>stateName</string>
+</dict>
+</plist>

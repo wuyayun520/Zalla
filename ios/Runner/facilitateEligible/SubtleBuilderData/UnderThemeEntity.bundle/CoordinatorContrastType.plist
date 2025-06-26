@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineopacity</key>
+	<string>activityForm</string>
+	<key>gramStatus</key>
+	<string>disconnectChallenge</string>
+	<key>imperativemediatransparency</key>
+	<string>declarativeSprite</string>
+	<key>momentumPosition</key>
+	<string>canDetachMission</string>
+	<key>shouldBuildHistogram</key>
+	<string>filterOrigin</string>
+	<key>shouldTransformChallenge</key>
+	<string>publicMaterializer</string>
+	<key>shouldUnmountedCube</key>
+	<string>ephemeralinfo</string>
+	<key>shouldcachesession</key>
+	<string>explicitFeature</string>
+	<key>sophisticatedBullet</key>
+	<string>immutableMetrics</string>
+</dict>
+</plist>

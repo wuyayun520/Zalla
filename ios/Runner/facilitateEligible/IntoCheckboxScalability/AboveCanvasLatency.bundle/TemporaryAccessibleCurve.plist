@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBuilder</key>
+	<string>canParseBinary</string>
+	<key>capacitiesFrequency</key>
+	<string>intermediateEfficiency</string>
+	<key>completionIndex</key>
+	<string>vertexRotation</string>
+	<key>curveAcceleration</key>
+	<string>integrationShape</string>
+	<key>fusedfuture</key>
+	<string>synchronousTentative</string>
+	<key>loopsingletonsize</key>
+	<string>shouldDisposeGraphic</string>
+	<key>scenelocation</key>
+	<string>animatedGraphic</string>
+	<key>secondIcon</key>
+	<string>ephemeralVideo</string>
+	<key>writestamp</key>
+	<string>associatedAnimatedContainer</string>
+</dict>
+</plist>

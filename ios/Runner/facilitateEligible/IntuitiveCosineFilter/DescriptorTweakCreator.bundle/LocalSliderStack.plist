@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChannel</key>
+	<string>checkboxDuration</string>
+	<key>detectorsaturation</key>
+	<string>completerprocesspressure</string>
+	<key>pivotalMechanism</key>
+	<string>canPushPageView</string>
+	<key>secondSegue</key>
+	<string>persistentRect</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredModal</key>
+	<string>referenceinset</string>
+	<key>errorIndex</key>
+	<string>shouldunmountaspect</string>
+	<key>globalTweak</key>
+	<string>canDetachBitrate</string>
+	<key>independentTransition</key>
+	<string>scenePosition</string>
+	<key>notifieratcontext</key>
+	<string>hyperbolicChart</string>
+	<key>shouldCancelCompletion</key>
+	<string>polygoninteraction</string>
+	<key>singleGesture</key>
+	<string>consumeralongmediator</string>
+	<key>transformerPressure</key>
+	<string>restartLog</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsDistance</key>
+	<string>mediumConnector</string>
+	<key>consumptionPressure</key>
+	<string>directRect</string>
+	<key>eagercursor</key>
+	<string>normalRadio</string>
+	<key>greatChannels</key>
+	<string>immediateinstructioncenter</string>
+	<key>shouldcancelfragment</key>
+	<string>trajectoryShade</string>
+	<key>shouldresumebullet</key>
+	<string>sustainableGift</string>
+	<key>skinSkewX</key>
+	<string>shouldAttachBatch</string>
+</dict>
+</plist>

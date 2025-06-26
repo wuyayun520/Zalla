@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeHeap</key>
+	<string>maxScroll</string>
+	<key>cursorMargin</key>
+	<string>decodeSkirt</string>
+	<key>delegateHue</key>
+	<string>convolutionNumber</string>
+	<key>lastReference</key>
+	<string>dedicatedStateful</string>
+	<key>notationShade</key>
+	<string>shouldListenProvider</string>
+	<key>painterDuration</key>
+	<string>progressbarSize</string>
+	<key>pinchableButton</key>
+	<string>stringifyAsset</string>
+	<key>shouldObserveSegment</key>
+	<string>shouldRebuildStateless</string>
+	<key>singleSink</key>
+	<string>techniqueState</string>
+</dict>
+</plist>

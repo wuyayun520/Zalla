@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAlignment</key>
+	<string>taskvisible</string>
+	<key>directCertificate</key>
+	<string>navigateparticle</string>
+	<key>materialaboutscope</key>
+	<string>canMountedEquipment</string>
+	<key>newestframe</key>
+	<string>eventbottom</string>
+	<key>retainedTheme</key>
+	<string>unsortedcollectionedge</string>
+	<key>sinkScale</key>
+	<string>toleranceOffset</string>
+	<key>symmetrichero</key>
+	<string>shouldObserveAlert</string>
+</dict>
+</plist>

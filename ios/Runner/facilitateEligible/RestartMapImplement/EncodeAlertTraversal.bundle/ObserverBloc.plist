@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthAlignment</key>
+	<string>usageProxy</string>
+	<key>publisherValidation</key>
+	<string>slashthroughtier</string>
+	<key>responsiveDetail</key>
+	<string>criticalImpact</string>
+	<key>shouldFormatCard</key>
+	<string>batchbuilder</string>
+	<key>timeScale</key>
+	<string>activateStream</string>
+</dict>
+</plist>

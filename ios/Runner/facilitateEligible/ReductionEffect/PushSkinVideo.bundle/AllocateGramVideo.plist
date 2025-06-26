@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeWidget</key>
+	<string>liteMobile</string>
+	<key>cursororientation</key>
+	<string>eventJob</string>
+	<key>intuitiveLatency</key>
+	<string>isolateVisibility</string>
+	<key>navigatorphasetransparency</key>
+	<string>sinecoord</string>
+	<key>shouldcachesensor</key>
+	<string>moveaction</string>
+	<key>shouldfinishtask</key>
+	<string>integerSpacing</string>
+	<key>similarSound</key>
+	<string>functionalText</string>
+	<key>synchronousElement</key>
+	<string>prevBloc</string>
+</dict>
+</plist>

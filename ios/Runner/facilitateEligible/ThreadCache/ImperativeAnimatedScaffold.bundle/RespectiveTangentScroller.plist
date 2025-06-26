@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTicker</key>
+	<string>shouldAnimateStep</string>
+	<key>directElasticity</key>
+	<string>activeTextField</string>
+	<key>filterShade</key>
+	<string>pauseAperture</string>
+	<key>frameBehavior</key>
+	<string>minConsumer</string>
+	<key>sharedRect</key>
+	<string>autoGrid</string>
+	<key>shouldContinueText</key>
+	<string>sophisticatedStoryboard</string>
+	<key>singletonefficiency</key>
+	<string>shouldKeepGift</string>
+	<key>tensormodeltransparency</key>
+	<string>mixinException</string>
+	<key>textwithpattern</key>
+	<string>startThread</string>
+</dict>
+</plist>

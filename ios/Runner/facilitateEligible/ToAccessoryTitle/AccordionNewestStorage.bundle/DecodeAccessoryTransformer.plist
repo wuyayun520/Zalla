@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTransformer</key>
+	<string>precisionfactory</string>
+	<key>defaultpadding</key>
+	<string>firsthashhead</string>
+	<key>featurescale</key>
+	<string>extensionPadding</string>
+	<key>mainBaseline</key>
+	<string>greatAnalyzer</string>
+	<key>observerawayprototype</key>
+	<string>threadStyle</string>
+	<key>performprovider</key>
+	<string>unlockPosition</string>
+</dict>
+</plist>

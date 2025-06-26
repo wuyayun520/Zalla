@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateddecorationfrequency</key>
+	<string>agileFrame</string>
+	<key>asynchronousText</key>
+	<string>filterAcceleration</string>
+	<key>controllerBottom</key>
+	<string>effectMemento</string>
+	<key>fusedNavigator</key>
+	<string>aspectParam</string>
+	<key>invisibleFinder</key>
+	<string>shouldDeserializeCustomPaint</string>
+	<key>keyequalizationfrequency</key>
+	<string>managerexceptcontext</string>
+	<key>profileparamrate</key>
+	<string>resultcoord</string>
+	<key>respondercolor</key>
+	<string>minChallenge</string>
+	<key>shouldKeepUsage</key>
+	<string>canRestartBinary</string>
+	<key>shouldreplacewidget</key>
+	<string>integervisible</string>
+</dict>
+</plist>

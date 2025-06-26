@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousQueue</key>
+	<string>mediocreSubscription</string>
+	<key>infoTheme</key>
+	<string>previewinsidecommand</string>
+	<key>integerincludecommand</key>
+	<string>scalabilityappearance</string>
+	<key>originalTimeline</key>
+	<string>tangenttween</string>
+	<key>repositoryvelocity</key>
+	<string>priorreducer</string>
+	<key>splitterfeedback</key>
+	<string>numericalGate</string>
+	<key>timeinset</key>
+	<string>localizationSpacing</string>
+</dict>
+</plist>

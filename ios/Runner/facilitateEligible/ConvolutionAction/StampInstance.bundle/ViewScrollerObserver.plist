@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScope</key>
+	<string>customizedDialogs</string>
+	<key>drawerwithoutform</key>
+	<string>canTrainClipper</string>
+	<key>dynamicScaffold</key>
+	<string>mutableTraversal</string>
+	<key>fragmentformat</key>
+	<string>signatureScale</string>
+	<key>intermediatenavigator</key>
+	<string>priorTouch</string>
+	<key>nextSize</key>
+	<string>createButton</string>
+	<key>sanitizetransition</key>
+	<string>canHandleCompletion</string>
+	<key>shouldSaveBox</key>
+	<string>aspectratiomodetag</string>
+	<key>uniqueVector</key>
+	<string>vectorizeZone</string>
+</dict>
+</plist>

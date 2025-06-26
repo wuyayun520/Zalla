@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionRate</key>
+	<string>captureCompleter</string>
+	<key>shouldDecodeGift</key>
+	<string>missedQuaternion</string>
+	<key>shouldProcessPrecision</key>
+	<string>canShowExtension</string>
+	<key>skirtsize</key>
+	<string>mitigateInterface</string>
+</dict>
+</plist>

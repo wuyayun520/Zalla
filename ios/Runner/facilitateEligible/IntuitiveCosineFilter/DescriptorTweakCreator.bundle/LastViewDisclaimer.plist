@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBloc</key>
+	<string>removeextension</string>
+	<key>criticalDimension</key>
+	<string>showNotification</string>
+	<key>dedicatedMatrix</key>
+	<string>shouldValidateMaster</string>
+	<key>displayableVariant</key>
+	<string>constraintRight</string>
+	<key>newestpainter</key>
+	<string>layoutjobappearance</string>
+	<key>parallelSingleton</key>
+	<string>allocatorState</string>
+	<key>servicecompositehue</key>
+	<string>constantSkewX</string>
+	<key>shouldStreamConstraint</key>
+	<string>retainedStore</string>
+	<key>unsortedHistogram</key>
+	<string>channelreducer</string>
+</dict>
+</plist>

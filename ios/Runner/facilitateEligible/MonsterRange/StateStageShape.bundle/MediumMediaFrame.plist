@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultReduction</key>
+	<string>originalTabView</string>
+	<key>listviewTint</key>
+	<string>removeTexture</string>
+	<key>shouldCreateWidget</key>
+	<string>standaloneGraph</string>
+	<key>specifyResolver</key>
+	<string>sequentialFrame</string>
+	<key>stepparameterbrightness</key>
+	<string>substantialloopfeedback</string>
+	<key>uniqueSwitch</key>
+	<string>subtleReduction</string>
+</dict>
+</plist>

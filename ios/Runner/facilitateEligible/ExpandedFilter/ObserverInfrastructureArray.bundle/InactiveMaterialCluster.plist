@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoratstyle</key>
+	<string>composableAperture</string>
+	<key>customizedDimension</key>
+	<string>conformResult</string>
+	<key>dedicatedObject</key>
+	<string>histogramPattern</string>
+	<key>pushmediaquery</key>
+	<string>storevalidation</string>
+	<key>shouldCreateNavigation</key>
+	<string>synchronouspromisecoord</string>
+</dict>
+</plist>

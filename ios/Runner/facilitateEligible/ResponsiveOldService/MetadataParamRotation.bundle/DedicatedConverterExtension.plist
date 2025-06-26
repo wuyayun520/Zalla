@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeevent</key>
+	<string>shouldReplaceNotification</string>
+	<key>coordinatorPadding</key>
+	<string>projectiondepth</string>
+	<key>equipmenttyperesponse</key>
+	<string>standaloneConfiguration</string>
+	<key>interactiveGem</key>
+	<string>canRouteMovement</string>
+	<key>largeSink</key>
+	<string>canUpdateSkirt</string>
+	<key>materialinactivity</key>
+	<string>viewPattern</string>
+	<key>storageName</key>
+	<string>canSubscribeEffect</string>
+</dict>
+</plist>

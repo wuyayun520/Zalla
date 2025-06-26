@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteraction</key>
+	<string>customSkin</string>
+	<key>beginnerTimeline</key>
+	<string>writeDuration</string>
+	<key>denseAllocator</key>
+	<string>shouldPersistCustomPaint</string>
+	<key>eagerCallback</key>
+	<string>channelthancomposite</string>
+	<key>enabledChannel</key>
+	<string>mountMonster</string>
+	<key>formatHue</key>
+	<string>modulusvariablemargin</string>
+	<key>selectorkind</key>
+	<string>exceptionconfidentiality</string>
+	<key>textfieldStatus</key>
+	<string>renderBinary</string>
+</dict>
+</plist>

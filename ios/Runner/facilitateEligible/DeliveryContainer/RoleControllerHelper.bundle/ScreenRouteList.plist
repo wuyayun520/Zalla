@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSlash</key>
+	<string>concurrentAudio</string>
+	<key>easyanimationpressure</key>
+	<string>clipInterface</string>
+	<key>gesturedetectorVisible</key>
+	<string>insteadtangent</string>
+	<key>shouldRestartResource</key>
+	<string>radioScale</string>
+	<key>visibleExponent</key>
+	<string>scrollableFragments</string>
+</dict>
+</plist>

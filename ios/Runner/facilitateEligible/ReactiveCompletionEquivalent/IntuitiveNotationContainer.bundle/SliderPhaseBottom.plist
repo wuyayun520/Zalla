@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityBorder</key>
+	<string>impactInset</string>
+	<key>flexibleHandler</key>
+	<string>nativePresenter</string>
+	<key>segueTransparency</key>
+	<string>shouldupdateflex</string>
+	<key>shouldProcessOptimizer</key>
+	<string>attachCell</string>
+	<key>statefulScope</key>
+	<string>shouldUnmountTheme</string>
+	<key>taxonomyTop</key>
+	<string>taskname</string>
+</dict>
+</plist>

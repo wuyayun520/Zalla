@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistlikedecorator</key>
+	<string>errorFlyweight</string>
+	<key>distinctionoffset</key>
+	<string>statefulentropyfeedback</string>
+	<key>granularMetadata</key>
+	<string>segueOrigin</string>
+	<key>iconinset</key>
+	<string>shouldAttachMap</string>
+	<key>largePosition</key>
+	<string>normResponse</string>
+	<key>lostSignature</key>
+	<string>consumptionmomentum</string>
+	<key>modalPosition</key>
+	<string>disabledDrawer</string>
+	<key>segmentDirection</key>
+	<string>delegateconnector</string>
+	<key>taskHue</key>
+	<string>labelinteraction</string>
+	<key>titleactivitydepth</key>
+	<string>currentNib</string>
+</dict>
+</plist>

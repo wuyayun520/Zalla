@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcheffect</key>
+	<string>connectDependency</string>
+	<key>oldNotation</key>
+	<string>skinLevel</string>
+	<key>publicGrain</key>
+	<string>rotateshader</string>
+	<key>referenceDensity</key>
+	<string>staticaspectorigin</string>
+	<key>shouldDeserializeGradient</key>
+	<string>mergerPadding</string>
+	<key>shouldParseChallenge</key>
+	<string>accessoryresilience</string>
+	<key>statelessBorder</key>
+	<string>shouldMountMediaQuery</string>
+	<key>transitionreference</key>
+	<string>coordinatordelegate</string>
+	<key>usedSignature</key>
+	<string>transpileicon</string>
+</dict>
+</plist>

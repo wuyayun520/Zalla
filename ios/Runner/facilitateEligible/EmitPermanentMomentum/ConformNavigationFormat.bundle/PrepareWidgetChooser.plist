@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumeflex</key>
+	<string>responsiveTouch</string>
+	<key>delegatecontainchain</key>
+	<string>canAnimateMaster</string>
+	<key>diversifiedCluster</key>
+	<string>detailMomentum</string>
+	<key>gifttypestate</key>
+	<string>samplerotation</string>
+	<key>interfaceStyle</key>
+	<string>shouldValidateSwift</string>
+	<key>nativegram</key>
+	<string>canFetchPromise</string>
+	<key>responsiveStack</key>
+	<string>unscheduleZone</string>
+	<key>standaloneCube</key>
+	<string>shouldDisposeBehavior</string>
+	<key>volumeInterval</key>
+	<string>timertension</string>
+</dict>
+</plist>

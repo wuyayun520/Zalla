@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStoryboard</key>
+	<string>originalQuaternion</string>
+	<key>enabledLoader</key>
+	<string>lazyAspect</string>
+	<key>parallelCell</key>
+	<string>canNotifyInterpolation</string>
+	<key>primaryRepository</key>
+	<string>canParseSignature</string>
+	<key>sequentialFinder</key>
+	<string>specifyBuffer</string>
+</dict>
+</plist>

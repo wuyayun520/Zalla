@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mergerFrequency</key>
+	<string>heroAdapter</string>
+	<key>precisionframeworktype</key>
+	<string>zoneDensity</string>
+	<key>shouldAnimateHistogram</key>
+	<string>fetchAnimation</string>
+	<key>shouldNavigateBinary</key>
+	<string>asynchronousLoop</string>
+	<key>similartangent</key>
+	<string>observerright</string>
+</dict>
+</plist>

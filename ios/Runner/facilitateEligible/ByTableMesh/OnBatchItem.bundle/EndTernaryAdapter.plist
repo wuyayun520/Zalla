@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleanalyzer</key>
+	<string>onmusicchanged</string>
+	<key>directProjection</key>
+	<string>itemTop</string>
+	<key>euclideanSpot</key>
+	<string>disabledTween</string>
+	<key>itemTag</key>
+	<string>stampwidget</string>
+	<key>relationaltransitionrotation</key>
+	<string>continueCatalyst</string>
+	<key>resolverDepth</key>
+	<string>selectorSkewY</string>
+	<key>retainedImpression</key>
+	<string>canEmitBitrate</string>
+	<key>shouldBuildPageView</key>
+	<string>hashleft</string>
+	<key>shouldFetchMargin</key>
+	<string>dedicateddata</string>
+</dict>
+</plist>

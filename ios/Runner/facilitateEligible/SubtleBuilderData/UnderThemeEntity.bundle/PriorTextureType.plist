@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedrow</key>
+	<string>notifyLoop</string>
+	<key>cachevisitorinset</key>
+	<string>mediaLevel</string>
+	<key>embedlocalization</key>
+	<string>binarytime</string>
+	<key>markcontraction</key>
+	<string>sophisticatedCapacity</string>
+	<key>metricsSpeed</key>
+	<string>canUnmountedActivity</string>
+	<key>shouldTransitionRoute</key>
+	<string>provideController</string>
+</dict>
+</plist>

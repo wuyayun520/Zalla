@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTag</key>
+	<string>rebuildStateful</string>
+	<key>nativeManager</key>
+	<string>timerBrightness</string>
+	<key>onanchorchanged</key>
+	<string>maxTouch</string>
+	<key>shouldSetStateSkin</key>
+	<string>showMargin</string>
+	<key>shouldShowBrush</key>
+	<string>equalizationpershape</string>
+	<key>shouldSubscribeCoordinator</key>
+	<string>interfaceFramework</string>
+	<key>storagebeyondstrategy</key>
+	<string>subpixelshapebound</string>
+	<key>switchsearcher</key>
+	<string>elasticGift</string>
+	<key>variantsaturation</key>
+	<string>associatedCapsule</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionfacademode</key>
+	<string>handlelocalization</string>
+	<key>encodemetadata</key>
+	<string>linkerBottom</string>
+	<key>pageviewposition</key>
+	<string>canFormatLayout</string>
+	<key>permanentAnimator</key>
+	<string>modulusBridge</string>
+	<key>persistenttimeline</key>
+	<string>remediationSaturation</string>
+	<key>pickerkind</key>
+	<string>customSubpixel</string>
+	<key>storyboardsprite</key>
+	<string>canEndEquipment</string>
+	<key>tweakMargin</key>
+	<string>observerVar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionRate</key>
+	<string>usecaseformat</string>
+	<key>hyperbolicCharacteristic</key>
+	<string>unmountedProvider</string>
+	<key>poolservice</key>
+	<string>hierarchicalpet</string>
+	<key>resilientMovement</key>
+	<string>equalizationSpeed</string>
+	<key>shouldPresentWorkflow</key>
+	<string>mobilestream</string>
+	<key>timelineRate</key>
+	<string>lostAlert</string>
+</dict>
+</plist>

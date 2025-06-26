@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestate</key>
+	<string>saveCheckbox</string>
+	<key>consultativeutilfrequency</key>
+	<string>requiredzonedelay</string>
+	<key>marginindex</key>
+	<string>resizeDuration</string>
+	<key>secondSearcher</key>
+	<string>factoryacceleration</string>
+	<key>usedPositioned</key>
+	<string>shouldObserveBox</string>
+</dict>
+</plist>

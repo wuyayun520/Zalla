@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedtextfield</key>
+	<string>promisevalueopacity</string>
+	<key>multisubscriptionlocation</key>
+	<string>techniqueBuffer</string>
+	<key>poolcontroller</key>
+	<string>mainSkin</string>
+	<key>shouldTransitionCustomPaint</key>
+	<string>unsortedReplica</string>
+	<key>uniqueaudio</key>
+	<string>shouldEndStream</string>
+	<key>usedIcon</key>
+	<string>stepFrequency</string>
+	<key>usedPreview</key>
+	<string>curveDirection</string>
+</dict>
+</plist>

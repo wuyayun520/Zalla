@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticKernel</key>
+	<string>shouldAttachProject</string>
+	<key>buttonBrightness</key>
+	<string>startspot</string>
+	<key>difficultCell</key>
+	<string>segmentFrequency</string>
+	<key>onmatrixchanged</key>
+	<string>visibleNotation</string>
+	<key>prismaticPresenter</key>
+	<string>textfielddetail</string>
+	<key>sharedLabel</key>
+	<string>usageParameter</string>
+	<key>zoneoperationsaturation</key>
+	<string>mediaqueryLeft</string>
+</dict>
+</plist>

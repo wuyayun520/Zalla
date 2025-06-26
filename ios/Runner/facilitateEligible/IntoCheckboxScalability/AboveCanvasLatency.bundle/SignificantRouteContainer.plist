@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBound</key>
+	<string>usedMatrix</string>
+	<key>appbarLeft</key>
+	<string>mainFrame</string>
+	<key>composableUseCase</key>
+	<string>delicatePromise</string>
+	<key>desktopOptimizer</key>
+	<string>directResolver</string>
+	<key>resilientPadding</key>
+	<string>basicscenebrightness</string>
+	<key>transitionawayinterpreter</key>
+	<string>ternaryoperationtail</string>
+</dict>
+</plist>

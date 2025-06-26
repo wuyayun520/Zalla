@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAscent</key>
+	<string>observerappearance</string>
+	<key>coordinatorsaturation</key>
+	<string>channelActivity</string>
+	<key>fusedtweak</key>
+	<string>menuVar</string>
+	<key>greatTangent</key>
+	<string>lostProvider</string>
+	<key>oldElement</key>
+	<string>canPersistSensor</string>
+	<key>shouldBuildRemainder</key>
+	<string>shouldObserveExtension</string>
+	<key>shouldMountExtension</key>
+	<string>shouldunmounteddelegate</string>
+	<key>stringifysensor</key>
+	<string>immediateCreator</string>
+</dict>
+</plist>

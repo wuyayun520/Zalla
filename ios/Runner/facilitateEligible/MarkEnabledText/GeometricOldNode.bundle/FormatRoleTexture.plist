@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelreference</key>
+	<string>positionHue</string>
+	<key>elementFormat</key>
+	<string>canPopBehavior</string>
+	<key>functionalTrigger</key>
+	<string>skipListView</string>
+	<key>shouldPersistController</key>
+	<string>audioCoord</string>
+	<key>shouldUnmountedCursor</key>
+	<string>observeService</string>
+</dict>
+</plist>

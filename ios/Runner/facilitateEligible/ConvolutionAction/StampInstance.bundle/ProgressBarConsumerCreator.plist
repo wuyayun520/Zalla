@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitylifecycle</key>
+	<string>layerAppearance</string>
+	<key>grainContrast</key>
+	<string>tangentSkewX</string>
+	<key>keepfactory</key>
+	<string>canReplaceProjection</string>
+	<key>matrixEdge</key>
+	<string>respondMethod</string>
+	<key>multiSlash</key>
+	<string>dismissdropdownbutton</string>
+	<key>specifyChannel</key>
+	<string>lostChart</string>
+	<key>webStateless</key>
+	<string>entityShade</string>
+</dict>
+</plist>

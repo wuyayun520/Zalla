@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEntropy</key>
+	<string>deserializemediaquery</string>
+	<key>analyzerVisible</key>
+	<string>dialogsStatus</string>
+	<key>hashbuffershade</key>
+	<string>interfaceadapterrate</string>
+	<key>intermediateIntensity</key>
+	<string>canBindNotifier</string>
+	<key>resizableCreator</key>
+	<string>stackvardistance</string>
+	<key>staticCapsule</key>
+	<string>webmapper</string>
+	<key>tensorZone</key>
+	<string>imageBrightness</string>
+</dict>
+</plist>

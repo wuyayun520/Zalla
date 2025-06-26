@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaquefeatureborder</key>
+	<string>canTransitionGesture</string>
+	<key>parallelQuaternion</key>
+	<string>inactiveRange</string>
+	<key>shouldDeserializeSpot</key>
+	<string>pauseCurve</string>
+	<key>subsequentTimer</key>
+	<string>shouldUpdateConstraint</string>
+</dict>
+</plist>

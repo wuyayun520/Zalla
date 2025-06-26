@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleMargin</key>
+	<string>stopOptimizer</string>
+	<key>reducerBound</key>
+	<string>responseFacade</string>
+	<key>selectorVisibility</key>
+	<string>euclideanviewformat</string>
+	<key>sensorSpeed</key>
+	<string>canTransitionColumn</string>
+	<key>subscribefuture</key>
+	<string>typicalTool</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletShade</key>
+	<string>createslider</string>
+	<key>chapterinterpretervisibility</key>
+	<string>resizableSubscription</string>
+	<key>consumptionState</key>
+	<string>replicateView</string>
+	<key>denseMovement</key>
+	<string>routeTouch</string>
+	<key>imageKind</key>
+	<string>animatedCache</string>
+	<key>independentTangent</key>
+	<string>sustainableTolerance</string>
+	<key>priorComponent</key>
+	<string>ignoredSegue</string>
+	<key>subtleStateless</key>
+	<string>drawZone</string>
+	<key>variantbuilder</key>
+	<string>canUnmountedTheme</string>
+</dict>
+</plist>

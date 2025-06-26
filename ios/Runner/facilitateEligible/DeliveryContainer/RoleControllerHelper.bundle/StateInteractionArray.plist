@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRichText</key>
+	<string>validateSwitch</string>
+	<key>hasgraphic</key>
+	<string>chooserState</string>
+	<key>nodedistinction</key>
+	<string>analyzeController</string>
+	<key>permissiveCard</key>
+	<string>subtleStep</string>
+	<key>retainedSpot</key>
+	<string>directlyThreshold</string>
+	<key>shouldTransitionHistogram</key>
+	<string>equalIsolate</string>
+	<key>visibleRectangle</key>
+	<string>symmetricLayer</string>
+</dict>
+</plist>

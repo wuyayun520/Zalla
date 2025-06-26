@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPolyfill</key>
+	<string>mobileTolerance</string>
+	<key>ignoredBloc</key>
+	<string>presentwidget</string>
+	<key>prevProjection</key>
+	<string>replaceChannels</string>
+	<key>promisearoundcontext</key>
+	<string>webVector</string>
+	<key>vertexSpeed</key>
+	<string>retainInjection</string>
+</dict>
+</plist>

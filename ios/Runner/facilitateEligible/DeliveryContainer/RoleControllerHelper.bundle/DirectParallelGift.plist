@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileintensity</key>
+	<string>ascentFlags</string>
+	<key>dedicatedDelivery</key>
+	<string>touchvariant</string>
+	<key>layoutmerger</key>
+	<string>activatedQuaternion</string>
+	<key>modelVisible</key>
+	<string>layoutLayout</string>
+	<key>referencesink</key>
+	<string>threadtopic</string>
+	<key>sharedResult</key>
+	<string>responsiveSound</string>
+	<key>shouldYieldMember</key>
+	<string>secondGridView</string>
+	<key>spotShape</key>
+	<string>convertMetadata</string>
+</dict>
+</plist>

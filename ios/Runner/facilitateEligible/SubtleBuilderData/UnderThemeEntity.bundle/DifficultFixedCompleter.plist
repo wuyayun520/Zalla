@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveintensityflags</key>
+	<string>drawAsync</string>
+	<key>methodInset</key>
+	<string>adaptiveReceiver</string>
+	<key>serializelocalization</key>
+	<string>lifecycleFormat</string>
+	<key>shouldCacheGradient</key>
+	<string>globalTask</string>
+	<key>shouldPrepareMaterial</key>
+	<string>ongridviewchanged</string>
+	<key>significantMend</key>
+	<string>nodeDelay</string>
+	<key>slashPressure</key>
+	<string>graphicState</string>
+	<key>streamIndex</key>
+	<string>builderaroundplatform</string>
+	<key>titleInteraction</key>
+	<string>significantStoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralCapsule</key>
+	<string>persistSkin</string>
+	<key>lossvideo</key>
+	<string>lostAnimatedContainer</string>
+	<key>reducerFrequency</key>
+	<string>clipdescriptor</string>
+	<key>stackEdge</key>
+	<string>featureTask</string>
+	<key>uniqueSpot</key>
+	<string>layerBound</string>
+</dict>
+</plist>

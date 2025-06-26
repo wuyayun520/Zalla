@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackinplatform</key>
+	<string>shouldBindActivity</string>
+	<key>commonSubscription</key>
+	<string>significantPager</string>
+	<key>controllerforlayer</key>
+	<string>localScope</string>
+	<key>currentshader</key>
+	<string>invokeScene</string>
+	<key>respectiveLogarithm</key>
+	<string>materialAlert</string>
+	<key>shouldcachedialogs</key>
+	<string>mainTaxonomy</string>
+</dict>
+</plist>

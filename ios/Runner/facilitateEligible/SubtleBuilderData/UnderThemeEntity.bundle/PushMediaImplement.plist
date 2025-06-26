@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBehavior</key>
+	<string>modelFlags</string>
+	<key>currentMember</key>
+	<string>visitChart</string>
+	<key>processallocator</key>
+	<string>presenterSaturation</string>
+	<key>rectifybuilder</key>
+	<string>limitLayout</string>
+	<key>shouldCancelGridView</key>
+	<string>lastReceiver</string>
+	<key>shouldEncodeBox</key>
+	<string>normalRoute</string>
+	<key>shouldMountedPlate</key>
+	<string>cupertinoZone</string>
+	<key>shouldObserveMonster</key>
+	<string>listenervariablebehavior</string>
+	<key>shouldProcessActivity</key>
+	<string>lazyReduction</string>
+</dict>
+</plist>

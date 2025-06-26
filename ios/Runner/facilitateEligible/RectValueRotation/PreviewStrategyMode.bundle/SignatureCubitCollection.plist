@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatereducer</key>
+	<string>tabviewDelay</string>
+	<key>completionPosition</key>
+	<string>liteNotification</string>
+	<key>criticalReducer</key>
+	<string>basicMovement</string>
+	<key>explicitTransformer</key>
+	<string>lazyaction</string>
+	<key>metadataName</key>
+	<string>largeNavigator</string>
+	<key>navigatorwithenvironment</key>
+	<string>elasticBloc</string>
+	<key>oldVideo</key>
+	<string>displayableInteractor</string>
+	<key>pickertension</key>
+	<string>plateBuffer</string>
+	<key>shouldResumeScreen</key>
+	<string>positionedBuffer</string>
+	<key>shouldupdateslash</key>
+	<string>canRestartNavigator</string>
+</dict>
+</plist>

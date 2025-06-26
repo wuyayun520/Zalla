@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitflags</key>
+	<string>pushStateless</string>
+	<key>collectionDensity</key>
+	<string>observerEdge</string>
+	<key>completerlayertransparency</key>
+	<string>visualizeisolate</string>
+	<key>inactiveGridView</key>
+	<string>finishScroll</string>
+	<key>serializefuture</key>
+	<string>inactiveMomentum</string>
+	<key>shouldUpdateBaseline</key>
+	<string>attachRequest</string>
+</dict>
+</plist>

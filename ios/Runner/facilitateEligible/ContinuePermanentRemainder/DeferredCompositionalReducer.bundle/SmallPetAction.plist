@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMode</key>
+	<string>lossWork</string>
+	<key>backwardrectangle</key>
+	<string>spinPosition</string>
+	<key>flexiblemodule</key>
+	<string>canPauseBase</string>
+	<key>fusedAsset</key>
+	<string>captionvelocity</string>
+	<key>normalCache</key>
+	<string>enabledManager</string>
+</dict>
+</plist>

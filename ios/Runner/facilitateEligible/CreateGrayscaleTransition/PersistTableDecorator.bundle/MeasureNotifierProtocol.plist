@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveReducer</key>
+	<string>cupertinoformmargin</string>
+	<key>sessionForce</key>
+	<string>elasticstate</string>
+	<key>shouldDecodeCard</key>
+	<string>opaquebehavior</string>
+	<key>usageleft</key>
+	<string>disablederror</string>
+</dict>
+</plist>

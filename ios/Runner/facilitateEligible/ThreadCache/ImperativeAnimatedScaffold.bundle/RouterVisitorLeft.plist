@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyCoord</key>
+	<string>minContainer</string>
+	<key>iterativeSchema</key>
+	<string>shouldUpdateButton</string>
+	<key>materialmanager</key>
+	<string>prevAllocator</string>
+	<key>mobilecoord</key>
+	<string>writeQueue</string>
+	<key>navigatebehavior</key>
+	<string>streamPadding</string>
+	<key>nextDistinction</key>
+	<string>observeCustomPaint</string>
+	<key>reusablePolyfill</key>
+	<string>intuitiveRouter</string>
+	<key>serviceMargin</key>
+	<string>shaderState</string>
+	<key>shouldMountedMedia</key>
+	<string>combineHash</string>
+</dict>
+</plist>

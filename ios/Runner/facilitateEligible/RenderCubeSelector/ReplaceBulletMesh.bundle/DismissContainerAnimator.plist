@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMode</key>
+	<string>accordionChecklist</string>
+	<key>fixedLocalization</key>
+	<string>canEndStateless</string>
+	<key>missedDistinction</key>
+	<string>cloneContainer</string>
+	<key>shouldEmitMember</key>
+	<string>mobileDispatcher</string>
+	<key>skinamortization</key>
+	<string>mixinmediaquery</string>
+	<key>textureRotation</key>
+	<string>mobileTangent</string>
+	<key>transitionposition</key>
+	<string>textureforce</string>
+</dict>
+</plist>

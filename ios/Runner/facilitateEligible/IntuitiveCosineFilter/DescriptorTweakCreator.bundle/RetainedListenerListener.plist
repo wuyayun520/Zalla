@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenttentative</key>
+	<string>inheritedAnimatedContainer</string>
+	<key>declarativetransformer</key>
+	<string>screenColor</string>
+	<key>directConsumption</key>
+	<string>transformeramongcycle</string>
+	<key>dismisscallback</key>
+	<string>standaloneAllocator</string>
+	<key>logarithmvelocity</key>
+	<string>nodeAppearance</string>
+	<key>materialsegmentcontrast</key>
+	<string>temporaryVideo</string>
+	<key>mergerShade</key>
+	<string>canDeserializeExponent</string>
+	<key>shouldNavigateCollection</key>
+	<string>interactiveTweak</string>
+</dict>
+</plist>

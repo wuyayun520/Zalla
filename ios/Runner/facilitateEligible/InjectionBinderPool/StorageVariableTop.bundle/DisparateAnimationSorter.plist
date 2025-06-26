@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDescent</key>
+	<string>canPrepareView</string>
+	<key>connectexpanded</key>
+	<string>denseModal</string>
+	<key>heroStatus</key>
+	<string>delicateChooser</string>
+	<key>iterativeRole</key>
+	<string>detachFactory</string>
+	<key>pivotalCapacity</key>
+	<string>isolateStyle</string>
+	<key>shouldskipexpanded</key>
+	<string>rebuildGate</string>
+	<key>tickerValidation</key>
+	<string>shouldObserveCache</string>
+</dict>
+</plist>

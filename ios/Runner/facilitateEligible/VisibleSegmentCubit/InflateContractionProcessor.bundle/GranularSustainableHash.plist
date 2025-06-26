@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMenu</key>
+	<string>constraintrestriction</string>
+	<key>compositionalBehavior</key>
+	<string>handleIndicator</string>
+	<key>effectStatus</key>
+	<string>groupnumbertail</string>
+	<key>inheritedChart</key>
+	<string>joinerContrast</string>
+	<key>joinerDelay</key>
+	<string>ternaryAction</string>
+	<key>positionVisibility</key>
+	<string>responsiveThreshold</string>
+	<key>shouldPublishInterpolation</key>
+	<string>activateBuffer</string>
+	<key>subtleCapacity</key>
+	<string>currentThreshold</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTheme</key>
+	<string>desktopSearcher</string>
+	<key>directMechanism</key>
+	<string>stampDelay</string>
+	<key>loadoffset</key>
+	<string>streamAction</string>
+	<key>otherRichText</key>
+	<string>enumerateUseCase</string>
+	<key>temporaryIndicator</key>
+	<string>limitCubit</string>
+</dict>
+</plist>

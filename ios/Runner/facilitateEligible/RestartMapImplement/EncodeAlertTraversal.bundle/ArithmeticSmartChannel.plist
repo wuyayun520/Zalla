@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>recursionkind</key>
+	<string>shouldStreamArithmetic</string>
+	<key>shouldRebuildNavigator</key>
+	<string>detachWorkflow</string>
+	<key>temporaryPermutation</key>
+	<string>chartrate</string>
+	<key>widgetBottom</key>
+	<string>deprecateresult</string>
+</dict>
+</plist>

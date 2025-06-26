@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBound</key>
+	<string>shouldCreateChannels</string>
+	<key>draggableConvolution</key>
+	<string>canSetStateRoute</string>
+	<key>resilientInterpolation</key>
+	<string>previewEdge</string>
+	<key>resizableChannel</key>
+	<string>mediumBinder</string>
+	<key>shouldDecodeExtension</key>
+	<string>skinorcontext</string>
+	<key>unactivatedLayout</key>
+	<string>lastBinder</string>
+</dict>
+</plist>

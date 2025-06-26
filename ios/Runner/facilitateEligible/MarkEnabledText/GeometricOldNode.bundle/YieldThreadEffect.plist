@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeThroughput</key>
+	<string>offsetTween</string>
+	<key>filterSpeed</key>
+	<string>ignoredTitle</string>
+	<key>globalTimeline</key>
+	<string>gridComposite</string>
+	<key>grayscaleHead</key>
+	<string>collectionMargin</string>
+	<key>lastviewopacity</key>
+	<string>subtletabview</string>
+	<key>localCapacities</key>
+	<string>reduceChannel</string>
+	<key>staticsubscription</key>
+	<string>bindMediaQuery</string>
+</dict>
+</plist>

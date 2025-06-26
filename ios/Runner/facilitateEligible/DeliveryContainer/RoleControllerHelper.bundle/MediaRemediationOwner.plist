@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorbottom</key>
+	<string>directPreview</string>
+	<key>delegateawaystage</key>
+	<string>staticScaffold</string>
+	<key>discardedFlex</key>
+	<string>connectcompletion</string>
+	<key>shouldEmitCube</key>
+	<string>eagerTimeline</string>
+	<key>shouldUpdateStateless</key>
+	<string>remediationAlignment</string>
+	<key>symbolflags</key>
+	<string>permissivetouchdensity</string>
+	<key>tableCount</key>
+	<string>emitChapter</string>
+</dict>
+</plist>

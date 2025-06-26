@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularWidget</key>
+	<string>integerValue</string>
+	<key>inactiveAmortization</key>
+	<string>canPauseTheme</string>
+	<key>requiredMomentum</key>
+	<string>temporaryThreshold</string>
+	<key>shouldParseTextField</key>
+	<string>shouldpushindicator</string>
+	<key>shouldPresentCatalyst</key>
+	<string>largemobilestatus</string>
+	<key>shouldRenderAlert</key>
+	<string>evaluatematerial</string>
+	<key>subsequentObject</key>
+	<string>cachewithpattern</string>
+</dict>
+</plist>

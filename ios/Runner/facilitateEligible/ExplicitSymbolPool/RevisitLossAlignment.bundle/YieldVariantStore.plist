@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVisibility</key>
+	<string>handlerValue</string>
+	<key>difficultReducer</key>
+	<string>significantInfo</string>
+	<key>ignoredTheme</key>
+	<string>buildSpot</string>
+	<key>mutableLayer</key>
+	<string>canDetachConsumer</string>
+	<key>permanentListView</key>
+	<string>canMountedLabel</string>
+	<key>requirednavigation</key>
+	<string>graindelay</string>
+	<key>shouldNotifyCoordinator</key>
+	<string>mediaqueryCoord</string>
+	<key>unactivatedSkirt</key>
+	<string>yieldFlex</string>
+</dict>
+</plist>

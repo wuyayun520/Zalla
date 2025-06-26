@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChart</key>
+	<string>mediocreStorage</string>
+	<key>binaryloader</key>
+	<string>monsterFeedback</string>
+	<key>chapternumberleft</key>
+	<string>binaryspeed</string>
+	<key>flexInteraction</key>
+	<string>robustStoryboard</string>
+	<key>globalEquipment</key>
+	<string>sophisticatedScope</string>
+	<key>materializerBound</key>
+	<string>marginbesidevalue</string>
+	<key>opaquepadding</key>
+	<string>persistentTextField</string>
+	<key>shouldConnectMedia</key>
+	<string>streamColumn</string>
+</dict>
+</plist>

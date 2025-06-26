@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutuntilenvironment</key>
+	<string>mergerDensity</string>
+	<key>notifycard</key>
+	<string>dialogsColor</string>
+	<key>shouldPrepareNavigator</key>
+	<string>geometricBoxShadow</string>
+	<key>sortedAsset</key>
+	<string>smartArchitecture</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTernary</key>
+	<string>denseInformation</string>
+	<key>desktopslidertop</key>
+	<string>arithmeticNavigator</string>
+	<key>elasticityVisible</key>
+	<string>protectedMetrics</string>
+	<key>independentDrawer</key>
+	<string>aspectratiocontainshape</string>
+	<key>layoutscenario</key>
+	<string>nextCluster</string>
+	<key>mutableProtocol</key>
+	<string>animatedGrid</string>
+	<key>resilientSubpixel</key>
+	<string>alphaCycle</string>
+	<key>uniformSkin</key>
+	<string>pointpadding</string>
+</dict>
+</plist>

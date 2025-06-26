@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMonster</key>
+	<string>zoneProcess</string>
+	<key>greatKernel</key>
+	<string>cancelTheme</string>
+	<key>hierarchicalBehavior</key>
+	<string>shouldListenComposition</string>
+	<key>otherItem</key>
+	<string>animateContraction</string>
+	<key>positionbrightness</key>
+	<string>subsequentoperationbrightness</string>
+	<key>protectedInkWell</key>
+	<string>transpileParticle</string>
+	<key>reactiveResource</key>
+	<string>statefulSchema</string>
+	<key>shouldDeserializeBloc</key>
+	<string>persistGrayscale</string>
+	<key>subtleInteractor</key>
+	<string>sinkagainsttype</string>
+	<key>tappableAnalogy</key>
+	<string>controllerActivity</string>
+</dict>
+</plist>

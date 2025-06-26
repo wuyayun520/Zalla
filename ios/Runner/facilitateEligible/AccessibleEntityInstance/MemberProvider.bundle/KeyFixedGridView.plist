@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeConsumer</key>
+	<string>shouldFinishSizedBox</string>
+	<key>dedicatedQueue</key>
+	<string>orchestrateLayout</string>
+	<key>gateMode</key>
+	<string>buildIcon</string>
+	<key>optimizerinteraction</key>
+	<string>canContinueProject</string>
+	<key>restartcycle</key>
+	<string>backwardMetadata</string>
+	<key>smartAmortization</key>
+	<string>sizeSkewY</string>
+	<key>sustainableChallenge</key>
+	<string>vectorizeSubscription</string>
+	<key>swiftnumberscale</key>
+	<string>disabledArchitecture</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTension</key>
+	<string>mapperDensity</string>
+	<key>directlyCoordinator</key>
+	<string>diffableshader</string>
+	<key>elasticsymbol</key>
+	<string>lifecycleScale</string>
+	<key>inheritedCanvas</key>
+	<string>commonfragmentindex</string>
+	<key>layerOpacity</key>
+	<string>widgetDelay</string>
+	<key>numericalevolution</key>
+	<string>canDismissStateless</string>
+	<key>radiusBottom</key>
+	<string>opaqueState</string>
+	<key>scrollInteraction</key>
+	<string>diffableAnimation</string>
+</dict>
+</plist>

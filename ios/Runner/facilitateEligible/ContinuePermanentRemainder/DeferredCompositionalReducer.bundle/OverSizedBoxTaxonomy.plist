@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metricsinterval</key>
+	<string>shouldSaveLabel</string>
+	<key>modulusDepth</key>
+	<string>keyReliability</string>
+	<key>optionMargin</key>
+	<string>chartDecorator</string>
+	<key>resiliencedirection</key>
+	<string>canBuildContraction</string>
+	<key>tensorLogarithm</key>
+	<string>canResumeGradient</string>
+</dict>
+</plist>

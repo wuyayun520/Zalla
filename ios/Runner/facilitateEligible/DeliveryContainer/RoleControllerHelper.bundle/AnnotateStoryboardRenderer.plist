@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveAnimator</key>
+	<string>notifyException</string>
+	<key>notifiersingleton</key>
+	<string>shouldPopBuilder</string>
+	<key>observechannels</key>
+	<string>showCertificate</string>
+	<key>positionedtrajectory</key>
+	<string>multiBorder</string>
+	<key>retainedArchitecture</key>
+	<string>largeMerger</string>
+	<key>shouldUnbindSpine</key>
+	<string>unsortedDistinction</string>
+	<key>sophisticatedNorm</key>
+	<string>canRebuildSign</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentresultshade</key>
+	<string>chartSpacing</string>
+	<key>cycleVisible</key>
+	<string>intuitiveGesture</string>
+	<key>difficultTentative</key>
+	<string>dataPressure</string>
+	<key>interactiveScenario</key>
+	<string>rebuildchart</string>
+	<key>intuitiveevent</key>
+	<string>resumeInstruction</string>
+	<key>reusableSignature</key>
+	<string>slashProcess</string>
+	<key>shouldPersistTool</key>
+	<string>shouldSetStateHero</string>
+	<key>tabbarinteraction</key>
+	<string>smallResponse</string>
+	<key>videoSpacing</key>
+	<string>difficultBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSwift</key>
+	<string>createLogarithm</string>
+	<key>elasticityColor</key>
+	<string>unmarshalTransition</string>
+	<key>elementFormat</key>
+	<string>playTransformer</string>
+	<key>granularLatency</key>
+	<string>unregisterError</string>
+	<key>managerForce</key>
+	<string>priorUseCase</string>
+	<key>multiRemediation</key>
+	<string>defaultMomentum</string>
+	<key>shouldYieldMaster</key>
+	<string>adaptiveEvaluation</string>
+</dict>
+</plist>

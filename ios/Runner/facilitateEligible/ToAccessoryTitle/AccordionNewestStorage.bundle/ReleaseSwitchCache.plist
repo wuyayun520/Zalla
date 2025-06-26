@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrientation</key>
+	<string>resolveEvent</string>
+	<key>draggableDetail</key>
+	<string>convolutionPosition</string>
+	<key>easyhandlertag</key>
+	<string>lostResponse</string>
+	<key>functionalFinder</key>
+	<string>animationinterval</string>
+	<key>functionalOperation</key>
+	<string>persistentBinary</string>
+	<key>impactHue</key>
+	<string>builderAlignment</string>
+	<key>invisibleTexture</key>
+	<string>trianglesDensity</string>
+	<key>masterInset</key>
+	<string>schedulerLocation</string>
+	<key>repositoryspeed</key>
+	<string>particleCoord</string>
+</dict>
+</plist>

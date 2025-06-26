@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureState</key>
+	<string>canPublishChecklist</string>
+	<key>capsulemementoindex</key>
+	<string>keepRole</string>
+	<key>consultativeTolerance</key>
+	<string>rangeSpacing</string>
+	<key>consumerSpeed</key>
+	<string>defaultbox</string>
+	<key>efficiencycount</key>
+	<string>hierarchicalSizedBox</string>
+	<key>handlesink</key>
+	<string>cubeStage</string>
+	<key>initializecheckbox</key>
+	<string>processCard</string>
+	<key>lostGram</key>
+	<string>resizableAnimation</string>
+	<key>reactiveInterpolation</key>
+	<string>canDismissPainter</string>
+	<key>shouldAttachTabView</key>
+	<string>gateStructure</string>
+</dict>
+</plist>

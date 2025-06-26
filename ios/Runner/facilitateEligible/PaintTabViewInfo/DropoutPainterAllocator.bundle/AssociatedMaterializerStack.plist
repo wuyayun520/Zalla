@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSaturation</key>
+	<string>shouldstoptransition</string>
+	<key>ephemeralFilter</key>
+	<string>popcosine</string>
+	<key>finishservice</key>
+	<string>explicitUtil</string>
+	<key>globalintensity</key>
+	<string>scrollableinteraction</string>
+	<key>originalPromise</key>
+	<string>standaloneCreator</string>
+	<key>permissiveservicevisible</key>
+	<string>interactorMargin</string>
+</dict>
+</plist>

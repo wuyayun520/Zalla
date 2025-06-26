@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCenter</key>
+	<string>featureVisible</string>
+	<key>controllereffect</key>
+	<string>polygonEdge</string>
+	<key>diffableEquipment</key>
+	<string>serviceformat</string>
+	<key>navigationdirection</key>
+	<string>invisibleCharacter</string>
+	<key>oldCursor</key>
+	<string>sessionCoord</string>
+	<key>resilientMaterial</key>
+	<string>shouldStreamBinary</string>
+	<key>shouldStreamDropdownButton</key>
+	<string>embraceChannel</string>
+	<key>substantialCombiner</key>
+	<string>constructSink</string>
+	<key>unactivatedConsumer</key>
+	<string>canInflateCard</string>
+</dict>
+</plist>

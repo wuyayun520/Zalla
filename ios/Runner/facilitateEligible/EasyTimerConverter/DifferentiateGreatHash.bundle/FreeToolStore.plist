@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMediaQuery</key>
+	<string>lossPressure</string>
+	<key>deferredState</key>
+	<string>discardedcursorbehavior</string>
+	<key>factoryTail</key>
+	<string>canLoadCard</string>
+	<key>pivotalResponder</key>
+	<string>unmountLogarithm</string>
+	<key>plateContrast</key>
+	<string>activeTopic</string>
+	<key>requiredSorter</key>
+	<string>capsuleOpacity</string>
+	<key>shouldCancelEntropy</key>
+	<string>shouldShowPositioned</string>
+	<key>shouldPauseNib</key>
+	<string>webMultiplication</string>
+	<key>shoulddispatchequalization</key>
+	<string>decoupleTimer</string>
+	<key>unaryPosition</key>
+	<string>canPersistBinary</string>
+</dict>
+</plist>

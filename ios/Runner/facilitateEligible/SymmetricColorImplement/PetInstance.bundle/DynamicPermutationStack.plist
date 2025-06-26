@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSkewX</key>
+	<string>deployUtil</string>
+	<key>characterevent</key>
+	<string>singletextfieldshape</string>
+	<key>directHero</key>
+	<string>canStopChallenge</string>
+	<key>dynamicChallenge</key>
+	<string>skinTheme</string>
+	<key>positionedappearance</key>
+	<string>stampSpacing</string>
+	<key>servicesorter</key>
+	<string>subtleScroller</string>
+	<key>shouldDeserializeMusic</key>
+	<string>durationtraversal</string>
+	<key>sortedbulletshape</key>
+	<string>animationStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVisible</key>
+	<string>shouldPublishTernary</string>
+	<key>converterBottom</key>
+	<string>mapbesidelevel</string>
+	<key>keyLog</key>
+	<string>resilientMetrics</string>
+	<key>scenelifecycle</key>
+	<string>wrapLayout</string>
+	<key>shouldListenGestureDetector</key>
+	<string>responsiveInstruction</string>
+	<key>shouldendtouch</key>
+	<string>swiftBehavior</string>
+	<key>visiblemobile</key>
+	<string>impressiondirection</string>
+</dict>
+</plist>

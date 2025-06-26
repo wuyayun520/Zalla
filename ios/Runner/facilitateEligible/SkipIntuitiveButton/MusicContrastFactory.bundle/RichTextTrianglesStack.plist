@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBorder</key>
+	<string>canPopModal</string>
+	<key>desktopUseCase</key>
+	<string>shouldNotifyLog</string>
+	<key>detachstorage</key>
+	<string>tangentMemento</string>
+	<key>hierarchicalInstruction</key>
+	<string>canPublishSegue</string>
+	<key>positionedHead</key>
+	<string>methodStyle</string>
+	<key>pushresponse</key>
+	<string>skipcallback</string>
+	<key>quaternionDirection</key>
+	<string>basicGrid</string>
+	<key>sequentialConsumption</key>
+	<string>enabledCharacteristic</string>
+</dict>
+</plist>

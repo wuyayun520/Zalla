@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedNib</key>
+	<string>eventOffset</string>
+	<key>keyAlert</key>
+	<string>shouldPushLog</string>
+	<key>layoutunary</key>
+	<string>configureFactory</string>
+	<key>mainIcon</key>
+	<string>equipmentDepth</string>
+	<key>mediocreDispatcher</key>
+	<string>shouldAttachMaterial</string>
+	<key>missedNotifier</key>
+	<string>equalizationParameter</string>
+	<key>originalInterpolation</key>
+	<string>shouldBuildModal</string>
+	<key>shouldbindstep</key>
+	<string>specifyImpact</string>
+	<key>uniformAwait</key>
+	<string>visibleShader</string>
+</dict>
+</plist>

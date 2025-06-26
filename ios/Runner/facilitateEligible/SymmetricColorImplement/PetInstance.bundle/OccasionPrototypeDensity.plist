@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPressure</key>
+	<string>enumerateIntensity</string>
+	<key>draggableComponent</key>
+	<string>observeStack</string>
+	<key>mediumTicker</key>
+	<string>sortedModel</string>
+	<key>primarymodulus</key>
+	<string>setstateFlex</string>
+	<key>tappableTween</key>
+	<string>shouldConnectBuilder</string>
+</dict>
+</plist>

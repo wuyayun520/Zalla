@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEmitter</key>
+	<string>rapidSpine</string>
+	<key>basicBinder</key>
+	<string>threadScale</string>
+	<key>dynamicStatus</key>
+	<string>animatedEvaluation</string>
+	<key>imageedge</key>
+	<string>mendFormat</string>
+	<key>medianeartask</key>
+	<string>tabbarParam</string>
+	<key>providegram</key>
+	<string>associatedFactory</string>
+	<key>shouldfetchaspect</key>
+	<string>modelsingletontheme</string>
+	<key>spineOrientation</key>
+	<string>dataName</string>
+</dict>
+</plist>

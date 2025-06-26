@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintframeworkfeedback</key>
+	<string>inflateSpot</string>
+	<key>indicatorValidation</key>
+	<string>hashforce</string>
+	<key>largeSplitter</key>
+	<string>custompaintDirection</string>
+	<key>shouldObserveTangent</key>
+	<string>bindPriority</string>
+	<key>similarDescription</key>
+	<string>asynchronousConstant</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicOrigin</key>
+	<string>cartesianDocument</string>
+	<key>emitterDepth</key>
+	<string>featureMargin</string>
+	<key>errorDirection</key>
+	<string>widgetStatus</string>
+	<key>otherTimeline</key>
+	<string>sampleOrientation</string>
+	<key>resizableGesture</key>
+	<string>pivotalSwitch</string>
+	<key>shouldDisposeAspect</key>
+	<string>pointrectangle</string>
+	<key>shouldpresentcolumn</key>
+	<string>confidentialityAppearance</string>
+	<key>storeconsumption</key>
+	<string>dedicatedCatalyst</string>
+</dict>
+</plist>

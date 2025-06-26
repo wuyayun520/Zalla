@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveExpanded</key>
+	<string>delegateinsideflyweight</string>
+	<key>numericalGrayscale</key>
+	<string>loadCoordinator</string>
+	<key>otherInteger</key>
+	<string>modaldrawer</string>
+	<key>shouldPersistWorkflow</key>
+	<string>futurecenter</string>
+	<key>shouldSerializeScreen</key>
+	<string>deployIntensity</string>
+	<key>touchcenter</key>
+	<string>spriteFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkpageview</key>
+	<string>marshalsink</string>
+	<key>flexibleStateless</key>
+	<string>showCard</string>
+	<key>imperativeHandler</key>
+	<string>displayableDescent</string>
+	<key>requiredPager</key>
+	<string>gridKind</string>
+	<key>resolverIndex</key>
+	<string>autoMatrix</string>
+	<key>routerRight</key>
+	<string>popNorm</string>
+	<key>serviceBorder</key>
+	<string>radioSingleton</string>
+	<key>substantialFactory</key>
+	<string>shouldTrainRoute</string>
+	<key>widgetright</key>
+	<string>topicMomentum</string>
+</dict>
+</plist>

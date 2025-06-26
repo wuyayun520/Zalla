@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredExpanded</key>
+	<string>iconStyle</string>
+	<key>normalLoop</key>
+	<string>smallStack</string>
+	<key>reactiveaction</key>
+	<string>initializeController</string>
+	<key>seguespeed</key>
+	<string>publisherInteraction</string>
+	<key>setstatecard</key>
+	<string>finishProject</string>
+	<key>shouldsubscribepromise</key>
+	<string>publishProject</string>
+	<key>skincurve</key>
+	<string>entityjoiner</string>
+</dict>
+</plist>

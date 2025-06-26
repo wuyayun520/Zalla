@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonlayout</key>
+	<string>seguenumberhue</string>
+	<key>functionalThroughput</key>
+	<string>secondRadius</string>
+	<key>graphicDirection</key>
+	<string>provisionSkewY</string>
+	<key>isternary</key>
+	<string>protectedSplitter</string>
+	<key>lastListView</key>
+	<string>numericalTitle</string>
+	<key>navigationAlignment</key>
+	<string>canSerializeLoss</string>
+	<key>publicMovement</key>
+	<string>resilientListener</string>
+	<key>shouldBindDrawer</key>
+	<string>appbarLeft</string>
+	<key>smartMenu</key>
+	<string>keepCupertino</string>
+</dict>
+</plist>

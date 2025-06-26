@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationSpeed</key>
+	<string>iconScale</string>
+	<key>consultativeSign</key>
+	<string>typicalStream</string>
+	<key>contractionname</key>
+	<string>navigateProgressBar</string>
+	<key>discardedlistview</key>
+	<string>scaleDelay</string>
+	<key>imageName</key>
+	<string>semanticTrajectory</string>
+	<key>originalCursor</key>
+	<string>subsequentNotation</string>
+	<key>shouldBindActivity</key>
+	<string>materializerPadding</string>
+	<key>sizenotation</key>
+	<string>uniformExtension</string>
+	<key>uniformMonster</key>
+	<string>retainedView</string>
+</dict>
+</plist>

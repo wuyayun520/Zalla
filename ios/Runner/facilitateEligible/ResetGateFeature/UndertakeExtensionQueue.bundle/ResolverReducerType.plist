@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurelayerdistance</key>
+	<string>writeException</string>
+	<key>oldHeap</key>
+	<string>deactivateDelegate</string>
+	<key>specifyDetail</key>
+	<string>statelessInterface</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitySize</key>
+	<string>richtextposition</string>
+	<key>cartesianClipper</key>
+	<string>canRebuildRow</string>
+	<key>enabledPicker</key>
+	<string>refreshText</string>
+	<key>inheritedCube</key>
+	<string>eraseGrid</string>
+	<key>momentumSkewY</key>
+	<string>lastDimension</string>
+	<key>shouldPushProtocol</key>
+	<string>stateTint</string>
+	<key>shouldTransitionColumn</key>
+	<string>canRouteCoordinator</string>
+	<key>similarremediation</key>
+	<string>performInterface</string>
+	<key>visibleCycle</key>
+	<string>apertureShape</string>
+</dict>
+</plist>

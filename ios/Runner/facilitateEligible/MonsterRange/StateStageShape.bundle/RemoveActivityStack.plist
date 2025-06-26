@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackHue</key>
+	<string>showTextField</string>
+	<key>capsuleoffset</key>
+	<string>groupFacade</string>
+	<key>cosineFlags</key>
+	<string>regulateCurve</string>
+	<key>descriptorRight</key>
+	<string>globalSink</string>
+	<key>functionalTrigger</key>
+	<string>canStartSymbol</string>
+	<key>iterativeBehavior</key>
+	<string>respectiveTolerance</string>
+	<key>shouldDecodeController</key>
+	<string>ephemeralCollection</string>
+</dict>
+</plist>

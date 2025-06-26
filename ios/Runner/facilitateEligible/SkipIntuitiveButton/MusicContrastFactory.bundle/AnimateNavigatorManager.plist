@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuexceptmethod</key>
+	<string>localizationStrategy</string>
+	<key>shouldConnectTouch</key>
+	<string>popupRotation</string>
+	<key>shouldInflateCapacities</key>
+	<string>compositionoffset</string>
+	<key>shouldParseCoordinator</key>
+	<string>mainTentative</string>
+	<key>shouldProcessCurve</key>
+	<string>consumptionScale</string>
+	<key>shouldTrainModulus</key>
+	<string>shouldCancelInkWell</string>
+	<key>shouldUnmountStack</key>
+	<string>shearQueue</string>
+	<key>spotorigin</key>
+	<string>transformBehavior</string>
+	<key>typicalExpanded</key>
+	<string>dismissUsage</string>
+</dict>
+</plist>

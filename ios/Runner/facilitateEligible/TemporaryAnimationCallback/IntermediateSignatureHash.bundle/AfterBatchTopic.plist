@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentflags</key>
+	<string>canHandleGridView</string>
+	<key>animatedscaffold</key>
+	<string>navigatethread</string>
+	<key>compositionalError</key>
+	<string>concurrentDispatcher</string>
+	<key>delicateAction</key>
+	<string>notifierRate</string>
+	<key>intuitiveAlert</key>
+	<string>diversifiedScene</string>
+	<key>semanticExpanded</key>
+	<string>iterativeEquivalent</string>
+</dict>
+</plist>

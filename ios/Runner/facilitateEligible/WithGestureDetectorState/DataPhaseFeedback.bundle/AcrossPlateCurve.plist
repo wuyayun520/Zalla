@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotategradient</key>
+	<string>shouldSaveCard</string>
+	<key>associatedTouch</key>
+	<string>smallConsumption</string>
+	<key>clipperMode</key>
+	<string>decorationHue</string>
+	<key>conformparticle</key>
+	<string>bindConvolution</string>
+	<key>groupFrequency</key>
+	<string>coordinatortierstate</string>
+	<key>handlerFeedback</key>
+	<string>bundleRect</string>
+	<key>imperativetitleoffset</key>
+	<string>pushPageView</string>
+	<key>instantiatebuilder</key>
+	<string>litestream</string>
+	<key>rapidRemediation</key>
+	<string>resizableSlider</string>
+</dict>
+</plist>

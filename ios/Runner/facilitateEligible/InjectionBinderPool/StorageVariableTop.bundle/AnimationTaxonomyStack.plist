@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediategrayscalecount</key>
+	<string>onfragmenttap</string>
+	<key>interactiveRestriction</key>
+	<string>interfaceShade</string>
+	<key>latencyPadding</key>
+	<string>specifyScaffold</string>
+	<key>missedutiloffset</key>
+	<string>hasbatch</string>
+	<key>mutableIntegrity</key>
+	<string>delicateImage</string>
+	<key>providervisibility</key>
+	<string>moduleTail</string>
+	<key>uniqueLabel</key>
+	<string>listviewCoord</string>
+</dict>
+</plist>

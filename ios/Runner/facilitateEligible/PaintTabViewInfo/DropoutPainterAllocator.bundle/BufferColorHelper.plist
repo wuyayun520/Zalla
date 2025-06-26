@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>latencyTop</key>
+	<string>canBuildEquipment</string>
+	<key>opaquestoryboardkind</key>
+	<string>fragmentDuration</string>
+	<key>resilientPainter</key>
+	<string>occasionfeedback</string>
+	<key>selectedsizedbox</key>
+	<string>canNavigateModal</string>
+	<key>shouldLayoutDocument</key>
+	<string>cartesianDetector</string>
+	<key>transitionshape</key>
+	<string>granularMatrix</string>
+	<key>webAnimator</key>
+	<string>channeltension</string>
+</dict>
+</plist>

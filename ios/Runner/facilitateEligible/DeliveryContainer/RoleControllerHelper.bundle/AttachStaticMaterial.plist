@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeDistance</key>
+	<string>draggableChecklist</string>
+	<key>hardAccessory</key>
+	<string>ternaryCoord</string>
+	<key>hardCoordinator</key>
+	<string>invisibleStack</string>
+	<key>immediateCache</key>
+	<string>unlockStorage</string>
+	<key>inkwellOffset</key>
+	<string>respectiveButton</string>
+	<key>lazyScene</key>
+	<string>vertexrotation</string>
+	<key>secondChecklist</key>
+	<string>toolCycle</string>
+	<key>shouldSubscribeMediaQuery</key>
+	<string>geometricCheckbox</string>
+	<key>shoulddisconnectplayback</key>
+	<string>reactiveParticle</string>
+	<key>symmetricTabBar</key>
+	<string>shouldDismissClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlignment</key>
+	<string>skipTask</string>
+	<key>canvasright</key>
+	<string>specifierScale</string>
+	<key>coordinatorarchitecture</key>
+	<string>sharedtimer</string>
+	<key>cursorOffset</key>
+	<string>deployPosition</string>
+	<key>directcubitdirection</key>
+	<string>logBottom</string>
+	<key>liteEmitter</key>
+	<string>embracePresenter</string>
+	<key>managervalidation</key>
+	<string>allocatorLayer</string>
+	<key>metadataDirection</key>
+	<string>navigationInterpreter</string>
+	<key>otherElement</key>
+	<string>itemSaturation</string>
+	<key>shouldEndTool</key>
+	<string>selectorEdge</string>
+</dict>
+</plist>

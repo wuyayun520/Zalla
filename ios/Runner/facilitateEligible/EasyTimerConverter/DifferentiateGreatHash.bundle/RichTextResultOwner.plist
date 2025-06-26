@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTheme</key>
+	<string>accessibleRow</string>
+	<key>instantiateinjection</key>
+	<string>mapPressure</string>
+	<key>interfaceimage</key>
+	<string>petdescent</string>
+	<key>mediumBullet</key>
+	<string>advancedgraph</string>
+	<key>publisherTag</key>
+	<string>deprecateLocalization</string>
+	<key>segueview</key>
+	<string>expandedvisibility</string>
+</dict>
+</plist>

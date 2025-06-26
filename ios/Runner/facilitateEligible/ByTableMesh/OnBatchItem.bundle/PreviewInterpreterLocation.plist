@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralStorage</key>
+	<string>canAnimateReduction</string>
+	<key>formatbehavior</key>
+	<string>globalOptimizer</string>
+	<key>gesturedetectorMargin</key>
+	<string>canAttachOperation</string>
+	<key>labelcount</key>
+	<string>reliabilityDuration</string>
+	<key>pushalignment</key>
+	<string>resourceOrientation</string>
+	<key>tabbarfeedback</key>
+	<string>largePainter</string>
+</dict>
+</plist>

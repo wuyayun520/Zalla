@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLabel</key>
+	<string>capacitiesprogressbar</string>
+	<key>dimensionOrigin</key>
+	<string>quitStore</string>
+	<key>eagerBatch</key>
+	<string>movementVisibility</string>
+	<key>lostAspect</key>
+	<string>consumerFlags</string>
+	<key>retainedArithmetic</key>
+	<string>embraceConfiguration</string>
+	<key>shouldDeserializeWidget</key>
+	<string>gradientTask</string>
+</dict>
+</plist>

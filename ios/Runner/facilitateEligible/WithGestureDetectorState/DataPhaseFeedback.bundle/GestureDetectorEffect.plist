@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResult</key>
+	<string>immediateBinary</string>
+	<key>autoTime</key>
+	<string>functionalAwait</string>
+	<key>conformbaseline</key>
+	<string>multiplyListener</string>
+	<key>connectorBound</key>
+	<string>analyzeTransition</string>
+	<key>constantType</key>
+	<string>intermediateUnary</string>
+	<key>dividechallenge</key>
+	<string>respectiveRecursion</string>
+	<key>normalRenderer</key>
+	<string>temporaryTweak</string>
+	<key>prevHero</key>
+	<string>conformMetadata</string>
+	<key>seguescenario</key>
+	<string>opaqueButton</string>
+	<key>tentativeAcceleration</key>
+	<string>curvetransition</string>
+</dict>
+</plist>

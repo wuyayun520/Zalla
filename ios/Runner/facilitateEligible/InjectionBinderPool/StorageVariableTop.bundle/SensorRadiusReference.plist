@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationLocation</key>
+	<string>shouldPersistWidget</string>
+	<key>beginnerNotation</key>
+	<string>entityVisitor</string>
+	<key>presentmaster</key>
+	<string>interactorState</string>
+	<key>prismaticmetadata</key>
+	<string>semanticEvolution</string>
+	<key>rapidfinder</key>
+	<string>shouldtransformgesture</string>
+	<key>shouldCacheRemainder</key>
+	<string>shouldcanceloptimizer</string>
+	<key>significantTopic</key>
+	<string>audioOpacity</string>
+	<key>unsortedGradient</key>
+	<string>completerState</string>
+</dict>
+</plist>

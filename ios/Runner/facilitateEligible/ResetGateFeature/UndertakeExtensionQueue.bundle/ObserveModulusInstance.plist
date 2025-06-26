@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupledependency</key>
+	<string>localMargin</string>
+	<key>gesturescale</key>
+	<string>touchTimer</string>
+	<key>intensityAcceleration</key>
+	<string>multiProvider</string>
+	<key>primaryCustomPaint</key>
+	<string>viewthroughput</string>
+	<key>reliabilityInset</key>
+	<string>moduleSpacing</string>
+	<key>shouldInflateSegue</key>
+	<string>hasPlate</string>
+	<key>shouldRouteTernary</key>
+	<string>backwardReceiver</string>
+	<key>themeOffset</key>
+	<string>ismonster</string>
+	<key>visibleAccessory</key>
+	<string>storeMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeBitrate</key>
+	<string>trajectorySpacing</string>
+	<key>delicatePoint</key>
+	<string>throughputOrientation</string>
+	<key>gesturedetectorResponse</key>
+	<string>maxCapsule</string>
+	<key>lazyShape</key>
+	<string>decoupleHash</string>
+	<key>pickerFormat</key>
+	<string>visibleCapsule</string>
+	<key>resilientTabBar</key>
+	<string>encodeCompletion</string>
+	<key>storemodel</key>
+	<string>resetIntensity</string>
+</dict>
+</plist>

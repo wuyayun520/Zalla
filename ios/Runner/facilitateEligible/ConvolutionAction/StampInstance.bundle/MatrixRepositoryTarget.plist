@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureoperation</key>
+	<string>explicitTime</string>
+	<key>characterType</key>
+	<string>processChallenge</string>
+	<key>mainShader</key>
+	<string>strokeBrightness</string>
+	<key>nodecontextdirection</key>
+	<string>detachGradient</string>
+	<key>normdelegate</key>
+	<string>dynamicScheduler</string>
+	<key>rapidWorkflow</key>
+	<string>pivotalScheduler</string>
+	<key>shouldPersistNorm</key>
+	<string>euclideanDrawer</string>
+	<key>staticCapacities</key>
+	<string>utilopacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSpeed</key>
+	<string>endSwift</string>
+	<key>commonHandler</key>
+	<string>ephemeralBox</string>
+	<key>displayableAnalogy</key>
+	<string>resilientgrayscaleborder</string>
+	<key>futureTransparency</key>
+	<string>brushState</string>
+	<key>joinerMomentum</key>
+	<string>pivotalTrajectory</string>
+	<key>splitterSize</key>
+	<string>selectednavigation</string>
+	<key>symmetricPriority</key>
+	<string>sampleSystem</string>
+	<key>uniqueCard</key>
+	<string>hasoverlay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatesaturation</key>
+	<string>buildchecklist</string>
+	<key>concurrentStore</key>
+	<string>missedTask</string>
+	<key>exceptionflyweighttop</key>
+	<string>blocagainstinterpreter</string>
+	<key>keyFilter</key>
+	<string>recursionMode</string>
+	<key>shouldCreateGridView</key>
+	<string>quitLocalization</string>
+	<key>sizedboxAppearance</key>
+	<string>infoBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedService</key>
+	<string>oldResource</string>
+	<key>densedescriptionbehavior</key>
+	<string>canObserveGridView</string>
+	<key>fusedconstant</key>
+	<string>mountPlate</string>
+	<key>mobileasbridge</key>
+	<string>containerforbridge</string>
+	<key>multiTouch</key>
+	<string>matrixnumberdensity</string>
+	<key>stateresponder</key>
+	<string>listenSubscription</string>
+	<key>substantialAnalyzer</key>
+	<string>intermediateText</string>
+	<key>subtleSensor</key>
+	<string>directlyOffset</string>
+	<key>transitioninterval</key>
+	<string>activatedKernel</string>
+</dict>
+</plist>

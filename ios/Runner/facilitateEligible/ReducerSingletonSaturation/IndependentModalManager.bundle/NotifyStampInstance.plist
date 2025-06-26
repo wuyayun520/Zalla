@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRestriction</key>
+	<string>containervisible</string>
+	<key>difficultInjection</key>
+	<string>associatedsizedboxdepth</string>
+	<key>mainSlider</key>
+	<string>integrityPadding</string>
+	<key>playcache</key>
+	<string>resumeAnchor</string>
+	<key>shouldrestartworkflow</key>
+	<string>canCachePainter</string>
+</dict>
+</plist>

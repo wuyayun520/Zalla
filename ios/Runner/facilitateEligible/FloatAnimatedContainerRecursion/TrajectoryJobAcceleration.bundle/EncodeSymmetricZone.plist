@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCoordinator</key>
+	<string>impactName</string>
+	<key>pointVelocity</key>
+	<string>canUnmountedMaster</string>
+	<key>prevTolerance</key>
+	<string>receiveLabel</string>
+	<key>protectedproviderinteraction</key>
+	<string>interfaceCount</string>
+	<key>renderdescription</key>
+	<string>numericalduration</string>
+	<key>rolesingleton</key>
+	<string>listenChapter</string>
+	<key>shouldPopCell</key>
+	<string>otherResponse</string>
+</dict>
+</plist>

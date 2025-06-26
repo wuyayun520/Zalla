@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFragment</key>
+	<string>sizedboxScale</string>
+	<key>greatImpact</key>
+	<string>canTransformMovement</string>
+	<key>mergerState</key>
+	<string>shouldPaintExtension</string>
+	<key>shouldParseInteger</key>
+	<string>interactiveInjection</string>
+</dict>
+</plist>

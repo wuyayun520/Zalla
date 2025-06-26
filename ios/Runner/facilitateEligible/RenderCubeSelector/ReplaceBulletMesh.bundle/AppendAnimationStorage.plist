@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantScale</key>
+	<string>resultthanoperation</string>
+	<key>consultativedisclaimer</key>
+	<string>fetchTable</string>
+	<key>distinctionShape</key>
+	<string>gramOpacity</string>
+	<key>keeplistener</key>
+	<string>canSaveVariant</string>
+	<key>pushcard</key>
+	<string>textstatus</string>
+	<key>shouldMountTheme</key>
+	<string>selectedLayout</string>
+	<key>ternaryDepth</key>
+	<string>chartKind</string>
+</dict>
+</plist>

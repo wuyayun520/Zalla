@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletlistener</key>
+	<string>webCharacter</string>
+	<key>certificateHead</key>
+	<string>missedUsage</string>
+	<key>detailFrequency</key>
+	<string>publicTouch</string>
+	<key>ignoredListener</key>
+	<string>priorityCommand</string>
+	<key>intuitiveLoss</key>
+	<string>tensorObject</string>
+	<key>standaloneBuilder</key>
+	<string>substantialAxis</string>
+	<key>trajectorydistance</key>
+	<string>granularDispatcher</string>
+</dict>
+</plist>

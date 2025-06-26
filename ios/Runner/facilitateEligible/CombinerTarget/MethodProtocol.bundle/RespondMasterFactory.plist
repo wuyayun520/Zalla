@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetolerance</key>
+	<string>presenterSpeed</string>
+	<key>immutableloader</key>
+	<string>canDetachWorkflow</string>
+	<key>methodTail</key>
+	<string>unactivatedSwitch</string>
+	<key>numericalBinder</key>
+	<string>canMountedBinary</string>
+	<key>shouldLayoutScroll</key>
+	<string>renameUseCase</string>
+	<key>shouldShowSine</key>
+	<string>oldLogarithm</string>
+	<key>statelessSprite</key>
+	<string>firstStack</string>
+</dict>
+</plist>

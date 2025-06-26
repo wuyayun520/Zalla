@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDimension</key>
+	<string>elementState</string>
+	<key>effectfromfunction</key>
+	<string>errorProxy</string>
+	<key>finishprovider</key>
+	<string>shouldSerializeRemainder</string>
+	<key>independentIntegrity</key>
+	<string>shouldDetachPositioned</string>
+	<key>mobileAnimator</key>
+	<string>crudeBullet</string>
+	<key>observerResponse</key>
+	<string>routeStack</string>
+	<key>shouldPopNorm</key>
+	<string>resultMethod</string>
+	<key>subsequentIntegrity</key>
+	<string>similarProcessor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOffset</key>
+	<string>basicstream</string>
+	<key>builderResponse</key>
+	<string>displayableNorm</string>
+	<key>difficultbuttonhue</key>
+	<string>beginnerCoordinator</string>
+	<key>discardednode</key>
+	<string>liteFlex</string>
+	<key>interpolationshape</key>
+	<string>uniformCycle</string>
+	<key>particleRight</key>
+	<string>loadBoxShadow</string>
+	<key>processasset</key>
+	<string>prismaticCollection</string>
+	<key>receiverPosition</key>
+	<string>semanticsInset</string>
+	<key>shouldYieldBullet</key>
+	<string>timelineColor</string>
+</dict>
+</plist>

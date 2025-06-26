@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasSaturation</key>
+	<string>overlayTheme</string>
+	<key>composabledescent</key>
+	<string>canShowCursor</string>
+	<key>filterCoord</key>
+	<string>freeDependency</string>
+	<key>isCanvas</key>
+	<string>onsliderchanged</string>
+	<key>materialsensor</key>
+	<string>liteReference</string>
+	<key>publicstatus</key>
+	<string>skirtSaturation</string>
+	<key>schedulerOrigin</key>
+	<string>meshFormat</string>
+	<key>shouldReplaceMomentum</key>
+	<string>shouldHandleCheckbox</string>
+	<key>smartClipper</key>
+	<string>isolateVar</string>
+</dict>
+</plist>

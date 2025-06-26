@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperRotation</key>
+	<string>publicService</string>
+	<key>directItem</key>
+	<string>currentGrid</string>
+	<key>elasticGraphic</key>
+	<string>composableCluster</string>
+	<key>graphaboutmediator</key>
+	<string>staticMargin</string>
+	<key>navigatorappearance</key>
+	<string>eagerSign</string>
+	<key>resilientStore</key>
+	<string>canStartOptimizer</string>
+	<key>scalabilityshade</key>
+	<string>granularArchitecture</string>
+	<key>shouldMountedCycle</key>
+	<string>usecaseParameter</string>
+	<key>significantvarianttint</key>
+	<string>crudeAction</string>
+</dict>
+</plist>

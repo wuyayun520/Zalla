@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureVisibility</key>
+	<string>canAnimateNavigation</string>
+	<key>shouldDispatchPositioned</key>
+	<string>shouldDismissCycle</string>
+	<key>symmetricconstrainttype</key>
+	<string>mountedTernary</string>
+	<key>temporaryScroller</key>
+	<string>dedicatedReducer</string>
+</dict>
+</plist>

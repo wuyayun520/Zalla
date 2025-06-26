@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCheckbox</key>
+	<string>commonReference</string>
+	<key>emitterPosition</key>
+	<string>resourceRotation</string>
+	<key>hasaccessory</key>
+	<string>measuresensor</string>
+	<key>pinchableSymbol</key>
+	<string>deserializeTask</string>
+	<key>profileparamposition</key>
+	<string>pivotalNib</string>
+	<key>shouldDisposeThread</key>
+	<string>independentMobile</string>
+</dict>
+</plist>

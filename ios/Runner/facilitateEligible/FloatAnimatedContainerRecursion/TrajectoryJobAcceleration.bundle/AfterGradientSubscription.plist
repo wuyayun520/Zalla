@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardTabBar</key>
+	<string>protocolAction</string>
+	<key>hardscaleopacity</key>
+	<string>shouldRenderWorkflow</string>
+	<key>resourcehead</key>
+	<string>interactorOffset</string>
+	<key>smallInteractor</key>
+	<string>robustProtocol</string>
+	<key>tangentTheme</key>
+	<string>anchorTint</string>
+</dict>
+</plist>

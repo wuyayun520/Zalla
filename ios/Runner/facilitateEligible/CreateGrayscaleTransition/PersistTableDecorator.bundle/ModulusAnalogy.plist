@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionvisitorrate</key>
+	<string>crucialEqualization</string>
+	<key>cubitarchitecture</key>
+	<string>canAnimateSkirt</string>
+	<key>customStep</key>
+	<string>canvasEdge</string>
+	<key>interactiveRestriction</key>
+	<string>immediatecubittransparency</string>
+	<key>receivecallback</key>
+	<string>subscriptionDelay</string>
+	<key>unactivatedDisclaimer</key>
+	<string>replaceobserver</string>
+	<key>usedStorage</key>
+	<string>shouldUnbindListView</string>
+</dict>
+</plist>

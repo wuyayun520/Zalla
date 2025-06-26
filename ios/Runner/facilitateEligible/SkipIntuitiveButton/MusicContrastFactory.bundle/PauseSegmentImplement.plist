@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionRate</key>
+	<string>rotateresolver</string>
+	<key>chooserColor</key>
+	<string>canPauseStep</string>
+	<key>delicatespecifierdelay</key>
+	<string>animateScale</string>
+	<key>inkwelllocalization</key>
+	<string>respectiveLayout</string>
+	<key>lostConfidentiality</key>
+	<string>canShowSignature</string>
+	<key>masterparaminterval</key>
+	<string>tweakSkewY</string>
+	<key>numericaltabbarorientation</key>
+	<string>rebuildTechnique</string>
+	<key>remainderframe</key>
+	<string>shouldListenAlpha</string>
+	<key>subscribeprovider</key>
+	<string>smallScroll</string>
+</dict>
+</plist>

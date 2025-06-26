@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBound</key>
+	<string>signtop</string>
+	<key>displayableTrigger</key>
+	<string>singleOption</string>
+	<key>elasticGridView</key>
+	<string>accordionAccessory</string>
+	<key>errorDelay</key>
+	<string>storenotation</string>
+	<key>inactiveMap</key>
+	<string>advancedDisclaimer</string>
+	<key>resilientDescription</key>
+	<string>normPressure</string>
+	<key>semanticInteraction</key>
+	<string>spinresponse</string>
+	<key>sinkoffset</key>
+	<string>skipNib</string>
+</dict>
+</plist>

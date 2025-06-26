@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTheme</key>
+	<string>canDisconnectCycle</string>
+	<key>localPadding</key>
+	<string>canSerializeOverlay</string>
+	<key>momentumDepth</key>
+	<string>mediumMetadata</string>
+	<key>shouldRenderOverlay</key>
+	<string>hardPageView</string>
+	<key>swiftAcceleration</key>
+	<string>elasticityStatus</string>
+	<key>unmountedresource</key>
+	<string>compositionAlignment</string>
+	<key>workflowprovision</key>
+	<string>marshalGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFeedback</key>
+	<string>captureInjection</string>
+	<key>combinerVisible</key>
+	<string>overlaylikeoperation</string>
+	<key>globalAscent</key>
+	<string>processcanvas</string>
+	<key>onborderchanged</key>
+	<string>tappableslider</string>
+	<key>pooltool</key>
+	<string>normalProject</string>
+	<key>responseOffset</key>
+	<string>layoutcenter</string>
+	<key>responsiveComposition</key>
+	<string>canMountedDuration</string>
+	<key>shouldPushHistogram</key>
+	<string>currentcontainer</string>
+	<key>specifierdetail</key>
+	<string>keydata</string>
+	<key>yieldlayout</key>
+	<string>specifyIntensity</string>
+</dict>
+</plist>

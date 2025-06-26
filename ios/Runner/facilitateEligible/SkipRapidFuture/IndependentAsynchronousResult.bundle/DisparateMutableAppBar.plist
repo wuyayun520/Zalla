@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleReducer</key>
+	<string>hashOffset</string>
+	<key>frameVelocity</key>
+	<string>normalNavigator</string>
+	<key>hierarchicalradioskewx</key>
+	<string>handlePoint</string>
+	<key>listenerBehavior</key>
+	<string>unsortedCollection</string>
+	<key>temporaryInstruction</key>
+	<string>webgrouptop</string>
+</dict>
+</plist>

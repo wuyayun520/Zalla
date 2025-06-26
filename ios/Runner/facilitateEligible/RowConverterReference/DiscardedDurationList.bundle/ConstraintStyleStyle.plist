@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedError</key>
+	<string>iterativenotificationrate</string>
+	<key>aspectratiostatus</key>
+	<string>exceptionVisibility</string>
+	<key>impactDepth</key>
+	<string>switchopacity</string>
+	<key>pauserichtext</key>
+	<string>richtextgrid</string>
+	<key>reduceview</key>
+	<string>eagerAction</string>
+	<key>resilientCertificate</key>
+	<string>missionfrommediator</string>
+	<key>resolverDuration</key>
+	<string>sustainableSubpixel</string>
+	<key>shouldListenActivity</key>
+	<string>gridviewCenter</string>
+	<key>sustainableTouch</key>
+	<string>tappableQueue</string>
+	<key>tweenvariablespacing</key>
+	<string>impactFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityborder</key>
+	<string>functionalSine</string>
+	<key>groupparametershape</key>
+	<string>multiplicationFunction</string>
+	<key>iterativeChooser</key>
+	<string>batchMargin</string>
+	<key>newestRadio</key>
+	<string>concatenateTopic</string>
+	<key>publishnorm</key>
+	<string>canEmitBuilder</string>
+	<key>schedulerInterval</key>
+	<string>draggableTimer</string>
+	<key>scheduleroffset</key>
+	<string>shouldFormatRemainder</string>
+	<key>shouldParsePoint</key>
+	<string>shouldRenderSegment</string>
+	<key>statelessConsumption</key>
+	<string>listenCard</string>
+	<key>transitionpadding</key>
+	<string>beginnerSlash</string>
+</dict>
+</plist>

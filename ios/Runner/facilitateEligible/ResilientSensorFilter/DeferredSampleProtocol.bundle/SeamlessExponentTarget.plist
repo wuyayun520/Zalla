@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistcallback</key>
+	<string>rebuildRemainder</string>
+	<key>dedicatedSession</key>
+	<string>canPauseCursor</string>
+	<key>gridwithfunction</key>
+	<string>sliderHead</string>
+	<key>mediumequivalent</key>
+	<string>liteView</string>
+	<key>moduleTint</key>
+	<string>transformasync</string>
+	<key>shouldObserveCatalyst</key>
+	<string>invokeAsync</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoarithmeticresponse</key>
+	<string>screenBottom</string>
+	<key>mediocreTraversal</key>
+	<string>flexibleExponent</string>
+	<key>missedProgressBar</key>
+	<string>spriteright</string>
+	<key>mobileEvent</key>
+	<string>opaqueMesh</string>
+	<key>nativeMaster</key>
+	<string>handlerstructureoffset</string>
+</dict>
+</plist>

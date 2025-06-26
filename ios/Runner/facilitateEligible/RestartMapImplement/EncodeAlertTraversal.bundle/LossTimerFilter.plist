@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMaterializer</key>
+	<string>shouldAnimateSymbol</string>
+	<key>coordinatoraboutphase</key>
+	<string>shouldListenSine</string>
+	<key>eagerFragment</key>
+	<string>chapterSystem</string>
+	<key>insteadmodal</key>
+	<string>reactiveLinker</string>
+	<key>nodesound</key>
+	<string>createExtension</string>
+	<key>statefulTabBar</key>
+	<string>builderFormat</string>
+	<key>subsequentPreview</key>
+	<string>unactivatedconstraint</string>
+	<key>usedSwift</key>
+	<string>unactivatedSine</string>
+</dict>
+</plist>

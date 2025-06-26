@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBitrate</key>
+	<string>borderindex</string>
+	<key>dispatcherror</key>
+	<string>navigatorVelocity</string>
+	<key>grainawayoperation</key>
+	<string>publicUseCase</string>
+	<key>routecallback</key>
+	<string>timerproxyinset</string>
+	<key>specifyLoader</key>
+	<string>resizableListView</string>
+</dict>
+</plist>

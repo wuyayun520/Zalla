@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicinset</key>
+	<string>threadPrototype</string>
+	<key>momentumHue</key>
+	<string>sceneFlyweight</string>
+	<key>responsivekernel</key>
+	<string>shouldObserveMediaQuery</string>
+	<key>scaffoldimpact</key>
+	<string>keyComposition</string>
+	<key>sequentialProcessor</key>
+	<string>canFetchButton</string>
+	<key>shouldRenderArithmetic</key>
+	<string>synchronouscallback</string>
+	<key>shouldResumeMedia</key>
+	<string>fixedAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiElasticity</key>
+	<string>canRouteAspectRatio</string>
+	<key>objectStyle</key>
+	<string>traversalSize</string>
+	<key>pivotalaudio</key>
+	<string>canSaveInkWell</string>
+	<key>reusableResult</key>
+	<string>seamlessplatestatus</string>
+	<key>robustTransition</key>
+	<string>canStartFuture</string>
+	<key>shouldBuildSample</key>
+	<string>rangeOffset</string>
+</dict>
+</plist>

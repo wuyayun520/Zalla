@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResponder</key>
+	<string>canRestartDimension</string>
+	<key>cacherow</key>
+	<string>retrieveResponse</string>
+	<key>descentRotation</key>
+	<string>pushGridView</string>
+	<key>drawerinteraction</key>
+	<string>animatemap</string>
+	<key>shapeContrast</key>
+	<string>mobileInteger</string>
+	<key>shoulddisposeindicator</key>
+	<string>gateFormat</string>
+</dict>
+</plist>

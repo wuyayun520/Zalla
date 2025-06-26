@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionaction</key>
+	<string>baselineFacade</string>
+	<key>mobileTransformer</key>
+	<string>prevCatalyst</string>
+	<key>quitfactory</key>
+	<string>unsortedradiusposition</string>
+	<key>shouldSetStateSpine</key>
+	<string>shouldsetstatecosine</string>
+	<key>themeDuration</key>
+	<string>deployBuilder</string>
+	<key>toleranceDelay</key>
+	<string>disabledcurveinteraction</string>
+</dict>
+</plist>

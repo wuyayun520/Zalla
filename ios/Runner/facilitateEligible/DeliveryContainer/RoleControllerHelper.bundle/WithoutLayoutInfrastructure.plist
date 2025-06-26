@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryasset</key>
+	<string>tappableStack</string>
+	<key>concurrentLocalization</key>
+	<string>dispatchGift</string>
+	<key>lazyMobile</key>
+	<string>canUnbindSpecifier</string>
+	<key>shouldFetchGradient</key>
+	<string>anchorCoord</string>
+	<key>shouldLoadCycle</key>
+	<string>ignoredProfile</string>
+	<key>timeralongnumber</key>
+	<string>setupIntensity</string>
+</dict>
+</plist>

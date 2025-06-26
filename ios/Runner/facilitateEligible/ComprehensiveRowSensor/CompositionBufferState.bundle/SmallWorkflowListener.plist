@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerLocation</key>
+	<string>navigateState</string>
+	<key>dedicatedcelldensity</key>
+	<string>cosinereceiver</string>
+	<key>elasticityInset</key>
+	<string>webIntegration</string>
+	<key>ignoredLoop</key>
+	<string>graphScope</string>
+	<key>lastExtension</key>
+	<string>detachHistogram</string>
+	<key>methodinteraction</key>
+	<string>bindTable</string>
+	<key>shouldLayoutReduction</key>
+	<string>oldSignature</string>
+	<key>shouldTransitionChannels</key>
+	<string>canUnmountDescriptor</string>
+	<key>shoulddisconnectbox</key>
+	<string>cupertinoEquipment</string>
+	<key>statepolyfill</key>
+	<string>canContinueModal</string>
+</dict>
+</plist>

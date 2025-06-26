@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInteraction</key>
+	<string>executeCubit</string>
+	<key>hierarchicalMaster</key>
+	<string>canTransitionMusic</string>
+	<key>prismaticPermutation</key>
+	<string>publicNode</string>
+	<key>progressbarinmemento</key>
+	<string>composableMaterial</string>
+	<key>shouldLoadConsumer</key>
+	<string>rowPhase</string>
+	<key>singlesignvisibility</key>
+	<string>nextTweak</string>
+	<key>specifyScope</key>
+	<string>transformMedia</string>
+	<key>tentativeVisible</key>
+	<string>shouldCreateSession</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblematrix</key>
+	<string>entityCoord</string>
+	<key>cupertinoEquipment</key>
+	<string>seamlessLoader</string>
+	<key>mobileGraph</key>
+	<string>criticalsprite</string>
+	<key>newestGestureDetector</key>
+	<string>shouldTrainShader</string>
+	<key>numericalKernel</key>
+	<string>crudeSubscription</string>
+	<key>otherReplica</key>
+	<string>detachGraphic</string>
+	<key>protectedLatency</key>
+	<string>granularPainter</string>
+</dict>
+</plist>

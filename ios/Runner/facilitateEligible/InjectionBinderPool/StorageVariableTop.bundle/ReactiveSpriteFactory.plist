@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewagainststage</key>
+	<string>rectBound</string>
+	<key>mainVector</key>
+	<string>canRouteHistogram</string>
+	<key>prevStorage</key>
+	<string>canResumePositioned</string>
+</dict>
+</plist>

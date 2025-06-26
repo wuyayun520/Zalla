@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionintegerstatus</key>
+	<string>symmetricStore</string>
+	<key>behaviormanager</key>
+	<string>unmountedRoute</string>
+	<key>errorBound</key>
+	<string>smallthroughput</string>
+	<key>priorityoperationcontrast</key>
+	<string>shouldStopStack</string>
+	<key>shouldDispatchCell</key>
+	<string>timelineInterval</string>
+</dict>
+</plist>

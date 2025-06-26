@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionStatus</key>
+	<string>canBuildIndicator</string>
+	<key>desktopAlert</key>
+	<string>processAsync</string>
+	<key>displayablePrecision</key>
+	<string>asynchronousAnchor</string>
+	<key>distinctionDelay</key>
+	<string>propagateGraph</string>
+	<key>invisibleNode</key>
+	<string>storageLevel</string>
+	<key>notifyintensity</key>
+	<string>explicitComposition</string>
+	<key>relationalSubscription</key>
+	<string>setupRect</string>
+	<key>respondrepository</key>
+	<string>paintChallenge</string>
+	<key>shouldRouteDocument</key>
+	<string>descriptorMode</string>
+	<key>sustainablepager</key>
+	<string>handleTool</string>
+</dict>
+</plist>

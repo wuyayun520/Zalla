@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentSkewY</key>
+	<string>shouldCancelNorm</string>
+	<key>hardpageview</key>
+	<string>prioritySpacing</string>
+	<key>insteadnotification</key>
+	<string>augmentRepository</string>
+	<key>requestcoordinator</key>
+	<string>deferredTransition</string>
+	<key>selectedscale</key>
+	<string>multiPrecision</string>
+	<key>shouldCreateSine</key>
+	<string>robustProfile</string>
+</dict>
+</plist>

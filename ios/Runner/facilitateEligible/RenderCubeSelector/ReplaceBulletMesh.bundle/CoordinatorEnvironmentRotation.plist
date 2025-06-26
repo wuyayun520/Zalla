@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSpeed</key>
+	<string>shearUseCase</string>
+	<key>commonPadding</key>
+	<string>canSkipPrecision</string>
+	<key>decodedelegate</key>
+	<string>robustvolume</string>
+	<key>musicVisible</key>
+	<string>sceneBehavior</string>
+	<key>resizableSession</key>
+	<string>samplecompleter</string>
+	<key>semanticPublisher</key>
+	<string>cartesianReducer</string>
+	<key>sineplatformtype</key>
+	<string>granularInteger</string>
+	<key>synchronousDelegate</key>
+	<string>protectedView</string>
+	<key>tangentopacity</key>
+	<string>canKeepLogarithm</string>
+	<key>webPosition</key>
+	<string>notificationVisible</string>
+</dict>
+</plist>

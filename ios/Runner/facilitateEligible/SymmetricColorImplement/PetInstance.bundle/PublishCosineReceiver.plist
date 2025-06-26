@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerVelocity</key>
+	<string>shouldUpdateBaseline</string>
+	<key>mediumSearcher</key>
+	<string>metadataCount</string>
+	<key>metadataOrientation</key>
+	<string>streamlineIntensity</string>
+	<key>popoffset</key>
+	<string>inkwellDirection</string>
+	<key>semanticReduction</key>
+	<string>canContinueProtocol</string>
+	<key>shouldListenAccessory</key>
+	<string>ignoredPolyfill</string>
+	<key>statefulModal</key>
+	<string>invokeConstraint</string>
+</dict>
+</plist>

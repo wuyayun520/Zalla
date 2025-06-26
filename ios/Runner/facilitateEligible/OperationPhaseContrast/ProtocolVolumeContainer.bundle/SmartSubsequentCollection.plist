@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHeap</key>
+	<string>readRect</string>
+	<key>extensionValidation</key>
+	<string>functionalOptimizer</string>
+	<key>formatnode</key>
+	<string>shouldFinishActivity</string>
+	<key>grainPressure</key>
+	<string>resumeInteger</string>
+	<key>limitalpha</key>
+	<string>mobilerectdelay</string>
+	<key>mobileException</key>
+	<string>instantiateReducer</string>
+	<key>radioRate</key>
+	<string>canReplaceGift</string>
+	<key>selectorDepth</key>
+	<string>intermediateConvolution</string>
+	<key>shouldPresentExpanded</key>
+	<string>resetRow</string>
+	<key>statelessAsync</key>
+	<string>unactivatedStroke</string>
+</dict>
+</plist>

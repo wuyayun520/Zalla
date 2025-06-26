@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePresenter</key>
+	<string>canSaveGift</string>
+	<key>builderfromstyle</key>
+	<string>publicVariant</string>
+	<key>ephemeralgraphformat</key>
+	<string>heroPosition</string>
+	<key>impressionEdge</key>
+	<string>normalCheckbox</string>
+	<key>mobileLayer</key>
+	<string>lockDuration</string>
+	<key>pickerKind</key>
+	<string>gateforstrategy</string>
+	<key>seamlessTernary</key>
+	<string>interpolationTail</string>
+	<key>shouldContinueCycle</key>
+	<string>accordionSubpixel</string>
+	<key>sinknearsingleton</key>
+	<string>immediateStateful</string>
+</dict>
+</plist>

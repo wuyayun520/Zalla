@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletisolate</key>
+	<string>usedImage</string>
+	<key>deferredVertex</key>
+	<string>gradientProcess</string>
+	<key>easySemantics</key>
+	<string>ternarychannel</string>
+	<key>exponentvariabletheme</key>
+	<string>momentumorigin</string>
+	<key>immutableLabel</key>
+	<string>canUpdateText</string>
+	<key>intensityLocation</key>
+	<string>brushSingleton</string>
+</dict>
+</plist>

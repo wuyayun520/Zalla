@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVelocity</key>
+	<string>performService</string>
+	<key>elasticaxistheme</key>
+	<string>delicateImage</string>
+	<key>grayscaleconfidentiality</key>
+	<string>explicitAccessory</string>
+	<key>largeComposition</key>
+	<string>instantiateMenu</string>
+	<key>modelstylecontrast</key>
+	<string>flexibleScope</string>
+	<key>responderPosition</key>
+	<string>undertakeBloc</string>
+	<key>shouldRouteCycle</key>
+	<string>isolaterecursion</string>
+	<key>shouldrebuildgesturedetector</key>
+	<string>priortextopacity</string>
+	<key>variantresource</key>
+	<string>taskBorder</string>
+</dict>
+</plist>

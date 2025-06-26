@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBorder</key>
+	<string>baselineShape</string>
+	<key>basicGrid</key>
+	<string>shouldProcessTool</string>
+	<key>connectorLocation</key>
+	<string>custompaintCommand</string>
+	<key>entropymodel</key>
+	<string>enumerateScene</string>
+	<key>overlaychart</key>
+	<string>captionType</string>
+	<key>reusableGraphic</key>
+	<string>characterRotation</string>
+	<key>shouldParseProtocol</key>
+	<string>addVector</string>
+	<key>sortedParticle</key>
+	<string>attachcaption</string>
+	<key>sorterForce</key>
+	<string>flexibleHash</string>
+</dict>
+</plist>

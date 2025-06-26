@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncvaluedensity</key>
+	<string>adaptiveTask</string>
+	<key>behaviorscope</key>
+	<string>ignoredObserver</string>
+	<key>cartesianDelivery</key>
+	<string>lasttabviewlocation</string>
+	<key>elasticSlider</key>
+	<string>batchDensity</string>
+	<key>flexiblemesh</key>
+	<string>impactAcceleration</string>
+	<key>hyperbolicSize</key>
+	<string>publicStatus</string>
+	<key>logarithmBorder</key>
+	<string>pageviewAcceleration</string>
+	<key>shouldResumeProvider</key>
+	<string>channelVisitor</string>
+	<key>spritekindforce</key>
+	<string>easyDetector</string>
+</dict>
+</plist>

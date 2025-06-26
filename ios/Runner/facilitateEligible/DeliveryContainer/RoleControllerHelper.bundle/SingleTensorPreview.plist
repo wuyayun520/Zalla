@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedOverlay</key>
+	<string>pickerName</string>
+	<key>builderinset</key>
+	<string>reductionParameter</string>
+	<key>chapteredge</key>
+	<string>decorationFunction</string>
+	<key>confidentialityResponse</key>
+	<string>integritySpeed</string>
+	<key>decorationdespiteenvironment</key>
+	<string>undertakePreview</string>
+	<key>graphicvariablecount</key>
+	<string>transitionBehavior</string>
+	<key>grayscalechaindensity</key>
+	<string>strengthInterval</string>
+	<key>shouldRestartBase</key>
+	<string>imperativeLocalization</string>
+	<key>synchronouseffect</key>
+	<string>navigatorHead</string>
+</dict>
+</plist>

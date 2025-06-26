@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedKernel</key>
+	<string>checklistParameter</string>
+	<key>evaluateobserver</key>
+	<string>shouldMountedDocument</string>
+	<key>keyMember</key>
+	<string>groupdepth</string>
+	<key>occasionFormat</key>
+	<string>swiftSingleton</string>
+	<key>scaleCenter</key>
+	<string>firstSchema</string>
+	<key>shouldPauseNotification</key>
+	<string>errorresilience</string>
+</dict>
+</plist>

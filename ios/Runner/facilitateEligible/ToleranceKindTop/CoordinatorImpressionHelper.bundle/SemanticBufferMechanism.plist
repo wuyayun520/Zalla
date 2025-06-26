@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCaption</key>
+	<string>marshalTexture</string>
+	<key>boxshadowactivityvisible</key>
+	<string>resumeChannels</string>
+	<key>bufferthroughmode</key>
+	<string>inactiveManager</string>
+	<key>ignoredHandler</key>
+	<string>creatorName</string>
+	<key>shouldPersistPositioned</key>
+	<string>oldTicker</string>
+	<key>statefulDialogs</key>
+	<string>composabledialogs</string>
+</dict>
+</plist>

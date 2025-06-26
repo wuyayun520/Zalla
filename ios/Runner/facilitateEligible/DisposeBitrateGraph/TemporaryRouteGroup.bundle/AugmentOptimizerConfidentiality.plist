@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertlistener</key>
+	<string>shouldProcessRadio</string>
+	<key>buttoninterval</key>
+	<string>disabledDispatcher</string>
+	<key>composableButton</key>
+	<string>substantialcolumnorientation</string>
+	<key>heroDelay</key>
+	<string>canCacheSkin</string>
+	<key>modalOffset</key>
+	<string>shouldStreamTool</string>
+	<key>taskFormat</key>
+	<string>formatShape</string>
+	<key>webTime</key>
+	<string>sequentialImpact</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAnimation</key>
+	<string>adaptiveFactory</string>
+	<key>keyRoute</key>
+	<string>beginnersignature</string>
+	<key>largeDisclaimer</key>
+	<string>loadComposition</string>
+	<key>newestEquivalent</key>
+	<string>shouldCreateConstraint</string>
+	<key>textureDuration</key>
+	<string>grayscalePressure</string>
+	<key>volumeFlags</key>
+	<string>listenerAppearance</string>
+</dict>
+</plist>

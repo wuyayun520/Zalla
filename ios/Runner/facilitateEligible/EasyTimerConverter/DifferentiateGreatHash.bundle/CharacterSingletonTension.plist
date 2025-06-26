@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycyclestyle</key>
+	<string>multiDocument</string>
+	<key>fixedMetadata</key>
+	<string>convertdelegate</string>
+	<key>gramInteraction</key>
+	<string>smallDelivery</string>
+	<key>interpolationSaturation</key>
+	<string>missedresult</string>
+	<key>numericalElasticity</key>
+	<string>kernelalongframework</string>
+	<key>reliabilityStyle</key>
+	<string>persistentSpot</string>
+	<key>screenexceptmemento</key>
+	<string>orchestrateController</string>
+	<key>variantOffset</key>
+	<string>canvasTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraph</key>
+	<string>labelHead</string>
+	<key>bulletprocessor</key>
+	<string>paintRoute</string>
+	<key>restartspine</key>
+	<string>shouldStreamCharacter</string>
+	<key>standaloneAnimator</key>
+	<string>validateCursor</string>
+</dict>
+</plist>

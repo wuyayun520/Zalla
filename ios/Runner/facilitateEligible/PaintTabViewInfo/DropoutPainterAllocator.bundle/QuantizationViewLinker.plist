@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedUnary</key>
+	<string>diversifiedvector</string>
+	<key>displayableFormat</key>
+	<string>temporaryAction</string>
+	<key>precisiongrid</key>
+	<string>crudeimpression</string>
+	<key>vectorkind</key>
+	<string>retrieveGrid</string>
+</dict>
+</plist>

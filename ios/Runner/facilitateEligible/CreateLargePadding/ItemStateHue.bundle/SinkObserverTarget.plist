@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontransition</key>
+	<string>metadataPadding</string>
+	<key>backwardMesh</key>
+	<string>onskinchanged</string>
+	<key>elasticBandwidth</key>
+	<string>publiccurve</string>
+	<key>independentSemantics</key>
+	<string>sensorOpacity</string>
+	<key>parsechart</key>
+	<string>widgetfactory</string>
+	<key>persistentEvolution</key>
+	<string>attachAwait</string>
+	<key>schemaRate</key>
+	<string>tensorcheckboxvalidation</string>
+	<key>shouldEmitUnary</key>
+	<string>localContraction</string>
+</dict>
+</plist>

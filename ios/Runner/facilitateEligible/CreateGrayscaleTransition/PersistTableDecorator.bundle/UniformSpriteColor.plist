@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianscroller</key>
+	<string>scrollableFinder</string>
+	<key>comparesensor</key>
+	<string>canDismissScaffold</string>
+	<key>mediumOption</key>
+	<string>declarativeDisclaimer</string>
+	<key>wrapperFlags</key>
+	<string>errorScope</string>
+</dict>
+</plist>

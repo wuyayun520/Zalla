@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerEdge</key>
+	<string>processMomentum</string>
+	<key>containerwithouttype</key>
+	<string>chapterDirection</string>
+	<key>hasGesture</key>
+	<string>sliderlistener</string>
+	<key>persistentClipper</key>
+	<string>interceptStorage</string>
+	<key>slashPosition</key>
+	<string>lockAction</string>
+	<key>spineflags</key>
+	<string>filterInteraction</string>
+	<key>uniformGestureDetector</key>
+	<string>reactiveScalability</string>
+</dict>
+</plist>

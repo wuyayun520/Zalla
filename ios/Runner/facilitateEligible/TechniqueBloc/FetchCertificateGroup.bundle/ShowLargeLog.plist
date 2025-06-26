@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobile</key>
+	<string>interpolateCompleter</string>
+	<key>cellSaturation</key>
+	<string>subsequentNavigation</string>
+	<key>curvelocation</key>
+	<string>fusedEffect</string>
+	<key>graphictempletype</key>
+	<string>sinkinsidestructure</string>
+	<key>normalBuilder</key>
+	<string>observegesturedetector</string>
+	<key>storecharacteristic</key>
+	<string>clipperVariable</string>
+</dict>
+</plist>

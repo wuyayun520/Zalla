@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInformation</key>
+	<string>graphicParameter</string>
+	<key>featureuntilcommand</key>
+	<string>decoupleTicker</string>
+	<key>functionalPublisher</key>
+	<string>shouldAttachGridView</string>
+	<key>shouldAnimateChecklist</key>
+	<string>disconnectAccessory</string>
+	<key>shouldCancelAnimation</key>
+	<string>arithmeticComposition</string>
+	<key>subtlemap</key>
+	<string>curveParam</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBehavior</key>
+	<string>composableblocspacing</string>
+	<key>deferredScreen</key>
+	<string>shouldSaveCursor</string>
+	<key>immutableStroke</key>
+	<string>draggableElement</string>
+	<key>intuitiveGridView</key>
+	<string>searcherScale</string>
+	<key>pivotalAppBar</key>
+	<string>backwardParticle</string>
+</dict>
+</plist>

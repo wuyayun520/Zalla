@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarstate</key>
+	<string>signalignment</string>
+	<key>immutableGraph</key>
+	<string>staticChannels</string>
+	<key>semanticsBorder</key>
+	<string>retainedException</string>
+	<key>shouldDisposeDecoration</key>
+	<string>gesturePrototype</string>
+	<key>shouldPrepareDrawer</key>
+	<string>shouldAttachAccessory</string>
+</dict>
+</plist>

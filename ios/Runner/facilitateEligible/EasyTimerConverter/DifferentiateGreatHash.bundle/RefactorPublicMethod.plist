@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateinjection</key>
+	<string>mechanismdensity</string>
+	<key>callbackpublisher</key>
+	<string>resolverCycle</string>
+	<key>displayableMetadata</key>
+	<string>reactiveLoss</string>
+	<key>nativeDialogs</key>
+	<string>shouldEndCurve</string>
+	<key>permissiveInterpolation</key>
+	<string>subtlelabel</string>
+	<key>projectCoord</key>
+	<string>prevSpecifier</string>
+	<key>relationalThroughput</key>
+	<string>asynchronousCache</string>
+	<key>shaderFrequency</key>
+	<string>deferredEvolution</string>
+	<key>shouldTrainContraction</key>
+	<string>challengeInset</string>
+	<key>stampfromlayer</key>
+	<string>sensorFacade</string>
+</dict>
+</plist>

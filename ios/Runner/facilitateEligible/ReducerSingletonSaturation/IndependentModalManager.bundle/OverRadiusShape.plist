@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativemarginspacing</key>
+	<string>dialogsinset</string>
+	<key>decorationcompositeindex</key>
+	<string>resumeReference</string>
+	<key>flexDistance</key>
+	<string>shouldUpdateMission</string>
+	<key>largePriority</key>
+	<string>instructionAction</string>
+	<key>materialRange</key>
+	<string>mobileData</string>
+	<key>respectiveAnalogy</key>
+	<string>notationIndex</string>
+	<key>shouldKeepHero</key>
+	<string>pushawait</string>
+	<key>shouldStartCycle</key>
+	<string>isFlex</string>
+	<key>swiftorientation</key>
+	<string>diversifiedconsumer</string>
+	<key>uniqueMaster</key>
+	<string>detachMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalClipper</key>
+	<string>resilientasyncvisibility</string>
+	<key>discardedmodelstatus</key>
+	<string>singletonContext</string>
+	<key>instructionScale</key>
+	<string>agileArithmetic</string>
+	<key>pivotalNavigator</key>
+	<string>quantizerManager</string>
+	<key>radioVisibility</key>
+	<string>referenceresponse</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularDistinction</key>
+	<string>similarFrame</string>
+	<key>localBox</key>
+	<string>canCacheSegue</string>
+	<key>selectorVisibility</key>
+	<string>destroyCallback</string>
+	<key>tableadaptersize</key>
+	<string>yieldCheckbox</string>
+	<key>unaryBorder</key>
+	<string>refreshconfiguration</string>
+</dict>
+</plist>

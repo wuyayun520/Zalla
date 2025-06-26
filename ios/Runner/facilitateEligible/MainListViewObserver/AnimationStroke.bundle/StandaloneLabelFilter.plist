@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultduration</key>
+	<string>startButton</string>
+	<key>diffableBox</key>
+	<string>adaptiveListView</string>
+	<key>gramformat</key>
+	<string>trainText</string>
+	<key>queueworkinterval</key>
+	<string>uniqueGrid</string>
+	<key>shouldDispatchTool</key>
+	<string>utilFrequency</string>
+	<key>shouldUpdateGestureDetector</key>
+	<string>spineInteraction</string>
+	<key>tabbarAppearance</key>
+	<string>boxshadowFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityShade</key>
+	<string>canBuildPositioned</string>
+	<key>associatedVertex</key>
+	<string>shouldMountedHero</string>
+	<key>constraintedge</key>
+	<string>coordinatorHead</string>
+	<key>dimensionproxysaturation</key>
+	<string>requiredTransformer</string>
+	<key>listviewTheme</key>
+	<string>hierarchicalCanvas</string>
+	<key>reactiveItem</key>
+	<string>shouldtrainrole</string>
+	<key>shouldProcessTabView</key>
+	<string>defaultTask</string>
+	<key>sustainableUsage</key>
+	<string>consumeStream</string>
+</dict>
+</plist>

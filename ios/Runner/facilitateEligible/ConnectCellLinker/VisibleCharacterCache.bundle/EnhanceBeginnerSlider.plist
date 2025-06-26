@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerfunctionbrightness</key>
+	<string>concurrentIntensity</string>
+	<key>displayableBinder</key>
+	<string>multiPageView</string>
+	<key>eventTop</key>
+	<string>threadFacade</string>
+	<key>globalPet</key>
+	<string>shouldbuildcard</string>
+	<key>permutationHue</key>
+	<string>variantsingletonstyle</string>
+	<key>shouldcachewidget</key>
+	<string>shouldDisposeChecklist</string>
+	<key>tappableCard</key>
+	<string>capacitiesObserver</string>
+</dict>
+</plist>

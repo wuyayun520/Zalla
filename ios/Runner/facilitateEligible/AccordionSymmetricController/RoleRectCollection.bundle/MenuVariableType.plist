@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerdensity</key>
+	<string>buildImage</string>
+	<key>effectinsidesingleton</key>
+	<string>startContainer</string>
+	<key>entityForce</key>
+	<string>cubeTension</string>
+	<key>imperativeGestureDetector</key>
+	<string>resizableDelegate</string>
+	<key>layoutSpacing</key>
+	<string>canLayoutResource</string>
+	<key>persistentData</key>
+	<string>decorationMode</string>
+	<key>reusableTexture</key>
+	<string>addLayout</string>
+	<key>shouldpresentskirt</key>
+	<string>validategroup</string>
+	<key>sustainableCapsule</key>
+	<string>displayablePicker</string>
+</dict>
+</plist>

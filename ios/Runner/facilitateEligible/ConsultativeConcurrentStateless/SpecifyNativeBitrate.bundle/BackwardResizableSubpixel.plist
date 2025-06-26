@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInterpolation</key>
+	<string>dynamicResult</string>
+	<key>managerShade</key>
+	<string>asyncPressure</string>
+	<key>nibValidation</key>
+	<string>shouldSaveHero</string>
+	<key>respectiveAspect</key>
+	<string>screenscale</string>
+	<key>routerFrequency</key>
+	<string>labelForce</string>
+	<key>sessionmethoddirection</key>
+	<string>delegateSlider</string>
+	<key>shouldConnectBehavior</key>
+	<string>routePressure</string>
+	<key>usagebufferalignment</key>
+	<string>widgetCommand</string>
+</dict>
+</plist>

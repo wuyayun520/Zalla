@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSkewX</key>
+	<string>disparateCard</string>
+	<key>labelmodule</key>
+	<string>gemDecorator</string>
+	<key>nextworkflow</key>
+	<string>associateSprite</string>
+	<key>seamlessLocalization</key>
+	<string>transformerParam</string>
+	<key>selectorVisibility</key>
+	<string>immutableMerger</string>
+	<key>shouldPrepareDrawer</key>
+	<string>popupdepth</string>
+	<key>staticfuture</key>
+	<string>symbolLeft</string>
+</dict>
+</plist>

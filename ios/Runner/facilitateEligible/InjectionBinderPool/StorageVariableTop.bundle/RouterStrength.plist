@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerReplica</key>
+	<string>rotateAllocator</string>
+	<key>hardColor</key>
+	<string>decodeGrayscale</string>
+	<key>preparetransition</key>
+	<string>canPauseBloc</string>
+	<key>publicWidget</key>
+	<string>ephemeralAllocator</string>
+	<key>responsiveobject</key>
+	<string>shouldNavigateView</string>
+	<key>shouldSubscribeReference</key>
+	<string>orchestrateNode</string>
+	<key>webIntensity</key>
+	<string>occasionHead</string>
+</dict>
+</plist>

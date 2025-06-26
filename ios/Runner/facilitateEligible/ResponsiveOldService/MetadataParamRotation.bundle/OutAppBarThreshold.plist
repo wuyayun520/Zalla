@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBloc</key>
+	<string>boxutil</string>
+	<key>crucialPoint</key>
+	<string>canCancelDelegate</string>
+	<key>geometricHandler</key>
+	<string>attachSpot</string>
+	<key>graphDuration</key>
+	<string>smallAccessory</string>
+	<key>methodStyle</key>
+	<string>shouldEndChannels</string>
+</dict>
+</plist>

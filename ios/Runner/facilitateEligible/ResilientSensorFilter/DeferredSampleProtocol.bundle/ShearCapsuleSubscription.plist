@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatemaster</key>
+	<string>processRoute</string>
+	<key>fusedAnimator</key>
+	<string>concurrentSlider</string>
+	<key>shouldDisposeReference</key>
+	<string>greatGate</string>
+	<key>shouldsavevariant</key>
+	<string>propagateSingleton</string>
+	<key>temporaryButton</key>
+	<string>handleStamp</string>
+</dict>
+</plist>

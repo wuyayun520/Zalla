@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSchema</key>
+	<string>transposeInteractor</string>
+	<key>customizedResponder</key>
+	<string>spingram</string>
+	<key>evaluationShape</key>
+	<string>eagerNavigation</string>
+	<key>layoutvelocity</key>
+	<string>renamecoordinator</string>
+	<key>taskpadding</key>
+	<string>projectFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistvisible</key>
+	<string>alignmentInterpreter</string>
+	<key>granularPolygon</key>
+	<string>shouldPersistPriority</string>
+	<key>ignoredLoader</key>
+	<string>shouldPreparePrecision</string>
+	<key>mediocreLoader</key>
+	<string>builderBorder</string>
+	<key>requestmapper</key>
+	<string>sizeresilience</string>
+	<key>tensorSplitter</key>
+	<string>progressbarprototypepadding</string>
+	<key>uniqueAspect</key>
+	<string>customizedCubit</string>
+</dict>
+</plist>

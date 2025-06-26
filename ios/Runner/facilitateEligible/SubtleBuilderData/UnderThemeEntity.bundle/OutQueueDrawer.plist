@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalFilter</key>
+	<string>associatedTangent</string>
+	<key>consumerBorder</key>
+	<string>shouldUpdateBinary</string>
+	<key>draggablePoint</key>
+	<string>pushUsage</string>
+	<key>graphicwithoutpattern</key>
+	<string>timerMemento</string>
+	<key>protectedDescription</key>
+	<string>canResumeTouch</string>
+	<key>relationalPolygon</key>
+	<string>implementRow</string>
+	<key>selectorInset</key>
+	<string>requiredModulus</string>
+	<key>usedStatus</key>
+	<string>heapScale</string>
+</dict>
+</plist>

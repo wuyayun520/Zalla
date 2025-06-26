@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAlert</key>
+	<string>newestGrid</string>
+	<key>discardedInteger</key>
+	<string>shouldCancelGestureDetector</string>
+	<key>hyperbolicImpact</key>
+	<string>protectedMonster</string>
+	<key>interactiveService</key>
+	<string>unbindGridView</string>
+	<key>lazyCanvas</key>
+	<string>binaryScale</string>
+	<key>shouldStreamConsumer</key>
+	<string>hyperbolicRouter</string>
+	<key>skinAcceleration</key>
+	<string>serviceShape</string>
+	<key>usedChecklist</key>
+	<string>reduceIntensity</string>
+</dict>
+</plist>

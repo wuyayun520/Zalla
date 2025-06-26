@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentNavigation</key>
+	<string>nativeView</string>
+	<key>linkeracceleration</key>
+	<string>gateAction</string>
+	<key>positionedsingletonhead</key>
+	<string>unactivatedEntity</string>
+	<key>responsemargin</key>
+	<string>shouldPresentContainer</string>
+	<key>shouldPushComposition</key>
+	<string>resumeInstruction</string>
+</dict>
+</plist>

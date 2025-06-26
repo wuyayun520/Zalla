@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBehavior</key>
+	<string>schedulerSaturation</string>
+	<key>consumptionmomentum</key>
+	<string>shouldparseanimatedcontainer</string>
+	<key>curvenumbertype</key>
+	<string>prismaticProcessor</string>
+	<key>mapStatus</key>
+	<string>storageStructure</string>
+	<key>masterforce</key>
+	<string>canResumeEquipment</string>
+	<key>paddingentity</key>
+	<string>shouldRestartStateless</string>
+	<key>rapidBandwidth</key>
+	<string>hyperbolicAlpha</string>
+	<key>shouldEndEffect</key>
+	<string>methodCount</string>
+	<key>tabbarnearcontext</key>
+	<string>stopUnary</string>
+	<key>visibleImpression</key>
+	<string>desktopImpact</string>
+</dict>
+</plist>

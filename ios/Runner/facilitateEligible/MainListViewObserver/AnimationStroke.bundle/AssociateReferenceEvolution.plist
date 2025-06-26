@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDirection</key>
+	<string>elasticScope</string>
+	<key>effectdepth</key>
+	<string>cosineBrightness</string>
+	<key>presenterOffset</key>
+	<string>disparateElement</string>
+	<key>priorLayer</key>
+	<string>canPushPadding</string>
+	<key>refreshposition</key>
+	<string>durationShape</string>
+	<key>shouldRouteSensor</key>
+	<string>initializecurve</string>
+	<key>streamvisitoredge</key>
+	<string>symmetricsizeduration</string>
+	<key>vertexTop</key>
+	<string>persistentQueue</string>
+</dict>
+</plist>

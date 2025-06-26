@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionName</key>
+	<string>impactpadding</string>
+	<key>greatElement</key>
+	<string>customPriority</string>
+	<key>originalColor</key>
+	<string>canTransitionIcon</string>
+	<key>persistentCycle</key>
+	<string>yieldDuration</string>
+	<key>selectorOrigin</key>
+	<string>resumeLoss</string>
+	<key>transformposition</key>
+	<string>startLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenthistogram</key>
+	<string>pendingExtension</string>
+	<key>eagerPageView</key>
+	<string>clipperCommand</string>
+	<key>priorityresponse</key>
+	<string>shouldCancelRemainder</string>
+	<key>viewasvisitor</key>
+	<string>shouldStreamChallenge</string>
+</dict>
+</plist>

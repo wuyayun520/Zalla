@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSaturation</key>
+	<string>expandedValidation</string>
+	<key>delegateworkcontrast</key>
+	<string>chartAppearance</string>
+	<key>inactiveRestriction</key>
+	<string>blocRotation</string>
+	<key>mapTail</key>
+	<string>boxshadowDuration</string>
+	<key>pinchablegestureskewx</key>
+	<string>shouldbindoverlay</string>
+	<key>precisionfeedback</key>
+	<string>dedicatedGraphic</string>
+	<key>shouldlistencomposition</key>
+	<string>interceptusecase</string>
+	<key>topicascent</key>
+	<string>canDisposeCustomPaint</string>
+	<key>yieldtabbar</key>
+	<string>strengthBehavior</string>
+</dict>
+</plist>

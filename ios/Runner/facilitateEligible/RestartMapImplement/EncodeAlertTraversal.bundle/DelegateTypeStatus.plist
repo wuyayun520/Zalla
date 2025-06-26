@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdelay</key>
+	<string>scheduleState</string>
+	<key>criticalConstraint</key>
+	<string>paddingContrast</string>
+	<key>criticalFragment</key>
+	<string>transitionGram</string>
+	<key>interactiveComponent</key>
+	<string>backwardFuture</string>
+	<key>prevSymbol</key>
+	<string>themeDecorator</string>
+	<key>responsiveInfrastructure</key>
+	<string>shouldDeserializeKernel</string>
+</dict>
+</plist>

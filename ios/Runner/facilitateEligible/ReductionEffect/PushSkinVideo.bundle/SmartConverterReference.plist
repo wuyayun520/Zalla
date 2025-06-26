@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureScale</key>
+	<string>shouldPublishCursor</string>
+	<key>mountedanimatedcontainer</key>
+	<string>shouldSubscribeStamp</string>
+	<key>navigatoroutsidestrategy</key>
+	<string>singleAscent</string>
+	<key>paintmap</key>
+	<string>shouldUnmountedSkirt</string>
+	<key>relationalEquivalent</key>
+	<string>mitigateLayer</string>
+	<key>seamlessExponent</key>
+	<string>semanticOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedVariant</key>
+	<string>canShowText</string>
+	<key>hyperbolicscenario</key>
+	<string>canObservePoint</string>
+	<key>singleIndicator</key>
+	<string>consumeEvent</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSchema</key>
+	<string>setupRow</string>
+	<key>granularstamptype</key>
+	<string>shouldPresentCapacities</string>
+	<key>independentAlert</key>
+	<string>rebuildGate</string>
+	<key>switchFlags</key>
+	<string>dependencyBuffer</string>
+</dict>
+</plist>

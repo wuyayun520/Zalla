@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paintertentative</key>
+	<string>initializeSize</string>
+	<key>recursionedge</key>
+	<string>createStep</string>
+	<key>resizableAlert</key>
+	<string>paintPlayback</string>
+	<key>scrollerLocation</key>
+	<string>serializeDocument</string>
+	<key>shouldValidateTabBar</key>
+	<string>consultativeproject</string>
+	<key>sizeinprototype</key>
+	<string>tableTag</string>
+	<key>statelessTint</key>
+	<string>lazyBrush</string>
+	<key>vertexVisibility</key>
+	<string>instructionTint</string>
+</dict>
+</plist>

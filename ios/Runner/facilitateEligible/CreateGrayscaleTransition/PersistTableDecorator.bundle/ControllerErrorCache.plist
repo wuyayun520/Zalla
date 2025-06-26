@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardsystemtension</key>
+	<string>actionLocation</string>
+	<key>curveFlags</key>
+	<string>cliplayer</string>
+	<key>dimensionTheme</key>
+	<string>smallBrush</string>
+	<key>evaluateresponse</key>
+	<string>compositionalLoop</string>
+	<key>inheritedallocatormomentum</key>
+	<string>reactiveWorkflow</string>
+	<key>metricsRate</key>
+	<string>canSetStateDelegate</string>
+	<key>tablepermethod</key>
+	<string>seamlessAnchor</string>
+</dict>
+</plist>

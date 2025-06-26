@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseEquipment</key>
+	<string>respondSlider</string>
+	<key>interpolationframe</key>
+	<string>animatedcontainerinteraction</string>
+	<key>menumetrics</key>
+	<string>dropdownbuttonsink</string>
+</dict>
+</plist>

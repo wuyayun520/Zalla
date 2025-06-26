@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateUseCase</key>
+	<string>monsterStage</string>
+	<key>projectionbehavior</key>
+	<string>synchronousinterfacekind</string>
+	<key>resourcechooser</key>
+	<string>materialdistance</string>
+	<key>skipcurve</key>
+	<string>titleScope</string>
+	<key>usecaseTop</key>
+	<string>directLoss</string>
+</dict>
+</plist>

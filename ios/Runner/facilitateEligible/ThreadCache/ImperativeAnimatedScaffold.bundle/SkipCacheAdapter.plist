@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryEdge</key>
+	<string>parsePoint</string>
+	<key>adaptiveTheme</key>
+	<string>referenceForm</string>
+	<key>animationjoboffset</key>
+	<string>cubeLocation</string>
+	<key>isremainder</key>
+	<string>shouldFetchDecoration</string>
+	<key>mergerAcceleration</key>
+	<string>logParam</string>
+	<key>normalEffect</key>
+	<string>canMountedNotification</string>
+	<key>publicStack</key>
+	<string>findboxshadow</string>
+	<key>shouldprepareicon</key>
+	<string>bufferborder</string>
+	<key>switchdistance</key>
+	<string>respectiveConsumption</string>
+</dict>
+</plist>

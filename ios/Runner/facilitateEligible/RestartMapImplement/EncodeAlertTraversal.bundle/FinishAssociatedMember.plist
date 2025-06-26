@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityDepth</key>
+	<string>workflowpublisher</string>
+	<key>coordinatorduringproxy</key>
+	<string>shouldFinishProtocol</string>
+	<key>functionalRequest</key>
+	<string>shouldPublishUsage</string>
+	<key>objectTint</key>
+	<string>delicateIcon</string>
+	<key>variantcolor</key>
+	<string>masterProcess</string>
+</dict>
+</plist>

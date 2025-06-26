@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentTechnique</key>
+	<string>missedTweak</string>
+	<key>intuitiveCursor</key>
+	<string>shouldMountedExtension</string>
+	<key>semanticcompletion</key>
+	<string>configureOffset</string>
+	<key>sliderBound</key>
+	<string>deserializeNorm</string>
+	<key>smallIcon</key>
+	<string>navigatorofframework</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledStoryboard</key>
+	<string>tickerphasecenter</string>
+	<key>dispatchticker</key>
+	<string>composableTextField</string>
+	<key>dynamicIsolate</key>
+	<string>saveEqualization</string>
+	<key>shouldFormatActivity</key>
+	<string>temporarygraintop</string>
+	<key>shouldYieldLog</key>
+	<string>interpolationMediator</string>
+	<key>tweenFeedback</key>
+	<string>syncBloc</string>
+</dict>
+</plist>

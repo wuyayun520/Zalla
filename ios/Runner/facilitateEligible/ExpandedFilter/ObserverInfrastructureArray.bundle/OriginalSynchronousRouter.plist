@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionDepth</key>
+	<string>topicInteraction</string>
+	<key>indicatorResponse</key>
+	<string>autoGate</string>
+	<key>localPolyfill</key>
+	<string>showSpot</string>
+	<key>menuSpacing</key>
+	<string>mediumRichText</string>
+	<key>shouldMountedSpecifier</key>
+	<string>normalmethodformat</string>
+</dict>
+</plist>

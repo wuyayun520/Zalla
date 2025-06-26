@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addcapacities</key>
+	<string>cancelKernel</string>
+	<key>newestCustomPaint</key>
+	<string>unsortedLoop</string>
+	<key>retainedModulus</key>
+	<string>shouldStreamOption</string>
+	<key>shouldDismissNotification</key>
+	<string>syncState</string>
+	<key>synchronousfactoryrotation</key>
+	<string>graphicAcceleration</string>
+</dict>
+</plist>

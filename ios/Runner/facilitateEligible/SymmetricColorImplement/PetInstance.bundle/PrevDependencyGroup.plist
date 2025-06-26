@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttheme</key>
+	<string>gesturedetectoraction</string>
+	<key>diffableCompleter</key>
+	<string>canFetchSizedBox</string>
+	<key>elasticitySpeed</key>
+	<string>independentStamp</string>
+	<key>functionalcupertinobrightness</key>
+	<string>captionOperation</string>
+	<key>queuehue</key>
+	<string>shouldNavigateSkin</string>
+	<key>retainedBinary</key>
+	<string>discardedSubscriber</string>
+	<key>scrollableGestureDetector</key>
+	<string>movementlayer</string>
+	<key>shouldRenderContraction</key>
+	<string>mountDecoration</string>
+	<key>sortedmovement</key>
+	<string>listviewDirection</string>
+	<key>usedbrushpadding</key>
+	<string>cancelGesture</string>
+</dict>
+</plist>

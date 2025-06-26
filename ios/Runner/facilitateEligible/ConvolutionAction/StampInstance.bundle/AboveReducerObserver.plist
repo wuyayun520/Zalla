@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveinsidevisitor</key>
+	<string>notationvisibility</string>
+	<key>ignoredTheme</key>
+	<string>unactivatedWrapper</string>
+	<key>impressionDirection</key>
+	<string>canStartCurve</string>
+	<key>paddingmapper</key>
+	<string>generateInteractor</string>
+	<key>shouldPrepareExtension</key>
+	<string>flexibleUsage</string>
+	<key>shouldRebuildStoryboard</key>
+	<string>anchoroftask</string>
+	<key>uniformEvent</key>
+	<string>isAnchor</string>
+	<key>uniformstream</key>
+	<string>transposeMenu</string>
+</dict>
+</plist>

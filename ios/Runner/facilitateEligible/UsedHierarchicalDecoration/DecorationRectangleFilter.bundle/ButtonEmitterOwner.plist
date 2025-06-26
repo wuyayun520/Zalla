@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStack</key>
+	<string>rapidlistener</string>
+	<key>instructiontask</key>
+	<string>playIntensity</string>
+	<key>integerchooser</key>
+	<string>monsterOrientation</string>
+	<key>interpolationfeature</key>
+	<string>accordionAscent</string>
+	<key>materialroute</key>
+	<string>listviewContext</string>
+	<key>presentermediatorvalidation</key>
+	<string>canCreateMultiplication</string>
+	<key>subtleAscent</key>
+	<string>canRestartSegment</string>
+</dict>
+</plist>

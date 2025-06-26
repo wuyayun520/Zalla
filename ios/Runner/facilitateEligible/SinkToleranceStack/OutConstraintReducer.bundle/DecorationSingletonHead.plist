@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDelay</key>
+	<string>formatVelocity</string>
+	<key>errorBehavior</key>
+	<string>respectiveFormat</string>
+	<key>gridviewBehavior</key>
+	<string>rapidStack</string>
+	<key>techniquetierborder</key>
+	<string>errortraversal</string>
+	<key>tensorAnimatedContainer</key>
+	<string>normalLoader</string>
+</dict>
+</plist>

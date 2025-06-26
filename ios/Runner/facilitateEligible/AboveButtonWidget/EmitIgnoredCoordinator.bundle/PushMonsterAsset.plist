@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticfilter</key>
+	<string>connectVariant</string>
+	<key>executedescriptor</key>
+	<string>fixedStatus</string>
+	<key>newestTransformer</key>
+	<string>canDetachDecoration</string>
+	<key>resultactionmode</key>
+	<string>shouldfinishactivity</string>
+	<key>shouldProcessCursor</key>
+	<string>controllerAlignment</string>
+</dict>
+</plist>

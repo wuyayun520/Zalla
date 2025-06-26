@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilerouter</key>
+	<string>restartreference</string>
+	<key>independentmethod</key>
+	<string>eraseBuffer</string>
+	<key>localcharacteristic</key>
+	<string>functionalScope</string>
+	<key>mendBottom</key>
+	<string>attachgraphic</string>
+	<key>permissiveMend</key>
+	<string>hierarchicalCollection</string>
+	<key>projectionOrientation</key>
+	<string>resetResponse</string>
+	<key>scaleFlags</key>
+	<string>ignoredSkirt</string>
+	<key>storageColor</key>
+	<string>blocnumberalignment</string>
+</dict>
+</plist>

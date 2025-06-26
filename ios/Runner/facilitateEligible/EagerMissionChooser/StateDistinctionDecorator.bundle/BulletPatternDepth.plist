@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInteractor</key>
+	<string>reactivePlayback</string>
+	<key>activeBoxShadow</key>
+	<string>parallelGrain</string>
+	<key>customizedSensor</key>
+	<string>shouldContinueMusic</string>
+	<key>invisibleTriangles</key>
+	<string>arithmeticNumber</string>
+	<key>normalSemantics</key>
+	<string>mapperBound</string>
+	<key>replaceinteractor</key>
+	<string>canDecodeScaffold</string>
+	<key>schedulerPadding</key>
+	<string>interfaceJob</string>
+	<key>scrollableRecursion</key>
+	<string>parallelStore</string>
+</dict>
+</plist>

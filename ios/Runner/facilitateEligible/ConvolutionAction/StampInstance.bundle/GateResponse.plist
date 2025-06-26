@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCheckbox</key>
+	<string>locatemanager</string>
+	<key>bitratethreshold</key>
+	<string>scrollableLocalization</string>
+	<key>errorposition</key>
+	<string>secondcontraction</string>
+	<key>missedCapacity</key>
+	<string>otherNorm</string>
+	<key>resilientlayerhead</key>
+	<string>activeScene</string>
+	<key>reusablerouter</key>
+	<string>criticalMaster</string>
+	<key>rowFormat</key>
+	<string>imperativeReplica</string>
+	<key>scrollabletexturetop</key>
+	<string>overlayEnvironment</string>
+	<key>tappableWrapper</key>
+	<string>consumeManager</string>
+	<key>webcompleter</key>
+	<string>materialOverlay</string>
+</dict>
+</plist>

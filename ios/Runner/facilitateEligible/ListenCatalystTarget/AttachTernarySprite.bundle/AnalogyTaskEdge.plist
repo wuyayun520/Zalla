@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveColumn</key>
+	<string>immutableAsync</string>
+	<key>blocevent</key>
+	<string>currentResult</string>
+	<key>elasticityInterval</key>
+	<string>copySize</string>
+	<key>enabledTime</key>
+	<string>axisShape</string>
+	<key>permanentsubscriber</key>
+	<string>shouldUpdateCustomPaint</string>
+	<key>recursionSkewX</key>
+	<string>paintanchor</string>
+	<key>shoulddispatchstoryboard</key>
+	<string>interactorBorder</string>
+</dict>
+</plist>

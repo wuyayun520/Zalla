@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentspacing</key>
+	<string>scenelikestrategy</string>
+	<key>granularSubscriber</key>
+	<string>shouldCancelSizedBox</string>
+	<key>methodtype</key>
+	<string>canYieldBox</string>
+	<key>pinchableStateful</key>
+	<string>visibleBaseline</string>
+	<key>publicDimension</key>
+	<string>accelerateLocalization</string>
+	<key>recursionformat</key>
+	<string>sizedboxBound</string>
+	<key>uniformAlignment</key>
+	<string>eventdistance</string>
+	<key>usedMovement</key>
+	<string>requiredkernelcount</string>
+</dict>
+</plist>

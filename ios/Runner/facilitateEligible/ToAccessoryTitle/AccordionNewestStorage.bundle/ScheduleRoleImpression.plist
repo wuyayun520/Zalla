@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activecollection</key>
+	<string>responseAdapter</string>
+	<key>advancedChallenge</key>
+	<string>draggableInstruction</string>
+	<key>customSearcher</key>
+	<string>serializeQueue</string>
+	<key>evaluationLeft</key>
+	<string>endzone</string>
+	<key>shouldStartSlider</key>
+	<string>deploySingleton</string>
+	<key>taskSkewY</key>
+	<string>keepSwitch</string>
+	<key>transformtransition</key>
+	<string>visibleSingleton</string>
+	<key>visibleAlignment</key>
+	<string>canNavigateTernary</string>
+</dict>
+</plist>

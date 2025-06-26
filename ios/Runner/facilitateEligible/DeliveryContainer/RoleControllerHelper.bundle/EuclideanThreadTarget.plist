@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxgraph</key>
+	<string>emitGradient</string>
+	<key>greatDetail</key>
+	<string>latencyTop</string>
+	<key>painterbesideform</key>
+	<string>canDismissPadding</string>
+	<key>shouldInflateMusic</key>
+	<string>canLoadTable</string>
+	<key>shouldMountUsage</key>
+	<string>shouldReplaceIcon</string>
+	<key>singletonkindskewy</key>
+	<string>handleSegue</string>
+</dict>
+</plist>

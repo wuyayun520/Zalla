@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchdecoration</key>
+	<string>tappableModel</string>
+	<key>formatDistance</key>
+	<string>techniqueSkewY</string>
+	<key>immutableAnimator</key>
+	<string>largeMaterializer</string>
+	<key>interactorscheduler</key>
+	<string>switchandvisitor</string>
+	<key>mobileTabBar</key>
+	<string>cleanAsync</string>
+	<key>reactivePoint</key>
+	<string>optimizerBridge</string>
+	<key>shouldBuildReference</key>
+	<string>metadataDepth</string>
+	<key>shouldResumeReference</key>
+	<string>workflowTier</string>
+	<key>ternaryAcceleration</key>
+	<string>greatstoragetheme</string>
+	<key>topicflyweightright</key>
+	<string>adjustTexture</string>
+</dict>
+</plist>

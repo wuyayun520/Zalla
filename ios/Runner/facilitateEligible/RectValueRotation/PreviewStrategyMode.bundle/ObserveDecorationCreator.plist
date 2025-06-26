@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDisclaimer</key>
+	<string>pointSpeed</string>
+	<key>advancedscaledepth</key>
+	<string>autoGridView</string>
+	<key>directelasticity</key>
+	<string>responsewithcomposite</string>
+	<key>projectionforce</key>
+	<string>menuTemple</string>
+	<key>shouldPersistNavigation</key>
+	<string>animatedcontainerBuffer</string>
+</dict>
+</plist>

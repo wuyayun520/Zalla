@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCompleter</key>
+	<string>sinecallback</string>
+	<key>durationbuffer</key>
+	<string>sizeOpacity</string>
+	<key>greatIntegration</key>
+	<string>shouldtransformkernel</string>
+	<key>shouldDisposeCharacter</key>
+	<string>widgetAcceleration</string>
+	<key>shoulddisposemember</key>
+	<string>originalgridviewlocation</string>
+	<key>tappablewidget</key>
+	<string>aperturePressure</string>
+	<key>temporaryCurve</key>
+	<string>behaviorMethod</string>
+	<key>threadFeedback</key>
+	<string>exitFuture</string>
+</dict>
+</plist>

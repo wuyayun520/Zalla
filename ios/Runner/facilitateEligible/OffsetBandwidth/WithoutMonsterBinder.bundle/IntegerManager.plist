@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHandler</key>
+	<string>discardedRecursion</string>
+	<key>eagerTentative</key>
+	<string>dynamicPicker</string>
+	<key>resilienceDelay</key>
+	<string>setstateProjection</string>
+	<key>shouldReplaceStateless</key>
+	<string>symmetricStrength</string>
+	<key>shouldTransformCapacities</key>
+	<string>allocatorDensity</string>
+	<key>taskPadding</key>
+	<string>pivotalDecoration</string>
+</dict>
+</plist>

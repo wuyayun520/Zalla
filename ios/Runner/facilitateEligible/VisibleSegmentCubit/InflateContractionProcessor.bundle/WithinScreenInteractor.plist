@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInteraction</key>
+	<string>canTransformInteger</string>
+	<key>cacheColor</key>
+	<string>webPolyfill</string>
+	<key>enabledborder</key>
+	<string>resizeTween</string>
+	<key>entityamongframework</key>
+	<string>completedTransition</string>
+	<key>secondResponse</key>
+	<string>skinconstraint</string>
+	<key>shouldHandleMedia</key>
+	<string>shouldPersistOption</string>
+	<key>shouldKeepChannels</key>
+	<string>normalIndicator</string>
+	<key>statelessVertex</key>
+	<string>asynchronousSign</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmodel</key>
+	<string>canHandlePageView</string>
+	<key>channelsIndex</key>
+	<string>formatTernary</string>
+	<key>disabledReducer</key>
+	<string>boxProxy</string>
+	<key>isStateful</key>
+	<string>alignmentFlags</string>
+	<key>occasionDirection</key>
+	<string>tensorNavigation</string>
+	<key>pausesegue</key>
+	<string>priorEquipment</string>
+	<key>schedulerSaturation</key>
+	<string>shouldPopLog</string>
+</dict>
+</plist>

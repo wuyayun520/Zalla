@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanParticle</key>
+	<string>shearRadius</string>
+	<key>gatePadding</key>
+	<string>extendInterface</string>
+	<key>nodeDepth</key>
+	<string>multiVariant</string>
+	<key>responsiveMesh</key>
+	<string>inheritedInteger</string>
+	<key>sizefromfunction</key>
+	<string>bindBullet</string>
+	<key>specifyPermutation</key>
+	<string>completionVisible</string>
+	<key>viewatsingleton</key>
+	<string>litesize</string>
+	<key>viewstagemargin</key>
+	<string>preparestream</string>
+</dict>
+</plist>

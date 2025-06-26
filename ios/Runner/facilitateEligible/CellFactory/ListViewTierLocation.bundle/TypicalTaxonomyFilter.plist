@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMonster</key>
+	<string>texturesize</string>
+	<key>adaptiveCatalyst</key>
+	<string>cachePrecision</string>
+	<key>autoInterpolation</key>
+	<string>canObserveEntropy</string>
+	<key>chartstatus</key>
+	<string>shouldConnectBloc</string>
+	<key>declarativeResource</key>
+	<string>indicatorTop</string>
+	<key>descriptionappearance</key>
+	<string>shouldPopWidget</string>
+	<key>diffableDescription</key>
+	<string>canDisconnectSign</string>
+	<key>disparateInteger</key>
+	<string>accelerateUseCase</string>
+	<key>shouldPersistBorder</key>
+	<string>freeHash</string>
+</dict>
+</plist>

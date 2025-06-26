@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTraversal</key>
+	<string>listviewresult</string>
+	<key>easyBase</key>
+	<string>maxOption</string>
+	<key>interactivePresenter</key>
+	<string>spotJob</string>
+	<key>repositoryflags</key>
+	<string>shouldUnmountedDialogs</string>
+	<key>transitionspeed</key>
+	<string>curvesink</string>
+</dict>
+</plist>

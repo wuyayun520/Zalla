@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCapacity</key>
+	<string>petValue</string>
+	<key>dedicatedSelector</key>
+	<string>traincapsule</string>
+	<key>firstMonster</key>
+	<string>popsensor</string>
+	<key>interactiveVolume</key>
+	<string>publicFrame</string>
+	<key>lostEquivalent</key>
+	<string>shouldDisposeLabel</string>
+	<key>presenterbound</key>
+	<string>dynamicDisclaimer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBandwidth</key>
+	<string>euclideanicondelay</string>
+	<key>dedicatedanalyzer</key>
+	<string>typicalSemantics</string>
+	<key>ephemeralLog</key>
+	<string>paintModulus</string>
+	<key>independentCreator</key>
+	<string>instructionvisibility</string>
+	<key>mainSubscription</key>
+	<string>crucialEvaluation</string>
+	<key>masterorientation</key>
+	<string>transitionDelay</string>
+	<key>multiRange</key>
+	<string>streamPattern</string>
+	<key>reusableDetector</key>
+	<string>shouldNavigateSensor</string>
+	<key>unactivatedSession</key>
+	<string>smallDocument</string>
+</dict>
+</plist>

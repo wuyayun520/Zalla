@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerdisclaimer</key>
+	<string>localDistinction</string>
+	<key>concreteLoop</key>
+	<string>upgradesensor</string>
+	<key>directDropdownButton</key>
+	<string>currentcapsule</string>
+	<key>giftedge</key>
+	<string>relationalProgressBar</string>
+	<key>inactiveWidget</key>
+	<string>extensionEnvironment</string>
+	<key>shouldRenderPainter</key>
+	<string>scheduleReducer</string>
+</dict>
+</plist>

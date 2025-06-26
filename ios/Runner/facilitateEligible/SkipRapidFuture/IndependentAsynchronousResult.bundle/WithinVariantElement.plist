@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGroup</key>
+	<string>largeSingleton</string>
+	<key>immutableTernary</key>
+	<string>shouldPublishGridView</string>
+	<key>invisibleDispatcher</key>
+	<string>canDetachHeap</string>
+	<key>rapidRemainder</key>
+	<string>mediocreMusic</string>
+	<key>shouldObserveCache</key>
+	<string>consumptionBrightness</string>
+	<key>shouldskipmedia</key>
+	<string>publisherSpacing</string>
+</dict>
+</plist>

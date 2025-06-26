@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionBound</key>
+	<string>utilkindcontrast</string>
+	<key>oldElement</key>
+	<string>componentFrequency</string>
+	<key>reactiveSubscription</key>
+	<string>shouldRenderDropdownButton</string>
+	<key>shouldKeepVariant</key>
+	<string>slashBuffer</string>
+	<key>staticdelegateflags</key>
+	<string>geometricCallback</string>
+	<key>vertexOrigin</key>
+	<string>injectUtil</string>
+</dict>
+</plist>

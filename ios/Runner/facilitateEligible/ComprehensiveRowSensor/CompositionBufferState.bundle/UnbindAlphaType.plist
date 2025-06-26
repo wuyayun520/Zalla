@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerIndicator</key>
+	<string>shouldUnmountOverlay</string>
+	<key>checklistOrientation</key>
+	<string>logarithmcount</string>
+	<key>draggableusecaseskewy</key>
+	<string>maxAxis</string>
+	<key>mobileRepository</key>
+	<string>discoverStream</string>
+	<key>mobilebutton</key>
+	<string>histogramJob</string>
+	<key>respectivemissiondelay</key>
+	<string>shouldProcessStoryboard</string>
+	<key>sizeshapekind</key>
+	<string>canPaintClipper</string>
+	<key>subscriptionBrightness</key>
+	<string>copySink</string>
+</dict>
+</plist>

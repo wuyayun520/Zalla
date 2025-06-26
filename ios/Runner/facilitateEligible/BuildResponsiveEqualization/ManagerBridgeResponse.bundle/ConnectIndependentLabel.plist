@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChannels</key>
+	<string>rowtierappearance</string>
+	<key>mutableDescriptor</key>
+	<string>specifierScope</string>
+	<key>paddingRotation</key>
+	<string>loadGesture</string>
+	<key>shouldPushTabBar</key>
+	<string>canParseStamp</string>
+	<key>statelessprotocol</key>
+	<string>primaryFlex</string>
+	<key>symmetricTernary</key>
+	<string>canTrainExtension</string>
+	<key>transitionType</key>
+	<string>intuitiveContrast</string>
+	<key>unbindprotocol</key>
+	<string>decorationbrightness</string>
+</dict>
+</plist>

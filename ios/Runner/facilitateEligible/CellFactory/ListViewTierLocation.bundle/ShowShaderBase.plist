@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantVelocity</key>
+	<string>gridstate</string>
+	<key>liteTernary</key>
+	<string>collectionOffset</string>
+	<key>otherSegment</key>
+	<string>shouldPopCard</string>
+	<key>secondnotation</key>
+	<string>marginPadding</string>
+	<key>unsortedScenario</key>
+	<string>elasticParticle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScheduler</key>
+	<string>connectListView</string>
+	<key>completerCenter</key>
+	<string>hashActivity</string>
+	<key>gemvelocity</key>
+	<string>invisibleCell</string>
+	<key>inflateborder</key>
+	<string>invisibleRole</string>
+	<key>reactiveArchitecture</key>
+	<string>debugFrame</string>
+	<key>shouldReplaceCurve</key>
+	<string>mediaqueryParam</string>
+	<key>streamtint</key>
+	<string>pushDropdownButton</string>
+</dict>
+</plist>

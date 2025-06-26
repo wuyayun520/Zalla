@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAllocator</key>
+	<string>normalAxis</string>
+	<key>equivalentMomentum</key>
+	<string>notifyNode</string>
+	<key>modalpicker</key>
+	<string>replaceInteger</string>
+	<key>navigatorColor</key>
+	<string>momentumright</string>
+	<key>permissiveChooser</key>
+	<string>popupposition</string>
+	<key>repositoryvariableresponse</key>
+	<string>minSensor</string>
+	<key>unsortedAnalyzer</key>
+	<string>addLabel</string>
+</dict>
+</plist>

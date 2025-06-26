@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAppearance</key>
+	<string>canSubscribeDecoration</string>
+	<key>consultativeFeature</key>
+	<string>expandedflags</string>
+	<key>creatorBottom</key>
+	<string>protectedCallback</string>
+	<key>enabledVolume</key>
+	<string>robustDecoration</string>
+	<key>fusedtransitionformat</key>
+	<string>arithmeticDispatcher</string>
+	<key>hierarchicalColumn</key>
+	<string>minExpanded</string>
+	<key>navigatetween</key>
+	<string>contrastBehavior</string>
+	<key>optimizerTop</key>
+	<string>dispatchGem</string>
+	<key>ternaryconstraint</key>
+	<string>unaryStyle</string>
+</dict>
+</plist>

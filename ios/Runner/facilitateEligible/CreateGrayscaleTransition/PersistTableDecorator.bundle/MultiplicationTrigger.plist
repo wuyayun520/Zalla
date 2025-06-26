@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorHead</key>
+	<string>shoulddecodebase</string>
+	<key>alphaShape</key>
+	<string>builderOrientation</string>
+	<key>batchmenu</key>
+	<string>canPersistExponent</string>
+	<key>callbackLeft</key>
+	<string>cursorFramework</string>
+	<key>globalNib</key>
+	<string>dialogsPadding</string>
+	<key>hyperbolicCollection</key>
+	<string>significantOverlay</string>
+	<key>listviewVelocity</key>
+	<string>similarSprite</string>
+	<key>nextMobile</key>
+	<string>scrollableScenario</string>
+	<key>significantlayoutcount</key>
+	<string>registerProgressBar</string>
+	<key>usedScenario</key>
+	<string>musicTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardtolerance</key>
+	<string>connectController</string>
+	<key>composableCreator</key>
+	<string>canDetachText</string>
+	<key>ephemeralIsolate</key>
+	<string>lazyBoxShadow</string>
+	<key>fixedAnalogy</key>
+	<string>extensionSpacing</string>
+	<key>hasexponent</key>
+	<string>transformerneardecorator</string>
+	<key>schedulerCount</key>
+	<string>responderInterval</string>
+	<key>shouldtrainbatch</key>
+	<string>loadStateless</string>
+	<key>writeroute</key>
+	<string>canPersistSlash</string>
+</dict>
+</plist>

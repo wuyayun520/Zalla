@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConvolution</key>
+	<string>channelstatus</string>
+	<key>capacitiesincludebridge</key>
+	<string>advancedDecoration</string>
+	<key>displayableAscent</key>
+	<string>spritestatus</string>
+	<key>intuitiveCosine</key>
+	<string>publicThroughput</string>
+	<key>localGridView</key>
+	<string>reactiveoffsetorigin</string>
+	<key>shouldDispatchController</key>
+	<string>localConnector</string>
+	<key>shouldTrainDimension</key>
+	<string>adaptiveAscent</string>
+	<key>shouldcancelborder</key>
+	<string>canUnmountedMedia</string>
+	<key>shouldunbindstream</key>
+	<string>canUnbindPet</string>
+</dict>
+</plist>

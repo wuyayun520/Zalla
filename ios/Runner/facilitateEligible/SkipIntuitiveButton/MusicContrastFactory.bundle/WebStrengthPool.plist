@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFragments</key>
+	<string>handlerversusform</string>
+	<key>convolutionmode</key>
+	<string>shouldAttachBinary</string>
+	<key>cubitbound</key>
+	<string>routecallback</string>
+	<key>exceptionTension</key>
+	<string>showOperation</string>
+	<key>lastEqualization</key>
+	<string>shouldFetchNavigator</string>
+	<key>shouldAttachCoordinator</key>
+	<string>scopeCount</string>
+	<key>shouldLayoutKernel</key>
+	<string>canRebuildSample</string>
+	<key>shouldPublishStateless</key>
+	<string>semanticSession</string>
+	<key>symmetricIsolate</key>
+	<string>sharedInterface</string>
+</dict>
+</plist>

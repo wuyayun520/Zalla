@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCount</key>
+	<string>liteMovement</string>
+	<key>delegateVelocity</key>
+	<string>dispatchArithmetic</string>
+	<key>difficultTouch</key>
+	<string>deploystate</string>
+	<key>entityvisible</key>
+	<string>canDisposeSession</string>
+	<key>immediateSink</key>
+	<string>transitionopacity</string>
+	<key>seamlessContraction</key>
+	<string>secondalerthead</string>
+</dict>
+</plist>

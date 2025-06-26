@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianmatrix</key>
+	<string>decorationName</string>
+	<key>deferredProvider</key>
+	<string>cycleworkbehavior</string>
+	<key>enabledReference</key>
+	<string>measureView</string>
+	<key>responsiveAction</key>
+	<string>defaultcycle</string>
+	<key>shouldUnmountSemantics</key>
+	<string>oldmesh</string>
+	<key>slashHead</key>
+	<string>typicalNavigator</string>
+	<key>spriteVisible</key>
+	<string>formatTension</string>
+	<key>unactivateddependency</key>
+	<string>streamforce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflateequalization</key>
+	<string>enhanceusage</string>
+	<key>functionalAlignment</key>
+	<string>insteadRouter</string>
+	<key>hierarchicalStorage</key>
+	<string>radiotrajectory</string>
+	<key>mobiletransformer</key>
+	<string>timerbehavior</string>
+	<key>onstepchanged</key>
+	<string>capsuleStatus</string>
+	<key>selectedMaterial</key>
+	<string>createDecoration</string>
+	<key>synchronousBuffer</key>
+	<string>shouldEncodeBitrate</string>
+</dict>
+</plist>

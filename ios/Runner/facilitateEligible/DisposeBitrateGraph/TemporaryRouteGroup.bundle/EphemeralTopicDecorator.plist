@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtypeinterval</key>
+	<string>frameandscope</string>
+	<key>decorationconstant</key>
+	<string>canMountFragment</string>
+	<key>mediumAnimator</key>
+	<string>shouldSubscribeUsage</string>
+	<key>parallelAnimator</key>
+	<string>currentReference</string>
+	<key>shouldPersistLayout</key>
+	<string>replicateAllocator</string>
+	<key>substantialSegment</key>
+	<string>modulusMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferstagetheme</key>
+	<string>requiredProvision</string>
+	<key>completionqueue</key>
+	<string>checkmodulus</string>
+	<key>mediumassethead</key>
+	<string>shouldPublishAccessory</string>
+	<key>mobileDropdownButton</key>
+	<string>bindLayout</string>
+	<key>publiceffectinset</key>
+	<string>comprehensiveNotation</string>
+	<key>shouldFormatInteger</key>
+	<string>syncLocalization</string>
+	<key>substantialMetadata</key>
+	<string>gemBridge</string>
+</dict>
+</plist>

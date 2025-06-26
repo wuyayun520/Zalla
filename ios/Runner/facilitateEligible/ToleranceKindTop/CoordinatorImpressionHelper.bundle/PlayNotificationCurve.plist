@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterSkewY</key>
+	<string>cupertinoPainter</string>
+	<key>crucialCupertino</key>
+	<string>pointRight</string>
+	<key>fixedSubpixel</key>
+	<string>relationalSample</string>
+	<key>graphiclatency</key>
+	<string>dynamicTween</string>
+	<key>hasReduction</key>
+	<string>normObserver</string>
+	<key>shouldConnectOverlay</key>
+	<string>materializeRequest</string>
+	<key>stackphaseinset</key>
+	<string>respectivePainter</string>
+	<key>thresholdKind</key>
+	<string>asynchronousScroll</string>
+</dict>
+</plist>

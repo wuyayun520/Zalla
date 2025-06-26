@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcompleter</key>
+	<string>emitBullet</string>
+	<key>buttonTension</key>
+	<string>shouldDismissSignature</string>
+	<key>buttonreplica</key>
+	<string>shouldAttachTabView</string>
+	<key>filterPadding</key>
+	<string>offsetRoute</string>
+	<key>plateOpacity</key>
+	<string>retainedConfiguration</string>
+	<key>shouldCancelMember</key>
+	<string>thresholdOpacity</string>
+	<key>syncskin</key>
+	<string>inheritedModule</string>
+</dict>
+</plist>

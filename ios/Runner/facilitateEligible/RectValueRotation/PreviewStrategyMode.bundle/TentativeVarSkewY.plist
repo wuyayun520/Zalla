@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAnalyzer</key>
+	<string>desktopPreview</string>
+	<key>controllerprototypecolor</key>
+	<string>sustainableaudio</string>
+	<key>criticalProcessor</key>
+	<string>unscheduleAsset</string>
+	<key>ephemeralException</key>
+	<string>ephemeralCupertino</string>
+	<key>functionalActivity</key>
+	<string>dispatchPlayback</string>
+	<key>geometricLayout</key>
+	<string>stopBoxShadow</string>
+	<key>shouldBindThread</key>
+	<string>activeSchema</string>
+	<key>smartimagebottom</key>
+	<string>videoResponse</string>
+	<key>workflowleft</key>
+	<string>shouldObserveMusic</string>
+</dict>
+</plist>

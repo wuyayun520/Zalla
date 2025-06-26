@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryvarvelocity</key>
+	<string>delicatelayout</string>
+	<key>difficultParticle</key>
+	<string>sliderAction</string>
+	<key>joinerOffset</key>
+	<string>metadataTop</string>
+	<key>momentumandnumber</key>
+	<string>composableTabBar</string>
+	<key>positioncommandposition</key>
+	<string>ignoredPreview</string>
+</dict>
+</plist>

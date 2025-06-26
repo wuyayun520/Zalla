@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitResponse</key>
+	<string>statefulCoord</string>
+	<key>encodehandler</key>
+	<string>granularConfiguration</string>
+	<key>handlerarchitecture</key>
+	<string>opaqueSwift</string>
+	<key>inactiveTexture</key>
+	<string>shouldLoadOperation</string>
+	<key>monsterSkewY</key>
+	<string>canPauseAspect</string>
+	<key>smartAnalogy</key>
+	<string>intensityTask</string>
+	<key>smartPlayback</key>
+	<string>associatedTweak</string>
+	<key>spriteformalignment</key>
+	<string>blocVisibility</string>
+	<key>touchInteraction</key>
+	<string>isRow</string>
+</dict>
+</plist>

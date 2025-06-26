@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFeedback</key>
+	<string>responseposition</string>
+	<key>equalizationVisible</key>
+	<string>keyPrecision</string>
+	<key>normalAnimation</key>
+	<string>exitProvider</string>
+	<key>stampOpacity</key>
+	<string>draggableSlash</string>
+	<key>subsequentHash</key>
+	<string>paintMusic</string>
+	<key>sustainableEvolution</key>
+	<string>timerAdapter</string>
+</dict>
+</plist>

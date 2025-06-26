@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRichText</key>
+	<string>euclideanEqualization</string>
+	<key>checklistmetrics</key>
+	<string>disparateCharacter</string>
+	<key>fusedintegerlocation</key>
+	<string>yieldFuture</string>
+	<key>geometrictechnique</key>
+	<string>rectifylayout</string>
+	<key>sinkVelocity</key>
+	<string>canRebuildBuilder</string>
+</dict>
+</plist>

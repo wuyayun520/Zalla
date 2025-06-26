@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableBatch</key>
+	<string>decodeEquipment</string>
+	<key>geometricRepository</key>
+	<string>missedPosition</string>
+	<key>prevLoader</key>
+	<string>routerMode</string>
+	<key>shouldPopCard</key>
+	<string>navigateOperation</string>
+	<key>shouldTransitionScreen</key>
+	<string>mountedStateless</string>
+	<key>specifycontainer</key>
+	<string>setupDependency</string>
+	<key>staticFuture</key>
+	<string>largeFlex</string>
+</dict>
+</plist>

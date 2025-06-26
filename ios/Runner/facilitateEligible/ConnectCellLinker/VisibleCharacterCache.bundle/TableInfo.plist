@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMethod</key>
+	<string>channelProcess</string>
+	<key>disparateoffsetrotation</key>
+	<string>intuitiveviewinteraction</string>
+	<key>ephemeralCustomPaint</key>
+	<string>shouldEndCheckbox</string>
+	<key>notificationSkewX</key>
+	<string>canListenChallenge</string>
+	<key>otherState</key>
+	<string>loaddescription</string>
+	<key>radioVisible</key>
+	<string>resilientLoader</string>
+	<key>secondStack</key>
+	<string>shouldSkipController</string>
+	<key>unsortedRoute</key>
+	<string>delicateComposition</string>
+</dict>
+</plist>

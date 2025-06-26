@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioOrientation</key>
+	<string>graphicName</string>
+	<key>deferredNavigation</key>
+	<string>originalMaster</string>
+	<key>emitterskewx</key>
+	<string>taskDirection</string>
+	<key>entropyPosition</key>
+	<string>inactiveBinder</string>
+	<key>shaderVelocity</key>
+	<string>retainAction</string>
+	<key>shouldBuildTouch</key>
+	<string>comprehensiveNorm</string>
+	<key>temporaryAperture</key>
+	<string>navigateSpot</string>
+	<key>toleranceDepth</key>
+	<string>shouldResumeFuture</string>
+	<key>tweenduringobserver</key>
+	<string>explicitScreen</string>
+</dict>
+</plist>

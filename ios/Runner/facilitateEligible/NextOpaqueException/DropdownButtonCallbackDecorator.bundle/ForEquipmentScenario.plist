@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartInset</key>
+	<string>directfragmentcount</string>
+	<key>enabledAnalyzer</key>
+	<string>composableHash</string>
+	<key>linkerBorder</key>
+	<string>futureacceleration</string>
+	<key>multiarchitecture</key>
+	<string>adaptivenib</string>
+	<key>optimizerposition</key>
+	<string>canSubscribeCycle</string>
+	<key>overlayBehavior</key>
+	<string>moveLabel</string>
+	<key>resizableUseCase</key>
+	<string>shaderObserver</string>
+	<key>typicalTernary</key>
+	<string>compositionalVideo</string>
+	<key>usecaseOrientation</key>
+	<string>deprecatecard</string>
+</dict>
+</plist>

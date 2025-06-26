@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAxis</key>
+	<string>serializeProvider</string>
+	<key>interactorDistance</key>
+	<string>animateCheckbox</string>
+	<key>progressbarstagedelay</key>
+	<string>routeCard</string>
+	<key>shouldSaveAspectRatio</key>
+	<string>mechanismRate</string>
+	<key>shouldloadsegment</key>
+	<string>robustTraversal</string>
+	<key>subsequentprocessor</key>
+	<string>rectifyResult</string>
+</dict>
+</plist>

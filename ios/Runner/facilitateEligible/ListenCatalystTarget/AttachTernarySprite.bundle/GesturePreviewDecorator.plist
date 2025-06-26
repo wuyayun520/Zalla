@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScene</key>
+	<string>inactiveresult</string>
+	<key>efficiencyTransparency</key>
+	<string>workflowtraversal</string>
+	<key>repositoryfeedback</key>
+	<string>renderEquipment</string>
+	<key>shouldNavigateOverlay</key>
+	<string>trajectoryEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistSpeed</key>
+	<string>startFragment</string>
+	<key>dialogsscopeflags</key>
+	<string>dissociateState</string>
+	<key>functionalshape</key>
+	<string>profilePosition</string>
+	<key>mutableAppBar</key>
+	<string>publicCustomPaint</string>
+	<key>shouldCancelStamp</key>
+	<string>canSerializeBatch</string>
+</dict>
+</plist>

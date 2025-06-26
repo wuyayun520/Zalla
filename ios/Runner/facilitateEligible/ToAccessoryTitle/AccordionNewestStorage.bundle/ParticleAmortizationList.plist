@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblenode</key>
+	<string>shouldReplaceRemainder</string>
+	<key>associatedResource</key>
+	<string>navigateReference</string>
+	<key>lazyProfile</key>
+	<string>draggableInterpolation</string>
+	<key>lostCard</key>
+	<string>sortedWidget</string>
+	<key>multiawaittype</key>
+	<string>hierarchicalCube</string>
+	<key>protectedView</key>
+	<string>multiplicationTail</string>
+	<key>scrollableRestriction</key>
+	<string>durationlistener</string>
+	<key>unsortedmonsterright</key>
+	<string>newestEquivalent</string>
+</dict>
+</plist>

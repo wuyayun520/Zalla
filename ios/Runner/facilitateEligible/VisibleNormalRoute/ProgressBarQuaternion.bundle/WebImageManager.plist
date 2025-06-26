@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRoute</key>
+	<string>displayableDecoration</string>
+	<key>associatesubscription</key>
+	<string>switchcubit</string>
+	<key>deferredContrast</key>
+	<string>autoInteger</string>
+	<key>overlaypopup</key>
+	<string>mediumPermutation</string>
+	<key>reductionhandler</key>
+	<string>scenetolerance</string>
+	<key>signTag</key>
+	<string>canFormatWorkflow</string>
+	<key>specifyPermutation</key>
+	<string>otherSize</string>
+	<key>subtleEmitter</key>
+	<string>permissiveStep</string>
+</dict>
+</plist>

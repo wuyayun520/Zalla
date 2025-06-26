@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBloc</key>
+	<string>receivePreview</string>
+	<key>diffableLatency</key>
+	<string>draggableAction</string>
+	<key>invisiblereducer</key>
+	<string>canPersistNavigator</string>
+	<key>oldEntity</key>
+	<string>dynamicNorm</string>
+	<key>responseFrequency</key>
+	<string>parsePreview</string>
+	<key>revisitconstraint</key>
+	<string>updateentropy</string>
+	<key>scaffoldright</key>
+	<string>shouldSkipCapacities</string>
+	<key>shouldSetStateConstraint</key>
+	<string>efficiencyBound</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedTension</key>
+	<string>notifiersubscriber</string>
+	<key>keyOffset</key>
+	<string>tweenStatus</string>
+	<key>normalSubscription</key>
+	<string>persistentIntensity</string>
+	<key>viewscalability</key>
+	<string>autoWrapper</string>
+</dict>
+</plist>

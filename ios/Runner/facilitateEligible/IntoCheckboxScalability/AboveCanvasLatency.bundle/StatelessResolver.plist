@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBrightness</key>
+	<string>resourceawaypattern</string>
+	<key>difficultUseCase</key>
+	<string>metricsOrientation</string>
+	<key>intuitiveSkirt</key>
+	<string>seamlessTabBar</string>
+	<key>normalCupertino</key>
+	<string>selectedchallenge</string>
+	<key>publicSingleton</key>
+	<string>opaqueNotation</string>
+	<key>queueAcceleration</key>
+	<string>canProcessExtension</string>
+	<key>secondChallenge</key>
+	<string>shouldFormatBehavior</string>
+	<key>webMomentum</key>
+	<string>injectionVariable</string>
+</dict>
+</plist>

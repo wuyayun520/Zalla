@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateNotification</key>
+	<string>exitLocalization</string>
+	<key>materialThread</key>
+	<string>usedEffect</string>
+	<key>promiseRate</key>
+	<string>shouldDismissPriority</string>
+	<key>shouldUnmountedMission</key>
+	<string>widgetKind</string>
+	<key>shouldrestartscroll</key>
+	<string>parallelTool</string>
+	<key>shouldunmounteddelegate</key>
+	<string>greatPositioned</string>
+	<key>showusecase</key>
+	<string>lazyAlpha</string>
+	<key>statefulTentative</key>
+	<string>bundleScene</string>
+	<key>triggerState</key>
+	<string>inkwellProcess</string>
+</dict>
+</plist>

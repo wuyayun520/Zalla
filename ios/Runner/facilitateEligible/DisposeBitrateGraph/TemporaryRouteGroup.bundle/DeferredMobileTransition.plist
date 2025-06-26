@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindpopup</key>
+	<string>uniqueindicatortransparency</string>
+	<key>dispatchparticle</key>
+	<string>independentScaffold</string>
+	<key>greatScheduler</key>
+	<string>shouldMountCoordinator</string>
+	<key>opaqueReduction</key>
+	<string>resilientLayer</string>
+	<key>protectedInstruction</key>
+	<string>primaryalignmentshape</string>
+	<key>responsiveGesture</key>
+	<string>challengeStructure</string>
+	<key>shouldCancelCanvas</key>
+	<string>adaptivePet</string>
+	<key>unmountcurve</key>
+	<string>flexibleConnector</string>
+</dict>
+</plist>

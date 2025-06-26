@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSize</key>
+	<string>showSpine</string>
+	<key>dedicatedEquipment</key>
+	<string>notificationVelocity</string>
+	<key>descentSaturation</key>
+	<string>storyboardhue</string>
+	<key>functionalevent</key>
+	<string>originalRoute</string>
+	<key>keyUsage</key>
+	<string>nibcenter</string>
+	<key>persiststream</key>
+	<string>asynchronousCheckbox</string>
+	<key>projectioninprocess</key>
+	<string>heapbound</string>
+</dict>
+</plist>

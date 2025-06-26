@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociategrayscale</key>
+	<string>shouldBindSlider</string>
+	<key>eagerSizedBox</key>
+	<string>calculateRow</string>
+	<key>imperativeCustomPaint</key>
+	<string>canNotifyDialogs</string>
+	<key>mainSkin</key>
+	<string>webFactory</string>
+	<key>opaqueBox</key>
+	<string>exponentProcess</string>
+	<key>queuedespitelayer</key>
+	<string>retrieveboxshadow</string>
+	<key>respectivereducer</key>
+	<string>unaryLocation</string>
+	<key>shouldBuildBehavior</key>
+	<string>crudewidget</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileconstraintskewx</key>
+	<string>cancelSwitch</string>
+	<key>controlleropacity</key>
+	<string>disposeBullet</string>
+	<key>decorationTop</key>
+	<string>paintNavigator</string>
+	<key>heroprogressbar</key>
+	<string>chapterTension</string>
+	<key>nextInfo</key>
+	<string>presentText</string>
+	<key>semanticspecifierspeed</key>
+	<string>normValidation</string>
+	<key>usedEvolution</key>
+	<string>shouldTransitionMomentum</string>
+</dict>
+</plist>

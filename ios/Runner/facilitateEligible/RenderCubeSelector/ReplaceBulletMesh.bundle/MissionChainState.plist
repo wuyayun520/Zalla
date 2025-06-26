@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityStatus</key>
+	<string>shouldShowCollection</string>
+	<key>gatetriangles</key>
+	<string>cellBridge</string>
+	<key>gridviewInset</key>
+	<string>customAnalyzer</string>
+	<key>layerindex</key>
+	<string>discoverChapter</string>
+	<key>parsesymbol</key>
+	<string>currenttransition</string>
+	<key>seamlesscomposition</key>
+	<string>schedulerCoord</string>
+	<key>tweenName</key>
+	<string>mediocreEntropy</string>
+</dict>
+</plist>

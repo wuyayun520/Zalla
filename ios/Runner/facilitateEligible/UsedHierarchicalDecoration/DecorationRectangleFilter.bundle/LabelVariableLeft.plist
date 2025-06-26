@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperPressure</key>
+	<string>specifyNotifier</string>
+	<key>defaultbehavior</key>
+	<string>seamlessQuaternion</string>
+	<key>descriptionparameterforce</key>
+	<string>logshade</string>
+	<key>inactivesession</key>
+	<string>textwithparam</string>
+	<key>primaryBinary</key>
+	<string>shouldPauseCheckbox</string>
+	<key>scenewithprocess</key>
+	<string>shouldCancelSensor</string>
+	<key>subtleSymbol</key>
+	<string>persistentGate</string>
+	<key>synchronizedelegate</key>
+	<string>characteristicTail</string>
+</dict>
+</plist>

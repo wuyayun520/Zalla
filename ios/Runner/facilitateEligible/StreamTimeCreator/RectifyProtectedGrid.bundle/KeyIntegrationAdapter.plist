@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerscale</key>
+	<string>poolParticle</string>
+	<key>eagerElement</key>
+	<string>intuitiveAsset</string>
+	<key>fixedTexture</key>
+	<string>connectorVisible</string>
+	<key>materialInteractor</key>
+	<string>shouldPushSkin</string>
+	<key>newestStrength</key>
+	<string>displayableMultiplication</string>
+	<key>permanentremainderdensity</key>
+	<string>statelessStamp</string>
+	<key>shouldCancelCard</key>
+	<string>reusablesemanticstype</string>
+	<key>shouldSetStateBoxShadow</key>
+	<string>shearSubscription</string>
+	<key>similarStroke</key>
+	<string>canDispatchSymbol</string>
+	<key>uniformSelector</key>
+	<string>beginnerClipper</string>
+</dict>
+</plist>

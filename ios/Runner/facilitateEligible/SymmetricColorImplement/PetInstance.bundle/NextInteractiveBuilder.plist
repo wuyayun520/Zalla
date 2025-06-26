@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalconsumer</key>
+	<string>requiredgridviewedge</string>
+	<key>deserializetheme</key>
+	<string>standaloneCube</string>
+	<key>metadataanimation</key>
+	<string>unsortedStamp</string>
+	<key>nodeFlags</key>
+	<string>screenOpacity</string>
+	<key>responseSaturation</key>
+	<string>repositoryscope</string>
+	<key>sequentialMobile</key>
+	<string>unaryMargin</string>
+	<key>shouldCancelCapacities</key>
+	<string>crudeSprite</string>
+	<key>smartTrigger</key>
+	<string>sortedStorage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDetail</key>
+	<string>diffableinteractor</string>
+	<key>defaultDecoration</key>
+	<string>canShowStamp</string>
+	<key>directlydescriptorbottom</key>
+	<string>mutableRect</string>
+	<key>flexibleBatch</key>
+	<string>interactiveBuilder</string>
+	<key>geometricstampcoord</key>
+	<string>disconnectScaffold</string>
+	<key>statelessScale</key>
+	<string>resumeExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachehead</key>
+	<string>insteadModel</string>
+	<key>checkequipment</key>
+	<string>ignoredBatch</string>
+	<key>framesize</key>
+	<string>encodeSensor</string>
+	<key>nativeExpanded</key>
+	<string>shouldDisposeDuration</string>
+	<key>shouldNavigateMedia</key>
+	<string>shouldPauseTechnique</string>
+	<key>shouldObserveSkin</key>
+	<string>tabbarAlignment</string>
+	<key>timelineInset</key>
+	<string>animateListView</string>
+	<key>typicalExtension</key>
+	<string>draggableInterface</string>
+	<key>yieldgate</key>
+	<string>shouldSetStateAperture</string>
+</dict>
+</plist>

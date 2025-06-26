@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateGestureDetector</key>
+	<string>stackNumber</string>
+	<key>inheritedTrigger</key>
+	<string>rectStatus</string>
+	<key>inheritedtitle</key>
+	<string>captionnearscope</string>
+	<key>reusableDescent</key>
+	<string>flexibleFrame</string>
+	<key>selectorinterval</key>
+	<string>compositionalactivityhead</string>
+	<key>shouldEncodeMusic</key>
+	<string>coordinatormaterial</string>
+	<key>smallResponse</key>
+	<string>eraseScene</string>
+	<key>transformerLeft</key>
+	<string>unarydecoratorappearance</string>
+</dict>
+</plist>

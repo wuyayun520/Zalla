@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticStack</key>
+	<string>pinchableDispatcher</string>
+	<key>onappbartap</key>
+	<string>positionpicker</string>
+	<key>plateanimator</key>
+	<string>entityStyle</string>
+	<key>respectiverouteresponse</key>
+	<string>transformercompositehue</string>
+	<key>shouldStreamCatalyst</key>
+	<string>uniqueConstraint</string>
+	<key>titleAppearance</key>
+	<string>hyperbolicsingleton</string>
+</dict>
+</plist>

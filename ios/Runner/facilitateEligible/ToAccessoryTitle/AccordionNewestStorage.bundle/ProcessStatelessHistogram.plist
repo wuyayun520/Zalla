@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainCoord</key>
+	<string>effectCoord</string>
+	<key>immediateComposition</key>
+	<string>smallDelivery</string>
+	<key>projectionInteraction</key>
+	<string>keygrid</string>
+	<key>protectedCosine</key>
+	<string>arithmeticConverter</string>
+	<key>shouldPresentMusic</key>
+	<string>canRebuildMomentum</string>
+	<key>unactivatedMaterial</key>
+	<string>immediateRectangle</string>
+</dict>
+</plist>

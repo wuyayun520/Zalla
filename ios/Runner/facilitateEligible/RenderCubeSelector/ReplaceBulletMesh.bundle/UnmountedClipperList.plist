@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalModel</key>
+	<string>lastlatency</string>
+	<key>greatIntegrity</key>
+	<string>adaptiveHeap</string>
+	<key>looptexture</key>
+	<string>shouldResumeStack</string>
+	<key>scrollableTexture</key>
+	<string>trianglesColor</string>
+	<key>streamstrategyright</key>
+	<string>rebuildhandler</string>
+</dict>
+</plist>

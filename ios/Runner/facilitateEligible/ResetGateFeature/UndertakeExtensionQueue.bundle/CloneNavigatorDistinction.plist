@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorType</key>
+	<string>radioDensity</string>
+	<key>ignoredEqualization</key>
+	<string>difficultQuaternion</string>
+	<key>publishcoordinator</key>
+	<string>canInflateFuture</string>
+	<key>receiverlocation</key>
+	<string>captionCommand</string>
+	<key>shouldCreateBox</key>
+	<string>entitylevelshape</string>
+	<key>topicintegrity</key>
+	<string>subsequentRow</string>
+</dict>
+</plist>

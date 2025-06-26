@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorCenter</key>
+	<string>listenSprite</string>
+	<key>denseSound</key>
+	<string>buildanimation</string>
+	<key>ephemeralInterpolation</key>
+	<string>replaceKernel</string>
+	<key>matrixconnector</key>
+	<string>nextImage</string>
+	<key>nativeDimension</key>
+	<string>multiAction</string>
+	<key>scenesinceprototype</key>
+	<string>reflectChannel</string>
+	<key>shouldDecodeScroll</key>
+	<string>computeModel</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSegue</key>
+	<string>hashDensity</string>
+	<key>columnSkewX</key>
+	<string>asyncoffset</string>
+	<key>customizedVector</key>
+	<string>fragmentsBound</string>
+	<key>hardMend</key>
+	<string>consultativeCollection</string>
+	<key>mobileContrast</key>
+	<string>transposeprovider</string>
+	<key>mobileValidation</key>
+	<string>canNotifyStep</string>
+	<key>pausenavigation</key>
+	<string>discardedNorm</string>
+	<key>presenttouch</key>
+	<string>similarlog</string>
+	<key>signatureOffset</key>
+	<string>groupLevel</string>
+	<key>videoFormat</key>
+	<string>mainIcon</string>
+</dict>
+</plist>

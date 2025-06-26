@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTernary</key>
+	<string>builderProxy</string>
+	<key>bitratepreview</key>
+	<string>fragmentForce</string>
+	<key>fusedController</key>
+	<string>globalTime</string>
+	<key>layoutsincework</key>
+	<string>associatedanchortheme</string>
+	<key>sensorenvironmentformat</key>
+	<string>previewscalability</string>
+	<key>shouldLayoutMission</key>
+	<string>groupmapper</string>
+	<key>sustainableRow</key>
+	<string>exponentinformation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPet</key>
+	<string>popuppager</string>
+	<key>enabledVolume</key>
+	<string>canvasPlatform</string>
+	<key>optimizermethodstatus</key>
+	<string>immediateSignature</string>
+	<key>shouldAttachCycle</key>
+	<string>durationhandler</string>
+	<key>smartProvider</key>
+	<string>protocolinsidework</string>
+	<key>timeCount</key>
+	<string>canStopSample</string>
+	<key>transitionDelay</key>
+	<string>granularAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSingleton</key>
+	<string>providerContext</string>
+	<key>immutableDescription</key>
+	<string>hyperbolicTransition</string>
+	<key>instructionKind</key>
+	<string>createCursor</string>
+	<key>remediationMode</key>
+	<string>inflateImage</string>
+	<key>respectivescroller</key>
+	<string>grainChain</string>
+	<key>shouldEncodeShader</key>
+	<string>rebuildSegue</string>
+	<key>standaloneGrain</key>
+	<string>currentloss</string>
+	<key>synchronoussizeopacity</key>
+	<string>shouldprocessswitch</string>
+</dict>
+</plist>

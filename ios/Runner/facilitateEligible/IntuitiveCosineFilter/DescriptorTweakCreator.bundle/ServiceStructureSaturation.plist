@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTweak</key>
+	<string>rectinterval</string>
+	<key>concurrentMethod</key>
+	<string>replaceMultiplication</string>
+	<key>coordinatorshade</key>
+	<string>opaqueSegue</string>
+	<key>diversifiedcapacities</key>
+	<string>iconContrast</string>
+	<key>integrityforce</key>
+	<string>currentActivity</string>
+	<key>resolveroperationtheme</key>
+	<string>reactiveinteractor</string>
+	<key>scaffoldEdge</key>
+	<string>apertureEdge</string>
+	<key>visibleConfiguration</key>
+	<string>canEmitPrecision</string>
+</dict>
+</plist>

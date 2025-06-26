@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSink</key>
+	<string>webData</string>
+	<key>desktopRectangle</key>
+	<string>benchmarkPopup</string>
+	<key>discardedUsage</key>
+	<string>shouldContinueStream</string>
+	<key>geometricInjection</key>
+	<string>exceptionphaseinset</string>
+	<key>mobileCreator</key>
+	<string>lastCard</string>
+	<key>permanentscenario</key>
+	<string>composableReceiver</string>
+	<key>precisionSpacing</key>
+	<string>newestStatus</string>
+	<key>resizablePopup</key>
+	<string>disposesegment</string>
+	<key>shouldStartSubpixel</key>
+	<string>serializeReference</string>
+</dict>
+</plist>

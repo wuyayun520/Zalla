@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseKind</key>
+	<string>consumeTransition</string>
+	<key>mapkindleft</key>
+	<string>allocateFactory</string>
+	<key>opaqueStamp</key>
+	<string>localMetrics</string>
+	<key>scrollableSign</key>
+	<string>dismissSwift</string>
+	<key>shouldSetStateVariant</key>
+	<string>functionalResolver</string>
+	<key>shouldTransformCurve</key>
+	<string>alertoflevel</string>
+	<key>smallstream</key>
+	<string>serializeProjection</string>
+</dict>
+</plist>

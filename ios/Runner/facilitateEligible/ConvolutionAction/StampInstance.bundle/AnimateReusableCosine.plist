@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachefeature</key>
+	<string>provideLoop</string>
+	<key>characterVelocity</key>
+	<string>prepareMission</string>
+	<key>expandeddistance</key>
+	<string>shouldMountedModal</string>
+	<key>localizationthroughstrategy</key>
+	<string>resilienceSpeed</string>
+	<key>modalRotation</key>
+	<string>exponentalongobserver</string>
+	<key>tickerEdge</key>
+	<string>shouldRouteProvider</string>
+	<key>trajectoryMode</key>
+	<string>mitigateState</string>
+</dict>
+</plist>

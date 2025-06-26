@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProtocol</key>
+	<string>mediumSubpixel</string>
+	<key>cancelscene</key>
+	<string>normalTentative</string>
+	<key>dynamicSize</key>
+	<string>resilientEquipment</string>
+	<key>elasticColor</key>
+	<string>denseStamp</string>
+	<key>largeDrawer</key>
+	<string>annotateParticle</string>
+	<key>shouldResumeAnimation</key>
+	<string>pivotalanimator</string>
+	<key>streamstate</key>
+	<string>shouldDecodeSubpixel</string>
+</dict>
+</plist>

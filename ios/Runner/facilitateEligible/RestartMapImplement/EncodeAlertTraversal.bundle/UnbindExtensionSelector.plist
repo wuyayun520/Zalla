@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvebrightness</key>
+	<string>shouldPrepareCatalyst</string>
+	<key>granularCache</key>
+	<string>shouldRouteTabView</string>
+	<key>mediumparticlevelocity</key>
+	<string>onswiftchanged</string>
+	<key>protectedReceiver</key>
+	<string>combinerShape</string>
+	<key>renderaccessory</key>
+	<string>parallelCell</string>
+	<key>segueEdge</key>
+	<string>flexibleEfficiency</string>
+	<key>shouldsubscribenavigator</key>
+	<string>prismaticDependency</string>
+	<key>singletonanimation</key>
+	<string>encoderepository</string>
+	<key>tableOffset</key>
+	<string>statefulBuffer</string>
+</dict>
+</plist>

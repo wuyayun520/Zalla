@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStatus</key>
+	<string>dropdownbuttonVisibility</string>
+	<key>backwardComponent</key>
+	<string>flexibleAxis</string>
+	<key>difficultinteractorfeedback</key>
+	<string>bundleSubscription</string>
+	<key>liteDuration</key>
+	<string>oldOperation</string>
+	<key>offsetdecoratorrate</key>
+	<string>finishCurve</string>
+	<key>pinchablePoint</key>
+	<string>subsequentTouch</string>
+	<key>shouldInflateProjection</key>
+	<string>bundleChapter</string>
+</dict>
+</plist>

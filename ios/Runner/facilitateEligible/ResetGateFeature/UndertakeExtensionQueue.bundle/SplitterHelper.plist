@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAccessory</key>
+	<string>usecasevisitorbottom</string>
+	<key>discardedinteractorcolor</key>
+	<string>charthue</string>
+	<key>limittouch</key>
+	<string>agileIntegration</string>
+	<key>reducerorbridge</key>
+	<string>canTrainWorkflow</string>
+	<key>significantDrawer</key>
+	<string>canCacheRow</string>
+	<key>tensorFlex</key>
+	<string>seamlessTabView</string>
+</dict>
+</plist>

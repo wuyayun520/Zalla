@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredChooser</key>
+	<string>ignoredShape</string>
+	<key>diffableTween</key>
+	<string>registerButton</string>
+	<key>diffableresolverright</key>
+	<string>initializelistener</string>
+	<key>infoResponse</key>
+	<string>canPrepareProject</string>
+	<key>normexceptaction</key>
+	<string>secondConfiguration</string>
+	<key>shouldInflateChannels</key>
+	<string>standalonecontrollerdelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoUseCase</key>
+	<string>rectifycompleter</string>
+	<key>localizationdecoratorflags</key>
+	<string>ephemeralTransformer</string>
+	<key>notifyresource</key>
+	<string>completedSegue</string>
+	<key>opaquecontainerright</key>
+	<string>presentAnimation</string>
+	<key>publicRadio</key>
+	<string>crucialStatus</string>
+	<key>reusablefragmentforce</key>
+	<string>provideService</string>
+	<key>techniqueIndex</key>
+	<string>gategrid</string>
+</dict>
+</plist>

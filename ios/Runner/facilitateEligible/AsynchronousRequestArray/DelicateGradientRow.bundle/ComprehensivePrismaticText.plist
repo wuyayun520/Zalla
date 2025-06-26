@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRichText</key>
+	<string>imperativeExponent</string>
+	<key>allocaterect</key>
+	<string>shouldRouteTable</string>
+	<key>associatetouch</key>
+	<string>currentBuffer</string>
+	<key>checkboxVelocity</key>
+	<string>shouldEndMobile</string>
+	<key>pinchableBoxShadow</key>
+	<string>confidentialityDelay</string>
+	<key>textfieldoutsidesingleton</key>
+	<string>subscribeswitch</string>
+</dict>
+</plist>

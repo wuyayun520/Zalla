@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerfragments</key>
+	<string>utilScale</string>
+	<key>intuitiveEqualization</key>
+	<string>typicalstoryboardtransparency</string>
+	<key>linkertension</key>
+	<string>otherNavigator</string>
+	<key>shouldMountedGrayscale</key>
+	<string>concurrentAllocator</string>
+	<key>shouldUnmountedMomentum</key>
+	<string>shouldRouteInstruction</string>
+	<key>shouldsetstatelabel</key>
+	<string>crudeLinker</string>
+	<key>sizeBehavior</key>
+	<string>resetSink</string>
+	<key>tweakBorder</key>
+	<string>prismaticTitle</string>
+</dict>
+</plist>

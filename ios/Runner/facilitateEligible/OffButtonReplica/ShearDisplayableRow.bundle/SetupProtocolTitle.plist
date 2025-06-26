@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionanalyzer</key>
+	<string>shouldMountedSwift</string>
+	<key>opaqueElement</key>
+	<string>dividePreview</string>
+	<key>secondMaterializer</key>
+	<string>localController</string>
+	<key>shouldDecodeConstraint</key>
+	<string>mountNotifier</string>
+	<key>shouldPauseDelegate</key>
+	<string>scenefromstructure</string>
+</dict>
+</plist>

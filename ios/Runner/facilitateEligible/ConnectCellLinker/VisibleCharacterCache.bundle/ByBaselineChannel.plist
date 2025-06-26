@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictasktension</key>
+	<string>navigateAxis</string>
+	<key>commonUnary</key>
+	<string>intermediateExtension</string>
+	<key>descentInset</key>
+	<string>notationDuration</string>
+	<key>globalPicker</key>
+	<string>sustainableArithmetic</string>
+	<key>localModule</key>
+	<string>invisibleBinary</string>
+	<key>scrollableCompleter</key>
+	<string>cosinecombiner</string>
+	<key>statelessElasticity</key>
+	<string>otherprotocol</string>
+</dict>
+</plist>

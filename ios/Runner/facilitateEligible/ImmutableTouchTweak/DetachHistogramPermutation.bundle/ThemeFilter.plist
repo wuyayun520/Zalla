@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentHue</key>
+	<string>writeRow</string>
+	<key>converterDuration</key>
+	<string>canMountCaption</string>
+	<key>currentskin</key>
+	<string>blocTransparency</string>
+	<key>fragmentsStyle</key>
+	<string>transformScroll</string>
+	<key>gesturedetectortint</key>
+	<string>shouldDisconnectCapsule</string>
+	<key>shouldDisconnectRole</key>
+	<string>greatGrayscale</string>
+	<key>tolerancedistance</key>
+	<string>cycleFlags</string>
+</dict>
+</plist>

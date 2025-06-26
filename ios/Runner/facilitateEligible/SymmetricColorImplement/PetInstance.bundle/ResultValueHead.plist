@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFinder</key>
+	<string>enhanceMetadata</string>
+	<key>arithmeticRenderer</key>
+	<string>emitTask</string>
+	<key>largespine</key>
+	<string>connectGestureDetector</string>
+	<key>nextresponsescale</key>
+	<string>continueController</string>
+	<key>scrollerTension</key>
+	<string>shouldObserveImage</string>
+	<key>shouldAnimateBox</key>
+	<string>draggableTrajectory</string>
+	<key>stateStatus</key>
+	<string>canPauseIcon</string>
+	<key>sustainableProgressBar</key>
+	<string>shapepressure</string>
+</dict>
+</plist>

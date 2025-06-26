@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialcurvespeed</key>
+	<string>exceptionduringtier</string>
+	<key>customWorkflow</key>
+	<string>unsortedSymbol</string>
+	<key>enabledArchitecture</key>
+	<string>checkboxParameter</string>
+	<key>pivotaloverlay</key>
+	<string>permissiveGridView</string>
+	<key>tensorEvolution</key>
+	<string>activityDelay</string>
+	<key>textresponse</key>
+	<string>accordionAsset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteraction</key>
+	<string>animationduringtemple</string>
+	<key>desktopTitle</key>
+	<string>tentativeTheme</string>
+	<key>dimensionsaturation</key>
+	<string>granularrow</string>
+	<key>ignoredChannels</key>
+	<string>shouldconnectstoryboard</string>
+	<key>shearobserver</key>
+	<string>reduceNode</string>
+	<key>shouldShowProjection</key>
+	<string>shouldnotifyinterpolation</string>
+	<key>standaloneTable</key>
+	<string>canSkipListView</string>
+	<key>synchronousLifecycle</key>
+	<string>formatOverlay</string>
+	<key>themeValidation</key>
+	<string>activatedComponent</string>
+</dict>
+</plist>

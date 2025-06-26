@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionaboutfunction</key>
+	<string>minSpine</string>
+	<key>delegaterate</key>
+	<string>shouldTransitionChecklist</string>
+	<key>keyDocument</key>
+	<string>symmetricView</string>
+	<key>mountextension</key>
+	<string>streamlineState</string>
+	<key>presenterTop</key>
+	<string>explicitAllocator</string>
+	<key>pushanimation</key>
+	<string>transposeScene</string>
+	<key>selectedlistview</key>
+	<string>activeRole</string>
+	<key>webReduction</key>
+	<string>captionValidation</string>
+</dict>
+</plist>

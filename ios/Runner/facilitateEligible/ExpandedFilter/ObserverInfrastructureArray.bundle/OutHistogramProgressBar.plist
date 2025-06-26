@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentchooser</key>
+	<string>backwardSound</string>
+	<key>basicCurve</key>
+	<string>searchStream</string>
+	<key>exceptionShape</key>
+	<string>pivotalCompletion</string>
+	<key>interactionStyle</key>
+	<string>quaternionDelay</string>
+	<key>newestTween</key>
+	<string>errorDuration</string>
+	<key>statefulPolyfill</key>
+	<string>missedCertificate</string>
+	<key>titleFeedback</key>
+	<string>observerouter</string>
+	<key>unactivatedRange</key>
+	<string>segmentTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfeedback</key>
+	<string>navigationcontrast</string>
+	<key>independentNib</key>
+	<string>capsuleCount</string>
+	<key>mobilewithparameter</key>
+	<string>shouldRenderGraphic</string>
+	<key>oldMend</key>
+	<string>shouldValidatePlate</string>
+	<key>transitionright</key>
+	<string>screenSaturation</string>
+	<key>traversalFrequency</key>
+	<string>projectionJob</string>
+	<key>usedMethod</key>
+	<string>seekAllocator</string>
+</dict>
+</plist>

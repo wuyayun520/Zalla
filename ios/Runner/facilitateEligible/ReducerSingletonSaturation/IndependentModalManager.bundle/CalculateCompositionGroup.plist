@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedReceiver</key>
+	<string>radiusandvar</string>
+	<key>grayscaledelivery</key>
+	<string>backwardImpact</string>
+	<key>inflateinkwell</key>
+	<string>pagerLeft</string>
+	<key>mapfromcontext</key>
+	<string>statefulposition</string>
+	<key>missedAlpha</key>
+	<string>significantCurve</string>
+	<key>nativeManager</key>
+	<string>clipresource</string>
+	<key>observecustompaint</key>
+	<string>maxImage</string>
+	<key>servicedistance</key>
+	<string>integerrenderer</string>
+	<key>shouldEndPageView</key>
+	<string>shouldEncodePromise</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitColor</key>
+	<string>robustFrame</string>
+	<key>descriptionshade</key>
+	<string>numericalConvolution</string>
+	<key>functionalprecisionvisible</key>
+	<string>canUpdateTransition</string>
+	<key>intuitiveProtocol</key>
+	<string>pushdialogs</string>
+	<key>statefulMenu</key>
+	<string>consumptionTint</string>
+	<key>storageAcceleration</key>
+	<string>iterativeChannel</string>
+	<key>subsequentefficiency</key>
+	<string>animationinoperation</string>
+	<key>weblatency</key>
+	<string>textfieldTint</string>
+</dict>
+</plist>

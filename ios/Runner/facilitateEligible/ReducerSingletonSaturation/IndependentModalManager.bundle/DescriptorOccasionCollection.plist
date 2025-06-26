@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModal</key>
+	<string>iterativeAction</string>
+	<key>crudeContraction</key>
+	<string>canParseSlider</string>
+	<key>deliveryFrequency</key>
+	<string>shouldParseBox</string>
+	<key>geometricAsset</key>
+	<string>opaqueRoute</string>
+	<key>iterativelayout</key>
+	<string>plateVisibility</string>
+	<key>rowhue</key>
+	<string>canCancelCursor</string>
+	<key>shouldFetchDuration</key>
+	<string>evaluationSkewX</string>
+</dict>
+</plist>

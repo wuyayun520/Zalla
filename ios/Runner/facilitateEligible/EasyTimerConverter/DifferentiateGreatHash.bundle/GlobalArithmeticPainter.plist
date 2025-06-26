@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonofscope</key>
+	<string>loadview</string>
+	<key>equalizationprogressbar</key>
+	<string>recursionmargin</string>
+	<key>expandedSkewX</key>
+	<string>persistGestureDetector</string>
+	<key>granularModel</key>
+	<string>canShowCatalyst</string>
+	<key>interfaceincludecontext</key>
+	<string>shouldSetStateMusic</string>
+	<key>mobileCursor</key>
+	<string>nativeMonster</string>
+	<key>nextAlert</key>
+	<string>acceleratedecoration</string>
+	<key>shouldPushSegue</key>
+	<string>canUnmountedEqualization</string>
+	<key>symmetricPosition</key>
+	<string>playbackTension</string>
+</dict>
+</plist>

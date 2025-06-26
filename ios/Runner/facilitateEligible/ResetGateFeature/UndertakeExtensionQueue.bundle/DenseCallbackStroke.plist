@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVelocity</key>
+	<string>similarPlate</string>
+	<key>disparateAspect</key>
+	<string>beginnerLifecycle</string>
+	<key>nativePager</key>
+	<string>notificationTail</string>
+	<key>slashOrientation</key>
+	<string>animatedlayer</string>
+	<key>unactivatedinjectionpadding</key>
+	<string>startDrawer</string>
+</dict>
+</plist>

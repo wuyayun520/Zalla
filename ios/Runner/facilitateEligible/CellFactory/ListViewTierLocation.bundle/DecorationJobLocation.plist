@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoIntegration</key>
+	<string>enabledPicker</string>
+	<key>blocBound</key>
+	<string>destroySprite</string>
+	<key>brushCoord</key>
+	<string>easyImpact</string>
+	<key>buttonnearparam</key>
+	<string>shouldPrepareGraphic</string>
+	<key>permanentText</key>
+	<string>attachCosine</string>
+	<key>selectorStatus</key>
+	<string>mainGridView</string>
+	<key>shouldDecodeMediaQuery</key>
+	<string>trainstamp</string>
+	<key>signValidation</key>
+	<string>disposeAspectRatio</string>
+	<key>tabbarbeyondscope</key>
+	<string>tabviewFormat</string>
+</dict>
+</plist>

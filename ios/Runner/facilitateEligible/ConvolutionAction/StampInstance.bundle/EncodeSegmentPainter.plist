@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMargin</key>
+	<string>moduleShape</string>
+	<key>deliveryvisible</key>
+	<string>cleanSprite</string>
+	<key>explicitskinrate</key>
+	<string>zonenearbuffer</string>
+	<key>numericalTrigger</key>
+	<string>listenerForce</string>
+	<key>pageviewLeft</key>
+	<string>chooserformat</string>
+	<key>pageviewcoord</key>
+	<string>occasionOpacity</string>
+	<key>setstatestore</key>
+	<string>intensityMemento</string>
+	<key>shouldReplaceInkWell</key>
+	<string>reconcileLayout</string>
+</dict>
+</plist>

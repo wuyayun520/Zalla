@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerreference</key>
+	<string>viewtension</string>
+	<key>detachcontainer</key>
+	<string>notifyDimension</string>
+	<key>dynamicPreview</key>
+	<string>requestparameteralignment</string>
+	<key>interpolateasync</key>
+	<string>shouldLoadBox</string>
+	<key>seamlessiconvisible</key>
+	<string>shouldPushAlert</string>
+	<key>shouldPublishComposition</key>
+	<string>lockNode</string>
+	<key>significantCertificate</key>
+	<string>relationalVariant</string>
+</dict>
+</plist>

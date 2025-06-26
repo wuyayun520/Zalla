@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatelayout</key>
+	<string>labelbridgehue</string>
+	<key>enabledShader</key>
+	<string>chartOffset</string>
+	<key>lazyProjection</key>
+	<string>geometricGram</string>
+	<key>mobileElement</key>
+	<string>controllerprovider</string>
+	<key>quaternionCoord</key>
+	<string>canReplaceContraction</string>
+	<key>shouldRestartDimension</key>
+	<string>smartGift</string>
+	<key>shouldnotifybox</key>
+	<string>canDetachDelegate</string>
+	<key>textrestriction</key>
+	<string>detachreduction</string>
+</dict>
+</plist>

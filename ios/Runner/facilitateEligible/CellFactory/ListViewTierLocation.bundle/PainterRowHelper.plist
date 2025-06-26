@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeConsumption</key>
+	<string>symmetricchecklistpressure</string>
+	<key>handlertheme</key>
+	<string>introspectHandler</string>
+	<key>indicatoragainstfunction</key>
+	<string>shouldDecodeCosine</string>
+	<key>navigationtexture</key>
+	<string>provideexpanded</string>
+	<key>persistentSink</key>
+	<string>transitionMomentum</string>
+	<key>secondGem</key>
+	<string>signaturevelocity</string>
+	<key>shouldPrepareDuration</key>
+	<string>spinRect</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNib</key>
+	<string>explicitchannel</string>
+	<key>discardedmovement</key>
+	<string>entityType</string>
+	<key>ontooltap</key>
+	<string>shouldstopcycle</string>
+	<key>renameintensity</key>
+	<string>searcherForce</string>
+	<key>slashvisible</key>
+	<string>custompaintResponse</string>
+	<key>swiftFlags</key>
+	<string>composableGrain</string>
+</dict>
+</plist>

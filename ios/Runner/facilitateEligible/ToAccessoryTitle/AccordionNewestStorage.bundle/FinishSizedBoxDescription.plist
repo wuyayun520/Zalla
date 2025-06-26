@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureVisible</key>
+	<string>shouldDispatchBuilder</string>
+	<key>dropoutlog</key>
+	<string>progressbarinkind</string>
+	<key>greatcontrollerscale</key>
+	<string>composableChannels</string>
+	<key>shouldcacherichtext</key>
+	<string>shouldpresentpriority</string>
+</dict>
+</plist>

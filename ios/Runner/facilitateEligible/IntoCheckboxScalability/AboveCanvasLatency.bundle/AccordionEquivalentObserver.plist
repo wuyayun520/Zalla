@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basenumberdirection</key>
+	<string>extendGraph</string>
+	<key>bitratetask</key>
+	<string>mediocreTable</string>
+	<key>currentStatus</key>
+	<string>shouldProcessPet</string>
+	<key>diffableRole</key>
+	<string>buttoncontainstrategy</string>
+	<key>observerBorder</key>
+	<string>decodecompletion</string>
+	<key>originalAscent</key>
+	<string>visibleCard</string>
+	<key>shouldCreateCycle</key>
+	<string>titleDelay</string>
+	<key>statefulDetector</key>
+	<string>streamlineWidget</string>
+</dict>
+</plist>

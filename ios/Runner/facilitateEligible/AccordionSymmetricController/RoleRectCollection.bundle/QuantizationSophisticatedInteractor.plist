@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedroutetop</key>
+	<string>shouldstartbloc</string>
+	<key>boxshadowsaturation</key>
+	<string>dismissExpanded</string>
+	<key>controllerIndex</key>
+	<string>hasGridView</string>
+	<key>immediateCubit</key>
+	<string>replicateResolver</string>
+	<key>immediateTriangles</key>
+	<string>cartesianTexture</string>
+	<key>layoutschema</key>
+	<string>registerChart</string>
+	<key>modalScale</key>
+	<string>crudePadding</string>
+	<key>pinchableLogarithm</key>
+	<string>substantialSink</string>
+	<key>standaloneResource</key>
+	<string>tangentIndex</string>
+	<key>strengthOpacity</key>
+	<string>webStore</string>
+</dict>
+</plist>

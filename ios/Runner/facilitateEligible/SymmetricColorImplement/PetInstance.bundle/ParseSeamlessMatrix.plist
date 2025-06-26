@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncpatterncenter</key>
+	<string>layoutTail</string>
+	<key>collectionprogressbar</key>
+	<string>canDetachEqualization</string>
+	<key>createrect</key>
+	<string>dependencyName</string>
+	<key>relationalScale</key>
+	<string>draggableDecoration</string>
+	<key>shouldtransformcoordinator</key>
+	<string>shouldresumebehavior</string>
+</dict>
+</plist>

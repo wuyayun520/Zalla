@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCubit</key>
+	<string>resourceTier</string>
+	<key>beginnerRange</key>
+	<string>curvealongfunction</string>
+	<key>diffableEqualization</key>
+	<string>numericalintegrity</string>
+	<key>dynamicTangent</key>
+	<string>menuLevel</string>
+	<key>firstSpecifier</key>
+	<string>animatedCreator</string>
+	<key>iconTop</key>
+	<string>bufferworkposition</string>
+	<key>matrixMargin</key>
+	<string>othergrid</string>
+	<key>mobileFormat</key>
+	<string>accessibleresult</string>
+	<key>reconciledrawer</key>
+	<string>agilecanvascount</string>
+	<key>repositorypicker</key>
+	<string>replicaIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredCaption</key>
+	<string>minPet</string>
+	<key>isvariant</key>
+	<string>displayableVolume</string>
+	<key>lazyPageView</key>
+	<string>paintMedia</string>
+	<key>linkerBound</key>
+	<string>oldState</string>
+	<key>prismaticConfiguration</key>
+	<string>criticalHeap</string>
+	<key>shouldInflateBox</key>
+	<string>asyncPosition</string>
+	<key>shouldTransformLog</key>
+	<string>synchronousAxis</string>
+</dict>
+</plist>

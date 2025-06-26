@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMonster</key>
+	<string>shouldstreamsession</string>
+	<key>defaultimage</key>
+	<string>managerBound</string>
+	<key>lazyCaption</key>
+	<string>actionComposite</string>
+	<key>materialtype</key>
+	<string>toolordecorator</string>
+	<key>mediumSegment</key>
+	<string>temporaryTabBar</string>
+	<key>startequalization</key>
+	<string>shouldFetchResource</string>
+</dict>
+</plist>

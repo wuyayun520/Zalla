@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionoverlay</key>
+	<string>lastImpact</string>
+	<key>capsuleresource</key>
+	<string>lazyGroup</string>
+	<key>delicateConverter</key>
+	<string>shouldAttachAxis</string>
+	<key>equivalentHue</key>
+	<string>sharedFragments</string>
+	<key>lastPreview</key>
+	<string>allocatorprocessor</string>
+	<key>seamlessReceiver</key>
+	<string>delicateEvolution</string>
+	<key>statelessCompleter</key>
+	<string>shouldbindduration</string>
+	<key>symmetrichash</key>
+	<string>splitteralignment</string>
+</dict>
+</plist>

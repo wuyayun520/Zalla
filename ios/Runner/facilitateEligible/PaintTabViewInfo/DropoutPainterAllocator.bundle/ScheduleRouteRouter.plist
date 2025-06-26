@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTransparency</key>
+	<string>drawSingleton</string>
+	<key>asynchronousLayer</key>
+	<string>shouldCancelTabView</string>
+	<key>collectionOrigin</key>
+	<string>visibleDispatcher</string>
+	<key>collectionuntilparam</key>
+	<string>animatedCubit</string>
+	<key>shouldPauseAspectRatio</key>
+	<string>tensorHero</string>
+</dict>
+</plist>

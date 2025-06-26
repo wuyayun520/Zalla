@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialCache</key>
+	<string>persistCanvas</string>
+	<key>groupPosition</key>
+	<string>writegrain</string>
+	<key>hardformat</key>
+	<string>materialsprite</string>
+	<key>shouldCacheResource</key>
+	<string>attachScale</string>
+	<key>shouldKeepTheme</key>
+	<string>currentSink</string>
+	<key>tappableInstruction</key>
+	<string>shouldreplacefuture</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAspect</key>
+	<string>shouldTrainTernary</string>
+	<key>cellVisible</key>
+	<string>petInset</string>
+	<key>cosineCenter</key>
+	<string>serializeCapsule</string>
+	<key>cosineFrequency</key>
+	<string>subsequentFrame</string>
+	<key>desktopBinary</key>
+	<string>requestcenter</string>
+	<key>radiusLeft</key>
+	<string>tentativeShade</string>
+	<key>replacecaption</key>
+	<string>shouldPrepareBox</string>
+	<key>resolverCount</key>
+	<string>difficultStamp</string>
+	<key>semanticMetadata</key>
+	<string>checkdocument</string>
+	<key>usecasedelivery</key>
+	<string>canPrepareNotification</string>
+</dict>
+</plist>

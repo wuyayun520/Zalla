@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoropacity</key>
+	<string>rectifyCoordinator</string>
+	<key>backwardTicker</key>
+	<string>gestureactivitymomentum</string>
+	<key>desktopDimension</key>
+	<string>parseScreen</string>
+	<key>hierarchicaltitletension</key>
+	<string>shouldnavigatebehavior</string>
+	<key>intuitiveCollection</key>
+	<string>synchronouserrordirection</string>
+	<key>lazyGridView</key>
+	<string>hardScale</string>
+	<key>mastervertex</key>
+	<string>canTransformDrawer</string>
+	<key>navigatorcontrast</key>
+	<string>standalonePager</string>
+	<key>seamlessLatency</key>
+	<string>specifierofvariable</string>
+	<key>shouldSetStatePlayback</key>
+	<string>calculatePreview</string>
+</dict>
+</plist>

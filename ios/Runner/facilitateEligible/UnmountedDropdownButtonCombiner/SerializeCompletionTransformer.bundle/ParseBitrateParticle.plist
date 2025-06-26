@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrotation</key>
+	<string>pointProxy</string>
+	<key>deliveryAcceleration</key>
+	<string>chartdelay</string>
+	<key>reactiveCombiner</key>
+	<string>basicview</string>
+	<key>smallScalability</key>
+	<string>canPrepareMap</string>
+	<key>sortedProcessor</key>
+	<string>inheritedTexture</string>
+</dict>
+</plist>

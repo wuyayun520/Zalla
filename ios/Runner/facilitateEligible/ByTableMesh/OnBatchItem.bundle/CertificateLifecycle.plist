@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShade</key>
+	<string>canRestartBaseline</string>
+	<key>liteCosine</key>
+	<string>capacitiesPadding</string>
+	<key>lostWidget</key>
+	<string>canDismissStack</string>
+	<key>menuSaturation</key>
+	<string>overlayDelay</string>
+	<key>navigationgrain</key>
+	<string>geometricconvolution</string>
+	<key>priorSubscription</key>
+	<string>associateLoop</string>
+	<key>requiredInfo</key>
+	<string>bloccontrast</string>
+	<key>resizableRouter</key>
+	<string>beginnerGrain</string>
+	<key>sizedboxcompositeorigin</key>
+	<string>nibSize</string>
+</dict>
+</plist>

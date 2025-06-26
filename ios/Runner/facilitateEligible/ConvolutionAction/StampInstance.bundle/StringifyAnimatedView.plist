@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaMomentum</key>
+	<string>canUnmountedMedia</string>
+	<key>basicPriority</key>
+	<string>diffableSymbol</string>
+	<key>criticalController</key>
+	<string>canPauseDrawer</string>
+	<key>graphLeft</key>
+	<string>cycleSkewY</string>
+	<key>momentumprototypeinteraction</key>
+	<string>overlayBound</string>
+	<key>shouldContinueCollection</key>
+	<string>shouldMountScroll</string>
+	<key>shouldloadnotifier</key>
+	<string>remainderOrientation</string>
+</dict>
+</plist>

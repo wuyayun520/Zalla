@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteInkWell</key>
+	<string>starttheme</string>
+	<key>difficultException</key>
+	<string>responsiveaspect</string>
+	<key>explicitrow</key>
+	<string>shouldrebuildmedia</string>
+	<key>pushgrayscale</key>
+	<string>listviewLocation</string>
+	<key>resizableGrayscale</key>
+	<string>usedMobile</string>
+	<key>respectivePoint</key>
+	<string>canFormatText</string>
+	<key>scrollableCanvas</key>
+	<string>scaffoldPlatform</string>
+	<key>singletonshaperotation</key>
+	<string>reducerFlags</string>
+	<key>zoneStatus</key>
+	<string>elasticMapper</string>
+</dict>
+</plist>

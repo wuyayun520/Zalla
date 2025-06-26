@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonRate</key>
+	<string>liteMobile</string>
+	<key>lastSorter</key>
+	<string>disabledslider</string>
+	<key>resizefuture</key>
+	<string>mapperOrigin</string>
+	<key>scrollablePromise</key>
+	<string>crucialAction</string>
+	<key>shouldHandleProject</key>
+	<string>gesturedetectorDuration</string>
+	<key>shouldRouteUsage</key>
+	<string>gemBrightness</string>
+	<key>usageallocator</key>
+	<string>priorArithmetic</string>
+</dict>
+</plist>

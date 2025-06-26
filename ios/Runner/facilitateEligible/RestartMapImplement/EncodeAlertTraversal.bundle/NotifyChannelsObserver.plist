@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGraph</key>
+	<string>shouldTrainCapacities</string>
+	<key>inheritedconstraint</key>
+	<string>canCacheTheme</string>
+	<key>interactoroutsideproxy</key>
+	<string>shouldYieldEntropy</string>
+	<key>shouldCacheObserver</key>
+	<string>bindSpecifier</string>
+	<key>unactivatedTweak</key>
+	<string>shouldPublishLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocreducer</key>
+	<string>shouldtrainstoryboard</string>
+	<key>computeremainder</key>
+	<string>originalPoint</string>
+	<key>missioncontrast</key>
+	<string>optionEnvironment</string>
+	<key>parallelDropdownButton</key>
+	<string>shouldPresentCompletion</string>
+	<key>rectCenter</key>
+	<string>animatedcontainerfrequency</string>
+	<key>synchronousSample</key>
+	<string>mountImage</string>
+</dict>
+</plist>

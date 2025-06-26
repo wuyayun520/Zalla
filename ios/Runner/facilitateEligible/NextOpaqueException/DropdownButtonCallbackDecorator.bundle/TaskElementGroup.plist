@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSpeed</key>
+	<string>threadKind</string>
+	<key>curveFlags</key>
+	<string>observerscheduler</string>
+	<key>displayablePolygon</key>
+	<string>hasgate</string>
+	<key>hasflex</key>
+	<string>metricsAppearance</string>
+	<key>modalInteraction</key>
+	<string>exitText</string>
+	<key>paintervisitorvisible</key>
+	<string>executeRequest</string>
+	<key>referencerotation</key>
+	<string>draggableLog</string>
+	<key>retainedTolerance</key>
+	<string>graphicjobpressure</string>
+	<key>richtextLocation</key>
+	<string>offsetCenter</string>
+</dict>
+</plist>

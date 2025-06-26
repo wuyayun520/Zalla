@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMetrics</key>
+	<string>draggableStoryboard</string>
+	<key>flexibleAllocator</key>
+	<string>semanticpriorityspeed</string>
+	<key>lastPermutation</key>
+	<string>canAttachGesture</string>
+	<key>listenerresponder</key>
+	<string>statefulSorter</string>
+	<key>shouldInflateReduction</key>
+	<string>parallelascent</string>
+	<key>widgetScale</key>
+	<string>listviewContext</string>
+</dict>
+</plist>

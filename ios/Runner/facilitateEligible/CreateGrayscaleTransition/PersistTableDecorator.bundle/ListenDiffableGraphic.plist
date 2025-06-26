@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerindex</key>
+	<string>unregisterconfiguration</string>
+	<key>constraintSaturation</key>
+	<string>reusableboxtail</string>
+	<key>embedpositioned</key>
+	<string>skirtKind</string>
+	<key>enabledProfile</key>
+	<string>responsiveStorage</string>
+	<key>sensordecoratorspeed</key>
+	<string>canRebuildRoute</string>
+	<key>shouldPresentCaption</key>
+	<string>continueCache</string>
+	<key>uniformIsolate</key>
+	<string>keepBorder</string>
+	<key>validateactivity</key>
+	<string>shouldProcessMember</string>
+</dict>
+</plist>

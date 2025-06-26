@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateinobserver</key>
+	<string>canListenSlash</string>
+	<key>entropyVelocity</key>
+	<string>shouldPushHistogram</string>
+	<key>imperativeIntegrity</key>
+	<string>canRenderVariant</string>
+	<key>intermediateTimeline</key>
+	<string>groupmerger</string>
+	<key>invisiblePositioned</key>
+	<string>rowDirection</string>
+	<key>lastBuilder</key>
+	<string>uniformsegmentbottom</string>
+	<key>uniformLatency</key>
+	<string>singleDrawer</string>
+</dict>
+</plist>

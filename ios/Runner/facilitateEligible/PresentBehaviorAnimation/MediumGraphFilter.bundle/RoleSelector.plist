@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationconfidentiality</key>
+	<string>resolveMenu</string>
+	<key>directlyBatch</key>
+	<string>intermediateStroke</string>
+	<key>evaluationDelay</key>
+	<string>shouldRouteReference</string>
+	<key>scalabilityTheme</key>
+	<string>webinterface</string>
+	<key>seamlesssinkfeedback</key>
+	<string>unsortedBullet</string>
+	<key>shouldContinueScroll</key>
+	<string>architectureOrigin</string>
+	<key>shouldSaveSignature</key>
+	<string>renderstore</string>
+	<key>shouldUnmountActivity</key>
+	<string>saveCache</string>
+</dict>
+</plist>

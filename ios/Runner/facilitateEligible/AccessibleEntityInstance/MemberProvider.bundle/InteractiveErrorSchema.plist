@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryobserver</key>
+	<string>toolHue</string>
+	<key>activatedProvider</key>
+	<string>capturePopup</string>
+	<key>associatedSelector</key>
+	<string>pinchableIntegration</string>
+	<key>fixedcubit</key>
+	<string>dismissCallback</string>
+	<key>inheritedSwift</key>
+	<string>comprehensivesinkpadding</string>
+	<key>normalRectangle</key>
+	<string>persistentChannel</string>
+	<key>sessionSkewY</key>
+	<string>canStopStep</string>
+	<key>substantialStroke</key>
+	<string>dynamicWidget</string>
+	<key>tabbarState</key>
+	<string>throughputbrightness</string>
+</dict>
+</plist>

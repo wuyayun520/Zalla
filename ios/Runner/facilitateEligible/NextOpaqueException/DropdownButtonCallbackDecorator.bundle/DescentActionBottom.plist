@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantAlignment</key>
+	<string>pausePet</string>
+	<key>iterativeOperation</key>
+	<string>dedicatedMapper</string>
+	<key>lifecycleShade</key>
+	<string>chooserCount</string>
+	<key>mediumOffset</key>
+	<string>shouldPauseText</string>
+	<key>pinchableSprite</key>
+	<string>intermediateCaption</string>
+	<key>responsiveMusic</key>
+	<string>architectureLeft</string>
+	<key>shouldSetStateGesture</key>
+	<string>unsortedProvision</string>
+	<key>statefulDocument</key>
+	<string>tappableReducer</string>
+	<key>texturenumbercenter</key>
+	<string>crudeDelivery</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardstate</key>
+	<string>maxMaterial</string>
+	<key>crudeBinder</key>
+	<string>grainContext</string>
+	<key>materialController</key>
+	<string>loopAppearance</string>
+	<key>shouldLayoutStoryboard</key>
+	<string>otherSink</string>
+	<key>singletrajectory</key>
+	<string>shouldBindPriority</string>
+	<key>ternarylayer</key>
+	<string>mainStack</string>
+	<key>timerTheme</key>
+	<string>sortedFeature</string>
+</dict>
+</plist>

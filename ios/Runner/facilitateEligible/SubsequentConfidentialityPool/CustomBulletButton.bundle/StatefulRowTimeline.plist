@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopState</key>
+	<string>draggableRectangle</string>
+	<key>formatobserver</key>
+	<string>groupFlyweight</string>
+	<key>globalContrast</key>
+	<string>singleLabel</string>
+	<key>inheritedSorter</key>
+	<string>shouldAttachBorder</string>
+	<key>shouldSerializeSession</key>
+	<string>priorResolver</string>
+</dict>
+</plist>

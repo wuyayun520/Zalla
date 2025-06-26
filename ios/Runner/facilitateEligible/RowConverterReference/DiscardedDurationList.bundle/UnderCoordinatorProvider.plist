@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFactory</key>
+	<string>respectiveClipper</string>
+	<key>dialogsMomentum</key>
+	<string>lazySorter</string>
+	<key>granulardocumentcolor</key>
+	<string>interpolateConfiguration</string>
+	<key>keyCosine</key>
+	<string>persistentTransformer</string>
+	<key>lostGridView</key>
+	<string>shouldShowEqualization</string>
+	<key>navigatorsingletonspacing</key>
+	<string>shouldInflateGridView</string>
+	<key>prismaticUnary</key>
+	<string>drawLayer</string>
+	<key>shouldSubscribePadding</key>
+	<string>permanentIntegrity</string>
+	<key>shouldresumetool</key>
+	<string>secondStamp</string>
+	<key>subscriptionmediatorborder</key>
+	<string>shouldDispatchMediaQuery</string>
+</dict>
+</plist>

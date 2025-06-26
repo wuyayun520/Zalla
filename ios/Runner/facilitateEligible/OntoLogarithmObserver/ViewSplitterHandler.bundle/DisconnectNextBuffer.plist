@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerBrightness</key>
+	<string>canUnmountGradient</string>
+	<key>discardedLayer</key>
+	<string>processReference</string>
+	<key>inflatesign</key>
+	<string>optionDepth</string>
+	<key>mainPriority</key>
+	<string>canRestartTask</string>
+	<key>optionOffset</key>
+	<string>desktopview</string>
+	<key>originalMovement</key>
+	<string>overlayBrightness</string>
+	<key>unactivatedCompleter</key>
+	<string>routerHue</string>
+	<key>unsortedDependency</key>
+	<string>filterright</string>
+</dict>
+</plist>

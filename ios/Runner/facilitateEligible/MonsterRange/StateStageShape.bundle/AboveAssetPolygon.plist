@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationCenter</key>
+	<string>behaviorspacing</string>
+	<key>collectionOffset</key>
+	<string>easyShape</string>
+	<key>dissociateticker</key>
+	<string>interpolateMethod</string>
+	<key>easyProtocol</key>
+	<string>resizeTitle</string>
+	<key>integrationResponse</key>
+	<string>formatBox</string>
+	<key>progressbarappearance</key>
+	<string>sortedNotation</string>
+	<key>sensorIndex</key>
+	<string>lostPlayback</string>
+	<key>shouldLayoutSine</key>
+	<string>canvassingletonorientation</string>
+	<key>shouldStartDimension</key>
+	<string>eagerpreview</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindpresenter</key>
+	<string>dismissRequest</string>
+	<key>concurrentVariant</key>
+	<string>beginnerSize</string>
+	<key>difficultStateful</key>
+	<string>modalSpeed</string>
+	<key>ephemeralMaterializer</key>
+	<string>ascentTheme</string>
+	<key>newestSchema</key>
+	<string>dispatchModal</string>
+	<key>radiuslikefacade</key>
+	<string>tableRotation</string>
+	<key>resizableTopic</key>
+	<string>greatButton</string>
+	<key>smartConfidentiality</key>
+	<string>hashValidation</string>
+	<key>texturevalidation</key>
+	<string>maxInkWell</string>
+	<key>unmounthero</key>
+	<string>insteadResponse</string>
+</dict>
+</plist>

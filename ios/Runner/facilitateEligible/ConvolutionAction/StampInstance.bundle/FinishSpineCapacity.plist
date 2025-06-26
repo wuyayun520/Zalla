@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTop</key>
+	<string>notationTop</string>
+	<key>deferredArithmetic</key>
+	<string>containeraroundcycle</string>
+	<key>functionalCard</key>
+	<string>cellFunction</string>
+	<key>hierarchicalsegmentfeedback</key>
+	<string>analogyIndex</string>
+	<key>imperativecurvekind</key>
+	<string>allocatorValidation</string>
+	<key>intuitiveresolver</key>
+	<string>shouldPaintGrayscale</string>
+	<key>parallelInfrastructure</key>
+	<string>directlyImpression</string>
+	<key>shouldRestartAppBar</key>
+	<string>touchFunction</string>
+</dict>
+</plist>

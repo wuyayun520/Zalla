@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterType</key>
+	<string>mainScene</string>
+	<key>materialsingleton</key>
+	<string>quitEvent</string>
+	<key>mediumSearcher</key>
+	<string>informationtag</string>
+	<key>multiEvolution</key>
+	<string>diffableNotation</string>
+	<key>unsortedHeap</key>
+	<string>removeDecoration</string>
+</dict>
+</plist>

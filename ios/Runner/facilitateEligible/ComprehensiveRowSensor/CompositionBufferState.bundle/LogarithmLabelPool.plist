@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedexponent</key>
+	<string>contractionForm</string>
+	<key>mainLabel</key>
+	<string>unactivatedTaxonomy</string>
+	<key>resumegrid</key>
+	<string>dismissInterface</string>
+	<key>schemaInset</key>
+	<string>usecaseWork</string>
+	<key>shouldUnbindLogarithm</key>
+	<string>statefuleffect</string>
+	<key>shouldValidateMatrix</key>
+	<string>certificateStyle</string>
+</dict>
+</plist>

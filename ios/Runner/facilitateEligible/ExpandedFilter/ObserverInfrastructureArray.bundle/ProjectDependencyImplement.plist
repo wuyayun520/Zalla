@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOrigin</key>
+	<string>entityVariable</string>
+	<key>disabledProjection</key>
+	<string>grainLocation</string>
+	<key>firstDialogs</key>
+	<string>labelObserver</string>
+	<key>functionalRoute</key>
+	<string>iconKind</string>
+	<key>modelEdge</key>
+	<string>cacheDirection</string>
+	<key>observerandtier</key>
+	<string>sampleAlignment</string>
+	<key>repositoryOffset</key>
+	<string>swiftPrototype</string>
+	<key>taskright</key>
+	<string>streamMethod</string>
+</dict>
+</plist>

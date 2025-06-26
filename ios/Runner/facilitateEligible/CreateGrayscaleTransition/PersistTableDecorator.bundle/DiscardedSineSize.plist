@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateVisibility</key>
+	<string>instructiontint</string>
+	<key>intermediateLabel</key>
+	<string>brushSystem</string>
+	<key>synchronousEquivalent</key>
+	<string>shouldFinishCupertino</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowasync</key>
+	<string>tappableactivitycenter</string>
+	<key>joinerlocation</key>
+	<string>appendLayout</string>
+	<key>meshSaturation</key>
+	<string>slidermodel</string>
+	<key>resultTheme</key>
+	<string>shouldUnmountedStamp</string>
+	<key>shouldUpdateMobile</key>
+	<string>setupOffset</string>
+	<key>singleInteractor</key>
+	<string>reductionInteraction</string>
+	<key>stampPressure</key>
+	<string>sharedCurve</string>
+</dict>
+</plist>

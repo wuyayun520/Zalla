@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionhandler</key>
+	<string>holdcontroller</string>
+	<key>collectionsingleton</key>
+	<string>evaluateRow</string>
+	<key>disconnectpreview</key>
+	<string>loopScope</string>
+	<key>iterativerect</key>
+	<string>similarTime</string>
+	<key>specifyAscent</key>
+	<string>canDismissTechnique</string>
+</dict>
+</plist>

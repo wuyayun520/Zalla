@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnalogy</key>
+	<string>equipmentPrototype</string>
+	<key>accessoryinformation</key>
+	<string>canSkipCollection</string>
+	<key>callbackofjob</key>
+	<string>startMap</string>
+	<key>mediaFeedback</key>
+	<string>observeNotifier</string>
+	<key>navigationSkewX</key>
+	<string>decoupleSize</string>
+	<key>nodeinfrastructure</key>
+	<string>paintExpanded</string>
+	<key>notifierframeworkskewy</key>
+	<string>receiverFeedback</string>
+	<key>reusableWorkflow</key>
+	<string>propagateAllocator</string>
+	<key>shouldStreamSemantics</key>
+	<string>graphbehavior</string>
+</dict>
+</plist>

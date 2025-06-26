@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBox</key>
+	<string>channelchainvisible</string>
+	<key>elasticIntegrity</key>
+	<string>findParticle</string>
+	<key>integrationFeedback</key>
+	<string>declarativeBorder</string>
+	<key>newestUseCase</key>
+	<string>significantrouteinset</string>
+	<key>pinchableTweak</key>
+	<string>holdManager</string>
+	<key>popupvelocity</key>
+	<string>statefulConsumer</string>
+	<key>resultOrientation</key>
+	<string>iterativeProtocol</string>
+	<key>shouldDismissUsage</key>
+	<string>shouldMountActivity</string>
+	<key>unsortedEfficiency</key>
+	<string>shouldTransitionCoordinator</string>
+</dict>
+</plist>

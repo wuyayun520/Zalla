@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directArithmetic</key>
+	<string>statelessAlert</string>
+	<key>geometricPoint</key>
+	<string>resourceInteraction</string>
+	<key>histogramalongparameter</key>
+	<string>streamBase</string>
+	<key>injecttween</key>
+	<string>previewAppearance</string>
+	<key>resetprovider</key>
+	<string>shouldsubscribecompletion</string>
+	<key>shouldPersistCupertino</key>
+	<string>cancelextension</string>
+	<key>shouldResumeMaterial</key>
+	<string>persistentresolvermargin</string>
+	<key>shouldUnmountedDocument</key>
+	<string>exponentSystem</string>
+	<key>smartWidget</key>
+	<string>tentativeLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaterial</key>
+	<string>standaloneobserverposition</string>
+	<key>batchtension</key>
+	<string>routePrototype</string>
+	<key>constructgraphic</key>
+	<string>statefulrectangle</string>
+	<key>graphiccontainscope</key>
+	<string>disposeScreen</string>
+	<key>infoResponse</key>
+	<string>subscriptionCenter</string>
+	<key>limitdescription</key>
+	<string>shouldPauseCapacities</string>
+	<key>liteExpanded</key>
+	<string>sceneMode</string>
+	<key>opaquetrajectory</key>
+	<string>diffableMusic</string>
+	<key>symmetricSemantics</key>
+	<string>tappableCube</string>
+	<key>uniqueCatalyst</key>
+	<string>cloneIntensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTheme</key>
+	<string>partitionUtil</string>
+	<key>assetPosition</key>
+	<string>significantExpanded</string>
+	<key>reactiveScope</key>
+	<string>observeSpecifier</string>
+	<key>resultOrientation</key>
+	<string>arithmeticCommand</string>
+	<key>shouldRouteStateless</key>
+	<string>declarativeAction</string>
+	<key>vectoreffect</key>
+	<string>gesturedetectorsingleton</string>
+</dict>
+</plist>

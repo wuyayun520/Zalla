@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerttheme</key>
+	<string>shouldDecodeChecklist</string>
+	<key>axisinterval</key>
+	<string>textVelocity</string>
+	<key>cubitstyleskewx</key>
+	<string>synchronizeText</string>
+	<key>inheritedChooser</key>
+	<string>shouldConnectGrayscale</string>
+	<key>interfaceStatus</key>
+	<string>desktopConfidentiality</string>
+	<key>shadermode</key>
+	<string>shouldPopMatrix</string>
+	<key>shouldResumeSine</key>
+	<string>criticalUtil</string>
+	<key>shouldtransitioncomposition</key>
+	<string>mixinCubit</string>
+	<key>statelessincomposite</key>
+	<string>directGradient</string>
+</dict>
+</plist>

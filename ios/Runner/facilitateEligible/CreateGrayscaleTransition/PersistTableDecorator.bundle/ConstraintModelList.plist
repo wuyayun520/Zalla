@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodesemantics</key>
+	<string>rapidTheme</string>
+	<key>equipmentSpacing</key>
+	<string>diffableNavigator</string>
+	<key>invisibleEffect</key>
+	<string>oldMapper</string>
+	<key>iterativeListener</key>
+	<string>canEmitGem</string>
+	<key>iterativerange</key>
+	<string>assetagainststyle</string>
+	<key>pickerTransparency</key>
+	<string>usagestructureborder</string>
+	<key>publisherInteraction</key>
+	<string>topicScale</string>
+	<key>temporaryChallenge</key>
+	<string>priorTopic</string>
+</dict>
+</plist>

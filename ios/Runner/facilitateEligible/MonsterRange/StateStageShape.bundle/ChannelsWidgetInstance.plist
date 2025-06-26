@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceobserver</key>
+	<string>eagerBaseline</string>
+	<key>keyBrush</key>
+	<string>eagerLifecycle</string>
+	<key>mutableTrigger</key>
+	<string>permanentCosine</string>
+	<key>otherResilience</key>
+	<string>vectorTail</string>
+	<key>receiverSize</key>
+	<string>adaptiveQueue</string>
+	<key>sequentialTexture</key>
+	<string>unsortedStoryboard</string>
+	<key>shouldBindCustomPaint</key>
+	<string>euclideanAxis</string>
+	<key>switchSkewX</key>
+	<string>otherNotification</string>
+</dict>
+</plist>

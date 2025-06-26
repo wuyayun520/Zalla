@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitdirection</key>
+	<string>challengecoord</string>
+	<key>descriptorHead</key>
+	<string>collectionDuration</string>
+	<key>imperativeConfiguration</key>
+	<string>canAnimateThread</string>
+	<key>originalArithmetic</key>
+	<string>cartesianMenu</string>
+	<key>parallelItem</key>
+	<string>compositionalProvision</string>
+	<key>repositoryResponse</key>
+	<string>localCoordinator</string>
+	<key>requiredModulus</key>
+	<string>createstateful</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalslash</key>
+	<string>notationTail</string>
+	<key>pickershape</key>
+	<string>shouldListenPageView</string>
+	<key>retainedTweak</key>
+	<string>protectedResponder</string>
+	<key>reusableBaseline</key>
+	<string>declarativeScene</string>
+	<key>shouldKeepProjection</key>
+	<string>shouldInflateChecklist</string>
+	<key>shouldReplaceMediaQuery</key>
+	<string>canStartResource</string>
+	<key>smallLogarithm</key>
+	<string>autoLoader</string>
+	<key>threadMomentum</key>
+	<string>canEncodeInkWell</string>
+	<key>titletriangles</key>
+	<string>switchCoord</string>
+</dict>
+</plist>

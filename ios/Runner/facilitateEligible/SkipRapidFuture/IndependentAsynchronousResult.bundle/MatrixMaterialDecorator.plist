@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultreduction</key>
+	<string>pivotalStateful</string>
+	<key>otherTolerance</key>
+	<string>seamlessmodel</string>
+	<key>publicBuilder</key>
+	<string>mobileIndex</string>
+	<key>robustMobile</key>
+	<string>smartMaterial</string>
+	<key>shouldUpdateGridView</key>
+	<string>crudeOptimizer</string>
+	<key>shouldYieldListView</key>
+	<string>dissociatestore</string>
+	<key>shouldreplacesegment</key>
+	<string>entityforce</string>
+	<key>skinHead</key>
+	<string>splitterDirection</string>
+	<key>sortedActivity</key>
+	<string>instructionForce</string>
+</dict>
+</plist>

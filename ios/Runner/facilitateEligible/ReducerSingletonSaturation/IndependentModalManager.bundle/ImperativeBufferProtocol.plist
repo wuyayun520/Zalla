@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicobserver</key>
+	<string>restoreView</string>
+	<key>ephemeralInfo</key>
+	<string>intermediateOptimizer</string>
+	<key>inheritedMetrics</key>
+	<string>replacetimer</string>
+	<key>localGraph</key>
+	<string>captureTicker</string>
+	<key>mergerContrast</key>
+	<string>cubitmargin</string>
+	<key>requiredKernel</key>
+	<string>deferredChapter</string>
+	<key>sampleRight</key>
+	<string>shouldStartThread</string>
+	<key>smallGestureDetector</key>
+	<string>canPushBox</string>
+</dict>
+</plist>

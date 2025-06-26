@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerScale</key>
+	<string>permissiveCapsule</string>
+	<key>semanticAudio</key>
+	<string>overrideLabel</string>
+	<key>shouldNotifyInteger</key>
+	<string>immutableSegment</string>
+	<key>smartNavigator</key>
+	<string>efficiencyColor</string>
+	<key>storevisible</key>
+	<string>prepareView</string>
+	<key>streamaroundlevel</key>
+	<string>mediocreError</string>
+	<key>traversalformat</key>
+	<string>autoReducer</string>
+	<key>uniformCanvas</key>
+	<string>concurrentCreator</string>
+</dict>
+</plist>

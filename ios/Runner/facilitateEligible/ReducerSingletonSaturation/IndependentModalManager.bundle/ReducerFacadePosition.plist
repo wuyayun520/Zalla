@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeDocument</key>
+	<string>bitrateSystem</string>
+	<key>dimensionTag</key>
+	<string>reactiveCycle</string>
+	<key>elasticityStyle</key>
+	<string>setupDuration</string>
+	<key>pinchablemapper</key>
+	<string>shouldAttachAccessory</string>
+	<key>priorityDistance</key>
+	<string>newestStream</string>
+	<key>routerFormat</key>
+	<string>responsiveResolver</string>
+</dict>
+</plist>

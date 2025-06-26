@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubecount</key>
+	<string>adaptivePlate</string>
+	<key>eventForce</key>
+	<string>axisBorder</string>
+	<key>graphTransparency</key>
+	<string>canHandleShader</string>
+	<key>mobileCoord</key>
+	<string>durationSingleton</string>
+	<key>otherTask</key>
+	<string>shouldLayoutCycle</string>
+	<key>robustBaseline</key>
+	<string>consultativeScroller</string>
+	<key>rotatepopup</key>
+	<string>processAlert</string>
+	<key>shouldDetachReference</key>
+	<string>respectivePosition</string>
+	<key>singlearchitecture</key>
+	<string>gridDirection</string>
+	<key>usedRadio</key>
+	<string>visibleasyncbrightness</string>
+</dict>
+</plist>

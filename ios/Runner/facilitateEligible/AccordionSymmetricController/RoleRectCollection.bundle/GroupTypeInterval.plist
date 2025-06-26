@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVideo</key>
+	<string>groupphaserate</string>
+	<key>buildmatrix</key>
+	<string>symmetricPrecision</string>
+	<key>crudeRestriction</key>
+	<string>curveStructure</string>
+	<key>dynamicGesture</key>
+	<string>currentStack</string>
+	<key>otherMomentum</key>
+	<string>momentumBrightness</string>
+	<key>shouldPublishCharacter</key>
+	<string>elasticColor</string>
+	<key>shouldnotifypet</key>
+	<string>concurrentVolume</string>
+	<key>stateBound</key>
+	<string>hyperbolicQuaternion</string>
+</dict>
+</plist>

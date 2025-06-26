@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistslider</key>
+	<string>adjustAlignment</string>
+	<key>consultativeNotifier</key>
+	<string>borderPosition</string>
+	<key>gramFlags</key>
+	<string>checklocalization</string>
+	<key>pageviewBottom</key>
+	<string>dismissLocalization</string>
+	<key>relationalPolyfill</key>
+	<string>tickerbeyondstage</string>
+	<key>resizablemodulus</key>
+	<string>resizenotification</string>
+	<key>switchsinceaction</key>
+	<string>nativeManager</string>
+	<key>texturesize</key>
+	<string>rolePressure</string>
+</dict>
+</plist>

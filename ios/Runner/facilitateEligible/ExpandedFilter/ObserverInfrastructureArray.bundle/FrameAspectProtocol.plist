@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAsset</key>
+	<string>completedNavigation</string>
+	<key>elasticTheme</key>
+	<string>shouldFinishProfile</string>
+	<key>invisibleSession</key>
+	<string>dedicatedModule</string>
+	<key>newestInformation</key>
+	<string>combinerkind</string>
+	<key>shouldProcessKernel</key>
+	<string>shouldRestartRadio</string>
+	<key>usedRadius</key>
+	<string>asyncDelay</string>
+</dict>
+</plist>

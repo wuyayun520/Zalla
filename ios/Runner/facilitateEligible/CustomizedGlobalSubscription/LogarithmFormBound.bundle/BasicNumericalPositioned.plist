@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularAxis</key>
+	<string>shouldValidateStateless</string>
+	<key>multiplicationtop</key>
+	<string>transposeEvent</string>
+	<key>nodeDirection</key>
+	<string>shouldSerializeFlex</string>
+	<key>secondscalability</key>
+	<string>canSerializeSine</string>
+	<key>shoulddisconnectcertificate</key>
+	<string>standaloneService</string>
+	<key>symmetricEqualization</key>
+	<string>canSetStateNib</string>
+	<key>unactivatedListener</key>
+	<string>imageBuffer</string>
+	<key>unsortedtrajectory</key>
+	<string>fixedUtil</string>
+</dict>
+</plist>

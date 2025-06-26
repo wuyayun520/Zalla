@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModel</key>
+	<string>sliderAcceleration</string>
+	<key>gateMargin</key>
+	<string>modelskewx</string>
+	<key>navigatorOffset</key>
+	<string>playbackBound</string>
+	<key>sustainableIntegrity</key>
+	<string>bulletorientation</string>
+	<key>wrapsubscription</key>
+	<string>crudeCaption</string>
+	<key>writemethod</key>
+	<string>channelSize</string>
+</dict>
+</plist>

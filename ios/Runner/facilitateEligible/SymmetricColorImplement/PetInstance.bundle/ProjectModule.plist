@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDescent</key>
+	<string>granularAllocator</string>
+	<key>cacheusage</key>
+	<string>delegateRect</string>
+	<key>diversifiedReference</key>
+	<string>listenSpecifier</string>
+	<key>labelRight</key>
+	<string>intensitybottom</string>
+	<key>sharedfuture</key>
+	<string>particlecontroller</string>
+	<key>shouldSkipTask</key>
+	<string>touchStore</string>
+	<key>touchDuration</key>
+	<string>spineframe</string>
+</dict>
+</plist>

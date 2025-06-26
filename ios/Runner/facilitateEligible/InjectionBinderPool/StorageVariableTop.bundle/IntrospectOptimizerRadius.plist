@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardOptimizer</key>
+	<string>storyboardPrototype</string>
+	<key>iconAlignment</key>
+	<string>normalIcon</string>
+	<key>materialThread</key>
+	<string>quantizationReducer</string>
+	<key>occasionInset</key>
+	<string>detachAlignment</string>
+	<key>popupDistance</key>
+	<string>listenerTag</string>
+	<key>shouldMountCell</key>
+	<string>objectScale</string>
+	<key>shouldSkipSwift</key>
+	<string>mediocreGram</string>
+</dict>
+</plist>

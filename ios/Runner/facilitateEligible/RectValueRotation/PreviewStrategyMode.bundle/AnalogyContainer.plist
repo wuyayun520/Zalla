@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectfactory</key>
+	<string>lostLocalization</string>
+	<key>entityDepth</key>
+	<string>associatedMobile</string>
+	<key>immediateCompletion</key>
+	<string>prevStream</string>
+	<key>rapidoverlay</key>
+	<string>cartesianSpecifier</string>
+	<key>resilientPolyfill</key>
+	<string>sliderfacademode</string>
+	<key>shouldLayoutSemantics</key>
+	<string>flexMemento</string>
+	<key>specifierSpacing</key>
+	<string>mediaqueryPressure</string>
+	<key>statefulradiusdepth</key>
+	<string>mobileVector</string>
+</dict>
+</plist>

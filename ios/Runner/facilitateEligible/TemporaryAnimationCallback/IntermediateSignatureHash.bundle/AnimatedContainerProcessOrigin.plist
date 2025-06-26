@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCombiner</key>
+	<string>iterativestore</string>
+	<key>boxshadowPosition</key>
+	<string>overrideparticle</string>
+	<key>confidentialityTop</key>
+	<string>smartdependency</string>
+	<key>eagerStack</key>
+	<string>resizableSignature</string>
+	<key>keyPresenter</key>
+	<string>hyperbolicPolygon</string>
+	<key>numericalChannels</key>
+	<string>sorterTheme</string>
+	<key>optimizerStatus</key>
+	<string>ongraphicchanged</string>
+	<key>reactiveProjection</key>
+	<string>statefulDistance</string>
+	<key>staticProtocol</key>
+	<string>asynchronousGrid</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTag</key>
+	<string>displayFrame</string>
+	<key>compositionalDialogs</key>
+	<string>lastSample</string>
+	<key>globalEffect</key>
+	<string>profilenearkind</string>
+	<key>listeneralignment</key>
+	<string>tappableTriangles</string>
+	<key>loadermargin</key>
+	<string>diffableVideo</string>
+	<key>shouldValidateMaterial</key>
+	<string>saveRichText</string>
+</dict>
+</plist>

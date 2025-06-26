@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOperation</key>
+	<string>expandedLocation</string>
+	<key>desktopInterface</key>
+	<string>keepDialogs</string>
+	<key>granularoperationorientation</key>
+	<string>priorCursor</string>
+	<key>gridStatus</key>
+	<string>curvePadding</string>
+	<key>retainedListener</key>
+	<string>responsiveAudio</string>
+	<key>semanticbase</key>
+	<string>monsterTag</string>
+	<key>shouldDisconnectTernary</key>
+	<string>opaqueAudio</string>
+	<key>subpixelTint</key>
+	<string>nativeArchitecture</string>
+</dict>
+</plist>

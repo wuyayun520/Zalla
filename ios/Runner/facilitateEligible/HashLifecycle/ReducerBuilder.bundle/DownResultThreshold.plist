@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedequalization</key>
+	<string>baseWork</string>
+	<key>bandwidthinteraction</key>
+	<string>staticloader</string>
+	<key>concurrentFeature</key>
+	<string>symmetricBase</string>
+	<key>difficultDependency</key>
+	<string>materialstroke</string>
+	<key>elasticrichtextpressure</key>
+	<string>discardedCharacter</string>
+	<key>notifysample</key>
+	<string>taskProxy</string>
+	<key>semanticBoxShadow</key>
+	<string>seamlessSample</string>
+	<key>shouldPresentCube</key>
+	<string>persistentColor</string>
+	<key>shouldSkipSpecifier</key>
+	<string>timerDelay</string>
+</dict>
+</plist>

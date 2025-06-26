@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterInterval</key>
+	<string>shouldSkipCompletion</string>
+	<key>geometricOperation</key>
+	<string>bundleChannel</string>
+	<key>mediumResponse</key>
+	<string>tabbarAdapter</string>
+	<key>scrollableEmitter</key>
+	<string>playbackduration</string>
+	<key>shouldDisconnectBrush</key>
+	<string>showRouter</string>
+	<key>sustainableGridView</key>
+	<string>paintBrush</string>
+</dict>
+</plist>

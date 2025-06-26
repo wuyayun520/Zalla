@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchbyvalue</key>
+	<string>shouldPaintEqualization</string>
+	<key>equipmentfrequency</key>
+	<string>shouldContinuePainter</string>
+	<key>grainandstate</key>
+	<string>disparatePopup</string>
+	<key>hierarchicalGridView</key>
+	<string>concreteVideo</string>
+	<key>injectionRight</key>
+	<string>requestChart</string>
+	<key>notifycompletion</key>
+	<string>shouldResumeBuilder</string>
+	<key>resilientStatus</key>
+	<string>greatArchitecture</string>
+	<key>thresholdfeedback</key>
+	<string>mediumConfidentiality</string>
+	<key>uniformProtocol</key>
+	<string>dialogsCount</string>
+</dict>
+</plist>

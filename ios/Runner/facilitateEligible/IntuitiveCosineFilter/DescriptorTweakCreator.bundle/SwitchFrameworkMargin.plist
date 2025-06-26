@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencytint</key>
+	<string>accessibleSwitch</string>
+	<key>navigatestoryboard</key>
+	<string>animatedPolyfill</string>
+	<key>scrollmodedelay</key>
+	<string>prismaticCursor</string>
+	<key>shouldBuildSpine</key>
+	<string>fillcatalyst</string>
+	<key>shouldshowdialogs</key>
+	<string>deprecateButton</string>
+	<key>skipcupertino</key>
+	<string>variantFramework</string>
+	<key>tabviewprocesspressure</key>
+	<string>interactiveUnary</string>
+</dict>
+</plist>

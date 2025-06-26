@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectinkwell</key>
+	<string>descentCoord</string>
+	<key>dynamicTrajectory</key>
+	<string>disabledStateless</string>
+	<key>hyperbolicResource</key>
+	<string>storageBound</string>
+	<key>pinchableFuture</key>
+	<string>pauseAxis</string>
+	<key>radiusInterval</key>
+	<string>basicMenu</string>
+	<key>robustAmortization</key>
+	<string>themeDuration</string>
+	<key>seguephaseleft</key>
+	<string>dropdownbuttonthanbridge</string>
+	<key>shouldRestartSegment</key>
+	<string>gestureStage</string>
+	<key>shouldUnmountCupertino</key>
+	<string>agileBloc</string>
+	<key>tableBorder</key>
+	<string>canFormatTool</string>
+</dict>
+</plist>

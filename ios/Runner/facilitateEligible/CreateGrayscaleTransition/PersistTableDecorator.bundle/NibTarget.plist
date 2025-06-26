@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedrouteduration</key>
+	<string>enhanceLabel</string>
+	<key>interpolatefragment</key>
+	<string>liteStatus</string>
+	<key>optionformflags</key>
+	<string>textureinterpretertension</string>
+	<key>shouldMountedBinary</key>
+	<string>connectorStatus</string>
+	<key>spineName</key>
+	<string>interpolationMemento</string>
+	<key>webAspectRatio</key>
+	<string>positionedResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInteractor</key>
+	<string>quitcurve</string>
+	<key>cartesianDuration</key>
+	<string>measurePresenter</string>
+	<key>liteCustomPaint</key>
+	<string>shouldNotifyPromise</string>
+	<key>otherProject</key>
+	<string>checkboxName</string>
+	<key>sliderlistener</key>
+	<string>pauseDimension</string>
+	<key>sortedcluster</key>
+	<string>subpixelActivity</string>
+	<key>tabbarShade</key>
+	<string>draggableAccessory</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReceiver</key>
+	<string>buttonedge</string>
+	<key>isTable</key>
+	<string>euclideanBase</string>
+	<key>iterativeManager</key>
+	<string>descriptionpressure</string>
+	<key>shouldPublishFuture</key>
+	<string>exponentLeft</string>
+</dict>
+</plist>

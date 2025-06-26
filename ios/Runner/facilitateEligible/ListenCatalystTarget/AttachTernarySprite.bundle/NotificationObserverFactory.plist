@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTopic</key>
+	<string>cycleShade</string>
+	<key>completionstatus</key>
+	<string>crudeThreshold</string>
+	<key>detachstore</key>
+	<string>responsivecallbackacceleration</string>
+	<key>disabledAnimator</key>
+	<string>sharedScheduler</string>
+	<key>displayablePresenter</key>
+	<string>channelshead</string>
+	<key>nextdecoration</key>
+	<string>requiredSplitter</string>
+	<key>popupbufferalignment</key>
+	<string>disabledBox</string>
+	<key>responsiveRectangle</key>
+	<string>signatureOperation</string>
+	<key>shouldPaintTextField</key>
+	<string>streamReduction</string>
+	<key>switchState</key>
+	<string>composableView</string>
+</dict>
+</plist>

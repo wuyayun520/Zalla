@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeevent</key>
+	<string>animationbridgepressure</string>
+	<key>equalizationfeature</key>
+	<string>secondviewdelay</string>
+	<key>interfaceshape</key>
+	<string>decoupleSink</string>
+	<key>materialworkflowrotation</key>
+	<string>curvetension</string>
+	<key>reusableequipmentorientation</key>
+	<string>lossscopecenter</string>
+	<key>staticScale</key>
+	<string>euclideanConsumption</string>
+	<key>subtleController</key>
+	<string>sizedboxstageleft</string>
+	<key>tensorConfidentiality</key>
+	<string>usecaseflags</string>
+</dict>
+</plist>

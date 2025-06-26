@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantbottom</key>
+	<string>invisibleIndicator</string>
+	<key>directlyTween</key>
+	<string>connectcaption</string>
+	<key>diversifiedObserver</key>
+	<string>shouldSkipNotification</string>
+	<key>optionfrombridge</key>
+	<string>nodeTint</string>
+</dict>
+</plist>

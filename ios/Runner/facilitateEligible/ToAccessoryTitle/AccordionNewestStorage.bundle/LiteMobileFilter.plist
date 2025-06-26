@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMargin</key>
+	<string>parseConfiguration</string>
+	<key>cursorInset</key>
+	<string>canStopProvider</string>
+	<key>notificationAppearance</key>
+	<string>ephemeralnibalignment</string>
+	<key>resolverBound</key>
+	<string>graphCommand</string>
+	<key>symmetricasync</key>
+	<string>hasUnary</string>
+	<key>viewInterval</key>
+	<string>canStopSign</string>
+</dict>
+</plist>

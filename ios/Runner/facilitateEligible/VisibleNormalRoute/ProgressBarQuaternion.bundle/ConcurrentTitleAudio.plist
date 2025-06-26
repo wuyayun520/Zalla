@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorLocation</key>
+	<string>animatedcontainerEnvironment</string>
+	<key>animatedcontainerAlignment</key>
+	<string>desktopFrame</string>
+	<key>impactOpacity</key>
+	<string>replacemember</string>
+	<key>shouldFormatSkirt</key>
+	<string>disconnectCycle</string>
+	<key>signbottom</key>
+	<string>elasticConfiguration</string>
+</dict>
+</plist>

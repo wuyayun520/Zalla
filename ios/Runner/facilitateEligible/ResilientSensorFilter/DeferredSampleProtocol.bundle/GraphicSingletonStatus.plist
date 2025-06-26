@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScroller</key>
+	<string>multiCache</string>
+	<key>controllerOffset</key>
+	<string>smartController</string>
+	<key>granularStrength</key>
+	<string>autoMovement</string>
+	<key>nextMedia</key>
+	<string>publisherName</string>
+	<key>observepainter</key>
+	<string>isShader</string>
+	<key>parallelDetail</key>
+	<string>layoutSystem</string>
+	<key>shouldLayoutCursor</key>
+	<string>channelBorder</string>
+	<key>shouldObservePositioned</key>
+	<string>shouldTransformCapacities</string>
+	<key>temporaryDetail</key>
+	<string>navigatePlate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScenario</key>
+	<string>contrastoffset</string>
+	<key>hasLabel</key>
+	<string>notificationInteraction</string>
+	<key>largeNotifier</key>
+	<string>captureCubit</string>
+	<key>reactiveSemantics</key>
+	<string>differentiateTexture</string>
+	<key>shouldemitstream</key>
+	<string>pushStream</string>
+	<key>transitionShape</key>
+	<string>pivotalSine</string>
+	<key>volumeInset</key>
+	<string>directStateful</string>
+</dict>
+</plist>

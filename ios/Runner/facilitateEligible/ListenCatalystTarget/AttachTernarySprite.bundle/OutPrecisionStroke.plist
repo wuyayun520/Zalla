@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultGram</key>
+	<string>invokeSprite</string>
+	<key>desktopChannels</key>
+	<string>statefulExpanded</string>
+	<key>disparateStatus</key>
+	<string>visibleSample</string>
+	<key>flexibleManager</key>
+	<string>canRebuildObserver</string>
+	<key>rendererKind</key>
+	<string>shouldFetchHeap</string>
+	<key>shouldBuildContraction</key>
+	<string>canFormatOption</string>
+	<key>shouldDisposeAspect</key>
+	<string>mountedAppBar</string>
+	<key>shouldFetchExpanded</key>
+	<string>sortednotificationposition</string>
+</dict>
+</plist>

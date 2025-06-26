@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorybehavior</key>
+	<string>canEncodeChannels</string>
+	<key>lazyCapacities</key>
+	<string>propagateOffset</string>
+	<key>linkertag</key>
+	<string>canPushLabel</string>
+	<key>permanentPoint</key>
+	<string>denseIntegration</string>
+	<key>statelessDisclaimer</key>
+	<string>shouldUnmountConvolution</string>
+	<key>syncstream</key>
+	<string>synchronousDialogs</string>
+	<key>unsortedbase</key>
+	<string>memberValidation</string>
+	<key>visiblePermutation</key>
+	<string>blocVisible</string>
+	<key>workflowrestriction</key>
+	<string>interceptvector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedHeap</key>
+	<string>discardedAlert</string>
+	<key>explicitModulus</key>
+	<string>assetDepth</string>
+	<key>gramleft</key>
+	<string>interactiveDimension</string>
+	<key>sessionvarmode</key>
+	<string>currentmusic</string>
+	<key>storesorter</key>
+	<string>columnsingleton</string>
+	<key>tentativeopacity</key>
+	<string>configurationLayer</string>
+	<key>uniqueEntity</key>
+	<string>unbindCoordinator</string>
+	<key>unsortedFactory</key>
+	<string>fusedAsset</string>
+</dict>
+</plist>

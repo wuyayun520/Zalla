@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionaltimer</key>
+	<string>heaptraversal</string>
+	<key>customizedThread</key>
+	<string>spotcenter</string>
+	<key>immediateAspectRatio</key>
+	<string>canStopCompletion</string>
+	<key>playbackValidation</key>
+	<string>densegrayscale</string>
+	<key>promiseMargin</key>
+	<string>stackawaymethod</string>
+	<key>shouldSetStateBitrate</key>
+	<string>accessibleTriangles</string>
+	<key>uniqueMission</key>
+	<string>decodeCallback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileException</key>
+	<string>lastMethod</string>
+	<key>constantOrientation</key>
+	<string>unsortedSprite</string>
+	<key>dedicatedService</key>
+	<string>cacheGraphic</string>
+	<key>easyMediaQuery</key>
+	<string>shouldRouteScreen</string>
+	<key>largeShader</key>
+	<string>attachSkin</string>
+	<key>mobilesample</key>
+	<string>mainCompleter</string>
+	<key>shouldSubscribeCatalyst</key>
+	<string>interpolateAllocator</string>
+	<key>subscriptionvisibility</key>
+	<string>shouldHandleConstraint</string>
+	<key>toolKind</key>
+	<string>mountedCycle</string>
+</dict>
+</plist>

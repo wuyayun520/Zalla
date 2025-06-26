@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInteraction</key>
+	<string>keyMesh</string>
+	<key>cellandstyle</key>
+	<string>navigationFlyweight</string>
+	<key>clearicon</key>
+	<string>disabledpopupbound</string>
+	<key>ephemeralChart</key>
+	<string>greatNotifier</string>
+	<key>mediumAlert</key>
+	<string>trajectoryEdge</string>
+	<key>menuthroughvar</key>
+	<string>customcell</string>
+	<key>normHead</key>
+	<string>minRadio</string>
+	<key>reductionBrightness</key>
+	<string>greatGraph</string>
+	<key>subpixelDelay</key>
+	<string>managerIndex</string>
+	<key>unactivatedparticlesaturation</key>
+	<string>custompaintHead</string>
+</dict>
+</plist>

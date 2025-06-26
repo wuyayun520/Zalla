@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFormat</key>
+	<string>activatedBloc</string>
+	<key>defaultPositioned</key>
+	<string>activatedGram</string>
+	<key>defaultoverlay</key>
+	<string>painterHead</string>
+	<key>moduleShape</key>
+	<string>detachGraph</string>
+</dict>
+</plist>

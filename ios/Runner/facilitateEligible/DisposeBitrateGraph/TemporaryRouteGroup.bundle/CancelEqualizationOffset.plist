@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEmitter</key>
+	<string>shouldTransitionPainter</string>
+	<key>concreteContraction</key>
+	<string>denseBinary</string>
+	<key>cycleType</key>
+	<string>paintComposition</string>
+	<key>desktopSwift</key>
+	<string>disposeMomentum</string>
+	<key>discardedRemediation</key>
+	<string>keepRow</string>
+	<key>drawerpolygon</key>
+	<string>symmetricListView</string>
+	<key>fragmentgrain</key>
+	<string>resumecoordinator</string>
+	<key>primaryUtil</key>
+	<string>explicitRange</string>
+	<key>sceneStyle</key>
+	<string>shouldResumeBoxShadow</string>
+	<key>scrollableStorage</key>
+	<string>mobileSingleton</string>
+</dict>
+</plist>

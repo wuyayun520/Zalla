@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartbesidestyle</key>
+	<string>consultativeSchema</string>
+	<key>dynamicProvision</key>
+	<string>projectInset</string>
+	<key>protectedScheduler</key>
+	<string>serializeCustomPaint</string>
+	<key>remainderHue</key>
+	<string>fixedLayout</string>
+	<key>replicaOffset</key>
+	<string>declarativeHero</string>
+	<key>streamplate</key>
+	<string>toleranceStyle</string>
+	<key>visibleInkWell</key>
+	<string>stampInterval</string>
+</dict>
+</plist>

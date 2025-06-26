@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSegue</key>
+	<string>operationJob</string>
+	<key>effectspacing</key>
+	<string>poolGrid</string>
+	<key>gesturedetectorchaintype</key>
+	<string>immediateSemantics</string>
+	<key>newestBorder</key>
+	<string>projectPosition</string>
+	<key>operationorientation</key>
+	<string>decodecatalyst</string>
+	<key>permissiveFragment</key>
+	<string>reusablecoordinatorduration</string>
+	<key>respectiveSound</key>
+	<string>shouldLoadFlex</string>
+	<key>shouldDecodeCursor</key>
+	<string>shouldhandlestack</string>
+	<key>sinkMargin</key>
+	<string>basicNode</string>
+</dict>
+</plist>

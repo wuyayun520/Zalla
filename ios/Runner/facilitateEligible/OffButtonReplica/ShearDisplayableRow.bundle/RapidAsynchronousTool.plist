@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateBehavior</key>
+	<string>pickerTop</string>
+	<key>offsetamortization</key>
+	<string>permissiveextensionedge</string>
+	<key>shouldBindPriority</key>
+	<string>mitigateTexture</string>
+	<key>shouldDecodeEffect</key>
+	<string>unmountpopup</string>
+	<key>shouldParseChallenge</key>
+	<string>cacheAspect</string>
+</dict>
+</plist>

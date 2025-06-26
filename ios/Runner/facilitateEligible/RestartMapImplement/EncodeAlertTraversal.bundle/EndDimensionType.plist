@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConvolution</key>
+	<string>labelInterpreter</string>
+	<key>assetShape</key>
+	<string>inactiveConstraint</string>
+	<key>channelsDirection</key>
+	<string>deserializeGrayscale</string>
+	<key>converterCenter</key>
+	<string>rectproxypadding</string>
+	<key>granularPainter</key>
+	<string>deserializecoordinator</string>
+	<key>gridviewscenario</key>
+	<string>pagerOrientation</string>
+	<key>vectoroccasion</key>
+	<string>consumerVar</string>
+</dict>
+</plist>

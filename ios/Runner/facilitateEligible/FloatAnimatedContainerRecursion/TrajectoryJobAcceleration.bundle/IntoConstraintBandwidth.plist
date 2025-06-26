@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentinteractorformat</key>
+	<string>awaitInterpreter</string>
+	<key>nextRect</key>
+	<string>callbackVariable</string>
+	<key>reliabilityInteraction</key>
+	<string>canValidateOperation</string>
+	<key>respectiveAscent</key>
+	<string>canTransitionWorkflow</string>
+	<key>shouldFormatTangent</key>
+	<string>synchronizePreview</string>
+	<key>shouldUnmountedProfile</key>
+	<string>symmetricPermutation</string>
+	<key>spriteindex</key>
+	<string>easyItem</string>
+	<key>sustainableGestureDetector</key>
+	<string>activateProgressBar</string>
+	<key>unregisterusage</key>
+	<string>inactiveChannels</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertrigger</key>
+	<string>litetimeline</string>
+	<key>createstorage</key>
+	<string>persistentMediaQuery</string>
+	<key>largeBox</key>
+	<string>unactivatedDelegate</string>
+	<key>shouldValidateCompletion</key>
+	<string>responseSaturation</string>
+	<key>shouldfetchcompletion</key>
+	<string>unsortedWidget</string>
+	<key>typicalExtension</key>
+	<string>hierarchicalRow</string>
+	<key>webRoute</key>
+	<string>sharedCache</string>
+</dict>
+</plist>

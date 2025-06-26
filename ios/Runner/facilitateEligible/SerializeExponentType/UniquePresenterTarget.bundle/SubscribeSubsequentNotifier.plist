@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatepadding</key>
+	<string>shouldValidateCheckbox</string>
+	<key>dedicatedTextField</key>
+	<string>navigatorchooser</string>
+	<key>fragmenttypemode</key>
+	<string>canAnimateCursor</string>
+	<key>inheritedbitrate</key>
+	<string>canTransitionProtocol</string>
+	<key>intuitiveEfficiency</key>
+	<string>liteProgressBar</string>
+	<key>lostAsync</key>
+	<string>precisionBuffer</string>
+	<key>optimizerlevelindex</key>
+	<string>diversifiedcontroller</string>
+	<key>pivotalTable</key>
+	<string>responsiveDelivery</string>
+	<key>subsequentPermutation</key>
+	<string>appbarDistance</string>
+</dict>
+</plist>

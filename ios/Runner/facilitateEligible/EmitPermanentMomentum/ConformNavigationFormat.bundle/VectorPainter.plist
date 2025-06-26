@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationRight</key>
+	<string>unscheduleRoute</string>
+	<key>contractionAppearance</key>
+	<string>gemHue</string>
+	<key>rectMargin</key>
+	<string>reactiveAlpha</string>
+	<key>searchresource</key>
+	<string>deferredCupertino</string>
+	<key>semanticlistener</key>
+	<string>adaptiveSlash</string>
+	<key>volumeLeft</key>
+	<string>nextGesture</string>
+</dict>
+</plist>

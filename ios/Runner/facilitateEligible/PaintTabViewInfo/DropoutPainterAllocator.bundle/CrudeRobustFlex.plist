@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCubit</key>
+	<string>enhanceCoordinator</string>
+	<key>aspectratioDistance</key>
+	<string>activatedTangent</string>
+	<key>associatedMission</key>
+	<string>bundleGrain</string>
+	<key>cyclechainformat</key>
+	<string>spriteTheme</string>
+	<key>mediumKernel</key>
+	<string>priorityCoord</string>
+	<key>referenceScale</key>
+	<string>vectorproxyorientation</string>
+	<key>resolvetext</key>
+	<string>primaryDelivery</string>
+	<key>scrolltraversal</key>
+	<string>canValidateAspectRatio</string>
+	<key>utilMode</key>
+	<string>shouldemitsample</string>
+</dict>
+</plist>

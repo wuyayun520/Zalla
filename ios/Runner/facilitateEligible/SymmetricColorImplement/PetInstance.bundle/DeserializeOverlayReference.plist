@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialView</key>
+	<string>priorRestriction</string>
+	<key>currentDropdownButton</key>
+	<string>prevSymbol</string>
+	<key>enabledposition</key>
+	<string>diversifiedsensorresponse</string>
+	<key>routetiershade</key>
+	<string>canLoadSwitch</string>
+	<key>shouldBindGraphic</key>
+	<string>smartContainer</string>
+	<key>vectorBound</key>
+	<string>spotCommand</string>
+	<key>volumeForce</key>
+	<string>cardAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTension</key>
+	<string>scrollEdge</string>
+	<key>cupertinoSpine</key>
+	<string>mergerStyle</string>
+	<key>reactiveSensor</key>
+	<string>cacheflyweightbehavior</string>
+	<key>reusableSingleton</key>
+	<string>shouldRestartBloc</string>
+	<key>shouldHandleGraphic</key>
+	<string>variantBehavior</string>
+	<key>shouldTrainCube</key>
+	<string>canMountedMatrix</string>
+	<key>sizeaboutjob</key>
+	<string>marshalSubscription</string>
+	<key>strengthPressure</key>
+	<string>provideStore</string>
+	<key>unactivatedDescriptor</key>
+	<string>composableSample</string>
+</dict>
+</plist>

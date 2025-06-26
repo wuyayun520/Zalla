@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationRight</key>
+	<string>compositionalPolyfill</string>
+	<key>dropdownbuttonselector</key>
+	<string>decodeMission</string>
+	<key>pinchableCharacteristic</key>
+	<string>binarymode</string>
+	<key>vectortransparency</key>
+	<string>hashDistance</string>
+</dict>
+</plist>

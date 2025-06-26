@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTrigger</key>
+	<string>handleHandler</string>
+	<key>impactCoord</key>
+	<string>queuebridgeedge</string>
+	<key>normalTheme</key>
+	<string>cancelLog</string>
+	<key>radiusInset</key>
+	<string>accordionVariant</string>
+	<key>shouldAnimateInstruction</key>
+	<string>gridviewFlags</string>
+	<key>transformeroperationtension</key>
+	<string>shouldResumeScreen</string>
+</dict>
+</plist>

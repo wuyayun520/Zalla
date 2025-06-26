@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicTop</key>
+	<string>distinctionopacity</string>
+	<key>gridviewType</key>
+	<string>easyChooser</string>
+	<key>nextInformation</key>
+	<string>missionTop</string>
+	<key>permanentHandler</key>
+	<string>bloctype</string>
+	<key>protectedbitrate</key>
+	<string>flexProxy</string>
+	<key>shouldLayoutTangent</key>
+	<string>shoulddisposegesture</string>
+	<key>shouldStopAnchor</key>
+	<string>oldEvent</string>
+	<key>substantialScaffold</key>
+	<string>measurepopup</string>
+</dict>
+</plist>

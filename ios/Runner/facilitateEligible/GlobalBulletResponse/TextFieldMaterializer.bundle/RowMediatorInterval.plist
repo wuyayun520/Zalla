@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioSpeed</key>
+	<string>finishentity</string>
+	<key>concurrentMargin</key>
+	<string>accessibleusecase</string>
+	<key>cursormomentum</key>
+	<string>unsortedClipper</string>
+	<key>functionalscroll</key>
+	<string>composableCollection</string>
+	<key>mobileAppearance</key>
+	<string>encodeDocument</string>
+	<key>navigatorsincechain</key>
+	<string>cupertinoorwork</string>
+	<key>persistentSemantics</key>
+	<string>keySingleton</string>
+	<key>subscriptionformat</key>
+	<string>streamlineResponse</string>
+	<key>symbolInset</key>
+	<string>maxGesture</string>
+</dict>
+</plist>

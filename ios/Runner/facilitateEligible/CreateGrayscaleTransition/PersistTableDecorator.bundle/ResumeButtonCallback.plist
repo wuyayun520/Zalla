@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyConvolution</key>
+	<string>activatedSlash</string>
+	<key>easyColumn</key>
+	<string>loadResource</string>
+	<key>elasticCanvas</key>
+	<string>shouldProcessCaption</string>
+	<key>globalpolygon</key>
+	<string>responseAction</string>
+	<key>symmetricSlider</key>
+	<string>touchsize</string>
+</dict>
+</plist>

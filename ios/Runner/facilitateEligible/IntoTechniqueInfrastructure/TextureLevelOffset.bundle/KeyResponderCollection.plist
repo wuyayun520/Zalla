@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBorder</key>
+	<string>adaptivecurve</string>
+	<key>interactiveCupertino</key>
+	<string>dispatchCosine</string>
+	<key>isequalization</key>
+	<string>discardedReducer</string>
+	<key>modelmaterializer</key>
+	<string>dynamicOffset</string>
+	<key>overlayOrigin</key>
+	<string>moduleCenter</string>
+	<key>shouldEncodeAlpha</key>
+	<string>permissiveNavigation</string>
+	<key>sustainableFactory</key>
+	<string>navigatorFrequency</string>
+	<key>switchSpeed</key>
+	<string>baselinesink</string>
+	<key>tabviewwithlevel</key>
+	<string>protectedInformation</string>
+	<key>timerStatus</key>
+	<string>projectawait</string>
+</dict>
+</plist>

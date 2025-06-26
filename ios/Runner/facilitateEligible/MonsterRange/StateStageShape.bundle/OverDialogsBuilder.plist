@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRow</key>
+	<string>disparateSlider</string>
+	<key>entityasadapter</key>
+	<string>dedicatedMovement</string>
+	<key>requiredcurvevelocity</key>
+	<string>scrollableAllocator</string>
+	<key>shouldDetachCard</key>
+	<string>petbehavior</string>
+	<key>sizetheme</key>
+	<string>infrastructureVelocity</string>
+	<key>statefulRemainder</key>
+	<string>sortedManager</string>
+	<key>symbolDensity</key>
+	<string>shouldStartCoordinator</string>
+</dict>
+</plist>

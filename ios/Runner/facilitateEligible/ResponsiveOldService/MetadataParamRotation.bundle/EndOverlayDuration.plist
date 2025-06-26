@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubejobrate</key>
+	<string>visibleArchitecture</string>
+	<key>discardedmapforce</key>
+	<string>intuitiveConnector</string>
+	<key>draggableProject</key>
+	<string>effectDuration</string>
+	<key>granularBase</key>
+	<string>permanentRestriction</string>
+	<key>gridInterval</key>
+	<string>pointStyle</string>
+	<key>inactiveDimension</key>
+	<string>infoVisibility</string>
+	<key>intermediateRow</key>
+	<string>consumerDuration</string>
+	<key>mobileTag</key>
+	<string>positionPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAsync</key>
+	<string>formatGem</string>
+	<key>drawscaffold</key>
+	<string>publishtitle</string>
+	<key>granularQuaternion</key>
+	<string>desktopOverlay</string>
+	<key>handleaccessory</key>
+	<string>sortedasynccoord</string>
+	<key>listenqueue</key>
+	<string>conformInteractor</string>
+	<key>mainPublisher</key>
+	<string>resizePresenter</string>
+	<key>primaryFragments</key>
+	<string>sophisticatedColor</string>
+	<key>streamName</key>
+	<string>associatedAmortization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorIndex</key>
+	<string>gradientstagefeedback</string>
+	<key>localizationTheme</key>
+	<string>enumerateInjection</string>
+	<key>pivotalDropdownButton</key>
+	<string>tabviewParam</string>
+	<key>resourceResponse</key>
+	<string>mixinPresenter</string>
+	<key>robustBatch</key>
+	<string>standaloneMenu</string>
+	<key>shouldAnimateSign</key>
+	<string>overrideTexture</string>
+	<key>shouldYieldController</key>
+	<string>spotAdapter</string>
+	<key>sizeMargin</key>
+	<string>progressbarpatternformat</string>
+	<key>synchronousGridView</key>
+	<string>firstTimeline</string>
+</dict>
+</plist>

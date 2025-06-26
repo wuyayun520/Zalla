@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCupertino</key>
+	<string>draggableswitchdistance</string>
+	<key>controllersystemvisible</key>
+	<string>draggableTabView</string>
+	<key>projectionbuilder</key>
+	<string>binderDelay</string>
+	<key>shouldFormatConstraint</key>
+	<string>subsequentCanvas</string>
+	<key>statelessCursor</key>
+	<string>explicitPopup</string>
+</dict>
+</plist>

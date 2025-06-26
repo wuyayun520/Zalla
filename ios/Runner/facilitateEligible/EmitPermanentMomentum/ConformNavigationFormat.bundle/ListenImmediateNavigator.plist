@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatehandler</key>
+	<string>firstBase</string>
+	<key>formatSpeed</key>
+	<string>mainintensitycontrast</string>
+	<key>formatcallback</key>
+	<string>positionedOpacity</string>
+	<key>hardAnimation</key>
+	<string>dynamicDisclaimer</string>
+	<key>originalDisclaimer</key>
+	<string>sharedprovider</string>
+	<key>prismaticfuturepadding</key>
+	<string>replicaVelocity</string>
+	<key>quaternionFormat</key>
+	<string>missionOrientation</string>
+	<key>similarawait</key>
+	<string>mutableHash</string>
+	<key>wrapperright</key>
+	<string>localizationRight</string>
+</dict>
+</plist>

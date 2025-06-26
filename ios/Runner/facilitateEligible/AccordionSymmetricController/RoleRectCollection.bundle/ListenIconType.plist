@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorColor</key>
+	<string>reconcileManager</string>
+	<key>awaitSkewX</key>
+	<string>tappableOffset</string>
+	<key>axisborder</key>
+	<string>canShowReduction</string>
+	<key>easyLoop</key>
+	<string>uniqueFormat</string>
+	<key>enabledDispatcher</key>
+	<string>particleMode</string>
+	<key>granularTolerance</key>
+	<string>repositoryRotation</string>
+	<key>notifierSaturation</key>
+	<string>canStopTextField</string>
+	<key>providerrange</key>
+	<string>primaryTechnique</string>
+	<key>resizableGrayscale</key>
+	<string>integerquaternion</string>
+	<key>substantialradius</key>
+	<string>specifierTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyOccasion</key>
+	<string>accelerateSprite</string>
+	<key>hasbullet</key>
+	<string>capsuleBrightness</string>
+	<key>histogramShape</key>
+	<string>persistLayout</string>
+	<key>previewlayerdistance</key>
+	<string>collectionEdge</string>
+	<key>shouldCacheInstruction</key>
+	<string>markConfiguration</string>
+</dict>
+</plist>

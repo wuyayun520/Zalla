@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCapacity</key>
+	<string>imperativeScope</string>
+	<key>elasticBullet</key>
+	<string>shouldMountSwitch</string>
+	<key>retainedAmortization</key>
+	<string>shouldShowBatch</string>
+	<key>standaloneInjection</key>
+	<string>tableHead</string>
+	<key>switchbeyondshape</key>
+	<string>delicateRenderer</string>
+</dict>
+</plist>

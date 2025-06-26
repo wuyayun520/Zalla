@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindgraph</key>
+	<string>minAppBar</string>
+	<key>flexibleResult</key>
+	<string>restartCaption</string>
+	<key>intermediateSplitter</key>
+	<string>storagemapper</string>
+	<key>resourceforce</key>
+	<string>checkboxInteraction</string>
+	<key>streampreview</key>
+	<string>bundleGraph</string>
+</dict>
+</plist>

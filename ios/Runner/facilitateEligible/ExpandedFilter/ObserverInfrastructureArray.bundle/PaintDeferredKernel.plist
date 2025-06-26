@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedsign</key>
+	<string>chapterduringmemento</string>
+	<key>immediatecompletionresponse</key>
+	<string>firstrow</string>
+	<key>resolverinset</key>
+	<string>selectorInteraction</string>
+	<key>shouldValidateCharacter</key>
+	<string>shouldAttachStateless</string>
+</dict>
+</plist>

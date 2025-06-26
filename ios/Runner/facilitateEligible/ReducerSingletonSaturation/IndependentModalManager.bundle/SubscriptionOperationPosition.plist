@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposeusecase</key>
+	<string>workflowTransparency</string>
+	<key>mainpublisher</key>
+	<string>beginnerTriangles</string>
+	<key>shouldHandleBullet</key>
+	<string>consumercoord</string>
+	<key>stampresolver</key>
+	<string>sizeHue</string>
+	<key>zonetweak</key>
+	<string>imperativeUnary</string>
+</dict>
+</plist>

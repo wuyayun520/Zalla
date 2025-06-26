@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFlags</key>
+	<string>graphSize</string>
+	<key>canvasamongframework</key>
+	<string>shouldParseExpanded</string>
+	<key>positionedDelay</key>
+	<string>animatedIntensity</string>
+	<key>seguePosition</key>
+	<string>intermediateBinary</string>
+	<key>videodepth</key>
+	<string>shouldPresentDelegate</string>
+	<key>volumeTransparency</key>
+	<string>subpixelState</string>
+</dict>
+</plist>

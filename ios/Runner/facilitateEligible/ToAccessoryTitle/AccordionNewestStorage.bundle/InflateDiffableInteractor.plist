@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedFlex</key>
+	<string>significantstaterate</string>
+	<key>mutableRectangle</key>
+	<string>detachDimension</string>
+	<key>popupmaterializer</key>
+	<string>numericalSpot</string>
+	<key>selectedOperation</key>
+	<string>entityVariable</string>
+	<key>shouldNotifyStateless</key>
+	<string>resultResponse</string>
+</dict>
+</plist>

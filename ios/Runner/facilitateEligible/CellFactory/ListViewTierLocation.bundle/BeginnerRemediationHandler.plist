@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFeedback</key>
+	<string>advancedfuturetheme</string>
+	<key>allocatorHead</key>
+	<string>timerScale</string>
+	<key>dedicatedCoordinator</key>
+	<string>checklistStructure</string>
+	<key>independentWrapper</key>
+	<string>processtextfield</string>
+	<key>indicatorTransparency</key>
+	<string>accessibleVector</string>
+	<key>localMechanism</key>
+	<string>awaitInteraction</string>
+	<key>replacebehavior</key>
+	<string>renderCosine</string>
+	<key>ternaryinteractor</key>
+	<string>texttaskappearance</string>
+</dict>
+</plist>

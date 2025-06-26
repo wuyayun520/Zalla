@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralLogarithm</key>
+	<string>dynamicColumn</string>
+	<key>lostAnalogy</key>
+	<string>easyDetail</string>
+	<key>mobileGestureDetector</key>
+	<string>inflateAnimation</string>
+	<key>nativeCapacity</key>
+	<string>searcherStyle</string>
+	<key>nextHash</key>
+	<string>nibSkewY</string>
+	<key>nibStyle</key>
+	<string>associatedSemantics</string>
+	<key>normalTitle</key>
+	<string>discoverService</string>
+	<key>operationVelocity</key>
+	<string>enabledHistogram</string>
+	<key>shouldContinueDelegate</key>
+	<string>releaseAllocator</string>
+</dict>
+</plist>

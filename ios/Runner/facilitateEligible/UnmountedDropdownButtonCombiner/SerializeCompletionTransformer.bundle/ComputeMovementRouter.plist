@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardstream</key>
+	<string>cloneLoop</string>
+	<key>curveType</key>
+	<string>apertureStrategy</string>
+	<key>shouldTransitionAperture</key>
+	<string>defaultModal</string>
+	<key>typicaltimerskewx</key>
+	<string>semanticFragment</string>
+</dict>
+</plist>

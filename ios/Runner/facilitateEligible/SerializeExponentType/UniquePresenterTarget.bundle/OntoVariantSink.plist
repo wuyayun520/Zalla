@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBaseline</key>
+	<string>aspectJob</string>
+	<key>curveValidation</key>
+	<string>draggableManager</string>
+	<key>integrityStyle</key>
+	<string>intensitySpacing</string>
+	<key>layoutconsumer</key>
+	<string>unscheduleFactory</string>
+	<key>previewoffset</key>
+	<string>updateview</string>
+	<key>promisestyle</key>
+	<string>descriptionlikecycle</string>
+</dict>
+</plist>

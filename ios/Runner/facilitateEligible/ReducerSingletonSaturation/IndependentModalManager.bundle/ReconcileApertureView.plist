@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConsumption</key>
+	<string>reductionCount</string>
+	<key>consultativeBuffer</key>
+	<string>directlyExpanded</string>
+	<key>filteroffset</key>
+	<string>disconnectSpecifier</string>
+	<key>finishtransition</key>
+	<string>architectureAlignment</string>
+	<key>offsetmobile</key>
+	<string>restartslider</string>
+	<key>popupPadding</key>
+	<string>listviewopacity</string>
+	<key>scrollexceptstrategy</key>
+	<string>hardDescriptor</string>
+	<key>viewSpacing</key>
+	<string>resilientBaseline</string>
+</dict>
+</plist>

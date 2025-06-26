@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easySlider</key>
+	<string>nextSubscriber</string>
+	<key>localTernary</key>
+	<string>subtleImpression</string>
+	<key>newestfuture</key>
+	<string>keepClipper</string>
+	<key>progressbarthreshold</key>
+	<string>radiusAdapter</string>
+	<key>shouldDisposeCell</key>
+	<string>resizableZone</string>
+	<key>shouldDisposeStoryboard</key>
+	<string>meshCoord</string>
+	<key>shouldInflateStateless</key>
+	<string>provideCurve</string>
+	<key>specifyInfrastructure</key>
+	<string>staticGrid</string>
+</dict>
+</plist>

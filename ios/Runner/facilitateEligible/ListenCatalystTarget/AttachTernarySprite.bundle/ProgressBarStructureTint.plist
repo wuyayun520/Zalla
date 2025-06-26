@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionframeworkskewx</key>
+	<string>smartpositioned</string>
+	<key>converterState</key>
+	<string>createMenu</string>
+	<key>currentMargin</key>
+	<string>commonRecursion</string>
+	<key>enabledOption</key>
+	<string>scenedepth</string>
+	<key>specifyresource</key>
+	<string>nodeperprototype</string>
+</dict>
+</plist>

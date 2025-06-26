@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDisclaimer</key>
+	<string>mediumMesh</string>
+	<key>lastResolver</key>
+	<string>basicMethod</string>
+	<key>optionoutsidepattern</key>
+	<string>exitTransition</string>
+	<key>scopeColor</key>
+	<string>animateGraphic</string>
+	<key>shouldPauseOption</key>
+	<string>swiftreplica</string>
+	<key>strokeScale</key>
+	<string>decorationoutsideparam</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExtension</key>
+	<string>geometricmomentumsaturation</string>
+	<key>crucialTimer</key>
+	<string>requiredFuture</string>
+	<key>gridexceptstrategy</key>
+	<string>shouldBindFlex</string>
+	<key>numericalStep</key>
+	<string>gateactivityedge</string>
+	<key>reactiveCoordinator</key>
+	<string>keyRequest</string>
+	<key>seamlesshistogramformat</key>
+	<string>slashName</string>
+	<key>shouldCancelNib</key>
+	<string>referencequaternion</string>
+	<key>smallBloc</key>
+	<string>shouldDismissCaption</string>
+</dict>
+</plist>

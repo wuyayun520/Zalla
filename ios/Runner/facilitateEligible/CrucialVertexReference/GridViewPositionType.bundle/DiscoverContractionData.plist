@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCombiner</key>
+	<string>mountedCupertino</string>
+	<key>functionalDispatcher</key>
+	<string>prismaticLifecycle</string>
+	<key>numericalFragment</key>
+	<string>difficultAnalyzer</string>
+	<key>pinchableBaseline</key>
+	<string>removesign</string>
+</dict>
+</plist>

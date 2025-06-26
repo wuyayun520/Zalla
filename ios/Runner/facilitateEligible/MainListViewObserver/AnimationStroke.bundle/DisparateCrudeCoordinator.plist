@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentPressure</key>
+	<string>publicPlate</string>
+	<key>keyAwait</key>
+	<string>immediateProvision</string>
+	<key>lostTentative</key>
+	<string>sliderPlatform</string>
+	<key>shouldConnectMovement</key>
+	<string>customizedFactory</string>
+	<key>shouldMountWorkflow</key>
+	<string>shouldCancelTextField</string>
+</dict>
+</plist>

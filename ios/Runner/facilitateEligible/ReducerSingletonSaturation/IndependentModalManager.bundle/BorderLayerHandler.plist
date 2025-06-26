@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTitle</key>
+	<string>advancedPainter</string>
+	<key>continuedependency</key>
+	<string>compareSink</string>
+	<key>cursorperprocess</key>
+	<string>strokeDuration</string>
+	<key>greatRemainder</key>
+	<string>maxRadio</string>
+	<key>permissiveEffect</key>
+	<string>statelessJoiner</string>
+	<key>slashRotation</key>
+	<string>alertDistance</string>
+	<key>touchbridgerotation</key>
+	<string>callbackopacity</string>
+	<key>usedReceiver</key>
+	<string>shouldParseCustomPaint</string>
+</dict>
+</plist>

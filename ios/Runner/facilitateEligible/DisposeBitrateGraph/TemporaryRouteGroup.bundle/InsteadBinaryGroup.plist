@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicaction</key>
+	<string>onseguetap</string>
+	<key>crucialView</key>
+	<string>mobileProvider</string>
+	<key>easyanalyzer</key>
+	<string>mutableDetail</string>
+	<key>explicitSubscriber</key>
+	<string>drawerForce</string>
+	<key>queuewithprocess</key>
+	<string>asynchronousError</string>
+	<key>requiredstamp</key>
+	<string>seamlessColumn</string>
+	<key>sustainableDropdownButton</key>
+	<string>enabledProgressBar</string>
+	<key>tablePressure</key>
+	<string>unmountStream</string>
+	<key>unregisterstateless</key>
+	<string>managerMargin</string>
+</dict>
+</plist>

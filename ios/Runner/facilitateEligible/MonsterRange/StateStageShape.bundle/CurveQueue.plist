@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFeedback</key>
+	<string>keyInfo</string>
+	<key>dedicatedStep</key>
+	<string>imagefactory</string>
+	<key>delicateMobile</key>
+	<string>prevmethod</string>
+	<key>directcomponent</key>
+	<string>enabledNotification</string>
+	<key>globalGraph</key>
+	<string>persistNavigator</string>
+	<key>gramBorder</key>
+	<string>featurePosition</string>
+	<key>oldRow</key>
+	<string>measureSize</string>
+	<key>parallelColumn</key>
+	<string>timeBrightness</string>
+	<key>shouldBuildTransition</key>
+	<string>euclideanMaterializer</string>
+	<key>shouldFetchCanvas</key>
+	<string>shouldUnmountCatalyst</string>
+</dict>
+</plist>

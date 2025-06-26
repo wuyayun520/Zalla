@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviornumberfrequency</key>
+	<string>shouldTrainGridView</string>
+	<key>capacitiesFlags</key>
+	<string>dataSize</string>
+	<key>configurationinvalue</key>
+	<string>disparateStream</string>
+	<key>disabledScroller</key>
+	<string>invisibleRole</string>
+	<key>dropdownbuttonKind</key>
+	<string>deferredScale</string>
+	<key>shapeValidation</key>
+	<string>yieldButton</string>
+	<key>shouldDeserializeNib</key>
+	<string>localLifecycle</string>
+	<key>sophisticatedDisclaimer</key>
+	<string>shouldDecodeDescriptor</string>
+	<key>storeBorder</key>
+	<string>primaryTweak</string>
+</dict>
+</plist>

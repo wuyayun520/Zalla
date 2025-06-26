@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDelay</key>
+	<string>dissociateConstraint</string>
+	<key>customEvaluation</key>
+	<string>deserializePainter</string>
+	<key>globalBuilder</key>
+	<string>commonOperation</string>
+	<key>rowshapestatus</key>
+	<string>shouldDetachExponent</string>
+	<key>standalonemaptint</key>
+	<string>basicAnalyzer</string>
+	<key>tickerPosition</key>
+	<string>crucialSink</string>
+</dict>
+</plist>

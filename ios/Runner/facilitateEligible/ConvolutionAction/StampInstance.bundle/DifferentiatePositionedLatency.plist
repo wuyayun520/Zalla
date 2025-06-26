@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLoss</key>
+	<string>quantizerEntity</string>
+	<key>certificateAcceleration</key>
+	<string>dialogsProcess</string>
+	<key>popupTag</key>
+	<string>localbuilderinset</string>
+	<key>resizableOption</key>
+	<string>utilInterval</string>
+	<key>sampleinbridge</key>
+	<string>hyperbolicModule</string>
+	<key>selectortype</key>
+	<string>retainedMaster</string>
+	<key>shouldNotifyProtocol</key>
+	<string>conformService</string>
+	<key>shouldRouteLayout</key>
+	<string>criticalScale</string>
+</dict>
+</plist>

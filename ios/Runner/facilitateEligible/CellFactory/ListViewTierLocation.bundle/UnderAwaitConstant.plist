@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCube</key>
+	<string>canReplaceModulus</string>
+	<key>ephemeralGraph</key>
+	<string>euclideanRect</string>
+	<key>localStateful</key>
+	<string>oldEqualization</string>
+	<key>mainProtocol</key>
+	<string>displayModel</string>
+	<key>shouldPauseChannels</key>
+	<string>canPresentTouch</string>
+</dict>
+</plist>

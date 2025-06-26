@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDialogs</key>
+	<string>diversifiedProcessor</string>
+	<key>batchMomentum</key>
+	<string>holdIntensity</string>
+	<key>pivotalClipper</key>
+	<string>canNotifyDocument</string>
+	<key>prepareerror</key>
+	<string>canMountSign</string>
+	<key>routeemitter</key>
+	<string>canSubscribeEqualization</string>
+	<key>singletonandlevel</key>
+	<string>emitTitle</string>
+</dict>
+</plist>

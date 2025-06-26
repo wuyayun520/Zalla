@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRole</key>
+	<string>canCancelBatch</string>
+	<key>captionName</key>
+	<string>crudeHandler</string>
+	<key>denseInformation</key>
+	<string>canDecodeCustomPaint</string>
+	<key>displayableAspect</key>
+	<string>specifyEvolution</string>
+	<key>mediocreIndicator</key>
+	<string>disposeHero</string>
+	<key>mobileMultiplication</key>
+	<string>deserializeUnary</string>
+	<key>newestinterpolationvisibility</key>
+	<string>presentscaffold</string>
+	<key>repositoryLocation</key>
+	<string>localLoop</string>
+	<key>shouldMountedPlate</key>
+	<string>shouldDisconnectAspect</string>
+	<key>shouldPrepareTouch</key>
+	<string>routecount</string>
+</dict>
+</plist>

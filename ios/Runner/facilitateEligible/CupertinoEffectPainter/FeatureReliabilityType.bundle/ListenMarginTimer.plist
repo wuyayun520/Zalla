@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVisibility</key>
+	<string>unmountThread</string>
+	<key>concurrentPublisher</key>
+	<string>permissiveNotification</string>
+	<key>dependencyevaluation</key>
+	<string>persistAspect</string>
+	<key>providerRate</key>
+	<string>chooserDirection</string>
+</dict>
+</plist>

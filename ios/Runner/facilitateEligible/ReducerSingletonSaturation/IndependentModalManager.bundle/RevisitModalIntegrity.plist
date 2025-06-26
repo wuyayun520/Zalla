@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionjobstatus</key>
+	<string>shouldDismissLayout</string>
+	<key>enabledLoss</key>
+	<string>computeLocalization</string>
+	<key>permanentProvision</key>
+	<string>paddingAdapter</string>
+	<key>replaceoptimizer</key>
+	<string>shouldLoadContraction</string>
+	<key>scrolldistance</key>
+	<string>explicitInteraction</string>
+	<key>shouldPopTangent</key>
+	<string>shouldrebuildtabview</string>
+	<key>stringifyrequest</key>
+	<string>imperativestatefulcoord</string>
+	<key>transformcubit</key>
+	<string>pushloop</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationkindshape</key>
+	<string>symmetricLayout</string>
+	<key>dispatcherTheme</key>
+	<string>shouldPaintAnchor</string>
+	<key>polyfillhead</key>
+	<string>shouldBindScaffold</string>
+	<key>radioascent</key>
+	<string>gramSystem</string>
+	<key>resourcedetector</key>
+	<string>singleScroller</string>
+	<key>shouldsubscribesubpixel</key>
+	<string>statelessInformation</string>
+	<key>usageCount</key>
+	<string>rapidMovement</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationfacadestate</key>
+	<string>interactiveTask</string>
+	<key>sensorpressure</key>
+	<string>shouldPauseOption</string>
+	<key>shouldLoadOptimizer</key>
+	<string>draggableOverlay</string>
+	<key>staticPlate</key>
+	<string>reactiveMesh</string>
+</dict>
+</plist>

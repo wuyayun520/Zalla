@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretemapper</key>
+	<string>rowinterpreterappearance</string>
+	<key>deferredScenario</key>
+	<string>viewscheduler</string>
+	<key>elasticMaster</key>
+	<string>persistentSorter</string>
+	<key>methodFormat</key>
+	<string>reducerdecoratorhue</string>
+	<key>shouldCreateDescriptor</key>
+	<string>mediocreGestureDetector</string>
+	<key>shouldRebuildDropdownButton</key>
+	<string>euclideanSlash</string>
+	<key>similaroptimizer</key>
+	<string>isolateEdge</string>
+	<key>skirtedge</key>
+	<string>shouldDeserializeMember</string>
+	<key>statefulStrength</key>
+	<string>touchtechnique</string>
+</dict>
+</plist>

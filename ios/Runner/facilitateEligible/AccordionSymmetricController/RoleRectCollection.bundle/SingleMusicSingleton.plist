@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPublisher</key>
+	<string>crucialMesh</string>
+	<key>declarativeResolver</key>
+	<string>contrastBound</string>
+	<key>inactiveExponent</key>
+	<string>efficiencyBrightness</string>
+	<key>particleposition</key>
+	<string>canDispatchScreen</string>
+	<key>priorawait</key>
+	<string>trainUsage</string>
+	<key>retainedGrid</key>
+	<string>entropyOrientation</string>
+	<key>scalabilityTint</key>
+	<string>transposeScene</string>
+	<key>shouldRenderUsage</key>
+	<string>stopDialogs</string>
+	<key>sortedSubpixel</key>
+	<string>histogramSaturation</string>
+	<key>tappableRoute</key>
+	<string>cubeSkewX</string>
+</dict>
+</plist>

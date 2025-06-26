@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framevelocity</key>
+	<string>actionLeft</string>
+	<key>shouldContinueChannels</key>
+	<string>layerMethod</string>
+	<key>symbolTension</key>
+	<string>geometricMetrics</string>
+</dict>
+</plist>

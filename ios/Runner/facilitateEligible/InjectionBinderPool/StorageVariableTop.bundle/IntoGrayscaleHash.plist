@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOpacity</key>
+	<string>retrieveModel</string>
+	<key>canvasShape</key>
+	<string>pausePoint</string>
+	<key>efficiencyShade</key>
+	<string>navigateMap</string>
+	<key>primarySample</key>
+	<string>visualizeLayout</string>
+	<key>shouldStopMaster</key>
+	<string>mechanismLeft</string>
+	<key>shouldbuildplayback</key>
+	<string>shouldPaintBorder</string>
+	<key>titleTop</key>
+	<string>brushVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPageView</key>
+	<string>cacheNumber</string>
+	<key>challengecenter</key>
+	<string>interfaceDistance</string>
+	<key>histogramSkewY</key>
+	<string>graincommandskewy</string>
+	<key>petScale</key>
+	<string>keyFuture</string>
+	<key>shouldListenLabel</key>
+	<string>localBatch</string>
+	<key>shouldMountMediaQuery</key>
+	<string>disabledJoiner</string>
+	<key>shouldStartCache</key>
+	<string>actionSpacing</string>
+	<key>signatureFrequency</key>
+	<string>rectleft</string>
+	<key>transformercontrast</key>
+	<string>notificationatlevel</string>
+</dict>
+</plist>

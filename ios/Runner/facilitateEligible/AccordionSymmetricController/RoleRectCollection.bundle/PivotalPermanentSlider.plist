@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferacceleration</key>
+	<string>canTransitionFragment</string>
+	<key>firstCompletion</key>
+	<string>emitArithmetic</string>
+	<key>globalContrast</key>
+	<string>giftBorder</string>
+	<key>graphTension</key>
+	<string>rebuildStateful</string>
+	<key>permissiveStatus</key>
+	<string>appendController</string>
+	<key>resilientDistinction</key>
+	<string>stateTransparency</string>
+	<key>routeawaycycle</key>
+	<string>rapidTriangles</string>
+</dict>
+</plist>

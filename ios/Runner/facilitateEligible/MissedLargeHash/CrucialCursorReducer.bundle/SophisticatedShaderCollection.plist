@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatedetector</key>
+	<string>buildIcon</string>
+	<key>concurrentProfile</key>
+	<string>encodeReduction</string>
+	<key>shouldSkipModal</key>
+	<string>parallelMapper</string>
+	<key>synchronousPadding</key>
+	<string>cupertinoSearcher</string>
+</dict>
+</plist>

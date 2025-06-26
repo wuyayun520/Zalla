@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTouch</key>
+	<string>widgetOrigin</string>
+	<key>borderinfo</key>
+	<string>tweenHue</string>
+	<key>dynamicRange</key>
+	<string>gradientTension</string>
+	<key>firstroutemode</key>
+	<string>obtainFrame</string>
+	<key>shouldSkipBloc</key>
+	<string>enabledResilience</string>
+</dict>
+</plist>

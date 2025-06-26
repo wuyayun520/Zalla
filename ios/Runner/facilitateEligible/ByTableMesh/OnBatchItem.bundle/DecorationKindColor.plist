@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseInterface</key>
+	<string>mutableCapacities</string>
+	<key>gridviewatphase</key>
+	<string>cancelwidget</string>
+	<key>inflatedecoration</key>
+	<string>subsequentListView</string>
+	<key>intuitiveQueue</key>
+	<string>visibleTexture</string>
+	<key>requiredBox</key>
+	<string>reductionName</string>
+	<key>shouldResumeConstraint</key>
+	<string>canFetchNotifier</string>
+	<key>shouldUpdateView</key>
+	<string>cellVar</string>
+	<key>singletonlocation</key>
+	<string>collectionMode</string>
+	<key>symmetricAction</key>
+	<string>hierarchicalSemantics</string>
+	<key>tweenoffset</key>
+	<string>variantdescent</string>
+</dict>
+</plist>

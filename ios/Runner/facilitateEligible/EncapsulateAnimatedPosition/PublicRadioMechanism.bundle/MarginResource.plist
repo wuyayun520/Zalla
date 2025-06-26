@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellprototypeindex</key>
+	<string>primaryThread</string>
+	<key>cupertinoChallenge</key>
+	<string>accordionEfficiency</string>
+	<key>cupertinoEvolution</key>
+	<string>originalChannels</string>
+	<key>discardedskinbehavior</key>
+	<string>augmentcursor</string>
+	<key>largeReducer</key>
+	<string>immediateLoop</string>
+	<key>otherBrush</key>
+	<string>globalScroll</string>
+	<key>promiseparammode</key>
+	<string>restartpageview</string>
+	<key>reusablepageviewleft</key>
+	<string>agileResponse</string>
+	<key>shouldpushnotification</key>
+	<string>gramJob</string>
+	<key>streamstatus</key>
+	<string>canLoadCoordinator</string>
+</dict>
+</plist>

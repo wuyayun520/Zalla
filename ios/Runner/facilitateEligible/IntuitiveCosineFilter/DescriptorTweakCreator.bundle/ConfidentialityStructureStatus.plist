@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGraph</key>
+	<string>trainGesture</string>
+	<key>draggableAscent</key>
+	<string>currentResponse</string>
+	<key>nibRate</key>
+	<string>pinchablePositioned</string>
+	<key>optimizerfactory</key>
+	<string>unmarshalResponse</string>
+	<key>sessionamongpattern</key>
+	<string>liteblocstatus</string>
+	<key>tickertransformer</key>
+	<string>enumerateProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishobserver</key>
+	<string>secondListener</string>
+	<key>lastIntegrity</key>
+	<string>permanentTexture</string>
+	<key>menuShape</key>
+	<string>invisibleResponse</string>
+	<key>rebuildheap</key>
+	<string>analyzeBuffer</string>
+	<key>respectiveprecision</key>
+	<string>shouldMountPlayback</string>
+	<key>shouldRebuildSemantics</key>
+	<string>scaleAdapter</string>
+	<key>sliderLeft</key>
+	<string>unactivatedTouch</string>
+</dict>
+</plist>

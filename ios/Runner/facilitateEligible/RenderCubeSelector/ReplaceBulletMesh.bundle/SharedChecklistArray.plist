@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionfunctionfeedback</key>
+	<string>shouldPrepareCapsule</string>
+	<key>dataOrigin</key>
+	<string>refreshbloc</string>
+	<key>hasTool</key>
+	<string>limitmodulus</string>
+	<key>localAmortization</key>
+	<string>missedAwait</string>
+	<key>newestPageView</key>
+	<string>hashdistance</string>
+	<key>shouldsubscribestep</key>
+	<string>fixedImage</string>
+	<key>significantMerger</key>
+	<string>canPopSegment</string>
+	<key>statefulNotifier</key>
+	<string>operationFunction</string>
+	<key>titleobject</key>
+	<string>usedDocument</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedbaseline</key>
+	<string>convolutionTension</string>
+	<key>beginnerController</key>
+	<string>asynchronousTween</string>
+	<key>cupertinoModal</key>
+	<string>localawait</string>
+	<key>dismissmaterial</key>
+	<string>observerType</string>
+	<key>gridenvironmentpadding</key>
+	<string>shouldBindController</string>
+	<key>litemodelindex</key>
+	<string>navigatorMomentum</string>
+	<key>requestFormat</key>
+	<string>dismissgrid</string>
+	<key>shouldAnimateReduction</key>
+	<string>resolverSpacing</string>
+</dict>
+</plist>

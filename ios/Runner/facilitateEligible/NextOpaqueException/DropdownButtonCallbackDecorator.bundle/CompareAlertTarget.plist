@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFuture</key>
+	<string>showRoute</string>
+	<key>filterLocation</key>
+	<string>queuepernumber</string>
+	<key>permanentinstructiondepth</key>
+	<string>unactivatedAperture</string>
+	<key>publicAudio</key>
+	<string>desktopRouter</string>
+	<key>queueMode</key>
+	<string>canAttachTabBar</string>
+	<key>resourceneartype</key>
+	<string>sophisticatedScreen</string>
+	<key>shouldCancelGridView</key>
+	<string>checkboxOrientation</string>
+</dict>
+</plist>

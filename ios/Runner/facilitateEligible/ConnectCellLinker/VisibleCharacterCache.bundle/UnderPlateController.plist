@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSize</key>
+	<string>disconnectCell</string>
+	<key>adaptiveChecklist</key>
+	<string>reusableRole</string>
+	<key>colorVisible</key>
+	<string>newestRenderer</string>
+	<key>elasticCapsule</key>
+	<string>yieldComposition</string>
+	<key>finderRight</key>
+	<string>analyzeEvent</string>
+	<key>priorDispatcher</key>
+	<string>loadsegment</string>
+</dict>
+</plist>

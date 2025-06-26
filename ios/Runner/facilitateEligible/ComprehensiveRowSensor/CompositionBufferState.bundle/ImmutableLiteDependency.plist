@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkfragment</key>
+	<string>reliabilityVelocity</string>
+	<key>entityprototypefeedback</key>
+	<string>boxshape</string>
+	<key>latencySkewX</key>
+	<string>curveFlags</string>
+	<key>provisionHue</key>
+	<string>refactorText</string>
+	<key>referenceinjection</key>
+	<string>nativeSplitter</string>
+	<key>relationalDuration</key>
+	<string>shouldMountMobile</string>
+	<key>transformtask</key>
+	<string>materializerFlags</string>
+</dict>
+</plist>

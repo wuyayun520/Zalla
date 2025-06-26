@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDetail</key>
+	<string>shouldBuildAppBar</string>
+	<key>globalGem</key>
+	<string>cupertinoBullet</string>
+	<key>hardMonster</key>
+	<string>holdGroup</string>
+	<key>lostnotation</key>
+	<string>sharedDocument</string>
+	<key>positionedtrigger</key>
+	<string>prevSign</string>
+	<key>shouldFetchBuilder</key>
+	<string>canPersistWidget</string>
+	<key>showpreview</key>
+	<string>pickerTension</string>
+</dict>
+</plist>

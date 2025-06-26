@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseContrast</key>
+	<string>optionWork</string>
+	<key>commonsound</key>
+	<string>oldLatency</string>
+	<key>cubeusecase</key>
+	<string>canDispatchContainer</string>
+	<key>explicitRestriction</key>
+	<string>enumerateCurve</string>
+	<key>mobilelifecycle</key>
+	<string>hierarchicalPager</string>
+	<key>responsiveBase</key>
+	<string>widgetVariable</string>
+	<key>sensorworkscale</key>
+	<string>removeInjection</string>
+	<key>shouldHandleBullet</key>
+	<string>immutableView</string>
+	<key>shouldSaveEffect</key>
+	<string>scrollableSubpixel</string>
+</dict>
+</plist>

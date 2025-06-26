@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentreliability</key>
+	<string>associatedCompleter</string>
+	<key>desktopEvaluation</key>
+	<string>statefulMusic</string>
+	<key>emitmetadata</key>
+	<string>multiRectangle</string>
+	<key>kernelDensity</key>
+	<string>operationContext</string>
+	<key>restartsizedbox</key>
+	<string>canResumeColumn</string>
+	<key>shouldcancelmission</key>
+	<string>shouldPersistGrayscale</string>
+</dict>
+</plist>

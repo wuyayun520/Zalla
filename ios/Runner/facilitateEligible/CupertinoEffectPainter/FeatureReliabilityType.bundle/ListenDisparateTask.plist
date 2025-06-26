@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directHash</key>
+	<string>draggableCollection</string>
+	<key>layoutcoord</key>
+	<string>recursionIndex</string>
+	<key>localEvaluation</key>
+	<string>missedQueue</string>
+	<key>queueOffset</key>
+	<string>fusedRecursion</string>
+	<key>throughputBrightness</key>
+	<string>canStopSlash</string>
+	<key>variantIndex</key>
+	<string>progressbarFrequency</string>
+</dict>
+</plist>

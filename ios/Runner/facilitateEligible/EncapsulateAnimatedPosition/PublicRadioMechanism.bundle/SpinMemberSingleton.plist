@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultResolver</key>
+	<string>uniformAnalyzer</string>
+	<key>disconnectchart</key>
+	<string>tappableBorder</string>
+	<key>firstStore</key>
+	<string>relationalFactory</string>
+	<key>functionalcardrate</key>
+	<string>missedVector</string>
+	<key>immediatedetector</key>
+	<string>canReplaceCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCertificate</key>
+	<string>shouldcontinuecomposition</string>
+	<key>layervisible</key>
+	<string>shouldMountedIcon</string>
+	<key>mediaqueryoffset</key>
+	<string>operationScope</string>
+	<key>nativeinterface</key>
+	<string>interactorscroller</string>
+	<key>shouldCacheSegue</key>
+	<string>seamlessTween</string>
+	<key>sinkoutsideparameter</key>
+	<string>respectiveCaption</string>
+	<key>visiblepolyfill</key>
+	<string>shouldPaintBaseline</string>
+</dict>
+</plist>

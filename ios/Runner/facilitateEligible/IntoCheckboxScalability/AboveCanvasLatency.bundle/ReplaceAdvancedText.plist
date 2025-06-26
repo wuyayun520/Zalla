@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionvalueorigin</key>
+	<string>concurrentNavigation</string>
+	<key>associateusecase</key>
+	<string>routeRoute</string>
+	<key>immutableresolver</key>
+	<string>canDisposeProject</string>
+	<key>semanticrowname</key>
+	<string>tickerResponse</string>
+</dict>
+</plist>

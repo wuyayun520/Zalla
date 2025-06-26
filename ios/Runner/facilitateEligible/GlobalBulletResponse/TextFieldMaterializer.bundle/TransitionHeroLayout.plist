@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveText</key>
+	<string>capsuleatdecorator</string>
+	<key>commonCaption</key>
+	<string>currentIntegration</string>
+	<key>controllernumberflags</key>
+	<string>retainedlabelmomentum</string>
+	<key>ephemeralScalability</key>
+	<string>shouldNotifySample</string>
+	<key>featureVisible</key>
+	<string>canResumeAlert</string>
+	<key>lazySingleton</key>
+	<string>imperativeThread</string>
+	<key>particlespeed</key>
+	<string>canCacheRichText</string>
+	<key>queueAppearance</key>
+	<string>protocoloffset</string>
+	<key>scrollPressure</key>
+	<string>shouldtransformexpanded</string>
+	<key>shouldserializeclipper</key>
+	<string>typicalTolerance</string>
+</dict>
+</plist>

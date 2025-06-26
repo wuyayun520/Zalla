@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPrecision</key>
+	<string>equalStream</string>
+	<key>filterCoord</key>
+	<string>disposeMusic</string>
+	<key>lastMesh</key>
+	<string>grayscalefrequency</string>
+	<key>unactivatedGestureDetector</key>
+	<string>newestlabelkind</string>
+</dict>
+</plist>

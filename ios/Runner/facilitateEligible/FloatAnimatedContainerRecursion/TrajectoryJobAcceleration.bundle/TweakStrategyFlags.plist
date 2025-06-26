@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsAcceleration</key>
+	<string>constantTransparency</string>
+	<key>logarithmPressure</key>
+	<string>logSpeed</string>
+	<key>shouldPaintDimension</key>
+	<string>anchorAcceleration</string>
+	<key>staticGridView</key>
+	<string>generateentropy</string>
+	<key>storyboardcontextduration</key>
+	<string>retainGrain</string>
+</dict>
+</plist>

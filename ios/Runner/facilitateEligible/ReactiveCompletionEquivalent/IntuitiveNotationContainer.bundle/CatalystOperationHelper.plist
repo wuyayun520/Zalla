@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedComponent</key>
+	<string>labelflags</string>
+	<key>aspectimpact</key>
+	<string>sliderOpacity</string>
+	<key>aspectratiosaturation</key>
+	<string>indicatorSaturation</string>
+	<key>gramchaindepth</key>
+	<string>dedicatedTask</string>
+	<key>nextChecklist</key>
+	<string>similarentity</string>
+	<key>serializeinteger</key>
+	<string>findinterpolation</string>
+	<key>shouldInflateContainer</key>
+	<string>pageviewexceptcomposite</string>
+	<key>shouldRestartDocument</key>
+	<string>persistentWrapper</string>
+	<key>thresholdMode</key>
+	<string>apertureMode</string>
+</dict>
+</plist>

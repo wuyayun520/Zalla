@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEquivalent</key>
+	<string>effectValue</string>
+	<key>createtheme</key>
+	<string>recursionTransparency</string>
+	<key>fetchscroll</key>
+	<string>shouldRouteMediaQuery</string>
+	<key>functionalScaffold</key>
+	<string>staticmember</string>
+	<key>nativebase</key>
+	<string>shouldBindDuration</string>
+	<key>primarylayout</key>
+	<string>reactiveTexture</string>
+	<key>repositoryasmode</key>
+	<string>amortizationTint</string>
+	<key>scrollabletweenspeed</key>
+	<string>memberVar</string>
+	<key>selectedChecklist</key>
+	<string>shouldFetchHero</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedCollection</key>
+	<string>mediaqueryasvar</string>
+	<key>localizationscopestyle</key>
+	<string>tableChain</string>
+	<key>logtop</key>
+	<string>denseResource</string>
+	<key>lostImage</key>
+	<string>temporaryInstruction</string>
+	<key>parallelCompletion</key>
+	<string>convolutionPattern</string>
+	<key>radiustransparency</key>
+	<string>channelsChain</string>
+	<key>shouldEndSession</key>
+	<string>opaqueMapper</string>
+</dict>
+</plist>

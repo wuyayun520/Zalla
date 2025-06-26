@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateconstant</key>
+	<string>canInflateMap</string>
+	<key>catalystResponse</key>
+	<string>shouldAttachOptimizer</string>
+	<key>grayscalebycontext</key>
+	<string>listenticker</string>
+	<key>materialTimer</key>
+	<string>readAsync</string>
+	<key>popupScale</key>
+	<string>substantialProvider</string>
+	<key>reactiveAnimation</key>
+	<string>stateHead</string>
+	<key>shouldFinishNavigation</key>
+	<string>substantialTextField</string>
+</dict>
+</plist>

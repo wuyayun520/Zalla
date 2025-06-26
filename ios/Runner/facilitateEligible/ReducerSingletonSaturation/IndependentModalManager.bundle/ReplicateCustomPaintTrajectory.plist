@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackthroughenvironment</key>
+	<string>ternaryFormat</string>
+	<key>comprehensivepreview</key>
+	<string>reductionexception</string>
+	<key>durationTag</key>
+	<string>advancedGestureDetector</string>
+	<key>listviewvariablesize</key>
+	<string>aggregateDuration</string>
+	<key>nativeDispatcher</key>
+	<string>popNotifier</string>
+</dict>
+</plist>

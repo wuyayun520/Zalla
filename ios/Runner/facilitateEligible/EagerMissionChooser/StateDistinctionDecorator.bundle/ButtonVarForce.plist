@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelivery</key>
+	<string>standaloneCallback</string>
+	<key>baselineRight</key>
+	<string>sustainableBatch</string>
+	<key>confidentialityInterval</key>
+	<string>filterDuration</string>
+	<key>eventstate</key>
+	<string>canReplaceLogarithm</string>
+	<key>greatRange</key>
+	<string>numericalSpine</string>
+	<key>handlerindex</key>
+	<string>queueDirection</string>
+	<key>propagateinterface</key>
+	<string>isMember</string>
+	<key>standaloneCreator</key>
+	<string>associatedTopic</string>
+</dict>
+</plist>

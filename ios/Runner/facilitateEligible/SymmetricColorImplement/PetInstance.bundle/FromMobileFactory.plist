@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyrate</key>
+	<string>navigationStructure</string>
+	<key>detectorSize</key>
+	<string>canReplaceNorm</string>
+	<key>joinerFormat</key>
+	<string>canSetStateTernary</string>
+	<key>pickerOrientation</key>
+	<string>secondview</string>
+	<key>radiustint</key>
+	<string>prioritydelegate</string>
+	<key>shouldMountedRichText</key>
+	<string>crucialMomentum</string>
+	<key>shouldSubscribeMusic</key>
+	<string>loadSwitch</string>
+	<key>subsequentMetadata</key>
+	<string>parsetimer</string>
+</dict>
+</plist>

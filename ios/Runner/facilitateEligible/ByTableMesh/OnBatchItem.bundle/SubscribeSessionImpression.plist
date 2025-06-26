@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalModal</key>
+	<string>standaloneIsolate</string>
+	<key>filterCount</key>
+	<string>bulletStrategy</string>
+	<key>hyperbolicradio</key>
+	<string>typicalBinary</string>
+	<key>iconDuration</key>
+	<string>persistVariant</string>
+	<key>lasttitle</key>
+	<string>shouldPopTabView</string>
+	<key>localizationleveloffset</key>
+	<string>textfieldPhase</string>
+	<key>nodeplatformspeed</key>
+	<string>parallelinjectionspeed</string>
+	<key>normalHeap</key>
+	<string>groupType</string>
+	<key>onhistogramtap</key>
+	<string>canUnbindKernel</string>
+	<key>routeDelay</key>
+	<string>shouldRebuildAnimatedContainer</string>
+</dict>
+</plist>

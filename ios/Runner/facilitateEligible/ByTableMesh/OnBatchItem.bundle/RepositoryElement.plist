@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWrapper</key>
+	<string>logvisibility</string>
+	<key>invisibleOption</key>
+	<string>poolRepository</string>
+	<key>priorManager</key>
+	<string>computeUseCase</string>
+	<key>reactiveRectangle</key>
+	<string>shouldPaintStateful</string>
+	<key>shouldPopArithmetic</key>
+	<string>viewtail</string>
+	<key>shouldUnbindRadio</key>
+	<string>computeMethod</string>
+	<key>shouldUpdateImage</key>
+	<string>interactiveSkin</string>
+	<key>wrapperOpacity</key>
+	<string>missionFrequency</string>
+</dict>
+</plist>

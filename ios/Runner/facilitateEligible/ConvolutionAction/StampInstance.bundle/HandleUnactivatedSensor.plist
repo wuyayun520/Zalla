@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblegraincolor</key>
+	<string>firstMediaQuery</string>
+	<key>basictabviewskewy</key>
+	<string>smartresource</string>
+	<key>criticaltweenname</key>
+	<string>declarativeStateless</string>
+	<key>deferredLoader</key>
+	<string>tensorPosition</string>
+	<key>densePromise</key>
+	<string>weblistener</string>
+	<key>pinchableRectangle</key>
+	<string>shouldCancelMovement</string>
+	<key>reliabilityrate</key>
+	<string>occasionBound</string>
+	<key>sampleexcepttier</key>
+	<string>mediaparamedge</string>
+	<key>shouldDetachSegue</key>
+	<string>canNotifyAnimation</string>
+</dict>
+</plist>

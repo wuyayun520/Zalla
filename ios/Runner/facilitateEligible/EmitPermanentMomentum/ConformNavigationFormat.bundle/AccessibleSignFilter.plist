@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPublisher</key>
+	<string>advancedSubscriber</string>
+	<key>attachfuture</key>
+	<string>sequentialCycle</string>
+	<key>callbackFrequency</key>
+	<string>viewsearcher</string>
+	<key>eagerContainer</key>
+	<string>fetchDrawer</string>
+	<key>invisibleUseCase</key>
+	<string>pageviewshape</string>
+	<key>isshader</key>
+	<string>annotateTexture</string>
+	<key>liteManager</key>
+	<string>compileTimer</string>
+	<key>mediocreWrapper</key>
+	<string>exceptionSingleton</string>
+	<key>parallelOption</key>
+	<string>commonVolume</string>
+	<key>usecaseaudio</key>
+	<string>listenvector</string>
+</dict>
+</plist>

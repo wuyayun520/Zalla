@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedStack</key>
+	<string>compileRequest</string>
+	<key>globalGram</key>
+	<string>subscribeConsumer</string>
+	<key>granularMaterializer</key>
+	<string>subsequentMatrix</string>
+	<key>synchronousMaster</key>
+	<string>releaseObserver</string>
+</dict>
+</plist>

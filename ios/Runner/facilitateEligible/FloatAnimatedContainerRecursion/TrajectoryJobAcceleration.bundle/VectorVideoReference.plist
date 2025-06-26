@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctail</key>
+	<string>lazybox</string>
+	<key>draggableCombiner</key>
+	<string>attachchannel</string>
+	<key>gateconfiguration</key>
+	<string>explicitTween</string>
+	<key>impressionRotation</key>
+	<string>layertaskalignment</string>
+	<key>publishmethod</key>
+	<string>handleLog</string>
+</dict>
+</plist>

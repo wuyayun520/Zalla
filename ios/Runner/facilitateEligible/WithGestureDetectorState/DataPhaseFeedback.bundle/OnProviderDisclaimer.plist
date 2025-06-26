@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiverenderer</key>
+	<string>parseVector</string>
+	<key>completionstate</key>
+	<string>canUnmountedText</string>
+	<key>concurrentcubesaturation</key>
+	<string>shouldContinueNotifier</string>
+	<key>criticalTransition</key>
+	<string>inactiveskin</string>
+	<key>difficultMission</key>
+	<string>permanentTimer</string>
+	<key>gestureFeedback</key>
+	<string>keyworkflowresponse</string>
+	<key>oldCharacter</key>
+	<string>canLoadPlayback</string>
+	<key>persistentTransition</key>
+	<string>batchvisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzetexture</key>
+	<string>parallelspine</string>
+	<key>deferredcontroller</key>
+	<string>gramDistance</string>
+	<key>delicateBehavior</key>
+	<string>listviewshapemomentum</string>
+	<key>dimensionrate</key>
+	<string>gridviewactionposition</string>
+	<key>framerate</key>
+	<string>requiredCluster</string>
+	<key>ignoredSubscriber</key>
+	<string>equipmentTheme</string>
+	<key>interactiveTimer</key>
+	<string>sustainableLayer</string>
+	<key>tensorLocalization</key>
+	<string>listenfuture</string>
+</dict>
+</plist>

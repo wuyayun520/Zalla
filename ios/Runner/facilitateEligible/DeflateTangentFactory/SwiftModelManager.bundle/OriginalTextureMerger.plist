@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationValidation</key>
+	<string>debugLayer</string>
+	<key>compositionalBoxShadow</key>
+	<string>invisibleEqualization</string>
+	<key>currentRepository</key>
+	<string>shouldSaveBitrate</string>
+	<key>expandedbesidevariable</key>
+	<string>cardBottom</string>
+	<key>mainVariant</key>
+	<string>texturedetail</string>
+	<key>significantFilter</key>
+	<string>subsequentResilience</string>
+</dict>
+</plist>

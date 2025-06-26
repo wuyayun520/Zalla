@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThreshold</key>
+	<string>criticalMatrix</string>
+	<key>impressionkind</key>
+	<string>subpixelschema</string>
+	<key>subscriptionamongframework</key>
+	<string>pinchableTouch</string>
+	<key>uniqueSine</key>
+	<string>canKeepNorm</string>
+</dict>
+</plist>

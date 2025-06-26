@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScene</key>
+	<string>custompaintopacity</string>
+	<key>explicitInstruction</key>
+	<string>shouldValidateLabel</string>
+	<key>rectacceleration</key>
+	<string>descriptionoffset</string>
+	<key>unsortedInterpolation</key>
+	<string>petAcceleration</string>
+</dict>
+</plist>

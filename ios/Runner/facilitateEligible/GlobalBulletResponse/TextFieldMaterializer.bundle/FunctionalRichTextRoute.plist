@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMaster</key>
+	<string>crucialflexhue</string>
+	<key>completionTag</key>
+	<string>mediumTabBar</string>
+	<key>cupertinoAsset</key>
+	<string>opaqueFrame</string>
+	<key>deferredOccasion</key>
+	<string>intuitiveInjection</string>
+	<key>functionalColor</key>
+	<string>disposeGesture</string>
+	<key>reactiveUseCase</key>
+	<string>consultativePrecision</string>
+	<key>selectedStamp</key>
+	<string>materializeAlignment</string>
+	<key>shouldDisconnectSkin</key>
+	<string>propagateChannel</string>
+	<key>shouldbinddescriptor</key>
+	<string>skipBullet</string>
+</dict>
+</plist>

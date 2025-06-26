@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcreator</key>
+	<string>statefulPolygon</string>
+	<key>activeSymbol</key>
+	<string>screensaturation</string>
+	<key>displayableTolerance</key>
+	<string>spriteTier</string>
+	<key>graphSkewY</key>
+	<string>observeInterpolation</string>
+	<key>requiredGraphic</key>
+	<string>delicateMethod</string>
+</dict>
+</plist>

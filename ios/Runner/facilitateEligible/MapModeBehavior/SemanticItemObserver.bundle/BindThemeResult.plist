@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedtaskvalidation</key>
+	<string>deflateTicker</string>
+	<key>easyAnimation</key>
+	<string>statelessBottom</string>
+	<key>freedescriptor</key>
+	<string>directBitrate</string>
+	<key>interactivePositioned</key>
+	<string>positionedDistance</string>
+	<key>interfaceperscope</key>
+	<string>confidentialityPosition</string>
+	<key>protectedSemantics</key>
+	<string>curvechaincoord</string>
+	<key>relationalTextField</key>
+	<string>canPublishSemantics</string>
+	<key>schemaDirection</key>
+	<string>sliderkindright</string>
+	<key>statefulgraph</key>
+	<string>optionMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoNorm</key>
+	<string>missedSemantics</string>
+	<key>lostHero</key>
+	<string>shouldShowMargin</string>
+	<key>pinchableMaster</key>
+	<string>shouldNavigateDescriptor</string>
+	<key>processorStyle</key>
+	<string>protectedcycle</string>
+	<key>variantSkewX</key>
+	<string>connectFactory</string>
+</dict>
+</plist>

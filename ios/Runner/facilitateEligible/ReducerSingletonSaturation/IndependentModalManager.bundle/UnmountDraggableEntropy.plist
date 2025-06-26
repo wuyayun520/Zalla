@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMap</key>
+	<string>disabledCompleter</string>
+	<key>draggableChallenge</key>
+	<string>inheritedTweak</string>
+	<key>parallelObserver</key>
+	<string>boxpatternstatus</string>
+	<key>prevfilter</key>
+	<string>canNotifySizedBox</string>
+	<key>secondAppBar</key>
+	<string>hasmultiplication</string>
+	<key>subsequentCapacities</key>
+	<string>dropdownbuttonDistance</string>
+	<key>temporaryrouter</key>
+	<string>reactivereduction</string>
+</dict>
+</plist>

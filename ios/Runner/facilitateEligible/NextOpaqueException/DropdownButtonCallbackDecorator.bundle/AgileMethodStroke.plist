@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMomentum</key>
+	<string>profileResolver</string>
+	<key>integrationContrast</key>
+	<string>gridviewtransparency</string>
+	<key>linkerAcceleration</key>
+	<string>providerSingleton</string>
+	<key>publicInfrastructure</key>
+	<string>opaqueMapper</string>
+	<key>shapeCenter</key>
+	<string>paddingAppearance</string>
+	<key>sharedhero</key>
+	<string>subtleLocalization</string>
+	<key>shouldMountTheme</key>
+	<string>scaffoldmethod</string>
+	<key>sorterBottom</key>
+	<string>inheritedColumn</string>
+	<key>unsortedgridpadding</key>
+	<string>relationalDetail</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleaspect</key>
+	<string>monsterInteraction</string>
+	<key>declarativeCatalyst</key>
+	<string>synchronousbinary</string>
+	<key>nextFlex</key>
+	<string>touchException</string>
+	<key>persistequipment</key>
+	<string>deprecateextension</string>
+	<key>positionTop</key>
+	<string>graphLayer</string>
+	<key>restartstateful</key>
+	<string>granularCycle</string>
+	<key>semanticBandwidth</key>
+	<string>firstgraphicleft</string>
+	<key>shouldReplaceReduction</key>
+	<string>lazyDecoration</string>
+	<key>shouldSkipMedia</key>
+	<string>hasSensor</string>
+</dict>
+</plist>

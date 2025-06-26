@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalOption</key>
+	<string>crucialWidget</string>
+	<key>hierarchicalCell</key>
+	<string>hashascent</string>
+	<key>listviewHue</key>
+	<string>isolateshade</string>
+	<key>multiEffect</key>
+	<string>inflatePlate</string>
+	<key>subscriberOrientation</key>
+	<string>shouldCreateAspect</string>
+</dict>
+</plist>

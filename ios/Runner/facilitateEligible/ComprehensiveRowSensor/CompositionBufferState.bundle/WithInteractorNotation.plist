@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachchannel</key>
+	<string>localizationBridge</string>
+	<key>delicateresolver</key>
+	<string>statefulLifecycle</string>
+	<key>materializerSkewX</key>
+	<string>canKeepChannels</string>
+	<key>sequentialGroup</key>
+	<string>columnPhase</string>
+	<key>shouldAnimateAspectRatio</key>
+	<string>canPauseInterpolation</string>
+	<key>shouldListenActivity</key>
+	<string>greatBinder</string>
+	<key>stateappearance</key>
+	<string>firstInfrastructure</string>
+</dict>
+</plist>

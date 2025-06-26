@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTheme</key>
+	<string>canReplaceMatrix</string>
+	<key>indicatorTheme</key>
+	<string>explicitZone</string>
+	<key>interpolationMomentum</key>
+	<string>publicMember</string>
+	<key>pickermargin</key>
+	<string>stampEdge</string>
+	<key>statelessObject</key>
+	<string>decorationcontrast</string>
+	<key>textfieldCenter</key>
+	<string>shouldNavigateProject</string>
+</dict>
+</plist>

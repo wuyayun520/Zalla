@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResponse</key>
+	<string>robustProcessor</string>
+	<key>icontransition</key>
+	<string>lazyLinker</string>
+	<key>intensityDepth</key>
+	<string>resizableLocalization</string>
+	<key>nativeAudio</key>
+	<string>binaryForm</string>
+	<key>rectopacity</key>
+	<string>shouldDecodePadding</string>
+	<key>restartslider</key>
+	<string>shouldUnmountGradient</string>
+	<key>singleElasticity</key>
+	<string>basefrequency</string>
+	<key>singleStream</key>
+	<string>mediaqueryInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamiccontroller</key>
+	<string>canUpdateMargin</string>
+	<key>emitterHead</key>
+	<string>gesturedetectorconstraint</string>
+	<key>paintcontainer</key>
+	<string>cloneFactory</string>
+	<key>robustrectangle</key>
+	<string>unsortedindicatorspeed</string>
+	<key>semanticassetinterval</key>
+	<string>canUpdateAlpha</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationdistance</key>
+	<string>validateCapsule</string>
+	<key>borderinnumber</key>
+	<string>regulateAsync</string>
+	<key>cacheposition</key>
+	<string>canLayoutAnchor</string>
+	<key>descriptioninset</key>
+	<string>detachNotification</string>
+	<key>heroawait</key>
+	<string>concurrentMediaQuery</string>
+	<key>loaderDelay</key>
+	<string>pivotalresult</string>
+	<key>pickerAlignment</key>
+	<string>distinctionFormat</string>
+	<key>shouldDisconnectHistogram</key>
+	<string>shouldDetachTechnique</string>
+	<key>visibleanimationrate</key>
+	<string>globalDependency</string>
+</dict>
+</plist>

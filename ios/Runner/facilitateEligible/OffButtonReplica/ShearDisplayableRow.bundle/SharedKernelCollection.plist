@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedmaterializer</key>
+	<string>shearStorage</string>
+	<key>globalMetrics</key>
+	<string>detachWorkflow</string>
+	<key>matrixcharacteristic</key>
+	<string>cancelProject</string>
+	<key>modulusscalability</key>
+	<string>persistentService</string>
+	<key>projectionColor</key>
+	<string>interactionAcceleration</string>
+	<key>resultlayeroffset</key>
+	<string>notifyResponse</string>
+	<key>sharedAsync</key>
+	<string>criticalTask</string>
+	<key>shouldStreamLogarithm</key>
+	<string>audioInset</string>
+</dict>
+</plist>

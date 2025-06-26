@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorInterval</key>
+	<string>shouldReplaceBatch</string>
+	<key>entityBound</key>
+	<string>webVector</string>
+	<key>fixedScenario</key>
+	<string>cubitframeworkright</string>
+	<key>reliabilityvisibility</key>
+	<string>particleproxyforce</string>
+	<key>workflowSpacing</key>
+	<string>currentLoss</string>
+</dict>
+</plist>

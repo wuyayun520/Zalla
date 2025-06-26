@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedformethod</key>
+	<string>pivotalLayout</string>
+	<key>granularfilter</key>
+	<string>checkRepository</string>
+	<key>impressionFeedback</key>
+	<string>displayableMaterializer</string>
+	<key>invisibleAnimation</key>
+	<string>saveObserver</string>
+	<key>otherThreshold</key>
+	<string>aspectMargin</string>
+	<key>permutationMargin</key>
+	<string>canDisconnectPoint</string>
+</dict>
+</plist>

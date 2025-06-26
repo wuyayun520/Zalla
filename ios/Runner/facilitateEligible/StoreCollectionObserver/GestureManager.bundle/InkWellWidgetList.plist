@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationRotation</key>
+	<string>geometricProcessor</string>
+	<key>directlyBuilder</key>
+	<string>animationCycle</string>
+	<key>statelessinterpolationbehavior</key>
+	<string>plateshade</string>
+	<key>topictolerance</key>
+	<string>resultKind</string>
+	<key>touchScale</key>
+	<string>transitionLoss</string>
+</dict>
+</plist>

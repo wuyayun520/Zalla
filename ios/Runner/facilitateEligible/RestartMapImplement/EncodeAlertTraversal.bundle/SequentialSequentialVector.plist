@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnresource</key>
+	<string>shouldDecodeModulus</string>
+	<key>extendcurve</key>
+	<string>ignoredFormat</string>
+	<key>inheritedMesh</key>
+	<string>signatureDistance</string>
+	<key>inkwellformpressure</key>
+	<string>precisionrequest</string>
+	<key>kernelhead</key>
+	<string>shouldloadplate</string>
+	<key>primaryVolume</key>
+	<string>advancedAwait</string>
+	<key>shouldLoadSemantics</key>
+	<string>directlyAlert</string>
+	<key>transitionpager</key>
+	<string>movementFunction</string>
+</dict>
+</plist>

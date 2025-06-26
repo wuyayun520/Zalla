@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioValidation</key>
+	<string>normalGesture</string>
+	<key>blocandbuffer</key>
+	<string>routeactionacceleration</string>
+	<key>convolutionAlignment</key>
+	<string>efficiencyState</string>
+	<key>cubeMargin</key>
+	<string>allocatoragainstactivity</string>
+	<key>evolutionstatus</key>
+	<string>routerRate</string>
+	<key>shouldEndSpecifier</key>
+	<string>relationalExtension</string>
+</dict>
+</plist>

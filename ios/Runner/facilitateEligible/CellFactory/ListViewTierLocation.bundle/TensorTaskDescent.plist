@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardstore</key>
+	<string>actionindex</string>
+	<key>ephemeralSwitch</key>
+	<string>shouldNavigateMap</string>
+	<key>explicitCycle</key>
+	<string>popButton</string>
+	<key>gesturedetectorFeedback</key>
+	<string>rolePosition</string>
+	<key>materialResource</key>
+	<string>isolateoperation</string>
+	<key>resilientCanvas</key>
+	<string>substantialgridtag</string>
+</dict>
+</plist>

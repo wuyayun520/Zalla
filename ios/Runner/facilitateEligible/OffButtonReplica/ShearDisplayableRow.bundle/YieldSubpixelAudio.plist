@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisstabbar</key>
+	<string>popArithmetic</string>
+	<key>iterativeRequest</key>
+	<string>decorationCycle</string>
+	<key>pinchableReceiver</key>
+	<string>bindMaster</string>
+	<key>respectiveheap</key>
+	<string>cachechannel</string>
+	<key>shouldCreateSymbol</key>
+	<string>canEmitHistogram</string>
+	<key>shouldUnmountMediaQuery</key>
+	<string>stateJob</string>
+	<key>shouldValidateBitrate</key>
+	<string>keyTexture</string>
+	<key>slidertheme</key>
+	<string>reusableLifecycle</string>
+	<key>visibleBloc</key>
+	<string>hasscale</string>
+</dict>
+</plist>

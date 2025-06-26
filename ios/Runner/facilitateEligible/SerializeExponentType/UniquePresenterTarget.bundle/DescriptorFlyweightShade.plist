@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorreceiver</key>
+	<string>brushspeed</string>
+	<key>declarativeTween</key>
+	<string>errorChain</string>
+	<key>emittool</key>
+	<string>newestSlash</string>
+	<key>shouldUnmountedNotifier</key>
+	<string>invisiblePromise</string>
+	<key>storageShape</key>
+	<string>flexibleradius</string>
+</dict>
+</plist>

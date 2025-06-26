@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPicker</key>
+	<string>completerContext</string>
+	<key>clipcubit</key>
+	<string>logtentative</string>
+	<key>compositionalBitrate</key>
+	<string>concurrentColor</string>
+	<key>constantFlags</key>
+	<string>canStartTextField</string>
+	<key>infrastructurebrightness</key>
+	<string>callbackdispatcher</string>
+	<key>petEdge</key>
+	<string>shouldEncodeTask</string>
+	<key>shouldNotifyPlayback</key>
+	<string>crudemanager</string>
+	<key>vertexResponse</key>
+	<string>shouldDisconnectRemainder</string>
+</dict>
+</plist>

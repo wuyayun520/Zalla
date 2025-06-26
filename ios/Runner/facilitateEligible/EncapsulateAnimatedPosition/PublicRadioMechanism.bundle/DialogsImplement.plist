@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartatkind</key>
+	<string>robustCatalyst</string>
+	<key>evolutionmargin</key>
+	<string>shouldRestartScreen</string>
+	<key>graphResponse</key>
+	<string>anchorOffset</string>
+	<key>lastTextField</key>
+	<string>maintainWidget</string>
+	<key>parallelData</key>
+	<string>defaultSpot</string>
+	<key>primaryProgressBar</key>
+	<string>shouldfetchcanvas</string>
+	<key>sharedCubit</key>
+	<string>providerProxy</string>
+	<key>timertime</key>
+	<string>repositoryColor</string>
+</dict>
+</plist>

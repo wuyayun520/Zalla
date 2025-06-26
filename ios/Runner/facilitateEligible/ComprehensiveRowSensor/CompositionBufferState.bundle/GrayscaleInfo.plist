@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLabel</key>
+	<string>projectScale</string>
+	<key>currentCupertino</key>
+	<string>converterdelay</string>
+	<key>elasticDependency</key>
+	<string>framedecoratorspacing</string>
+	<key>intuitivebullet</key>
+	<string>hyperbolicListView</string>
+	<key>mobileScaffold</key>
+	<string>delicateScroller</string>
+</dict>
+</plist>

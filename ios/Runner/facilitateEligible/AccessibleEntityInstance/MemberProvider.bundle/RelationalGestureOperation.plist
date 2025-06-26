@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionarchitecture</key>
+	<string>smalldimensionstatus</string>
+	<key>customColor</key>
+	<string>smallBrush</string>
+	<key>detachradius</key>
+	<string>shouldEndButton</string>
+	<key>optionviadecorator</key>
+	<string>imperativeProgressBar</string>
+	<key>priorTask</key>
+	<string>zoneAlignment</string>
+	<key>requiredTouch</key>
+	<string>originalfuturehead</string>
+	<key>shouldRebuildMargin</key>
+	<string>unmarshalRequest</string>
+	<key>tensorIcon</key>
+	<string>imperativePlayback</string>
+</dict>
+</plist>

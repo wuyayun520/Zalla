@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGroup</key>
+	<string>movehistogram</string>
+	<key>deferredcyclesize</key>
+	<string>statelessOffset</string>
+	<key>drawerdistance</key>
+	<string>canNotifyHistogram</string>
+	<key>flexibleBitrate</key>
+	<string>singlebase</string>
+	<key>flexiblelayer</key>
+	<string>ignoredBehavior</string>
+	<key>immutableFinder</key>
+	<string>basicClipper</string>
+	<key>shouldPrepareMusic</key>
+	<string>standaloneShape</string>
+	<key>shouldTrainBaseline</key>
+	<string>cacheMember</string>
+	<key>shouldfinishdocument</key>
+	<string>plateBound</string>
+</dict>
+</plist>

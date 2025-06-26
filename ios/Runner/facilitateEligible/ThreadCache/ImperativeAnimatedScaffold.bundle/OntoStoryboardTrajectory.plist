@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffermetrics</key>
+	<string>regulateBuffer</string>
+	<key>combinerBound</key>
+	<string>functionalBase</string>
+	<key>diffablePositioned</key>
+	<string>parallelSize</string>
+	<key>impactSize</key>
+	<string>firstProject</string>
+	<key>mutableLoop</key>
+	<string>exitRect</string>
+	<key>persistentWorkflow</key>
+	<string>protectedQuaternion</string>
+	<key>responsivesample</key>
+	<string>mobileCapacity</string>
+	<key>shouldAttachCupertino</key>
+	<string>elasticProject</string>
+</dict>
+</plist>

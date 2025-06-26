@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTrajectory</key>
+	<string>positioninset</string>
+	<key>hyperbolicAccessory</key>
+	<string>hashvolume</string>
+	<key>prevRepository</key>
+	<string>opaqueIcon</string>
+</dict>
+</plist>

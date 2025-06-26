@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeticker</key>
+	<string>usedmatrix</string>
+	<key>frameequivalent</key>
+	<string>characterOffset</string>
+	<key>offsetorframework</key>
+	<string>onbasechanged</string>
+	<key>optimizersystemsize</key>
+	<string>resumeMobile</string>
+	<key>pageviewmaterial</key>
+	<string>resolverTag</string>
+	<key>referenceskewy</key>
+	<string>selectorFrequency</string>
+	<key>spriteSpeed</key>
+	<string>retainedtexture</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGrain</key>
+	<string>liteAnimation</string>
+	<key>immutableDispatcher</key>
+	<string>lastPositioned</string>
+	<key>logScale</key>
+	<string>touchSize</string>
+	<key>numericaltask</key>
+	<string>observeticker</string>
+	<key>prevElement</key>
+	<string>persistentConstraint</string>
+	<key>prevvariant</key>
+	<string>cartesianShape</string>
+	<key>retainedColumn</key>
+	<string>tappablecomponent</string>
+	<key>shouldFinishAnimatedContainer</key>
+	<string>shouldStreamPlayback</string>
+	<key>shouldTransformScaffold</key>
+	<string>offsetrange</string>
+	<key>stackpadding</key>
+	<string>prismaticintensity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableEffect</key>
+	<string>uniquetweeninset</string>
+	<key>denseRecursion</key>
+	<string>scrollableheapindex</string>
+	<key>eagerMaterializer</key>
+	<string>tickerOperation</string>
+	<key>materialMonster</key>
+	<string>protectedSegue</string>
+	<key>occasioninset</key>
+	<string>endcurve</string>
+	<key>restrictionborder</key>
+	<string>keepMember</string>
+	<key>threadcoord</key>
+	<string>sensorFramework</string>
+</dict>
+</plist>

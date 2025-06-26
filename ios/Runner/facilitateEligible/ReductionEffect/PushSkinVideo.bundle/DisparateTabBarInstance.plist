@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFragment</key>
+	<string>observeNavigator</string>
+	<key>deploytransformer</key>
+	<string>ignoredSound</string>
+	<key>hardAnalogy</key>
+	<string>transitionUsage</string>
+	<key>managerinsidestate</key>
+	<string>alphaInterpreter</string>
+	<key>shouldTransitionGrayscale</key>
+	<string>shouldunmountmultiplication</string>
+	<key>shouldUpdateSwitch</key>
+	<string>shouldLayoutCompletion</string>
+	<key>shouldunmountremainder</key>
+	<string>beginnerImpact</string>
+	<key>stampbufferleft</key>
+	<string>sizerate</string>
+	<key>symmetricaspect</key>
+	<string>reactiveElement</string>
+	<key>traintimer</key>
+	<string>adaptivebufferskewy</string>
+</dict>
+</plist>

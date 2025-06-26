@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatMap</key>
+	<string>currentService</string>
+	<key>hardDocument</key>
+	<string>rendererLocation</string>
+	<key>immediateIntensity</key>
+	<string>resourcerequest</string>
+	<key>mainTaxonomy</key>
+	<string>crucialBandwidth</string>
+	<key>menuprovider</key>
+	<string>tabbarStrategy</string>
+	<key>reductionShape</key>
+	<string>resizableMovement</string>
+	<key>shouldTransitionCollection</key>
+	<string>mediocrePopup</string>
+	<key>subtleReceiver</key>
+	<string>shouldFormatAlert</string>
+	<key>switchvisible</key>
+	<string>joinervisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeboxshadow</key>
+	<string>canShowOverlay</string>
+	<key>multitextfieldkind</key>
+	<string>resizableFeature</string>
+	<key>polyfillskewy</key>
+	<string>retrieveCompleter</string>
+	<key>segueBrightness</key>
+	<string>synchronousKernel</string>
+</dict>
+</plist>

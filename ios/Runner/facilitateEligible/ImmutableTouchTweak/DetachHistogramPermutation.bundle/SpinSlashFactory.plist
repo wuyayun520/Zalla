@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBinder</key>
+	<string>canDeserializeCache</string>
+	<key>fusedButton</key>
+	<string>matrixname</string>
+	<key>labelvisitorindex</key>
+	<string>retainedScroll</string>
+	<key>priorLoss</key>
+	<string>lazySignature</string>
+	<key>protectedPosition</key>
+	<string>visualizeInjection</string>
+	<key>shouldFormatTask</key>
+	<string>endRemainder</string>
+	<key>shouldRenderCycle</key>
+	<string>readMetadata</string>
+	<key>shouldShowOverlay</key>
+	<string>shouldAttachContraction</string>
+	<key>shouldTransitionBaseline</key>
+	<string>animatedConverter</string>
+</dict>
+</plist>

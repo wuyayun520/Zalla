@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveLayer</key>
+	<string>canDecodeCapsule</string>
+	<key>parsestoryboard</key>
+	<string>resizablePlate</string>
+	<key>radiodensity</key>
+	<string>selectorHue</string>
+	<key>shouldLoadDrawer</key>
+	<string>elasticGroup</string>
+	<key>smallProjection</key>
+	<string>partitionWidget</string>
+</dict>
+</plist>

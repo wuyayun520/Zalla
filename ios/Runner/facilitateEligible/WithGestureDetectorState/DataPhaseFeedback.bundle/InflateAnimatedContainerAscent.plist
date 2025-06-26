@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProvision</key>
+	<string>mutableDialogs</string>
+	<key>cupertinoRestriction</key>
+	<string>formatStyle</string>
+	<key>destroyplayback</key>
+	<string>listenCallback</string>
+	<key>largeclipper</key>
+	<string>resumeObserver</string>
+	<key>requiredResponse</key>
+	<string>playbackInteraction</string>
+	<key>resilienceCount</key>
+	<string>nodeBrightness</string>
+	<key>shouldconnectkernel</key>
+	<string>optimizerFunction</string>
+	<key>smartConsumer</key>
+	<string>mediumCreator</string>
+	<key>webisolatefeedback</key>
+	<string>subsequentHero</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedmechanism</key>
+	<string>synchronousPadding</string>
+	<key>advancedscroll</key>
+	<string>integerRotation</string>
+	<key>cartesiangrainshade</key>
+	<string>observeOverlay</string>
+	<key>distinctionFrequency</key>
+	<string>emitIcon</string>
+	<key>enhancetable</key>
+	<string>localDialogs</string>
+	<key>poplayer</key>
+	<string>compareResult</string>
+	<key>streamvisible</key>
+	<string>normalSample</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitprovider</key>
+	<string>secondMediaQuery</string>
+	<key>materialorigin</key>
+	<string>newestTabView</string>
+	<key>stateelasticity</key>
+	<string>sizeoutsidestate</string>
+	<key>taskproxystyle</key>
+	<string>spotofaction</string>
+</dict>
+</plist>

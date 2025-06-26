@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEvaluation</key>
+	<string>yieldCustomPaint</string>
+	<key>blocAcceleration</key>
+	<string>playAlignment</string>
+	<key>immutableSpine</key>
+	<string>resilientMomentum</string>
+	<key>releasecharacter</key>
+	<string>keepimage</string>
+	<key>revisitcheckbox</key>
+	<string>responseworkmode</string>
+	<key>shouldAnimatePoint</key>
+	<string>convolutionName</string>
+	<key>shouldEncodeAnchor</key>
+	<string>listenerDuration</string>
+	<key>sliderDirection</key>
+	<string>threadSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMetrics</key>
+	<string>maintainTopic</string>
+	<key>fixedBehavior</key>
+	<string>primaryEquipment</string>
+	<key>resumesingleton</key>
+	<string>featureformacceleration</string>
+	<key>shouldPushFuture</key>
+	<string>shouldPersistRichText</string>
+	<key>sliderdespiteaction</key>
+	<string>remainderdetail</string>
+	<key>subtleLog</key>
+	<string>euclideanLayout</string>
+	<key>subtleTrajectory</key>
+	<string>shouldDetachGram</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitcontrast</key>
+	<string>shouldfinishdropdownbutton</string>
+	<key>baselineSpacing</key>
+	<string>shouldPaintNotification</string>
+	<key>bufferwithoutbridge</key>
+	<string>imperativeDrawer</string>
+	<key>createtopic</key>
+	<string>hardTrigger</string>
+	<key>disabledCycle</key>
+	<string>commonBloc</string>
+	<key>responsiveOffset</key>
+	<string>stackForce</string>
+	<key>richtextgrid</key>
+	<string>baselineMode</string>
+	<key>subtleBehavior</key>
+	<string>draggableRouter</string>
+</dict>
+</plist>

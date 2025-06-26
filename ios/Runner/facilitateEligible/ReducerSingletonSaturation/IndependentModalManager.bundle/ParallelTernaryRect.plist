@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTail</key>
+	<string>scenetime</string>
+	<key>grayscaleVisibility</key>
+	<string>shouldDispatchComposition</string>
+	<key>pointmatrix</key>
+	<string>sequentialCapacity</string>
+	<key>presenterimage</key>
+	<string>radiusSize</string>
+	<key>publicExpanded</key>
+	<string>keySession</string>
+	<key>slidertransparency</key>
+	<string>precisionforfunction</string>
+	<key>volumefeedback</key>
+	<string>trainContainer</string>
+</dict>
+</plist>

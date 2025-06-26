@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPolyfill</key>
+	<string>updatequeue</string>
+	<key>dependencypicker</key>
+	<string>provisionDistance</string>
+	<key>handlerFeedback</key>
+	<string>serializeAsset</string>
+	<key>menutension</key>
+	<string>shouldpushinkwell</string>
+	<key>permanentImpact</key>
+	<string>canBuildHistogram</string>
+	<key>sceneaboutvisitor</key>
+	<string>backwardElasticity</string>
+	<key>shapeTop</key>
+	<string>parsecheckbox</string>
+	<key>shouldDeserializeModulus</key>
+	<string>reactiveTimeline</string>
+	<key>shouldserializetool</key>
+	<string>mechanismTransparency</string>
+</dict>
+</plist>

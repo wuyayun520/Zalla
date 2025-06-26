@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTrigger</key>
+	<string>labelStage</string>
+	<key>discardedLoss</key>
+	<string>opaqueCaption</string>
+	<key>mediumRow</key>
+	<string>cupertinoPicker</string>
+	<key>opaqueboxshadowtension</key>
+	<string>prepareScreen</string>
+	<key>removemetadata</key>
+	<string>streamCycle</string>
+	<key>synchronousNotification</key>
+	<string>transitionLog</string>
+	<key>usedGroup</key>
+	<string>shouldDeserializePadding</string>
+	<key>vertexType</key>
+	<string>chartMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionstatus</key>
+	<string>ignoredCache</string>
+	<key>diffablescaffold</key>
+	<string>restoreLabel</string>
+	<key>eventimpression</key>
+	<string>pushspot</string>
+	<key>inactivepreview</key>
+	<string>fetchMobile</string>
+	<key>injectionorientation</key>
+	<string>toleranceCoord</string>
+</dict>
+</plist>

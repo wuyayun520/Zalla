@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axissound</key>
+	<string>descriptionRotation</string>
+	<key>blocvelocity</key>
+	<string>gridviewChain</string>
+	<key>drawertime</key>
+	<string>switchVariable</string>
+	<key>formatBound</key>
+	<string>animationPadding</string>
+	<key>granularStateless</key>
+	<string>clipperParam</string>
+	<key>hierarchicalImpact</key>
+	<string>dispatchBox</string>
+	<key>mutableInfo</key>
+	<string>wrapResolver</string>
+	<key>operationradius</key>
+	<string>shouldEncodeBullet</string>
+	<key>publishcache</key>
+	<string>crudeReliability</string>
+	<key>resizableArchitecture</key>
+	<string>constantShape</string>
+</dict>
+</plist>

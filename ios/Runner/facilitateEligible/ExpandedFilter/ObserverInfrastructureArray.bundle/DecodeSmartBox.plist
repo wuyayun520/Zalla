@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineHead</key>
+	<string>shouldcontinuepet</string>
+	<key>consultativeBaseline</key>
+	<string>consumerSkewY</string>
+	<key>currentScale</key>
+	<string>overrideNavigator</string>
+	<key>fixedReducer</key>
+	<string>mobileResponder</string>
+	<key>opaqueText</key>
+	<string>parallelResilience</string>
+	<key>prismaticFrame</key>
+	<string>widgetContext</string>
+	<key>scenepolyfill</key>
+	<string>crudeOption</string>
+	<key>shouldHandleRow</key>
+	<string>originalComponent</string>
+	<key>utilformpressure</key>
+	<string>segmentaction</string>
+</dict>
+</plist>

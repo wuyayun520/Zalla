@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentmenu</key>
+	<string>rapidFrame</string>
+	<key>consultativeaspectratio</key>
+	<string>largeCharacteristic</string>
+	<key>dependencyType</key>
+	<string>shouldShowOverlay</string>
+	<key>navigatortopic</key>
+	<string>disparateSlider</string>
+	<key>protocolphasebrightness</key>
+	<string>cycleChain</string>
+	<key>recursionBehavior</key>
+	<string>comprehensiveAspect</string>
+	<key>shouldDetachTabBar</key>
+	<string>skipNib</string>
+	<key>shouldDisconnectColumn</key>
+	<string>defaultmatrix</string>
+</dict>
+</plist>

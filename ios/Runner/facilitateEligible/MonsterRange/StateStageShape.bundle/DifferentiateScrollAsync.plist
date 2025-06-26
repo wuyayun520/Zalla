@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curverange</key>
+	<string>touchConstraint</string>
+	<key>injectionType</key>
+	<string>shouldMountedCertificate</string>
+	<key>isolatecompositeformat</key>
+	<string>opaqueprotocol</string>
+	<key>parallelDescription</key>
+	<string>commonUtil</string>
+	<key>scrollableController</key>
+	<string>adaptiveProvision</string>
+	<key>sizeFrequency</key>
+	<string>similarcapsulemode</string>
+	<key>triggerFeedback</key>
+	<string>discoverusecase</string>
+</dict>
+</plist>

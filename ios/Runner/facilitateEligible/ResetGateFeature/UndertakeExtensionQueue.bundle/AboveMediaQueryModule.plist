@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentdistance</key>
+	<string>themeAdapter</string>
+	<key>keepanimatedcontainer</key>
+	<string>retainedTechnique</string>
+	<key>subtleScalability</key>
+	<string>navigationPhase</string>
+	<key>updatebehavior</key>
+	<string>releaseQueue</string>
+</dict>
+</plist>

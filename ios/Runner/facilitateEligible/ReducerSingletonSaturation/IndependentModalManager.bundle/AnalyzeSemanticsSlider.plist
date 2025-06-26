@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSegue</key>
+	<string>shouldRouteMomentum</string>
+	<key>interactiveMedia</key>
+	<string>mixinresolver</string>
+	<key>sequentialstamp</key>
+	<string>reusableAlignment</string>
+	<key>sinkDirection</key>
+	<string>unmountedDuration</string>
+	<key>spineTag</key>
+	<string>screenDensity</string>
+</dict>
+</plist>

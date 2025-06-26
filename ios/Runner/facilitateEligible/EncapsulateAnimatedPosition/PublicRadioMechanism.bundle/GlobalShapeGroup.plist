@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedInstruction</key>
+	<string>informationindex</string>
+	<key>functionalInjection</key>
+	<string>missionTemple</string>
+	<key>immediateview</key>
+	<string>missedUtil</string>
+	<key>missionIndex</key>
+	<string>ignoredChecklist</string>
+	<key>positionedtint</key>
+	<string>pinchableDescriptor</string>
+	<key>prevHeap</key>
+	<string>paddingaboutvisitor</string>
+	<key>prismaticNorm</key>
+	<string>canDisconnectPromise</string>
+	<key>relationalobserverhead</key>
+	<string>progressbarleveltension</string>
+	<key>shouldShowOverlay</key>
+	<string>shouldunmounttable</string>
+	<key>storagePressure</key>
+	<string>semanticBinary</string>
+</dict>
+</plist>

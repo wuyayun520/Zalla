@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTimer</key>
+	<string>createLabel</string>
+	<key>cachescreen</key>
+	<string>requiredResilience</string>
+	<key>concurrentChannels</key>
+	<string>tabviewFeedback</string>
+	<key>consultativeBullet</key>
+	<string>streampershape</string>
+	<key>measureresult</key>
+	<string>progressbarflags</string>
+	<key>remediationStyle</key>
+	<string>seamlessClipper</string>
+	<key>shouldContinueLog</key>
+	<string>declarativeInfo</string>
+	<key>statefulEntity</key>
+	<string>projectchart</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCluster</key>
+	<string>shouldMountedActivity</string>
+	<key>cellprocessfeedback</key>
+	<string>dedicatedGroup</string>
+	<key>notifierdespiteparam</key>
+	<string>resourceTier</string>
+	<key>popkernel</key>
+	<string>maxScroll</string>
+	<key>roleMomentum</key>
+	<string>musicOpacity</string>
+</dict>
+</plist>

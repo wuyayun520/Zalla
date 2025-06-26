@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFlags</key>
+	<string>reactiveSegue</string>
+	<key>behaviorstate</key>
+	<string>isBehavior</string>
+	<key>permanentConfidentiality</key>
+	<string>currentpositioned</string>
+	<key>projectHue</key>
+	<string>routeSine</string>
+	<key>radiovolume</key>
+	<string>deferredPresenter</string>
+	<key>significantHeap</key>
+	<string>showGem</string>
+	<key>substantialStack</key>
+	<string>clipperacceleration</string>
+	<key>sustainableAnimation</key>
+	<string>calculateQueue</string>
+</dict>
+</plist>

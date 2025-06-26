@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAspectRatio</key>
+	<string>provideRect</string>
+	<key>brushTheme</key>
+	<string>subtleOccasion</string>
+	<key>effectTransparency</key>
+	<string>regulateDelegate</string>
+	<key>liteDocument</key>
+	<string>heroTheme</string>
+	<key>selectedTangent</key>
+	<string>awaitinsidework</string>
+	<key>shouldKeepSlash</key>
+	<string>canPopMap</string>
+	<key>shouldRouteIndicator</key>
+	<string>copyState</string>
+	<key>shouldUnmountStateless</key>
+	<string>mobileScheduler</string>
+	<key>slashwithnumber</key>
+	<string>shouldDisconnectTask</string>
+	<key>statusStyle</key>
+	<string>modalContext</string>
+</dict>
+</plist>

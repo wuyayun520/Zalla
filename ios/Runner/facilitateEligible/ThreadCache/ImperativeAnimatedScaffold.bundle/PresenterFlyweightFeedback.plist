@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFormat</key>
+	<string>parseSprite</string>
+	<key>directlyScenario</key>
+	<string>widgetgrid</string>
+	<key>positionedDirection</key>
+	<string>unaryhue</string>
+	<key>rowDuration</key>
+	<string>restartBehavior</string>
+	<key>shouldShowStateless</key>
+	<string>defaultBitrate</string>
+</dict>
+</plist>

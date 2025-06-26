@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOrientation</key>
+	<string>intuitivebuilderduration</string>
+	<key>drawcontroller</key>
+	<string>canRenderRoute</string>
+	<key>factoryDelay</key>
+	<string>shouldPopSlash</string>
+	<key>featurecompositecolor</key>
+	<string>switchInteraction</string>
+	<key>futurecontrast</key>
+	<string>retainedLabel</string>
+	<key>radioloop</key>
+	<string>canListenSegment</string>
+	<key>routeTension</key>
+	<string>hardMap</string>
+	<key>secondCharacteristic</key>
+	<string>futureincludebuffer</string>
+</dict>
+</plist>

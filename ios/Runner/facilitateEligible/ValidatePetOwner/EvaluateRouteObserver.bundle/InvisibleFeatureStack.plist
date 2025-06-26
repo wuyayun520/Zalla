@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheForce</key>
+	<string>flexibleAllocator</string>
+	<key>ephemeralBehavior</key>
+	<string>compositionBuffer</string>
+	<key>methodShade</key>
+	<string>comprehensivefinder</string>
+	<key>moduluschapter</key>
+	<string>dynamicreference</string>
+	<key>onbullettap</key>
+	<string>concurrentTool</string>
+	<key>streamcurve</key>
+	<string>paddingFlags</string>
+</dict>
+</plist>

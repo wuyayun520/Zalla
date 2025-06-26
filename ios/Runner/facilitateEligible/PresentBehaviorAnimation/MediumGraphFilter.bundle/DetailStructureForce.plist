@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationmerger</key>
+	<string>deployFuture</string>
+	<key>directlylayoutcenter</key>
+	<string>minSession</string>
+	<key>sizeparaminterval</key>
+	<string>tensorAppBar</string>
+	<key>utilaboutnumber</key>
+	<string>skipAlpha</string>
+	<key>wrappertype</key>
+	<string>resolveextension</string>
+</dict>
+</plist>

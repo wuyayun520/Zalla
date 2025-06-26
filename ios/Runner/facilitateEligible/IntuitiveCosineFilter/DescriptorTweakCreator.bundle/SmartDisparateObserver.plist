@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisscapsule</key>
+	<string>localizationFacade</string>
+	<key>otherActivity</key>
+	<string>transformerStrategy</string>
+	<key>swiftstagetype</key>
+	<string>attachEvent</string>
+	<key>switchDepth</key>
+	<string>diffableSprite</string>
+</dict>
+</plist>

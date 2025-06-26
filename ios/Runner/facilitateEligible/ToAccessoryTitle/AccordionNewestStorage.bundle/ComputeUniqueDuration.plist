@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentMode</key>
+	<string>evaluateObserver</string>
+	<key>asyncSpacing</key>
+	<string>gateProcess</string>
+	<key>shouldDisconnectDialogs</key>
+	<string>aspectProxy</string>
+	<key>shouldParseChallenge</key>
+	<string>dismissOption</string>
+	<key>subtleTrigger</key>
+	<string>slasharoundstrategy</string>
+</dict>
+</plist>

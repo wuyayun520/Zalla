@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCompleter</key>
+	<string>validateSemantics</string>
+	<key>gridAppearance</key>
+	<string>shouldAttachIcon</string>
+	<key>hardAnimatedContainer</key>
+	<string>replacenavigator</string>
+	<key>ignoredContraction</key>
+	<string>disparateListView</string>
+	<key>intermediateInjection</key>
+	<string>streamgesturedetector</string>
+	<key>oldRenderer</key>
+	<string>deliveryFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalactioninset</key>
+	<string>canBuildPositioned</string>
+	<key>histogramjoiner</key>
+	<string>constraintthanplatform</string>
+	<key>mediumComponent</key>
+	<string>defaultSegue</string>
+	<key>priorstore</key>
+	<string>synchronizeListener</string>
+	<key>tensorHeap</key>
+	<string>dropoutDescription</string>
+</dict>
+</plist>

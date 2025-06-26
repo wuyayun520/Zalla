@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSize</key>
+	<string>smallSkin</string>
+	<key>constrainttimer</key>
+	<string>anchorAppearance</string>
+	<key>lostModal</key>
+	<string>prevZone</string>
+	<key>shaderSpacing</key>
+	<string>seamlessGroup</string>
+	<key>shouldTransitionGesture</key>
+	<string>adaptiveFormat</string>
+</dict>
+</plist>

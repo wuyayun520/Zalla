@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperlevelacceleration</key>
+	<string>shouldpaintlayout</string>
+	<key>defaultScroll</key>
+	<string>nodePhase</string>
+	<key>graphOrigin</key>
+	<string>customIcon</string>
+	<key>hardMonster</key>
+	<string>geometricCapacity</string>
+	<key>notationInteraction</key>
+	<string>shouldUpdateUsage</string>
+	<key>oldMapper</key>
+	<string>publishLoss</string>
+	<key>segueTheme</key>
+	<string>impactVisibility</string>
+	<key>shouldDeserializeCoordinator</key>
+	<string>multiAsync</string>
+	<key>shouldRenderCycle</key>
+	<string>operationaboutbridge</string>
+</dict>
+</plist>

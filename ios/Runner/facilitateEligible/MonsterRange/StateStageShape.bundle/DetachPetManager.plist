@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRect</key>
+	<string>visualizeContainer</string>
+	<key>metricsRotation</key>
+	<string>viewenvironmentmomentum</string>
+	<key>positionOffset</key>
+	<string>compositionduration</string>
+	<key>radioResponse</key>
+	<string>accessibleObserver</string>
+	<key>scrollpopup</key>
+	<string>textfielddelay</string>
+	<key>subscriptionShape</key>
+	<string>prismaticStream</string>
+	<key>symmetricDependency</key>
+	<string>sizeTransparency</string>
+</dict>
+</plist>

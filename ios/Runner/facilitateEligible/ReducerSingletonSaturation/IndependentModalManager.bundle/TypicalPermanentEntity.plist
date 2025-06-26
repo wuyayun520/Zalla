@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCollection</key>
+	<string>animationPrototype</string>
+	<key>numericalinteractor</key>
+	<string>restoreLabel</string>
+	<key>pivotalBehavior</key>
+	<string>arithmeticCursor</string>
+	<key>shouldpresentmedia</key>
+	<string>exponentVariable</string>
+	<key>startlayer</key>
+	<string>behavioredge</string>
+	<key>typicalShader</key>
+	<string>enabledgift</string>
+	<key>uniformWidget</key>
+	<string>cupertinomarginsize</string>
+</dict>
+</plist>

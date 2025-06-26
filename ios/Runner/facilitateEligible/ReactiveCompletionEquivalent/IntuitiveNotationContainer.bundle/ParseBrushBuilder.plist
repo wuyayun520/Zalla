@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioMargin</key>
+	<string>joinerSpacing</string>
+	<key>canvasSkewX</key>
+	<string>shouldValidateDuration</string>
+	<key>intensityScale</key>
+	<string>interactiveRequest</string>
+	<key>managerfrequency</key>
+	<string>detachConstraint</string>
+	<key>materialAsset</key>
+	<string>detectorTint</string>
+	<key>priorGate</key>
+	<string>spinRepository</string>
+	<key>shaderTransparency</key>
+	<string>mountedMomentum</string>
+	<key>shouldEndCoordinator</key>
+	<string>scaffoldVisitor</string>
+	<key>shouldProcessBuilder</key>
+	<string>canSubscribeMultiplication</string>
+	<key>tensorWorkflow</key>
+	<string>errorForce</string>
+</dict>
+</plist>

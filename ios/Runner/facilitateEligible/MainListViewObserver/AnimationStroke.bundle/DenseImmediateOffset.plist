@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellmodel</key>
+	<string>hyperbolicSprite</string>
+	<key>composablePadding</key>
+	<string>unmountsink</string>
+	<key>draggableStore</key>
+	<string>gateLayer</string>
+	<key>otherchannel</key>
+	<string>metadataTag</string>
+	<key>shouldBuildInteger</key>
+	<string>shouldStreamMission</string>
+	<key>similarMechanism</key>
+	<string>orchestrateException</string>
+</dict>
+</plist>

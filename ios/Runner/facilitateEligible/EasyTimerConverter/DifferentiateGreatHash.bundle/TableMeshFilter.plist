@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsresilience</key>
+	<string>canPersistDropdownButton</string>
+	<key>cupertinoMapper</key>
+	<string>shouldFetchDrawer</string>
+	<key>cursorDepth</key>
+	<string>errorAction</string>
+	<key>mediocrePromise</key>
+	<string>rectangleInset</string>
+	<key>overrideposition</key>
+	<string>backwardScroll</string>
+	<key>repositoryleft</key>
+	<string>showAlert</string>
+	<key>shouldobserveclipper</key>
+	<string>imageParam</string>
+</dict>
+</plist>

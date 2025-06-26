@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterpolation</key>
+	<string>desktopstatefulacceleration</string>
+	<key>compositionalUsage</key>
+	<string>unmountedInstruction</string>
+	<key>independentLatency</key>
+	<string>isMission</string>
+	<key>routerIndex</key>
+	<string>observeExpanded</string>
+	<key>shouldRenderPrecision</key>
+	<string>tensorCompletion</string>
+	<key>shouldResumeSign</key>
+	<string>checkCompleter</string>
+	<key>significantProcessor</key>
+	<string>diversifiedBatch</string>
+	<key>undertakecubit</key>
+	<string>shouldDeserializeMultiplication</string>
+	<key>yieldanimatedcontainer</key>
+	<string>cartesiangesture</string>
+</dict>
+</plist>

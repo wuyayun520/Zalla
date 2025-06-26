@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSkin</key>
+	<string>granularThreshold</string>
+	<key>firstProjection</key>
+	<string>revisitSink</string>
+	<key>granularTechnique</key>
+	<string>intermediateTechnique</string>
+	<key>signatureleft</key>
+	<string>wrapRadius</string>
+	<key>staticStorage</key>
+	<string>mountedbehavior</string>
+	<key>symmetricManager</key>
+	<string>discoveraspect</string>
+	<key>unsortedState</key>
+	<string>allocatelog</string>
+</dict>
+</plist>

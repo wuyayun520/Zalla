@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdetector</key>
+	<string>tappabledocument</string>
+	<key>constraintdecoratorduration</key>
+	<string>amortizationTransparency</string>
+	<key>dedicatedSegment</key>
+	<string>bundleSlider</string>
+	<key>promiseValidation</key>
+	<string>stateresponse</string>
+	<key>replicatetabbar</key>
+	<string>usedDropdownButton</string>
+	<key>shouldPresentInkWell</key>
+	<string>dispatchPoint</string>
+</dict>
+</plist>

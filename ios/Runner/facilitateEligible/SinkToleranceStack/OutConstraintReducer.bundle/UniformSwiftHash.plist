@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontroller</key>
+	<string>canLayoutSymbol</string>
+	<key>challengeCount</key>
+	<string>shouldSaveChallenge</string>
+	<key>elasticEmitter</key>
+	<string>substantialWidget</string>
+	<key>labelSpeed</key>
+	<string>enabledChart</string>
+	<key>listenerCount</key>
+	<string>fixedRecursion</string>
+	<key>radioTop</key>
+	<string>subtleFilter</string>
+	<key>shouldInflateMedia</key>
+	<string>directUsage</string>
+	<key>sortedGesture</key>
+	<string>singletonTop</string>
+	<key>subscriberPosition</key>
+	<string>canPausePositioned</string>
+	<key>tappableSubscription</key>
+	<string>respondStore</string>
+</dict>
+</plist>

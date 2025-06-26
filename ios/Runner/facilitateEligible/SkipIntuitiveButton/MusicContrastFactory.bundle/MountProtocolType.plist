@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScreen</key>
+	<string>permanentMatrix</string>
+	<key>beginnerTimeline</key>
+	<string>specifyAspectRatio</string>
+	<key>compositionalMultiplication</key>
+	<string>missionnode</string>
+	<key>dependencyDelay</key>
+	<string>resizableshaderformat</string>
+	<key>gridviewradius</key>
+	<string>rapidAmortization</string>
+	<key>menuanimator</key>
+	<string>utilstate</string>
+	<key>optionalongkind</key>
+	<string>respectiveDropdownButton</string>
+	<key>permanentResult</key>
+	<string>typicalsceneoffset</string>
+	<key>unactivatedaspectrotation</key>
+	<string>optimizerVar</string>
+</dict>
+</plist>

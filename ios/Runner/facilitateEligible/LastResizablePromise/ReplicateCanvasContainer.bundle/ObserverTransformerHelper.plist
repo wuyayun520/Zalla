@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPet</key>
+	<string>disabledmodel</string>
+	<key>integrationfeedback</key>
+	<string>projectFunction</string>
+	<key>quantizationbaseline</key>
+	<string>equalLayer</string>
+	<key>resultForce</key>
+	<string>contractionsorter</string>
+	<key>subsequentFilter</key>
+	<string>shouldPushChallenge</string>
+</dict>
+</plist>

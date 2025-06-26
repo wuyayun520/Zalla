@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>projectionFrequency</key>
+	<string>publisherLeft</string>
+	<key>secondCollection</key>
+	<string>shouldTransformGridView</string>
+	<key>serviceOffset</key>
+	<string>unmountStack</string>
+	<key>shouldDisconnectColumn</key>
+	<string>shouldendfragment</string>
+	<key>shouldPrepareSine</key>
+	<string>cosineInset</string>
+	<key>shouldPublishExtension</key>
+	<string>independentObserver</string>
+	<key>signatureVisibility</key>
+	<string>primaryCharacteristic</string>
+	<key>timerOpacity</key>
+	<string>precisionVisibility</string>
+</dict>
+</plist>

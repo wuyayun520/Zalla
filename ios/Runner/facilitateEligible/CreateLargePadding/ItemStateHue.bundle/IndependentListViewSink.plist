@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeClipper</key>
+	<string>subsequentDispatcher</string>
+	<key>hardText</key>
+	<string>emitterDensity</string>
+	<key>loadlabel</key>
+	<string>invokeTicker</string>
+	<key>multiplicationdistance</key>
+	<string>rapidFactory</string>
+	<key>notifymethod</key>
+	<string>serviceProxy</string>
+	<key>persistentButton</key>
+	<string>missionState</string>
+	<key>semanticcallbackborder</key>
+	<string>renderlayer</string>
+	<key>shouldUnmountBullet</key>
+	<string>disabledTitle</string>
+	<key>toleranceRotation</key>
+	<string>validatedelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSize</key>
+	<string>boxshadowOperation</string>
+	<key>graphicOrigin</key>
+	<string>otherCustomPaint</string>
+	<key>invisibleState</key>
+	<string>stringifyFeature</string>
+	<key>progressbarTransparency</key>
+	<string>platematerializer</string>
+	<key>scrollableLinker</key>
+	<string>hierarchicalAnimatedContainer</string>
+	<key>shouldPaintInkWell</key>
+	<string>inactivevertex</string>
+	<key>shouldPrepareModal</key>
+	<string>subtleLoop</string>
+	<key>shouldStreamStack</key>
+	<string>shouldTransitionActivity</string>
+</dict>
+</plist>

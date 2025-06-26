@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatDescent</key>
+	<string>sortedMesh</string>
+	<key>injectionbehavior</key>
+	<string>refreshMethod</string>
+	<key>intuitiveSubscriber</key>
+	<string>drawbutton</string>
+	<key>islistview</key>
+	<string>arithmeticParticle</string>
+	<key>parallelSubpixel</key>
+	<string>shouldPersistShader</string>
+	<key>shouldAnimateTask</key>
+	<string>subtleHash</string>
+	<key>shouldResumeAperture</key>
+	<string>iterativeProvider</string>
+	<key>shouldSaveDescriptor</key>
+	<string>presentNib</string>
+	<key>shouldendgridview</key>
+	<string>criticalitem</string>
+</dict>
+</plist>

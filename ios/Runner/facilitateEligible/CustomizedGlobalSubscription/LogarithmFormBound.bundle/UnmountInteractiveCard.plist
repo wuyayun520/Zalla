@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableProjection</key>
+	<string>originalAnalyzer</string>
+	<key>escalateaxis</key>
+	<string>bindLabel</string>
+	<key>hashtexture</key>
+	<string>axisOpacity</string>
+	<key>normalPainter</key>
+	<string>canTrainContraction</string>
+	<key>responseDepth</key>
+	<string>subtleText</string>
+	<key>rolePosition</key>
+	<string>utilborder</string>
+	<key>shouldMountedRadio</key>
+	<string>standaloneDocument</string>
+	<key>shouldTransitionRichText</key>
+	<string>activeTentative</string>
+	<key>unregistertransition</key>
+	<string>cacheRadio</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAlignment</key>
+	<string>grayscaleEdge</string>
+	<key>currentModulus</key>
+	<string>shouldlayoutscaffold</string>
+	<key>disabledTabView</key>
+	<string>debugMetadata</string>
+	<key>respectiveSwitch</key>
+	<string>cubeDensity</string>
+	<key>statefulData</key>
+	<string>saveCollection</string>
+	<key>symbolcontrast</key>
+	<string>encodeController</string>
+	<key>titleFlags</key>
+	<string>toolDecorator</string>
+</dict>
+</plist>

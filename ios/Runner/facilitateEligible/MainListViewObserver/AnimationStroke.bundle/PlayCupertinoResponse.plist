@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onsamplechanged</key>
+	<string>asynchronousCharacter</string>
+	<key>relationalbuilderkind</key>
+	<string>shouldPopChannels</string>
+	<key>resetcompleter</key>
+	<string>computeProgressBar</string>
+	<key>shouldkeepspine</key>
+	<string>positionRight</string>
+	<key>spotHead</key>
+	<string>diversifiedOperation</string>
+	<key>symbolinterval</key>
+	<string>fetchDecoration</string>
+</dict>
+</plist>

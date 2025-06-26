@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePlayback</key>
+	<string>reusabletransition</string>
+	<key>baselineresult</key>
+	<string>canResumeCapsule</string>
+	<key>cupertinoTension</key>
+	<string>allocatorContext</string>
+	<key>disabledHistogram</key>
+	<string>desktopNotification</string>
+	<key>drawerror</key>
+	<string>documentValidation</string>
+	<key>nextDispatcher</key>
+	<string>decodeSymbol</string>
+	<key>shouldCreateVariant</key>
+	<string>utilPrototype</string>
+</dict>
+</plist>

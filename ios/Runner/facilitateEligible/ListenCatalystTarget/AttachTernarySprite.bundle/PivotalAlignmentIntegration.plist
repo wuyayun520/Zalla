@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateElement</key>
+	<string>cupertinoNode</string>
+	<key>injectionPressure</key>
+	<string>reduceChannel</string>
+	<key>primaryModel</key>
+	<string>displayableNorm</string>
+	<key>tableskewy</key>
+	<string>toleranceScale</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSymbol</key>
+	<string>mediocreResult</string>
+	<key>customtexturestyle</key>
+	<string>canHandleMediaQuery</string>
+	<key>displayableDialogs</key>
+	<string>paintboxshadow</string>
+	<key>greatLoss</key>
+	<string>bundlePreview</string>
+	<key>mutableTolerance</key>
+	<string>concatenateSprite</string>
+	<key>requiredObserver</key>
+	<string>subsequentRoute</string>
+	<key>shouldnotifydescriptor</key>
+	<string>functionalstateinteraction</string>
+	<key>similarCapacity</key>
+	<string>subtleMonster</string>
+	<key>singleInstruction</key>
+	<string>awaitShade</string>
+</dict>
+</plist>

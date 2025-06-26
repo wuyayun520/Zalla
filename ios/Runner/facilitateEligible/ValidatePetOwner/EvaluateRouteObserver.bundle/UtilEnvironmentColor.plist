@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalobserverstatus</key>
+	<string>composablelistview</string>
+	<key>pickerSkewX</key>
+	<string>currentwidget</string>
+	<key>sessionCount</key>
+	<string>canUnmountedThread</string>
+	<key>symmetricMovement</key>
+	<string>draggableSizedBox</string>
+</dict>
+</plist>

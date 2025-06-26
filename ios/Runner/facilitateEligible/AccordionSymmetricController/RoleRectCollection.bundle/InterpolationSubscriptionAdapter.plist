@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsstatus</key>
+	<string>concreteLatency</string>
+	<key>greatException</key>
+	<string>largeRow</string>
+	<key>lostConnector</key>
+	<string>presentCube</string>
+	<key>shouldUnbindNib</key>
+	<string>configurationScale</string>
+	<key>shouldshowheap</key>
+	<string>sustainableDistinction</string>
+	<key>smallMethod</key>
+	<string>benchmarkParticle</string>
+</dict>
+</plist>

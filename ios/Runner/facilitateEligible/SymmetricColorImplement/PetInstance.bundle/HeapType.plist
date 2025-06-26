@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonposition</key>
+	<string>stateinsideinterpreter</string>
+	<key>heapBehavior</key>
+	<string>declarativeEvaluation</string>
+	<key>ignoredDependency</key>
+	<string>disposeNavigator</string>
+	<key>independentConfiguration</key>
+	<string>endHeap</string>
+	<key>largeEvaluation</key>
+	<string>readManager</string>
+	<key>synchronousCombiner</key>
+	<string>navigatorBrightness</string>
+	<key>usecaseshaperight</key>
+	<string>logLevel</string>
+</dict>
+</plist>

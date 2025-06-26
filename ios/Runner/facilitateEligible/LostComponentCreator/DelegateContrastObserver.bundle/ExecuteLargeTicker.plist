@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultMusic</key>
+	<string>singleMusic</string>
+	<key>denseEquipment</key>
+	<string>temporaryAnalyzer</string>
+	<key>mediaqueryRotation</key>
+	<string>createCanvas</string>
+	<key>numericalSchema</key>
+	<string>shouldStopArithmetic</string>
+	<key>pageviewInset</key>
+	<string>axisOffset</string>
+	<key>shouldCacheRow</key>
+	<string>apertureHue</string>
+	<key>unsortedResource</key>
+	<string>animatedChecklist</string>
+	<key>webButton</key>
+	<string>pageviewAlignment</string>
+</dict>
+</plist>

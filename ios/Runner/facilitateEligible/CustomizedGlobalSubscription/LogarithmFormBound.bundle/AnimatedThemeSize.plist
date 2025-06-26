@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationduringfunction</key>
+	<string>criticalOccasion</string>
+	<key>explicitDialogs</key>
+	<string>selectorBound</string>
+	<key>liteLoop</key>
+	<string>canPauseGrayscale</string>
+	<key>lostError</key>
+	<string>concurrentGrid</string>
+	<key>pushcontainer</key>
+	<string>hardTitle</string>
+	<key>sharedSink</key>
+	<string>pauseSwitch</string>
+	<key>shouldAttachHeap</key>
+	<string>endView</string>
+</dict>
+</plist>

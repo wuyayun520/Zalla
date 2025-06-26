@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSound</key>
+	<string>showBrush</string>
+	<key>elasticStatus</key>
+	<string>delicateGraphic</string>
+	<key>enabledCard</key>
+	<string>movewidget</string>
+	<key>modelinterval</key>
+	<string>usageascent</string>
+	<key>publicGate</key>
+	<string>radiusTint</string>
+	<key>robustBullet</key>
+	<string>canPushChannels</string>
+	<key>sharedSubscription</key>
+	<string>canFetchMobile</string>
+	<key>specifyBuilder</key>
+	<string>relationalUtil</string>
+	<key>strengthspacing</key>
+	<string>requiredInterface</string>
+	<key>subtlePadding</key>
+	<string>profileMemento</string>
+</dict>
+</plist>

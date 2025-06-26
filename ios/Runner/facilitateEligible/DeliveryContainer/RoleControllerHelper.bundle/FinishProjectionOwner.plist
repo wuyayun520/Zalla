@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeIntensity</key>
+	<string>screenCommand</string>
+	<key>framecycleshade</key>
+	<string>shouldAnimateChallenge</string>
+	<key>informationSkewX</key>
+	<string>oldOffset</string>
+	<key>listviewLeft</key>
+	<string>scaffoldStrategy</string>
+	<key>reactiveQueue</key>
+	<string>shouldSaveChannels</string>
+	<key>statefulLoader</key>
+	<string>transitionname</string>
+	<key>trajectoryhead</key>
+	<string>shouldPublishInteger</string>
+</dict>
+</plist>

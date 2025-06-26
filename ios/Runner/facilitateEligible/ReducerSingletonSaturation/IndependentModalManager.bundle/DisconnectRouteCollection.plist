@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityKind</key>
+	<string>lazyThroughput</string>
+	<key>dropdownbuttonplatformstate</key>
+	<string>shouldBuildStamp</string>
+	<key>implementnorm</key>
+	<string>enumerateCallback</string>
+	<key>numericalwidgettension</key>
+	<string>criticalVertex</string>
+	<key>shouldStartImage</key>
+	<string>deflateProvider</string>
+	<key>sliderOrigin</key>
+	<string>crudeTriangles</string>
+</dict>
+</plist>

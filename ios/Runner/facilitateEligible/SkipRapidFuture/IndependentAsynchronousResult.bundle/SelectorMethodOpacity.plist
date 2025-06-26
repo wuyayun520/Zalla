@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegment</key>
+	<string>sizedboxDistance</string>
+	<key>appbarResponse</key>
+	<string>movementTail</string>
+	<key>intermediateCell</key>
+	<string>gesturedetectorEdge</string>
+	<key>invisibleOperation</key>
+	<string>factoryContrast</string>
+	<key>overlayHead</key>
+	<string>retainedProgressBar</string>
+	<key>reactiveThroughput</key>
+	<string>shouldContinueIndicator</string>
+	<key>sliderRight</key>
+	<string>deactivateAwait</string>
+	<key>tensortabviewtag</key>
+	<string>transposeIntensity</string>
+</dict>
+</plist>

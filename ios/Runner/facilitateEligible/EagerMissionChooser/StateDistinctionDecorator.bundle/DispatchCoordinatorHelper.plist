@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addreducer</key>
+	<string>uniformProfile</string>
+	<key>advancedConvolution</key>
+	<string>pinchableScene</string>
+	<key>combinerStyle</key>
+	<string>completionRight</string>
+	<key>compositionalAnimatedContainer</key>
+	<string>equalizationTier</string>
+	<key>immutableSensor</key>
+	<string>mutableElasticity</string>
+</dict>
+</plist>

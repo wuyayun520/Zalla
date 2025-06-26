@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeanchor</key>
+	<string>controllerCycle</string>
+	<key>awaitmargin</key>
+	<string>popOffset</string>
+	<key>delegatedepth</key>
+	<string>notifieractivityscale</string>
+	<key>flexibleStateful</key>
+	<string>activityTask</string>
+	<key>shouldInflateEqualization</key>
+	<string>listenerstatestatus</string>
+	<key>singleStore</key>
+	<string>scheduleSlider</string>
+	<key>toolDistance</key>
+	<string>canUnmountRoute</string>
+	<key>weblistener</key>
+	<string>presentertemplehead</string>
+</dict>
+</plist>

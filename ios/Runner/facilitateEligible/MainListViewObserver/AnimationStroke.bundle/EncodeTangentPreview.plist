@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyMember</key>
+	<string>iterativebitrate</string>
+	<key>memberInteraction</key>
+	<string>ignoredContrast</string>
+	<key>semanticGroup</key>
+	<string>shouldYieldCharacter</string>
+	<key>uniqueBitrate</key>
+	<string>sizedboxvalidation</string>
+	<key>unsortedCatalyst</key>
+	<string>minMargin</string>
+	<key>unsortedHandler</key>
+	<string>onplaybacktap</string>
+</dict>
+</plist>

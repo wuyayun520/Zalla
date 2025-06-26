@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEvent</key>
+	<string>deferredDetail</string>
+	<key>baselineTail</key>
+	<string>publicSearcher</string>
+	<key>currentTool</key>
+	<string>integrityValidation</string>
+	<key>emitmission</key>
+	<string>binarySystem</string>
+	<key>exponentInteraction</key>
+	<string>cartesianCube</string>
+	<key>invisibleFeature</key>
+	<string>compositionalHandler</string>
+	<key>musicbuffertag</key>
+	<string>canLoadTable</string>
+	<key>reducertransparency</key>
+	<string>shouldResumeSegue</string>
+	<key>tensorWrapper</key>
+	<string>originalTable</string>
+</dict>
+</plist>

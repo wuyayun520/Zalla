@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOption</key>
+	<string>implementSprite</string>
+	<key>custompaintprocessbottom</key>
+	<string>materialMend</string>
+	<key>dynamicBinary</key>
+	<string>shouldEncodeCupertino</string>
+	<key>hardmanager</key>
+	<string>shouldRebuildIndicator</string>
+	<key>protectedImpression</key>
+	<string>adaptiveimpression</string>
+	<key>secondPolygon</key>
+	<string>shouldSerializeSign</string>
+	<key>shouldPaintTabBar</key>
+	<string>nextCupertino</string>
+	<key>shouldPublishStateless</key>
+	<string>observerVariable</string>
+	<key>threadVisibility</key>
+	<string>enabledMechanism</string>
+</dict>
+</plist>

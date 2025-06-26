@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateTweak</key>
+	<string>fetchArithmetic</string>
+	<key>shouldListenSkin</key>
+	<string>requestDelay</string>
+	<key>shouldPaintCapsule</key>
+	<string>sessionInterval</string>
+	<key>signatureactionspeed</key>
+	<string>reusableTraversal</string>
+	<key>variantBottom</key>
+	<string>shouldPublishReduction</string>
+</dict>
+</plist>

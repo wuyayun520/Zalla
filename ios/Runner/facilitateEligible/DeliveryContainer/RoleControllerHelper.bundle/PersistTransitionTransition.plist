@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugreducer</key>
+	<string>canStartInkWell</string>
+	<key>eagerscale</key>
+	<string>particleInterpreter</string>
+	<key>ephemeralVector</key>
+	<string>exponentinterpreterscale</string>
+	<key>imperativeQuaternion</key>
+	<string>extensionPattern</string>
+	<key>seamlessConstraint</key>
+	<string>functionalCube</string>
+	<key>statefulSegue</key>
+	<string>deserializeDrawer</string>
+</dict>
+</plist>

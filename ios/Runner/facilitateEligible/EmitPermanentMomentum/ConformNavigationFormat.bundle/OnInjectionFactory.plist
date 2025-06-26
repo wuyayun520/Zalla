@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbardepth</key>
+	<string>globalThroughput</string>
+	<key>autoMargin</key>
+	<string>flexibleReplica</string>
+	<key>disabledPoint</key>
+	<string>pageviewRate</string>
+	<key>eagercontainer</key>
+	<string>shouldSkipDimension</string>
+	<key>multiaction</key>
+	<string>menudecoratorcoord</string>
+	<key>sessionKind</key>
+	<string>canConnectHero</string>
+</dict>
+</plist>

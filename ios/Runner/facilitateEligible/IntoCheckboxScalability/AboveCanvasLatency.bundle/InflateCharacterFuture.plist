@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executedimension</key>
+	<string>borderInteraction</string>
+	<key>missionaboutcycle</key>
+	<string>kernelskewy</string>
+	<key>persistentchannelbehavior</key>
+	<string>dedicatedDelegate</string>
+	<key>recursionPressure</key>
+	<string>shouldPushAnimatedContainer</string>
+	<key>secondBullet</key>
+	<string>sustainableListView</string>
+</dict>
+</plist>

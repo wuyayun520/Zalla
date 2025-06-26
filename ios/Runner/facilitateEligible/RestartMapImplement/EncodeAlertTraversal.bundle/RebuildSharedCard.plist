@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStyle</key>
+	<string>onmultiplicationchanged</string>
+	<key>commonTechnique</key>
+	<string>pendingAnchor</string>
+	<key>parallelListView</key>
+	<string>freeFrame</string>
+	<key>requiredBoxShadow</key>
+	<string>canTransformSwift</string>
+	<key>resourcesincestate</key>
+	<string>validateAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDuration</key>
+	<string>accessibleRenderer</string>
+	<key>binaryandframework</key>
+	<string>shouldkeepswift</string>
+	<key>constraintsincestrategy</key>
+	<string>concatenateError</string>
+	<key>robustprecision</key>
+	<string>tappableCompletion</string>
+	<key>standaloneAwait</key>
+	<string>floatChapter</string>
+	<key>statelessReduction</key>
+	<string>canLoadMonster</string>
+	<key>writeresource</key>
+	<string>radioMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorstate</key>
+	<string>shouldSerializeSignature</string>
+	<key>beginnerMission</key>
+	<string>canPublishInterpolation</string>
+	<key>intermediateSlider</key>
+	<string>compareTask</string>
+	<key>resourceContrast</key>
+	<string>differentiatePosition</string>
+	<key>sessionsubscription</key>
+	<string>arithmeticAlignment</string>
+	<key>shouldNotifyThread</key>
+	<string>easyCustomPaint</string>
+	<key>shouldParseAppBar</key>
+	<string>animatedReliability</string>
+	<key>shouldRenderDialogs</key>
+	<string>blocOrientation</string>
+	<key>tabbarInterval</key>
+	<string>tappableTask</string>
+</dict>
+</plist>

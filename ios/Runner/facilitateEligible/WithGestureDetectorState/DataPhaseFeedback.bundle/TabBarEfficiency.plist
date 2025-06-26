@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeMode</key>
+	<string>queueColor</string>
+	<key>expandedrotation</key>
+	<string>nextparticle</string>
+	<key>ignoredPolyfill</key>
+	<string>shouldProcessListView</string>
+	<key>mutabledescriptionedge</key>
+	<string>threadcenter</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudesplitter</key>
+	<string>notifierdescent</string>
+	<key>elasticManager</key>
+	<string>disabledTicker</string>
+	<key>metadataversusprocess</key>
+	<string>respectiveScale</string>
+</dict>
+</plist>

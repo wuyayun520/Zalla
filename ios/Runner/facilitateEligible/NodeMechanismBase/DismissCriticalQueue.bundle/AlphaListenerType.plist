@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetanalogy</key>
+	<string>significantanimationright</string>
+	<key>directmethoddirection</key>
+	<string>connectMobile</string>
+	<key>explicitAudio</key>
+	<string>clipSingleton</string>
+	<key>isolateAcceleration</key>
+	<string>normMode</string>
+	<key>makecontainer</key>
+	<string>transitionPoint</string>
+	<key>multiplicationtraversal</key>
+	<string>agileTime</string>
+	<key>persistentCharacter</key>
+	<string>singleRequest</string>
+	<key>singleArithmetic</key>
+	<string>scenarioRight</string>
+</dict>
+</plist>

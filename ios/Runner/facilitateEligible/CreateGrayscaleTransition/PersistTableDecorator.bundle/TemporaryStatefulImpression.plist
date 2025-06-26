@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPressure</key>
+	<string>temporaryPoint</string>
+	<key>displayableSpine</key>
+	<string>flexiblePageView</string>
+	<key>nativeInfrastructure</key>
+	<string>animateddependencyrotation</string>
+	<key>remainderKind</key>
+	<string>displayBuffer</string>
+	<key>shouldAnimateTable</key>
+	<string>statelessRemainder</string>
+	<key>sophisticatedReduction</key>
+	<string>shouldPauseRow</string>
+	<key>stepMargin</key>
+	<string>playbackSpacing</string>
+	<key>visibleSubpixel</key>
+	<string>unscheduleException</string>
+</dict>
+</plist>

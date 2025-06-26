@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directModule</key>
+	<string>heapEdge</string>
+	<key>onsemanticstap</key>
+	<string>smartTitle</string>
+	<key>scrollDirection</key>
+	<string>resumePainter</string>
+	<key>shouldconnectdrawer</key>
+	<string>explicitFuture</string>
+	<key>uniformRemainder</key>
+	<string>disparateInteger</string>
+	<key>vertexvalidation</key>
+	<string>localRestriction</string>
+	<key>widgetdependency</key>
+	<string>transpilePresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMobile</key>
+	<string>streamMap</string>
+	<key>deferredTrajectory</key>
+	<string>subscriptionJob</string>
+	<key>lossSpacing</key>
+	<string>challengeOpacity</string>
+	<key>lossVisible</key>
+	<string>wrapperRate</string>
+	<key>mapAppearance</key>
+	<string>specifyMetrics</string>
+	<key>mediaKind</key>
+	<string>subsequentKernel</string>
+	<key>pickerOrigin</key>
+	<string>sceneCenter</string>
+	<key>shouldFinishAlpha</key>
+	<string>animatedcontainerasform</string>
+	<key>storageInteraction</key>
+	<string>cubePlatform</string>
+</dict>
+</plist>

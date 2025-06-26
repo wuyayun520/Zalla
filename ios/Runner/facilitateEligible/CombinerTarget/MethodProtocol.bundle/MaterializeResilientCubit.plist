@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelevolution</key>
+	<string>rectDelay</string>
+	<key>defaultternary</key>
+	<string>shouldNotifyBorder</string>
+	<key>histogramBrightness</key>
+	<string>notifyBorder</string>
+	<key>immediateMatrix</key>
+	<string>hardAspectRatio</string>
+	<key>relationalCycle</key>
+	<string>detachInkWell</string>
+	<key>shouldFinishSizedBox</key>
+	<string>scrollableWidget</string>
+	<key>ternarypresenter</key>
+	<string>paddingFeedback</string>
+</dict>
+</plist>

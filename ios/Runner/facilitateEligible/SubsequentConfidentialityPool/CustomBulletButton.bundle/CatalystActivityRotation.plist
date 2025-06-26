@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecapacitiesbrightness</key>
+	<string>decorationIndex</string>
+	<key>capacitiesDirection</key>
+	<string>canStreamNib</string>
+	<key>flexibleNorm</key>
+	<string>futureformsize</string>
+	<key>gesturedetectorRate</key>
+	<string>canDispatchThread</string>
+	<key>uniformCharacteristic</key>
+	<string>canDispatchCell</string>
+	<key>usageVisibility</key>
+	<string>tappableOptimizer</string>
+</dict>
+</plist>

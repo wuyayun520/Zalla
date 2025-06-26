@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFeature</key>
+	<string>canSetStateFuture</string>
+	<key>binderPadding</key>
+	<string>globalvolume</string>
+	<key>concurrentOptimizer</key>
+	<string>configureBloc</string>
+	<key>interactiveDependency</key>
+	<string>storyboardvalidation</string>
+	<key>materializerInset</key>
+	<string>decorationlayersize</string>
+	<key>navigationFeedback</key>
+	<string>iconformat</string>
+	<key>respectiveWidget</key>
+	<string>interactionDensity</string>
+	<key>scaffoldtail</key>
+	<string>blocperlayer</string>
+	<key>uniformInjection</key>
+	<string>canRenderBuilder</string>
+</dict>
+</plist>

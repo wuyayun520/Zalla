@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserVelocity</key>
+	<string>canReplaceGraphic</string>
+	<key>composabledata</key>
+	<string>fixedPolygon</string>
+	<key>explicitNavigation</key>
+	<string>instructionmaterializer</string>
+	<key>immutableBase</key>
+	<string>reflectBuilder</string>
+	<key>inactiveConfiguration</key>
+	<string>graphName</string>
+	<key>retainedSlider</key>
+	<string>mediaOrigin</string>
+	<key>secondImpression</key>
+	<string>transformerMemento</string>
+	<key>shouldShowCapacities</key>
+	<string>animatedChapter</string>
+	<key>shouldencodeinteger</key>
+	<string>transformerhead</string>
+</dict>
+</plist>

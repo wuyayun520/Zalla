@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretetransformer</key>
+	<string>interactionforce</string>
+	<key>fragmentincludepattern</key>
+	<string>pushresult</string>
+	<key>imperativeHeap</key>
+	<string>enumerateReducer</string>
+	<key>parallelseguespeed</key>
+	<string>groupcount</string>
+	<key>shouldFetchPlayback</key>
+	<string>canUnmountCharacter</string>
+	<key>standalonemapper</key>
+	<string>shouldsetstatematerial</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConfiguration</key>
+	<string>mediaqueryskewx</string>
+	<key>characteristicTransparency</key>
+	<string>shouldHandleBaseline</string>
+	<key>opaquegrainacceleration</key>
+	<string>activatedMapper</string>
+	<key>resourcelikevisitor</key>
+	<string>accordionDecoration</string>
+	<key>scrollableBuilder</key>
+	<string>persistentOffset</string>
+	<key>standaloneScene</key>
+	<string>numericalFragments</string>
+</dict>
+</plist>

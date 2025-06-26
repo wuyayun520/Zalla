@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAccessory</key>
+	<string>durationcyclefrequency</string>
+	<key>margincoord</key>
+	<string>createClipper</string>
+	<key>mediocrenavigatorvisible</key>
+	<string>debugConstraint</string>
+	<key>missedAnalogy</key>
+	<string>mountedSlash</string>
+	<key>platePosition</key>
+	<string>blocWork</string>
+	<key>resizableManager</key>
+	<string>beginnerPainter</string>
+	<key>robustInteger</key>
+	<string>crudeimpact</string>
+	<key>shouldParseImage</key>
+	<string>canPublishCompletion</string>
+</dict>
+</plist>

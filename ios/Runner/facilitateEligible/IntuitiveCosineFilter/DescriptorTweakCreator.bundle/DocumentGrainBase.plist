@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardDensity</key>
+	<string>selectedMedia</string>
+	<key>cleanawait</key>
+	<string>finishCurve</string>
+	<key>granularMethod</key>
+	<string>interactiveAnimation</string>
+	<key>immutableCheckbox</key>
+	<string>uniformResource</string>
+	<key>modelactivitytint</key>
+	<string>navigatorresponder</string>
+	<key>shouldKeepMobile</key>
+	<string>consultativePermutation</string>
+	<key>substantialwidgetinset</key>
+	<string>accelerateChart</string>
+</dict>
+</plist>

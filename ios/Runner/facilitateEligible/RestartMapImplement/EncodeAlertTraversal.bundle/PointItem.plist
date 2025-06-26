@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAllocator</key>
+	<string>shouldListenTask</string>
+	<key>blocAppearance</key>
+	<string>pickerOffset</string>
+	<key>futureconstant</key>
+	<string>protectedEffect</string>
+	<key>groupVelocity</key>
+	<string>discardedButton</string>
+	<key>richtextdepth</key>
+	<string>heapCycle</string>
+	<key>shouldDisposeTechnique</key>
+	<string>projectsink</string>
+	<key>streammember</key>
+	<string>currentTouch</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBandwidth</key>
+	<string>overrideZone</string>
+	<key>cycleOrigin</key>
+	<string>liteCard</string>
+	<key>documentpolyfill</key>
+	<string>canStreamGem</string>
+	<key>hyperbolicLog</key>
+	<string>observerOrientation</string>
+	<key>interactoractioninset</key>
+	<string>awaitMediator</string>
+	<key>mutableRect</key>
+	<string>shouldSkipSwift</string>
+	<key>shouldObserveLoss</key>
+	<string>matrixatwork</string>
+	<key>shouldPublishMusic</key>
+	<string>intuitiveWorkflow</string>
+	<key>shouldResumeSlider</key>
+	<string>pagerBound</string>
+	<key>shouldUnmountController</key>
+	<string>regulateRouter</string>
+</dict>
+</plist>

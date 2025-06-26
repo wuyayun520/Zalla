@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitfrequency</key>
+	<string>typicalcoordinator</string>
+	<key>eventContrast</key>
+	<string>interactiveTicker</string>
+	<key>hasbinary</key>
+	<string>resilientIntegration</string>
+	<key>interactorLeft</key>
+	<string>popupVariable</string>
+	<key>popupthandecorator</key>
+	<string>detachScaffold</string>
+	<key>scaffoldcomponent</key>
+	<string>numericalOperation</string>
+	<key>shouldDetachCurve</key>
+	<string>respectivePainter</string>
+	<key>swiftincludepattern</key>
+	<string>pagerType</string>
+	<key>unactivatedIcon</key>
+	<string>scrollableCompletion</string>
+</dict>
+</plist>

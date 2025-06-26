@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisiblePolyfill</key>
+	<string>symbolFlyweight</string>
+	<key>mobilebound</key>
+	<string>seamlessstep</string>
+	<key>publicresourceduration</key>
+	<string>prepareEntropy</string>
+	<key>shouldFetchHeap</key>
+	<string>compositionalTabView</string>
+	<key>shouldNavigateNavigator</key>
+	<string>seamlessitem</string>
+	<key>triggerTension</key>
+	<string>canUpdatePrecision</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCoord</key>
+	<string>optionBottom</string>
+	<key>deliveryStatus</key>
+	<string>navigatorprovider</string>
+	<key>interpolationofmethod</key>
+	<string>pagerRate</string>
+	<key>mobileAmortization</key>
+	<string>canDecodeEntropy</string>
+	<key>mobileDependency</key>
+	<string>primarytask</string>
+	<key>modulusposition</key>
+	<string>revisitButton</string>
+	<key>secondCupertino</key>
+	<string>customizedSplitter</string>
+	<key>shouldTrainCharacter</key>
+	<string>shouldtransitionduration</string>
+</dict>
+</plist>

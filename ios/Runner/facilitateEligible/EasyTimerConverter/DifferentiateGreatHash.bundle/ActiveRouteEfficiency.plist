@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentReference</key>
+	<string>publisherMode</string>
+	<key>semanticsbridgeopacity</key>
+	<string>saveCheckbox</string>
+	<key>statefulornumber</key>
+	<string>providerasync</string>
+	<key>titlevisitorpadding</key>
+	<string>concurrentListView</string>
+	<key>toleranceRate</key>
+	<string>touchBehavior</string>
+	<key>webremediation</key>
+	<string>backwardBehavior</string>
+</dict>
+</plist>

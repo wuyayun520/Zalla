@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBinary</key>
+	<string>reductionChain</string>
+	<key>buttonformat</key>
+	<string>inactivemediasize</string>
+	<key>debugfactory</key>
+	<string>resizableMedia</string>
+	<key>explicitCell</key>
+	<string>apertureequivalent</string>
+	<key>iconindex</key>
+	<string>missionStyle</string>
+	<key>immutableSignature</key>
+	<string>lazySpecifier</string>
+	<key>keyOption</key>
+	<string>directlyPolygon</string>
+	<key>radioTail</key>
+	<string>subtleDocument</string>
+</dict>
+</plist>

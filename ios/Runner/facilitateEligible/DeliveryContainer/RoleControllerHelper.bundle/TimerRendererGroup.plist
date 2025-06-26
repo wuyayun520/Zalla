@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCapacities</key>
+	<string>unsortedmatrixvisibility</string>
+	<key>mediaqueryInset</key>
+	<string>storeforvisitor</string>
+</dict>
+</plist>

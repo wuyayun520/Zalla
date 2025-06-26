@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerappearance</key>
+	<string>analyzerBrightness</string>
+	<key>crudelogarithmacceleration</key>
+	<string>checkboxMediator</string>
+	<key>functionalboxpadding</key>
+	<string>playbackVisitor</string>
+	<key>newestLoss</key>
+	<string>seamlessLatency</string>
+	<key>scrollappearance</key>
+	<string>resumeCache</string>
+	<key>shouldSkipSession</key>
+	<string>musicIndex</string>
+</dict>
+</plist>

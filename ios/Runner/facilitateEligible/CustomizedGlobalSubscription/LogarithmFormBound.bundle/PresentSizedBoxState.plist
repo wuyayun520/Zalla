@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecertificateskewx</key>
+	<string>moveChart</string>
+	<key>consultativeTolerance</key>
+	<string>loopTier</string>
+	<key>deferredPager</key>
+	<string>canPopGraphic</string>
+	<key>dynamicGrid</key>
+	<string>canDisconnectAnimation</string>
+	<key>grayscaleSkewY</key>
+	<string>quaternionSkewY</string>
+	<key>originalnavigator</key>
+	<string>continueClipper</string>
+	<key>positionedContrast</key>
+	<string>shouldStreamMargin</string>
+	<key>slidershapeforce</key>
+	<string>tensorSelector</string>
+</dict>
+</plist>

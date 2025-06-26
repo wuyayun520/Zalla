@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logincontext</key>
+	<string>accordionNotifier</string>
+	<key>mainMesh</key>
+	<string>shouldPublishSymbol</string>
+	<key>priorUtil</key>
+	<string>mutableDispatcher</string>
+	<key>sensorstate</key>
+	<string>groupinenvironment</string>
+	<key>shouldMountFuture</key>
+	<string>completedTable</string>
+	<key>specifyTicker</key>
+	<string>shouldYieldAlpha</string>
+	<key>taxonomyCount</key>
+	<string>conformResponse</string>
+	<key>tensorusecasecount</key>
+	<string>agileTransition</string>
+	<key>tentativeDirection</key>
+	<string>globalTransformer</string>
+</dict>
+</plist>

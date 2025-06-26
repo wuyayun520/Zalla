@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentdescription</key>
+	<string>canEncodeLoss</string>
+	<key>geometricConstraint</key>
+	<string>finishComposition</string>
+	<key>missiontween</key>
+	<string>dialogsAction</string>
+	<key>serializemenu</key>
+	<string>touchPattern</string>
+	<key>textfieldSaturation</key>
+	<string>convolutionForm</string>
+	<key>unmountresult</key>
+	<string>quantizerView</string>
+</dict>
+</plist>

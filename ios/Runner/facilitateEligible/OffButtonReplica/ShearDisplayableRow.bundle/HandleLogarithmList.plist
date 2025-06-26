@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captiontriangles</key>
+	<string>desktopImage</string>
+	<key>consumerRight</key>
+	<string>canSetStateCharacter</string>
+	<key>directlyListView</key>
+	<string>canMountedActivity</string>
+	<key>mutableModal</key>
+	<string>asynchronousGradient</string>
+</dict>
+</plist>

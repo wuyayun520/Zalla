@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerversusvisitor</key>
+	<string>stackinterval</string>
+	<key>prevCollection</key>
+	<string>itemOrigin</string>
+	<key>reusableDescent</key>
+	<string>formatIcon</string>
+	<key>shouldNotifyActivity</key>
+	<string>shouldEndFragment</string>
+	<key>shouldPaintNorm</key>
+	<string>smartRepository</string>
+	<key>typicalTabView</key>
+	<string>dynamicTimeline</string>
+	<key>uniqueAppBar</key>
+	<string>equivalentPosition</string>
+	<key>visibleOccasion</key>
+	<string>unactivatedProfile</string>
+</dict>
+</plist>

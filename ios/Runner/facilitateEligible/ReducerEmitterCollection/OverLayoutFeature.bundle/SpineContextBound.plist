@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelegate</key>
+	<string>processCapacities</string>
+	<key>aspectratiovertex</key>
+	<string>shouldTransformCard</string>
+	<key>crudeAlert</key>
+	<string>behaviorHue</string>
+	<key>hassample</key>
+	<string>secondBitrate</string>
+	<key>positionresponse</key>
+	<string>timershade</string>
+</dict>
+</plist>

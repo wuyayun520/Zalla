@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerTag</key>
+	<string>canFormatNavigator</string>
+	<key>directlyactivityfrequency</key>
+	<string>accordionanimation</string>
+	<key>gramexception</key>
+	<string>multiActivity</string>
+	<key>inactiveLoop</key>
+	<string>draggableMaterial</string>
+	<key>shouldNotifyLoss</key>
+	<string>normalCanvas</string>
+	<key>shouldSetStateMap</key>
+	<string>unsortedState</string>
+	<key>transformerviastyle</key>
+	<string>configurationFlags</string>
+	<key>unactivatedinjection</key>
+	<string>gridStyle</string>
+</dict>
+</plist>

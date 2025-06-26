@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvecurve</key>
+	<string>shouldParseController</string>
+	<key>keyMenu</key>
+	<string>shouldSetStateComposition</string>
+	<key>reusableProcessor</key>
+	<string>smartAlert</string>
+	<key>sustainableCharacteristic</key>
+	<string>mountCatalyst</string>
+	<key>synchronousRestriction</key>
+	<string>shouldcreatetool</string>
+</dict>
+</plist>

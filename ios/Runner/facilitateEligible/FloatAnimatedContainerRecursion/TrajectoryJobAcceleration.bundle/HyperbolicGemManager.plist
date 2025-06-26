@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseshade</key>
+	<string>canDecodeMediaQuery</string>
+	<key>dedicatedGrain</key>
+	<string>shouldResumeRole</string>
+	<key>firstDescription</key>
+	<string>releaseException</string>
+	<key>granularCubit</key>
+	<string>shouldEmitDocument</string>
+	<key>mapValidation</key>
+	<string>numericalGram</string>
+	<key>persistentMobile</key>
+	<string>reflectDecoration</string>
+	<key>reducerHue</key>
+	<string>descriptorMediator</string>
+	<key>scrolluntildecorator</key>
+	<string>nativeFormat</string>
+	<key>taskEdge</key>
+	<string>analogyIndex</string>
+</dict>
+</plist>

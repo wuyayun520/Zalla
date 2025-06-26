@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedFinder</key>
+	<string>permanentRouter</string>
+	<key>infoOffset</key>
+	<string>presenterbylayer</string>
+	<key>shouldParseBullet</key>
+	<string>canPopChecklist</string>
+	<key>shouldPopCosine</key>
+	<string>mapCount</string>
+	<key>subsequentmatrix</key>
+	<string>activeAsync</string>
+	<key>synchronousAxis</key>
+	<string>shouldSaveBaseline</string>
+</dict>
+</plist>

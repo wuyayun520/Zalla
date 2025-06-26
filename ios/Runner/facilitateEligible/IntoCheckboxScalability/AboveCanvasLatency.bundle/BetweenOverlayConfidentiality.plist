@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAppearance</key>
+	<string>dimensionbound</string>
+	<key>appendhandler</key>
+	<string>invokeResponse</string>
+	<key>currentcursor</key>
+	<string>difficultVideo</string>
+	<key>currentresource</key>
+	<string>observemethod</string>
+	<key>keepaperture</key>
+	<string>shouldCreateButton</string>
+	<key>markresult</key>
+	<string>tensorButton</string>
+	<key>precisionpressure</key>
+	<string>streamusecase</string>
+	<key>receiverName</key>
+	<string>lastconvolution</string>
+</dict>
+</plist>

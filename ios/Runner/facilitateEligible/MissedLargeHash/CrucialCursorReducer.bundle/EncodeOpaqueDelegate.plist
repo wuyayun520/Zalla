@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInterval</key>
+	<string>adjustWidget</string>
+	<key>asyncwithstrategy</key>
+	<string>sharedTrajectory</string>
+	<key>blocsingletonvalidation</key>
+	<string>reusableTexture</string>
+	<key>descriptionVelocity</key>
+	<string>updateExtension</string>
+	<key>elasticConfidentiality</key>
+	<string>sorterOrientation</string>
+	<key>multiCluster</key>
+	<string>floatState</string>
+	<key>mutabletaskduration</key>
+	<string>materialWrapper</string>
+	<key>parallelAspect</key>
+	<string>resizableMargin</string>
+	<key>tabbarmodule</key>
+	<string>containerversusvar</string>
+</dict>
+</plist>

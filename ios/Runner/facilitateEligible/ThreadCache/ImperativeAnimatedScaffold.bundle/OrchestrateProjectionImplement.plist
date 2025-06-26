@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWorkflow</key>
+	<string>rapidGrayscale</string>
+	<key>dynamicSegue</key>
+	<string>missedLogarithm</string>
+	<key>missedKernel</key>
+	<string>decodecursor</string>
+	<key>sequentialUsage</key>
+	<string>toolPrototype</string>
+	<key>symbolperwork</key>
+	<string>specifierhandler</string>
+	<key>uniformSample</key>
+	<string>rowTension</string>
+</dict>
+</plist>

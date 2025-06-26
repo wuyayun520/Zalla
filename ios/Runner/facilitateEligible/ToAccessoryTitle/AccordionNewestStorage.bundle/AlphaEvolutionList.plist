@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celltail</key>
+	<string>consumeLoop</string>
+	<key>dialogsviaplatform</key>
+	<string>canNavigateCupertino</string>
+	<key>hardSpot</key>
+	<string>shouldDetachBullet</string>
+	<key>immutableIcon</key>
+	<string>primarypermutation</string>
+	<key>mediumFragments</key>
+	<string>mediaoffset</string>
+	<key>pagerFeedback</key>
+	<string>cancelCompletion</string>
+	<key>paintparticle</key>
+	<string>statusContrast</string>
+	<key>permissiveFrame</key>
+	<string>labelfuture</string>
+	<key>routegift</key>
+	<string>canTransformInkWell</string>
+	<key>transitionpatternflags</key>
+	<string>canObserveGradient</string>
+</dict>
+</plist>

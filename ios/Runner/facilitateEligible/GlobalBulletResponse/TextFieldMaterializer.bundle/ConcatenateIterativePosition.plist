@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorSaturation</key>
+	<string>concurrentArithmetic</string>
+	<key>deferredLayout</key>
+	<string>missedCheckbox</string>
+	<key>semanticArchitecture</key>
+	<string>crucialWidget</string>
+	<key>shouldTransformAperture</key>
+	<string>futureVisible</string>
+	<key>signaturetag</key>
+	<string>shouldBindProject</string>
+	<key>stateTag</key>
+	<string>extendAwait</string>
+	<key>temporaryCurve</key>
+	<string>largePainter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationsize</key>
+	<string>disposecycle</string>
+	<key>composableAwait</key>
+	<string>segueMargin</string>
+	<key>concretewidget</key>
+	<string>resilientRequest</string>
+	<key>directlyLifecycle</key>
+	<string>singleLatency</string>
+	<key>equipmentDirection</key>
+	<string>shouldLayoutBloc</string>
+	<key>fusedUseCase</key>
+	<string>eagerSubscriber</string>
+	<key>opaqueMargin</key>
+	<string>canFetchBinary</string>
+	<key>primaryDimension</key>
+	<string>persistentIsolate</string>
+	<key>signtypeappearance</key>
+	<string>customizedListener</string>
+	<key>storesize</key>
+	<string>soundcenter</string>
+</dict>
+</plist>

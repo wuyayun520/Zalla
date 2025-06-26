@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncvisible</key>
+	<string>concreteCaption</string>
+	<key>containeradaptertype</key>
+	<string>currentFormat</string>
+	<key>dimensionright</key>
+	<string>materialMemento</string>
+	<key>hardDialogs</key>
+	<string>persistentTextField</string>
+	<key>latencyDepth</key>
+	<string>playbackbeyondlevel</string>
+	<key>strengthOrientation</key>
+	<string>storeProgressBar</string>
+</dict>
+</plist>

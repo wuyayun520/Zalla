@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInterval</key>
+	<string>canTransitionAccessory</string>
+	<key>denseCatalyst</key>
+	<string>resizeButton</string>
+	<key>nativeTolerance</key>
+	<string>comparepresenter</string>
+	<key>seamlessPublisher</key>
+	<string>difficultRecursion</string>
+	<key>shouldPauseBorder</key>
+	<string>prevPager</string>
+	<key>spritespeed</key>
+	<string>loadRichText</string>
+	<key>statelessContraction</key>
+	<string>pivotalObserver</string>
+	<key>uniqueInformation</key>
+	<string>canDisconnectTool</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStyle</key>
+	<string>resilientCubit</string>
+	<key>delegateRate</key>
+	<string>intermediateSchema</string>
+	<key>diffableMargin</key>
+	<string>removeConstraint</string>
+	<key>gridviewHead</key>
+	<string>crucialContrast</string>
+	<key>nibTag</key>
+	<string>containerintegrity</string>
+	<key>protectedCapacity</key>
+	<string>shouldSubscribeTheme</string>
+	<key>shouldPopStream</key>
+	<string>disabledScreen</string>
+	<key>shouldunbindtextfield</key>
+	<string>shouldProcessGift</string>
+	<key>trajectoryEdge</key>
+	<string>disclaimerTheme</string>
+</dict>
+</plist>

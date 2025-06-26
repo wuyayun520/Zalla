@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExpanded</key>
+	<string>responsiveModule</string>
+	<key>deferredDetector</key>
+	<string>chartalignment</string>
+	<key>lazyActivity</key>
+	<string>shouldHandleDocument</string>
+	<key>shouldDetachEntropy</key>
+	<string>materializerVelocity</string>
+	<key>subpixelRotation</key>
+	<string>shouldContinueChecklist</string>
+	<key>subtleDescent</key>
+	<string>dropoutConstraint</string>
+	<key>vectorsincework</key>
+	<string>checkboxstream</string>
+</dict>
+</plist>

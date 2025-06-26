@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactShade</key>
+	<string>shouldserializecompletion</string>
+	<key>normalLifecycle</key>
+	<string>inflatelistener</string>
+	<key>pushsubscription</key>
+	<string>allocateGrid</string>
+	<key>setupsine</key>
+	<string>shouldPopDecoration</string>
+	<key>shouldPresentTool</key>
+	<string>concurrentBuilder</string>
+	<key>timersplitter</key>
+	<string>comprehensiveService</string>
+	<key>updatescreen</key>
+	<string>opaqueIntensity</string>
+</dict>
+</plist>

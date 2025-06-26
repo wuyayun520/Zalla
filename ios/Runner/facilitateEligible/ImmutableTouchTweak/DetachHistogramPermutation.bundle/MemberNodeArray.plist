@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadius</key>
+	<string>lostcontraction</string>
+	<key>ignoredConnector</key>
+	<string>permanentMovement</string>
+	<key>intuitiveSwitch</key>
+	<string>shouldobserverow</string>
+	<key>mediumBrush</key>
+	<string>currentPopup</string>
+	<key>pinchableUsage</key>
+	<string>aspectratiorow</string>
+	<key>pivotalFragment</key>
+	<string>reactivePet</string>
+	<key>sustainableSpecifier</key>
+	<string>agileCharacteristic</string>
+	<key>visibleprovider</key>
+	<string>canMountCharacter</string>
+</dict>
+</plist>

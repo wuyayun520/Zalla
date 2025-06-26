@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateCallback</key>
+	<string>scenevelocity</string>
+	<key>displayableAlert</key>
+	<string>textureInset</string>
+	<key>infostyle</key>
+	<string>canBindMusic</string>
+	<key>largeMaster</key>
+	<string>associatedBase</string>
+	<key>seamlesshistogram</key>
+	<string>margintransformer</string>
+	<key>shouldSubscribeBase</key>
+	<string>subscribeAnimation</string>
+	<key>shouldsubscriberole</key>
+	<string>appbarOpacity</string>
+	<key>smallChannel</key>
+	<string>errorTail</string>
+</dict>
+</plist>

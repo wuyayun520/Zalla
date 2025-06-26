@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeEvent</key>
+	<string>pageviewVisible</string>
+	<key>nextdescent</key>
+	<string>seamlessDelivery</string>
+	<key>shouldPaintCapacities</key>
+	<string>textfieldBehavior</string>
+	<key>tappableMethod</key>
+	<string>sustainableModulus</string>
+</dict>
+</plist>

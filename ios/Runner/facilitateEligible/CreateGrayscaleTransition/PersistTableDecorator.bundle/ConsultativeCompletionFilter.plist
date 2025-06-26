@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePager</key>
+	<string>visualizecycle</string>
+	<key>displayableVector</key>
+	<string>smartBorder</string>
+	<key>enumerateconstraint</key>
+	<string>shouldPushWidget</string>
+	<key>explicitIntegrity</key>
+	<string>semanticstore</string>
+	<key>isAxis</key>
+	<string>canSaveSlider</string>
+	<key>modalstream</key>
+	<string>subsequentCoordinator</string>
+	<key>scrollableResponse</key>
+	<string>ephemeralservice</string>
+	<key>threadPadding</key>
+	<string>multiResponder</string>
+</dict>
+</plist>

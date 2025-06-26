@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateconvolution</key>
+	<string>secondTask</string>
+	<key>ephemeralMenu</key>
+	<string>isolateValidation</string>
+	<key>imperativeScope</key>
+	<string>heapmerger</string>
+	<key>popupInteraction</key>
+	<string>canProcessDrawer</string>
+	<key>resourceName</key>
+	<string>binarysystemtint</string>
+	<key>seamlessRole</key>
+	<string>navigatorvariablebrightness</string>
+	<key>shouldInflateScroll</key>
+	<string>dynamicActivity</string>
+	<key>uniqueTitle</key>
+	<string>holdException</string>
+</dict>
+</plist>

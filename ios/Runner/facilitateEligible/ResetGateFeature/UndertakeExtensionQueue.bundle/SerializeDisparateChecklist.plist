@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardorprocess</key>
+	<string>keepLabel</string>
+	<key>challengeLocation</key>
+	<string>singletonType</string>
+	<key>localEfficiency</key>
+	<string>groupaswork</string>
+	<key>quitnavigator</key>
+	<string>allocatorSingleton</string>
+	<key>sceneOffset</key>
+	<string>subscribeChecklist</string>
+	<key>shouldShowCanvas</key>
+	<string>unsortedScroller</string>
+	<key>tappableEquipment</key>
+	<string>sequentialGroup</string>
+</dict>
+</plist>

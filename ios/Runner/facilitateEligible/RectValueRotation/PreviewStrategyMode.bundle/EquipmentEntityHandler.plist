@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcapsule</key>
+	<string>groupFlags</string>
+	<key>componentOrientation</key>
+	<string>shouldCancelPageView</string>
+	<key>composablePublisher</key>
+	<string>receiveGroup</string>
+	<key>exponentresilience</key>
+	<string>canUnmountRole</string>
+	<key>otherInterpolation</key>
+	<string>handlerMethod</string>
+	<key>responsiveHash</key>
+	<string>priorityValue</string>
+	<key>shouldPushColumn</key>
+	<string>secondIcon</string>
+	<key>topicviaaction</key>
+	<string>shouldProcessTable</string>
+</dict>
+</plist>

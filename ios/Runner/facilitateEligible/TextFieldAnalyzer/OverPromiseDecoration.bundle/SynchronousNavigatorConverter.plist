@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedoption</key>
+	<string>storyboardTint</string>
+	<key>imagetransition</key>
+	<string>canDisconnectColumn</string>
+	<key>instantiatehistogram</key>
+	<string>keycoordinatoropacity</string>
+	<key>mapstagefeedback</key>
+	<string>shouldObserveBaseline</string>
+	<key>moduleFlags</key>
+	<string>shouldMountOverlay</string>
+	<key>permanentModulus</key>
+	<string>responsiveSound</string>
+	<key>shouldDeserializeWorkflow</key>
+	<string>stepStrategy</string>
+	<key>skipswitch</key>
+	<string>directModule</string>
+</dict>
+</plist>

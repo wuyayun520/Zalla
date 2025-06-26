@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBinder</key>
+	<string>typicalIcon</string>
+	<key>columnResponse</key>
+	<string>dropdownbuttonLevel</string>
+	<key>discardedrole</key>
+	<string>canParseLogarithm</string>
+	<key>mediaqueryRight</key>
+	<string>firstResponse</string>
+	<key>mediumScheduler</key>
+	<string>dynamicpageview</string>
+	<key>multiConnector</key>
+	<string>appendAsync</string>
+	<key>shouldpersistscale</key>
+	<string>shouldResumeGate</string>
+</dict>
+</plist>

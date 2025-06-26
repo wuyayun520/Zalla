@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentScale</key>
+	<string>canStartGate</string>
+	<key>attachnotification</key>
+	<string>anchorMethod</string>
+	<key>criticalSubscription</key>
+	<string>enabledCaption</string>
+	<key>documentMargin</key>
+	<string>statefulSlider</string>
+	<key>hyperbolicstream</key>
+	<string>globalCurve</string>
+	<key>respectiveReference</key>
+	<string>dismissCube</string>
+	<key>reusablereferenceoffset</key>
+	<string>showParticle</string>
+	<key>shouldKeepLoss</key>
+	<string>prismaticinstructionforce</string>
+</dict>
+</plist>

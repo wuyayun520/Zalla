@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentGate</key>
+	<string>usedNode</string>
+	<key>dedicatedExpanded</key>
+	<string>findAlignment</string>
+	<key>dropdownbuttoncolor</key>
+	<string>originalTechnique</string>
+	<key>flexDepth</key>
+	<string>shouldPrepareCard</string>
+	<key>intermediatesignatureappearance</key>
+	<string>tangentInset</string>
+	<key>pivotalPicker</key>
+	<string>defaultsemantics</string>
+	<key>standaloneCheckbox</key>
+	<string>easyDrawer</string>
+	<key>widgetchainappearance</key>
+	<string>tappableRestriction</string>
+</dict>
+</plist>

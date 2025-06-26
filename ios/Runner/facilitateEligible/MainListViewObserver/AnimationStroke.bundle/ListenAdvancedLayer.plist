@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAcceleration</key>
+	<string>callbackreducer</string>
+	<key>hierarchicalsegue</key>
+	<string>optimizerFrequency</string>
+	<key>modelInteraction</key>
+	<string>gramStructure</string>
+	<key>shouldConnectRow</key>
+	<string>dismissInjection</string>
+	<key>subpixelVisibility</key>
+	<string>shouldReplaceMaster</string>
+</dict>
+</plist>

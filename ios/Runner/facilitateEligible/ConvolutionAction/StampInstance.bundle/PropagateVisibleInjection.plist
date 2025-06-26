@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLifecycle</key>
+	<string>usedoptimizer</string>
+	<key>crucialOption</key>
+	<string>columnDuration</string>
+	<key>eventexceptoperation</key>
+	<string>dropoutGrid</string>
+	<key>frameasfunction</key>
+	<string>pinchableInteger</string>
+	<key>intermediateAspectRatio</key>
+	<string>optiontransformer</string>
+	<key>lostSchema</key>
+	<string>rectifyTopic</string>
+	<key>routedescription</key>
+	<string>activityContext</string>
+	<key>shouldTransformInterpolation</key>
+	<string>bindNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedAnimator</key>
+	<string>canFetchBox</string>
+	<key>largeResponder</key>
+	<string>canReplaceTask</string>
+	<key>loopAppearance</key>
+	<string>disposeSymbol</string>
+	<key>recursiontype</key>
+	<string>standaloneSign</string>
+	<key>shouldCreateDescriptor</key>
+	<string>invisibleTabBar</string>
+	<key>shouldPopPositioned</key>
+	<string>dropoutplate</string>
+	<key>shouldPresentDescriptor</key>
+	<string>permutationCount</string>
+	<key>shouldendview</key>
+	<string>certificateActivity</string>
+</dict>
+</plist>

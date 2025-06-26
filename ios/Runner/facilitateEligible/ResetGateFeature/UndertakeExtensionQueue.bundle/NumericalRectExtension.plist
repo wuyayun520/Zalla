@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnmetadata</key>
+	<string>instructionObserver</string>
+	<key>consultativeTexture</key>
+	<string>unsortedArithmetic</string>
+	<key>cubelatency</key>
+	<string>lossquaternion</string>
+	<key>globalAmortization</key>
+	<string>mediumTopic</string>
+	<key>managernearmemento</key>
+	<string>ternarysubscriber</string>
+	<key>retainedBrush</key>
+	<string>appbarAdapter</string>
+</dict>
+</plist>

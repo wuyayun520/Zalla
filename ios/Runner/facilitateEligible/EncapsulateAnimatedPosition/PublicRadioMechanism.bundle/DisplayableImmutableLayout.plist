@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitySkewY</key>
+	<string>canKeepClipper</string>
+	<key>documentpainter</key>
+	<string>geometricSign</string>
+	<key>indicatorState</key>
+	<string>swiftDirection</string>
+	<key>intermediateListener</key>
+	<string>buildTernary</string>
+	<key>intermediateRow</key>
+	<string>animatedChannels</string>
+	<key>nextMaterializer</key>
+	<string>formatNavigator</string>
+	<key>onnavigationtap</key>
+	<string>canTrainStoryboard</string>
+	<key>transitionSkewY</key>
+	<string>globalCard</string>
+</dict>
+</plist>

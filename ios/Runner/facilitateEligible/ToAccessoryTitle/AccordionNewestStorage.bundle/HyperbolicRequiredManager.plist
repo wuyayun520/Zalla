@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSearcher</key>
+	<string>requiredStorage</string>
+	<key>heroShade</key>
+	<string>screenBehavior</string>
+	<key>inactiveslider</key>
+	<string>insteadLocalization</string>
+	<key>localReliability</key>
+	<string>graphStatus</string>
+	<key>shouldRebuildCycle</key>
+	<string>dimensionresolver</string>
+	<key>storageInterval</key>
+	<string>capsulecompleter</string>
+	<key>subtleVideo</key>
+	<string>shouldstopcube</string>
+	<key>visibleMend</key>
+	<string>canRestartMedia</string>
+</dict>
+</plist>

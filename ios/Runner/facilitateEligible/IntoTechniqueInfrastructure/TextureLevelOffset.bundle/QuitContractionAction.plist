@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledsubpixel</key>
+	<string>comprehensiveInformation</string>
+	<key>masternavigator</key>
+	<string>heroLayer</string>
+	<key>mobileNavigator</key>
+	<string>efficiencyCount</string>
+	<key>modulePadding</key>
+	<string>globalinstructionskewx</string>
+	<key>popupOrientation</key>
+	<string>selectedCertificate</string>
+	<key>tangentphasevelocity</key>
+	<string>onpromisetap</string>
+	<key>thresholdHue</key>
+	<string>materialopacity</string>
+</dict>
+</plist>

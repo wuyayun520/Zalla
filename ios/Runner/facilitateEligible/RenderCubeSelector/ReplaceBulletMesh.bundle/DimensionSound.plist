@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multigram</key>
+	<string>smartPosition</string>
+	<key>requestBehavior</key>
+	<string>accordionProfile</string>
+	<key>savesingleton</key>
+	<string>independentRequest</string>
+	<key>touchstream</key>
+	<string>composabledisclaimer</string>
+	<key>usedrepositorytension</key>
+	<string>canRouteTabView</string>
+</dict>
+</plist>

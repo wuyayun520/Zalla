@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackpainter</key>
+	<string>shouldDismissTextField</string>
+	<key>crucialMapper</key>
+	<string>usedPopup</string>
+	<key>difficultBehavior</key>
+	<string>liteframe</string>
+	<key>mutableAnalogy</key>
+	<string>addAllocator</string>
+	<key>objectTop</key>
+	<string>missionlayerdistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteStoryboard</key>
+	<string>combinechannels</string>
+	<key>immutableemitter</key>
+	<string>interactorFramework</string>
+	<key>localpopupbrightness</key>
+	<string>skipRole</string>
+	<key>rebuildrequest</key>
+	<string>fixedAction</string>
+	<key>reusableMusic</key>
+	<string>boxspacing</string>
+	<key>sinkpatternopacity</key>
+	<string>exceptionvelocity</string>
+</dict>
+</plist>

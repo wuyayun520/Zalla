@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiovisible</key>
+	<string>dismissProgressBar</string>
+	<key>concurrentDialogs</key>
+	<string>sharedProvision</string>
+	<key>durationcontextmode</key>
+	<string>crucialtriangles</string>
+	<key>resilientImpression</key>
+	<string>flexiblePriority</string>
+	<key>resizableMaster</key>
+	<string>retainedCluster</string>
+</dict>
+</plist>

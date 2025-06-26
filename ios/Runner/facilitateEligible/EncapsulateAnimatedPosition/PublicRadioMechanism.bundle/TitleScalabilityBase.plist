@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAllocator</key>
+	<string>canRestartController</string>
+	<key>fixedExpanded</key>
+	<string>canConnectMediaQuery</string>
+	<key>hierarchicalPet</key>
+	<string>splitterRight</string>
+	<key>interpolationInteraction</key>
+	<string>interfaceofsingleton</string>
+	<key>musicDirection</key>
+	<string>descriptiontransparency</string>
+	<key>progressbarSkewY</key>
+	<string>lazyChannels</string>
+	<key>shouldParseAspectRatio</key>
+	<string>permutationPadding</string>
+	<key>unsortedModulus</key>
+	<string>shouldFetchConsumer</string>
+	<key>visibleSpot</key>
+	<string>makeHash</string>
+</dict>
+</plist>

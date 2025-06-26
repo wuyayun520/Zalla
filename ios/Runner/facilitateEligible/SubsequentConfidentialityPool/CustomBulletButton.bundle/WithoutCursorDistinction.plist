@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveMedia</key>
+	<string>beginnerMediaQuery</string>
+	<key>customState</key>
+	<string>deployConfiguration</string>
+	<key>extensionFlags</key>
+	<string>uniqueUtil</string>
+	<key>mutableScroll</key>
+	<string>webExponent</string>
+	<key>providerresponder</key>
+	<string>materialJob</string>
+	<key>resultappearance</key>
+	<string>parseTernary</string>
+	<key>significantSubscription</key>
+	<string>shouldRestartSensor</string>
+	<key>strengthTag</key>
+	<string>textfieldHue</string>
+	<key>unactivatedCompleter</key>
+	<string>captionLocation</string>
+</dict>
+</plist>

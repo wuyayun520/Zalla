@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardThreshold</key>
+	<string>animationbrightness</string>
+	<key>executemenu</key>
+	<string>inactiveMargin</string>
+	<key>flextransition</key>
+	<string>cubedescription</string>
+	<key>gradientkindcenter</key>
+	<string>keyConsumption</string>
+	<key>protectedSprite</key>
+	<string>managerPressure</string>
+</dict>
+</plist>

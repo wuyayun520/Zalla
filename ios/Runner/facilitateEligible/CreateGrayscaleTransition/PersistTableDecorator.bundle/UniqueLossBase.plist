@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowgraph</key>
+	<string>finishdialogs</string>
+	<key>cartesianDuration</key>
+	<string>blocposition</string>
+	<key>createresolver</key>
+	<string>mountresponse</string>
+	<key>radiusfromstrategy</key>
+	<string>markRect</string>
+	<key>shouldDeserializeVariant</key>
+	<string>canTransformDecoration</string>
+	<key>shouldDetachStateful</key>
+	<string>measuretransition</string>
+	<key>shouldStreamBaseline</key>
+	<string>threadFunction</string>
+	<key>sophisticatedRoute</key>
+	<string>relationalRichText</string>
+	<key>standalonebordervisibility</key>
+	<string>detailopacity</string>
+	<key>temporaryArithmetic</key>
+	<string>musicFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStatus</key>
+	<string>canAttachAxis</string>
+	<key>hardsearcher</key>
+	<string>prevRole</string>
+	<key>largeBuffer</key>
+	<string>staticResolver</string>
+	<key>provisionbrightness</key>
+	<string>cosineposition</string>
+	<key>statelessBrightness</key>
+	<string>isRow</string>
+</dict>
+</plist>

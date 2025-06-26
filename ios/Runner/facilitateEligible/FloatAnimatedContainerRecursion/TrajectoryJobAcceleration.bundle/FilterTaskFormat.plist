@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTable</key>
+	<string>seekBuffer</string>
+	<key>axisAppearance</key>
+	<string>reduceBuilder</string>
+	<key>directlyDelivery</key>
+	<string>canLayoutWidget</string>
+	<key>oldConstraint</key>
+	<string>handleLocalization</string>
+	<key>priorityactivityinterval</key>
+	<string>shouldStreamContainer</string>
+	<key>respectiveTaxonomy</key>
+	<string>canUpdateBinary</string>
+	<key>seamlessTransformer</key>
+	<string>shouldPopGesture</string>
+	<key>semanticConfidentiality</key>
+	<string>vertexInset</string>
+	<key>shouldLoadDrawer</key>
+	<string>primaryElasticity</string>
+</dict>
+</plist>

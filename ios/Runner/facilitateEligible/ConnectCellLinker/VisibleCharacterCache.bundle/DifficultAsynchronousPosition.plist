@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metricsForce</key>
+	<string>commonLatency</string>
+	<key>parsegrain</key>
+	<string>freeWidget</string>
+	<key>polyfillBorder</key>
+	<string>shouldPauseInteger</string>
+	<key>resultamongplatform</key>
+	<string>mountGridView</string>
+	<key>shouldCancelAnimatedContainer</key>
+	<string>connectorFrequency</string>
+	<key>smartprotocol</key>
+	<string>modelStage</string>
+	<key>subtleGrain</key>
+	<string>plateVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphainframework</key>
+	<string>delegateInset</string>
+	<key>arithmeticoffset</key>
+	<string>fusedtablename</string>
+	<key>instructionOffset</key>
+	<string>shouldSkipEqualization</string>
+	<key>originalService</key>
+	<string>canBuildGradient</string>
+	<key>providerDuration</key>
+	<string>unbindGraphic</string>
+	<key>shouldEndProvider</key>
+	<string>animatedcontainerResponse</string>
+	<key>skirtTransparency</key>
+	<string>shouldPopScaffold</string>
+</dict>
+</plist>

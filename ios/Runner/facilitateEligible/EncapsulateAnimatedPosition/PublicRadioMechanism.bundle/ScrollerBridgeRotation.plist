@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastscale</key>
+	<string>radiusStyle</string>
+	<key>functionaltweak</key>
+	<string>shouldStreamExponent</string>
+	<key>fusedScroller</key>
+	<string>taskFramework</string>
+	<key>geometricInkWell</key>
+	<string>visualizeProgressBar</string>
+	<key>mediocrePager</key>
+	<string>scrollTask</string>
+	<key>standaloneLifecycle</key>
+	<string>providerdispatcher</string>
+</dict>
+</plist>

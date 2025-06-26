@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMode</key>
+	<string>prismaticCompletion</string>
+	<key>blocStyle</key>
+	<string>respondSize</string>
+	<key>channelOpacity</key>
+	<string>lastRole</string>
+	<key>mediaqueryefficiency</key>
+	<string>shouldPaintSignature</string>
+	<key>scrollableTexture</key>
+	<string>sizedboxTop</string>
+	<key>sequentialSound</key>
+	<string>provideraboutcycle</string>
+	<key>shouldUnmountedMember</key>
+	<string>shouldSubscribeMovement</string>
+</dict>
+</plist>

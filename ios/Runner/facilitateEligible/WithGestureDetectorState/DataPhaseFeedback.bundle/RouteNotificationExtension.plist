@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorshade</key>
+	<string>creatorBehavior</string>
+	<key>nativeElement</key>
+	<string>permissiveResilience</string>
+	<key>pinchableColor</key>
+	<string>textfieldPattern</string>
+	<key>resizableInkWell</key>
+	<string>canPushView</string>
+	<key>shouldListenCell</key>
+	<string>shouldListenLoss</string>
+</dict>
+</plist>

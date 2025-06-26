@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblemembervisibility</key>
+	<string>completiondispatcher</string>
+	<key>multiplicationDirection</key>
+	<string>desktopImpact</string>
+	<key>shouldStartOverlay</key>
+	<string>gridFunction</string>
+	<key>subscribercontrast</key>
+	<string>signatureCenter</string>
+	<key>unaryDepth</key>
+	<string>aggregateLoop</string>
+</dict>
+</plist>

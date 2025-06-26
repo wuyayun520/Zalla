@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeFactory</key>
+	<string>mobileMediator</string>
+	<key>durationdelay</key>
+	<string>sustainableAlignment</string>
+	<key>menuLocation</key>
+	<string>defaultunary</string>
+	<key>permanentBloc</key>
+	<string>subscribeText</string>
+	<key>tickerDirection</key>
+	<string>persistentpreview</string>
+</dict>
+</plist>

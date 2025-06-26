@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columndistance</key>
+	<string>synchronousGrain</string>
+	<key>deactivatetexture</key>
+	<string>errorsize</string>
+	<key>disabledscalability</key>
+	<string>canPauseExtension</string>
+	<key>fusedCoordinator</key>
+	<string>previewHue</string>
+	<key>notifyzone</key>
+	<string>menutype</string>
+	<key>shouldCancelBase</key>
+	<string>createAppBar</string>
+	<key>shouldRenderCapsule</key>
+	<string>tabviewviastructure</string>
+	<key>sizeSpacing</key>
+	<string>joinerKind</string>
+	<key>transformoption</key>
+	<string>analogyHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseloader</key>
+	<string>canLayoutSkirt</string>
+	<key>delicateTexture</key>
+	<string>immutablerect</string>
+	<key>fusedtransformervisibility</key>
+	<string>skirtTag</string>
+	<key>hasextension</key>
+	<string>captionprototypecoord</string>
+	<key>prevBatch</key>
+	<string>pinchableKernel</string>
+</dict>
+</plist>

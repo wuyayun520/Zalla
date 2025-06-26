@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesVisibility</key>
+	<string>markRadius</string>
+	<key>diversifiedView</key>
+	<string>restorelabel</string>
+	<key>firstUnary</key>
+	<string>relationalRenderer</string>
+	<key>responsiveDropdownButton</key>
+	<string>canRouteTransition</string>
+	<key>shouldBuildPadding</key>
+	<string>switchTint</string>
+	<key>symbolDensity</key>
+	<string>eventForce</string>
+	<key>unmountscene</key>
+	<string>hardRange</string>
+</dict>
+</plist>

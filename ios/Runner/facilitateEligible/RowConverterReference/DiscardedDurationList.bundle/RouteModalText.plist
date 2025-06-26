@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectstrategysaturation</key>
+	<string>canPersistWorkflow</string>
+	<key>euclideanLogarithm</key>
+	<string>shouldValidateShader</string>
+	<key>explicitScroll</key>
+	<string>sequentialText</string>
+	<key>initializerequest</key>
+	<string>sequentialobserver</string>
+	<key>onchallengetap</key>
+	<string>catalystrate</string>
+	<key>paddingHead</key>
+	<string>managerLayer</string>
+	<key>primaryDocument</key>
+	<string>bindBuilder</string>
+	<key>smallSpecifier</key>
+	<string>scrollBridge</string>
+</dict>
+</plist>

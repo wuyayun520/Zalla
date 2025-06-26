@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSubscriber</key>
+	<string>quantizerCoordinator</string>
+	<key>euclideanGraph</key>
+	<string>materialController</string>
+	<key>geometricData</key>
+	<string>assetComposite</string>
+	<key>persistentobject</key>
+	<string>triggerContrast</string>
+	<key>respectiveState</key>
+	<string>requestRight</string>
+</dict>
+</plist>

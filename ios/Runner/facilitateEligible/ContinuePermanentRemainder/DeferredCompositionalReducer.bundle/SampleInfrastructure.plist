@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiandescriptor</key>
+	<string>processorLocation</string>
+	<key>materialvariablehue</key>
+	<string>cosineIndex</string>
+	<key>sliderthroughvar</key>
+	<string>canCreateInstruction</string>
+	<key>temporarymarginresponse</key>
+	<string>latencyacceleration</string>
+</dict>
+</plist>

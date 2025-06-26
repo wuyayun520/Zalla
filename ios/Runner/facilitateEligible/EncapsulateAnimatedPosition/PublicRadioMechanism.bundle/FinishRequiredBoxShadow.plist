@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemType</key>
+	<string>beginnerCapacity</string>
+	<key>liteStateless</key>
+	<string>directCallback</string>
+	<key>mergerShape</key>
+	<string>shouldLayoutChallenge</string>
+	<key>nativeObject</key>
+	<string>resultParam</string>
+	<key>originalChannel</key>
+	<string>sinkHue</string>
+	<key>primaryPosition</key>
+	<string>deflateresponse</string>
+	<key>tabbarfeature</key>
+	<string>shoulddisposeoverlay</string>
+	<key>temporaryVolume</key>
+	<string>stackJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInteger</key>
+	<string>cosineDepth</string>
+	<key>criticalReliability</key>
+	<string>desktopExpanded</string>
+	<key>entropygrain</key>
+	<string>interactivesession</string>
+	<key>immutableCapsule</key>
+	<string>symmetricCard</string>
+	<key>viewdelay</key>
+	<string>agileScroll</string>
+</dict>
+</plist>

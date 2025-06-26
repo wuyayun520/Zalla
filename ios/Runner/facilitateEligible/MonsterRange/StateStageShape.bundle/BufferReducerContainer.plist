@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentInteractor</key>
+	<string>overrideTask</string>
+	<key>isHero</key>
+	<string>refreshIsolate</string>
+	<key>mapallocator</key>
+	<string>segueHead</string>
+	<key>shouldfetchlog</key>
+	<string>previewdecoratordistance</string>
+	<key>storeLeft</key>
+	<string>normalWorkflow</string>
+	<key>subtlechallenge</key>
+	<string>enumerateQueue</string>
+	<key>taskrect</key>
+	<string>canStartThread</string>
+	<key>temporaryOperation</key>
+	<string>canEmitExpanded</string>
+	<key>touchSaturation</key>
+	<string>fixedAllocator</string>
+</dict>
+</plist>

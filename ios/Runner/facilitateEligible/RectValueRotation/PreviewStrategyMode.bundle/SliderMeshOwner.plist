@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedmodalsize</key>
+	<string>touchticker</string>
+	<key>cartesianMusic</key>
+	<string>canPauseChannels</string>
+	<key>denseconvolution</key>
+	<string>reductionScope</string>
+	<key>detailBound</key>
+	<string>originalResilience</string>
+	<key>evolutionFrequency</key>
+	<string>dialogsLayer</string>
+	<key>gridviewstatus</key>
+	<string>pivotalPet</string>
+	<key>shouldInflateTheme</key>
+	<string>visibleConstraint</string>
+	<key>viewdecoratorbehavior</key>
+	<string>lossSingleton</string>
+</dict>
+</plist>

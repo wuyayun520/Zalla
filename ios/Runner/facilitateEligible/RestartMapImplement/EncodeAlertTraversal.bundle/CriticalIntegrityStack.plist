@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionflyweightdepth</key>
+	<string>attachInkWell</string>
+	<key>framepadding</key>
+	<string>inflateCycle</string>
+	<key>pinchableDistinction</key>
+	<string>persistentsampleposition</string>
+	<key>rectangleValidation</key>
+	<string>histogramTint</string>
+</dict>
+</plist>

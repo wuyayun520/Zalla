@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGrid</key>
+	<string>mutableData</string>
+	<key>emitterTail</key>
+	<string>positionaboutchain</string>
+	<key>pausesegue</key>
+	<string>tabbarFacade</string>
+	<key>statusedge</key>
+	<string>responseFeedback</string>
+</dict>
+</plist>

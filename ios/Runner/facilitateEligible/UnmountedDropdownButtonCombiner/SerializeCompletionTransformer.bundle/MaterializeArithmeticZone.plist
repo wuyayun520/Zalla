@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleInteraction</key>
+	<string>cursorBridge</string>
+	<key>catalystticker</key>
+	<string>pinchableTheme</string>
+	<key>explicitCapacity</key>
+	<string>canEndIndicator</string>
+	<key>gesturedetectorType</key>
+	<string>stepMargin</string>
+	<key>mobileGift</key>
+	<string>variantParameter</string>
+	<key>shaderResponse</key>
+	<string>explicitScene</string>
+	<key>shouldPopResource</key>
+	<string>cubeNumber</string>
+	<key>textaboutfacade</key>
+	<string>cartesianTrajectory</string>
+</dict>
+</plist>

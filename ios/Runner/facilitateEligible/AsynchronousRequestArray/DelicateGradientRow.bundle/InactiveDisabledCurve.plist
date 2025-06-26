@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPolygon</key>
+	<string>newestSelector</string>
+	<key>easyMetrics</key>
+	<string>draggableRadius</string>
+	<key>gramplatformcount</key>
+	<string>limitAsync</string>
+	<key>onrolechanged</key>
+	<string>respectiveSpecifier</string>
+	<key>publicHistogram</key>
+	<string>intuitiveHandler</string>
+	<key>reactiveLayout</key>
+	<string>navigationBridge</string>
+	<key>retaindialogs</key>
+	<string>shouldStartComposition</string>
+	<key>secondVideo</key>
+	<string>primaryResponse</string>
+	<key>viewEdge</key>
+	<string>visualizeTransition</string>
+</dict>
+</plist>

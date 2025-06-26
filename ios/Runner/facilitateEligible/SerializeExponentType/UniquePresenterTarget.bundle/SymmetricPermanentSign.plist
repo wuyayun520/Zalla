@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvealongstate</key>
+	<string>filterhue</string>
+	<key>mitigatespecifier</key>
+	<string>sequentialResult</string>
+	<key>shearnotifier</key>
+	<string>accordionGrain</string>
+	<key>singletonScale</key>
+	<string>containerexceptvalue</string>
+	<key>unsortedAspectRatio</key>
+	<string>shouldDecodeRoute</string>
+	<key>validatetechnique</key>
+	<string>cosineSize</string>
+</dict>
+</plist>

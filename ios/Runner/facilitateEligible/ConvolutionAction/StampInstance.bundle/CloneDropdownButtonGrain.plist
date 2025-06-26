@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartschema</key>
+	<string>shouldRouteCheckbox</string>
+	<key>granularAspect</key>
+	<string>directlywidgetinterval</string>
+	<key>prismaticMesh</key>
+	<string>chartDelay</string>
+	<key>resilientIcon</key>
+	<string>shouldRestartSwitch</string>
+	<key>resolvervisible</key>
+	<string>independentReliability</string>
+	<key>robustdescent</key>
+	<string>smallbuilder</string>
+	<key>sophisticatedinkwell</key>
+	<string>listenSingleton</string>
+	<key>stateoffset</key>
+	<string>cancelInterpolation</string>
+	<key>temporaryanimationmargin</key>
+	<string>permanentSemantics</string>
+</dict>
+</plist>

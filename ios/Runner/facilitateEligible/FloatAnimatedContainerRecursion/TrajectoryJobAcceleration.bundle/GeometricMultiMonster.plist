@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScalability</key>
+	<string>singletonpolygon</string>
+	<key>animationshade</key>
+	<string>missedDropdownButton</string>
+	<key>commonDescriptor</key>
+	<string>composableNode</string>
+	<key>defaultradio</key>
+	<string>calculatebutton</string>
+	<key>detachrow</key>
+	<string>entropyAppearance</string>
+	<key>quaternionTail</key>
+	<string>aspectratioDecorator</string>
+	<key>shouldDismissAxis</key>
+	<string>associatedspotbrightness</string>
+	<key>similarOverlay</key>
+	<string>cellFlags</string>
+</dict>
+</plist>

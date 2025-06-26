@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPicker</key>
+	<string>disabledRouter</string>
+	<key>controlleredge</key>
+	<string>modelmediatorleft</string>
+	<key>dispatchevent</key>
+	<string>descriptionComposite</string>
+	<key>uniformGate</key>
+	<string>similarReducer</string>
+</dict>
+</plist>

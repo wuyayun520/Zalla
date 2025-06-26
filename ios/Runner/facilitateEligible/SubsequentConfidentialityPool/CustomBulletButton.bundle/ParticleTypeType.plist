@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularFragment</key>
+	<string>scaffoldFlyweight</string>
+	<key>introspectmenu</key>
+	<string>channelSpacing</string>
+	<key>mainModal</key>
+	<string>missedConnector</string>
+	<key>progressbarcontexttype</key>
+	<string>graphicVar</string>
+	<key>shouldListenBoxShadow</key>
+	<string>navigationOpacity</string>
+	<key>taskposition</key>
+	<string>futureVelocity</string>
+	<key>threadPosition</key>
+	<string>clearStorage</string>
+</dict>
+</plist>

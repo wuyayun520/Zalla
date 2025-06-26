@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastMesh</key>
+	<string>retainedfactoryrate</string>
+	<key>oldElasticity</key>
+	<string>webAsync</string>
+	<key>priorTolerance</key>
+	<string>euclideanContraction</string>
+	<key>shouldConnectMaterial</key>
+	<string>permissiveEfficiency</string>
+	<key>tasktail</key>
+	<string>validateBrush</string>
+	<key>tensorStack</key>
+	<string>mediaquerywithsingleton</string>
+	<key>trainimage</key>
+	<string>bindController</string>
+</dict>
+</plist>

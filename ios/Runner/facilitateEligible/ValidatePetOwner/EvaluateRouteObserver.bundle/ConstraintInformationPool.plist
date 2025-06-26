@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsobject</key>
+	<string>shouldDetachDrawer</string>
+	<key>composableRepository</key>
+	<string>tensorBorder</string>
+	<key>euclideanelasticity</key>
+	<string>readTopic</string>
+	<key>lossTail</key>
+	<string>canDisposeRichText</string>
+	<key>previewscale</key>
+	<string>seamlessInteraction</string>
+	<key>robustTimer</key>
+	<string>dynamicOverlay</string>
+	<key>symmetricComposition</key>
+	<string>temporaryDescent</string>
+	<key>videoRotation</key>
+	<string>localizationfactory</string>
+</dict>
+</plist>

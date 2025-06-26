@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPreview</key>
+	<string>canLoadNotification</string>
+	<key>allocatorBehavior</key>
+	<string>capsuleposition</string>
+	<key>semanticsfactory</key>
+	<string>significantAscent</string>
+	<key>sessionTint</key>
+	<string>entityStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicHeap</key>
+	<string>implementrequest</string>
+	<key>materialScalability</key>
+	<string>shouldRebuildTextField</string>
+	<key>newestThread</key>
+	<string>shouldMountGraphic</string>
+	<key>otherPresenter</key>
+	<string>restoreDescription</string>
+	<key>texturestatus</key>
+	<string>shouldRebuildRoute</string>
+	<key>videoType</key>
+	<string>hascaption</string>
+</dict>
+</plist>

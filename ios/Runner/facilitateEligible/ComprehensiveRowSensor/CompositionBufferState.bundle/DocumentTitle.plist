@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablestoryboard</key>
+	<string>unmarshalGraph</string>
+	<key>missedbuilder</key>
+	<string>euclideansignature</string>
+	<key>plateforform</key>
+	<string>resetException</string>
+	<key>prevResult</key>
+	<string>rendererTint</string>
+	<key>seamlessOffset</key>
+	<string>shouldUnbindCheckbox</string>
+	<key>shouldpreparegrayscale</key>
+	<string>displaySubscription</string>
+	<key>typicalInteger</key>
+	<string>swiftValidation</string>
+	<key>zoneTint</key>
+	<string>retrieveState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTicker</key>
+	<string>missedSlider</string>
+	<key>configurationAlignment</key>
+	<string>stopScroll</string>
+	<key>graphDirection</key>
+	<string>activeSingleton</string>
+	<key>graphstagecount</key>
+	<string>zoneForm</string>
+	<key>labelName</key>
+	<string>entityActivity</string>
+	<key>mountedstore</key>
+	<string>entitychainstyle</string>
+	<key>restrictionskewy</key>
+	<string>decodepreview</string>
+	<key>shouldTransformGrayscale</key>
+	<string>significantRichText</string>
+	<key>sustainableVector</key>
+	<string>timelineShape</string>
+</dict>
+</plist>

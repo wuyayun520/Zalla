@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclesincescope</key>
+	<string>usedIsolate</string>
+	<key>menuactivityrotation</key>
+	<string>singletontrajectory</string>
+	<key>priorIntensity</key>
+	<string>finishPromise</string>
+	<key>rectangleHead</key>
+	<string>constraintTask</string>
+	<key>shouldEncodeSlash</key>
+	<string>desktopEfficiency</string>
+	<key>shouldEncodeTernary</key>
+	<string>backwardInteger</string>
+</dict>
+</plist>

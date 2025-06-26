@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionbound</key>
+	<string>disparateStep</string>
+	<key>anchorprocessor</key>
+	<string>subscribePoint</string>
+	<key>denseEfficiency</key>
+	<string>shouldPublishCursor</string>
+	<key>resilientStroke</key>
+	<string>inflateExponent</string>
+	<key>scrollerflags</key>
+	<string>createIntensity</string>
+	<key>shouldNavigateRoute</key>
+	<string>encodeKernel</string>
+	<key>shouldpopcompletion</key>
+	<string>inactiveConverter</string>
+</dict>
+</plist>

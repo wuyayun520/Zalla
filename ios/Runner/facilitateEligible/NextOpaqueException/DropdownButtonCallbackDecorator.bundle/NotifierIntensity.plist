@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablekernelstyle</key>
+	<string>sharedAnimator</string>
+	<key>gridviewvisibility</key>
+	<string>mountedScroll</string>
+	<key>requestCoord</key>
+	<string>tabviewBuffer</string>
+	<key>sharedDropdownButton</key>
+	<string>localmetadatainteraction</string>
+	<key>specifySchema</key>
+	<string>mainmissionalignment</string>
+	<key>statefulData</key>
+	<string>mutabledecoration</string>
+</dict>
+</plist>

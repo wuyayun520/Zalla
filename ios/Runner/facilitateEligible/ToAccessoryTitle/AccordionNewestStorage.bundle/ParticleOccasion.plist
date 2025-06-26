@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeslash</key>
+	<string>secondCreator</string>
+	<key>functionalSlash</key>
+	<string>staticNotifier</string>
+	<key>moduleForce</key>
+	<string>cancelPromise</string>
+	<key>standaloneRect</key>
+	<string>mainTabView</string>
+	<key>streamdecoration</key>
+	<string>storeEdge</string>
+</dict>
+</plist>

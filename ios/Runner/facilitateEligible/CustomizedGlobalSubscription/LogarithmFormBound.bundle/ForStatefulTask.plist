@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerReliability</key>
+	<string>discoverController</string>
+	<key>granularListView</key>
+	<string>brushTheme</string>
+	<key>missedAnalyzer</key>
+	<string>skirtconnector</string>
+	<key>preparecanvas</key>
+	<string>primaryButton</string>
+	<key>sharedStroke</key>
+	<string>commonSpot</string>
+	<key>shouldContinueCosine</key>
+	<string>taskParameter</string>
+	<key>standaloneProfile</key>
+	<string>lastsigncoord</string>
+</dict>
+</plist>

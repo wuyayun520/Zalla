@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxresolver</key>
+	<string>evaluatePreview</string>
+	<key>desktopCapsule</key>
+	<string>lastGroup</string>
+	<key>materialVolume</key>
+	<string>disconnectLayout</string>
+	<key>readallocator</key>
+	<string>allocateAlignment</string>
+	<key>resultAlignment</key>
+	<string>liteSubpixel</string>
+	<key>shouldAttachBoxShadow</key>
+	<string>statelessSystem</string>
+	<key>slideroutsidestructure</key>
+	<string>shouldEncodeDropdownButton</string>
+</dict>
+</plist>

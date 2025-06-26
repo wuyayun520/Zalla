@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMedia</key>
+	<string>uniformBoxShadow</string>
+	<key>advancedEquivalent</key>
+	<string>cubeshape</string>
+	<key>largeCapsule</key>
+	<string>beginnerManager</string>
+	<key>shouldMountedBehavior</key>
+	<string>interactorProxy</string>
+	<key>shouldParseCosine</key>
+	<string>startDelegate</string>
+	<key>shouldPushMatrix</key>
+	<string>spinevarright</string>
+	<key>substantialPresenter</key>
+	<string>spriteaudio</string>
+</dict>
+</plist>

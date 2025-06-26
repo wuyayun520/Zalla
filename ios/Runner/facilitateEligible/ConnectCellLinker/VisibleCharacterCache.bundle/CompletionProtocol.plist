@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextdocument</key>
+	<string>textfieldContrast</string>
+	<key>remediationContrast</key>
+	<string>semanticSkin</string>
+	<key>stateCoord</key>
+	<string>gemSkewX</string>
+	<key>unsortedData</key>
+	<string>parallelrow</string>
+</dict>
+</plist>

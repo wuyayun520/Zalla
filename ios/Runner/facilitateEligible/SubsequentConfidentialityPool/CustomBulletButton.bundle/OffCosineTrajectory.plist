@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationTransparency</key>
+	<string>rangeOrigin</string>
+	<key>pinchableAmortization</key>
+	<string>numericalLayout</string>
+	<key>sharedInstruction</key>
+	<string>curveacceleration</string>
+	<key>strokePadding</key>
+	<string>techniqueTop</string>
+</dict>
+</plist>

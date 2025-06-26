@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOption</key>
+	<string>otherProvision</string>
+	<key>contractionResponse</key>
+	<string>cycleemitter</string>
+	<key>largeLocalization</key>
+	<string>themedirection</string>
+	<key>rapidController</key>
+	<string>publishComposition</string>
+	<key>reducenode</key>
+	<string>animationactivityinset</string>
+	<key>scrollableIndicator</key>
+	<string>sustainableSlider</string>
+	<key>sensoralignment</key>
+	<string>graphicSystem</string>
+	<key>shouldUpdateActivity</key>
+	<string>canFinishCube</string>
+</dict>
+</plist>

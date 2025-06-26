@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTint</key>
+	<string>canKeepVariant</string>
+	<key>blocinterval</key>
+	<string>scaffoldvalidation</string>
+	<key>coordinatorwithfunction</key>
+	<string>basicDependency</string>
+	<key>entropySaturation</key>
+	<string>memberPressure</string>
+	<key>primaryCurve</key>
+	<string>rebuildhero</string>
+</dict>
+</plist>

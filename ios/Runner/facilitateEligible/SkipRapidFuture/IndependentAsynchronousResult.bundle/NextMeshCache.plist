@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledintensity</key>
+	<string>encodeinstruction</string>
+	<key>explicitClipper</key>
+	<string>resizableEquivalent</string>
+	<key>graphicTail</key>
+	<string>gradientvertex</string>
+	<key>promiseVelocity</key>
+	<string>mapzone</string>
+</dict>
+</plist>

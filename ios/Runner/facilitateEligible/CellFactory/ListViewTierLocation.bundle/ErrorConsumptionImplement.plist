@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyvisibility</key>
+	<string>renderRichText</string>
+	<key>enabledIntegration</key>
+	<string>thememapper</string>
+	<key>managerelasticity</key>
+	<string>animateRect</string>
+	<key>scalabilityPadding</key>
+	<string>crucialLifecycle</string>
+	<key>standaloneAnimatedContainer</key>
+	<string>statefulInteger</string>
+</dict>
+</plist>

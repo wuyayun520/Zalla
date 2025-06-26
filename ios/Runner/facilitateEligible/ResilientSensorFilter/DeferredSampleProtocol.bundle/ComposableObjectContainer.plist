@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalQueue</key>
+	<string>informationMode</string>
+	<key>permissiveColumn</key>
+	<string>canPreparePlate</string>
+	<key>recursionStyle</key>
+	<string>durationcenter</string>
+	<key>shouldDecodeTransition</key>
+	<string>canSerializeRow</string>
+	<key>shouldTransformPositioned</key>
+	<string>metadataCommand</string>
+	<key>uniqueproviderforce</key>
+	<string>ignoredLoader</string>
+</dict>
+</plist>

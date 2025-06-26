@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionArithmetic</key>
+	<string>toolLeft</string>
+	<key>annotateslash</key>
+	<string>canCancelController</string>
+	<key>disabledalphaformat</key>
+	<string>canContinueSign</string>
+	<key>projectionstyle</key>
+	<string>lazyNotation</string>
+	<key>requiredPoint</key>
+	<string>scenarioright</string>
+	<key>respectiveCapacities</key>
+	<string>canPublishSpecifier</string>
+	<key>sustainableGraphic</key>
+	<string>mediaqueryAdapter</string>
+	<key>tappableCoordinator</key>
+	<string>mapVisible</string>
+</dict>
+</plist>

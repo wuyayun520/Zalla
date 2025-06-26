@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelshade</key>
+	<string>responsiveItem</string>
+	<key>pagerPosition</key>
+	<string>pinchableCoordinator</string>
+	<key>scrollableLifecycle</key>
+	<string>trajectoryVisibility</string>
+	<key>shouldReplaceBorder</key>
+	<string>resizableAllocator</string>
+	<key>shouldskipchannels</key>
+	<string>gridSystem</string>
+	<key>singletonduringmediator</key>
+	<string>pinchableInteraction</string>
+	<key>unmountedview</key>
+	<string>containerOrientation</string>
+</dict>
+</plist>

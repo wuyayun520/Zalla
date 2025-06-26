@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveoffset</key>
+	<string>resilientMaster</string>
+	<key>detectorAcceleration</key>
+	<string>statictexture</string>
+	<key>difficultSink</key>
+	<string>composableOptimizer</string>
+	<key>radiusskewx</key>
+	<string>unscheduleCompleter</string>
+	<key>seamlessprovision</key>
+	<string>storeLocation</string>
+	<key>shouldPauseProfile</key>
+	<string>topicFeedback</string>
+	<key>toolName</key>
+	<string>completionPattern</string>
+</dict>
+</plist>

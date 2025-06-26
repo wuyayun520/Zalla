@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintservice</key>
+	<string>showIntensity</string>
+	<key>crudeConnector</key>
+	<string>profileAction</string>
+	<key>expandedEdge</key>
+	<string>themeValue</string>
+	<key>hyperbolicAxis</key>
+	<string>sequentialRenderer</string>
+	<key>integrationTransparency</key>
+	<string>deferredSubscriber</string>
+	<key>nodeDensity</key>
+	<string>kernelbuilder</string>
+	<key>shouldListenMember</key>
+	<string>alphaStyle</string>
+	<key>similarTernary</key>
+	<string>restoreAlignment</string>
+	<key>transitionsingletonscale</key>
+	<string>mediaStage</string>
+</dict>
+</plist>

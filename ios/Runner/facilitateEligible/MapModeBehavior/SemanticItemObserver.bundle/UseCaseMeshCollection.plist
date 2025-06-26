@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicintegration</key>
+	<string>resilientMapper</string>
+	<key>directskinsaturation</key>
+	<string>commonVariant</string>
+	<key>documentKind</key>
+	<string>sortedVector</string>
+	<key>injectionbyprocess</key>
+	<string>serializeIndicator</string>
+	<key>unactivatedinjectioninterval</key>
+	<string>syncradio</string>
+</dict>
+</plist>

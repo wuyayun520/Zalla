@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculategraphic</key>
+	<string>shouldpainttransition</string>
+	<key>composableResource</key>
+	<string>granularBase</string>
+	<key>handleaxis</key>
+	<string>mediaqueryFormat</string>
+	<key>reactiveHandler</key>
+	<string>concatenateSlider</string>
+	<key>shouldpauseprofile</key>
+	<string>canListenTool</string>
+	<key>slidershapehead</key>
+	<string>ephemeralThroughput</string>
+	<key>statefulStroke</key>
+	<string>localQueue</string>
+</dict>
+</plist>

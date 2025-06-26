@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityKind</key>
+	<string>sensorscenario</string>
+	<key>constantOrientation</key>
+	<string>shouldTrainDelegate</string>
+	<key>custompaintbuffermargin</key>
+	<string>reactiveAlert</string>
+	<key>draggableSink</key>
+	<string>initializeSubscription</string>
+	<key>injectionedge</key>
+	<string>canDecodeListView</string>
+	<key>modalconsumption</key>
+	<string>mediaduration</string>
+	<key>similarchart</key>
+	<string>drawerfinder</string>
+	<key>smartDistinction</key>
+	<string>webHeap</string>
+	<key>subscribeconstraint</key>
+	<string>rapidSubpixel</string>
+</dict>
+</plist>

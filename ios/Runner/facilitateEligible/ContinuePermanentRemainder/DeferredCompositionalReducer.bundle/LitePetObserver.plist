@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFlags</key>
+	<string>crudePopup</string>
+	<key>compositionalConverter</key>
+	<string>dependencyCycle</string>
+	<key>makesession</key>
+	<string>accessibleBrush</string>
+	<key>shouldEmitNotifier</key>
+	<string>buildTangent</string>
+	<key>thresholdDirection</key>
+	<string>embraceChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFeedback</key>
+	<string>prepareRadio</string>
+	<key>eagerAsync</key>
+	<string>radiusBrightness</string>
+	<key>functionalBorder</key>
+	<string>traversalRate</string>
+	<key>mobiledependency</key>
+	<string>textfieldsinceflyweight</string>
+	<key>shouldCreateFragment</key>
+	<string>restrictionName</string>
+	<key>unactivatedRect</key>
+	<string>canFormatSpine</string>
+</dict>
+</plist>

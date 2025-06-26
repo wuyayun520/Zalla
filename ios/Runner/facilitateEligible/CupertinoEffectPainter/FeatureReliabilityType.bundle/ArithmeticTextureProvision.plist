@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretebuildertag</key>
+	<string>canNavigateMargin</string>
+	<key>pivotalStoryboard</key>
+	<string>tweakappearance</string>
+	<key>symmetricDispatcher</key>
+	<string>opaquechartresponse</string>
+</dict>
+</plist>

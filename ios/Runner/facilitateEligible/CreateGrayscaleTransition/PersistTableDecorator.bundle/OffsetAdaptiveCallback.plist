@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFormat</key>
+	<string>transformnotification</string>
+	<key>beginnerInfo</key>
+	<string>checkboxProcess</string>
+	<key>checklistevent</key>
+	<string>deliveryLocation</string>
+	<key>prevReference</key>
+	<string>metricsAcceleration</string>
+	<key>shouldcancelmediaquery</key>
+	<string>createmedia</string>
+	<key>statefulShape</key>
+	<string>requestdistance</string>
+	<key>subpixelInterval</key>
+	<string>similarcellstatus</string>
+	<key>typicalMission</key>
+	<string>resizableTopic</string>
+</dict>
+</plist>

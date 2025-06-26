@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineshape</key>
+	<string>canDisposeStateful</string>
+	<key>boxshadowtype</key>
+	<string>contrastSkewY</string>
+	<key>displayableNavigation</key>
+	<string>allocatorprovision</string>
+	<key>interactiveMerger</key>
+	<string>inkwellSystem</string>
+	<key>invisibleAscent</key>
+	<string>interactiveBloc</string>
+	<key>isPet</key>
+	<string>persistentItem</string>
+	<key>requiredMovement</key>
+	<string>canFinishCard</string>
+	<key>shouldValidateBoxShadow</key>
+	<string>priorslider</string>
+	<key>shouldfinishstateful</key>
+	<string>trianglesRight</string>
+</dict>
+</plist>

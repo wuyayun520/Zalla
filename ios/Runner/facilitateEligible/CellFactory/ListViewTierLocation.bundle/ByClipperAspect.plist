@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTool</key>
+	<string>publishNotifier</string>
+	<key>clusterstatus</key>
+	<string>adjustController</string>
+	<key>configurationcoord</key>
+	<string>requiredContrast</string>
+	<key>granularEntropy</key>
+	<string>detectorEdge</string>
+	<key>ismultiplication</key>
+	<string>canPushClipper</string>
+	<key>mobileTimeline</key>
+	<string>canPauseDelegate</string>
+	<key>shouldPauseCanvas</key>
+	<string>normalCube</string>
+</dict>
+</plist>

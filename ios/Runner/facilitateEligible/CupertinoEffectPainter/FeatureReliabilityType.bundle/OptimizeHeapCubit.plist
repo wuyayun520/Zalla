@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticGrayscale</key>
+	<string>tabbarpolyfill</string>
+	<key>globalArchitecture</key>
+	<string>notifytext</string>
+	<key>metadatastagehead</key>
+	<string>shouldDispatchDialogs</string>
+	<key>routetweak</key>
+	<string>firstListener</string>
+	<key>scrollerName</key>
+	<string>canListenAccessory</string>
+	<key>shouldEncodeFlex</key>
+	<string>fetchtransition</string>
+	<key>shouldListenCell</key>
+	<string>handlerSpeed</string>
+	<key>shouldObserveSpecifier</key>
+	<string>shouldDisposeProjection</string>
+	<key>smartCapacities</key>
+	<string>synchronousBox</string>
+	<key>sortedAsync</key>
+	<string>radioNumber</string>
+</dict>
+</plist>

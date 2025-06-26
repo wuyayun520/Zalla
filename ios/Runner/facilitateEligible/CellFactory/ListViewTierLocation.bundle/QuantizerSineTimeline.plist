@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDependency</key>
+	<string>concurrentPlate</string>
+	<key>constraintpressure</key>
+	<string>semanticHandler</string>
+	<key>modalMomentum</key>
+	<string>advanceddetector</string>
+	<key>resizableQueue</key>
+	<string>screenPattern</string>
+	<key>shouldFormatInkWell</key>
+	<string>formatdecoration</string>
+	<key>storyboardCount</key>
+	<string>displayableLayout</string>
+	<key>themeShape</key>
+	<string>trianglesResponse</string>
+	<key>transformervertex</key>
+	<string>granularElasticity</string>
+	<key>updatehash</key>
+	<string>clearPosition</string>
+</dict>
+</plist>

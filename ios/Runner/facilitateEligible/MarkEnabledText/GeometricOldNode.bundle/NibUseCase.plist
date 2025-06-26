@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherMomentum</key>
+	<string>parseScale</string>
+	<key>grainindex</key>
+	<string>dynamicSpot</string>
+	<key>greatHash</key>
+	<string>renderImage</string>
+	<key>hardWrapper</key>
+	<string>topicadapterinteraction</string>
+	<key>imperativeImage</key>
+	<string>animatedmenuappearance</string>
+	<key>replicateawait</key>
+	<string>controllerversusvar</string>
+	<key>shouldStopSlider</key>
+	<string>alertDirection</string>
+	<key>statefulTint</key>
+	<string>reusableGroup</string>
+	<key>transitionlayeralignment</key>
+	<string>animatePrecision</string>
+	<key>viewlocation</key>
+	<string>oldDisclaimer</string>
+</dict>
+</plist>

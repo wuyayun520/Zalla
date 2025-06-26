@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureDelay</key>
+	<string>presentExpanded</string>
+	<key>finderName</key>
+	<string>cupertinoTransparency</string>
+	<key>indicatorTag</key>
+	<string>composableAscent</string>
+	<key>lastCompleter</key>
+	<string>largeReducer</string>
+	<key>positionBehavior</key>
+	<string>commonAxis</string>
+	<key>shouldDetachObserver</key>
+	<string>secondLatency</string>
+	<key>shouldNavigateSemantics</key>
+	<string>displayableCatalyst</string>
+</dict>
+</plist>

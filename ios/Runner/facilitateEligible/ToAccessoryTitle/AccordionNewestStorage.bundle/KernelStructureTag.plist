@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConnector</key>
+	<string>variantOperation</string>
+	<key>dynamicFragments</key>
+	<string>globalDisclaimer</string>
+	<key>lostUseCase</key>
+	<string>restartLayout</string>
+	<key>masterName</key>
+	<string>canEncodeCollection</string>
+	<key>oldbaseline</key>
+	<string>matrixvaluevisible</string>
+	<key>shouldUpdateCertificate</key>
+	<string>similarSprite</string>
+	<key>similarTween</key>
+	<string>shouldValidateGridView</string>
+</dict>
+</plist>

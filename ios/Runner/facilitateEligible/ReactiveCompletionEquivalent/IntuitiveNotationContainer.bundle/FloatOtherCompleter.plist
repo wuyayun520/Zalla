@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySpeed</key>
+	<string>oldInstruction</string>
+	<key>createunary</key>
+	<string>setstateOverlay</string>
+	<key>listviewborder</key>
+	<string>permutationorigin</string>
+	<key>selectedMatrix</key>
+	<string>methodduration</string>
+	<key>sessionmargin</key>
+	<string>cupertinolocation</string>
+	<key>shouldAnimateStateful</key>
+	<string>mobileRight</string>
+	<key>tappableColumn</key>
+	<string>contrastSpacing</string>
+	<key>usedconsumer</key>
+	<string>shouldBuildDocument</string>
+</dict>
+</plist>

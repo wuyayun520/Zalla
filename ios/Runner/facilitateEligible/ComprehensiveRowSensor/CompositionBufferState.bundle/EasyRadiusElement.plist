@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterTheme</key>
+	<string>beginnerBloc</string>
+	<key>nextCustomPaint</key>
+	<string>declarativeEffect</string>
+	<key>seamlessDuration</key>
+	<string>vectorObserver</string>
+</dict>
+</plist>

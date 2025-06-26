@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateFlags</key>
+	<string>shouldListenBuilder</string>
+	<key>crucialPicker</key>
+	<string>managerVariable</string>
+	<key>deserializecaption</key>
+	<string>ephemeralBinary</string>
+	<key>intermediateBandwidth</key>
+	<string>tappableScene</string>
+	<key>mainOverlay</key>
+	<string>onreductionchanged</string>
+	<key>shouldTransitionDialogs</key>
+	<string>transitionAnimation</string>
+	<key>singleConfidentiality</key>
+	<string>shouldFetchDescriptor</string>
+</dict>
+</plist>

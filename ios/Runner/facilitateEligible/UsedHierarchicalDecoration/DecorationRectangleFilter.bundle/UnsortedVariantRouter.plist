@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklisthead</key>
+	<string>canNavigateMargin</string>
+	<key>defaultdelegate</key>
+	<string>shouldDisposeNotifier</string>
+	<key>fixedSorter</key>
+	<string>currentInfo</string>
+	<key>imperativeNavigation</key>
+	<string>canStopController</string>
+	<key>interfaceascent</key>
+	<string>beginnerRectangle</string>
+	<key>requestcheckbox</key>
+	<string>assetSaturation</string>
+	<key>responsiveConsumer</key>
+	<string>dependencyDirection</string>
+</dict>
+</plist>

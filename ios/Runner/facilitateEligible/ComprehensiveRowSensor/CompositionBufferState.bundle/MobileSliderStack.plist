@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLinker</key>
+	<string>stopcontainer</string>
+	<key>diffableTaxonomy</key>
+	<string>requestequivalent</string>
+	<key>provisionResponse</key>
+	<string>relationalanimationedge</string>
+	<key>regulatescene</key>
+	<string>asynchronousMaterializer</string>
+	<key>staticDependency</key>
+	<string>beginnerlistener</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFormat</key>
+	<string>independentaspect</string>
+	<key>displayableNode</key>
+	<string>receiverDelay</string>
+	<key>presentsegment</key>
+	<string>provideracceleration</string>
+	<key>shouldDeserializeRadio</key>
+	<string>shouldDisposeSegment</string>
+	<key>unactivatedawait</key>
+	<string>normalMovement</string>
+</dict>
+</plist>

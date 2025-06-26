@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProfile</key>
+	<string>checklistparameterbehavior</string>
+	<key>commonConverter</key>
+	<string>canSkipMatrix</string>
+	<key>curveBound</key>
+	<string>symmetricRichText</string>
+	<key>dropdownbuttoncapacity</key>
+	<string>shouldAttachEffect</string>
+	<key>mediaInset</key>
+	<string>resourceagainstmethod</string>
+	<key>missedNotification</key>
+	<string>mountedStack</string>
+	<key>subsequentSignature</key>
+	<string>searcherCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleColor</key>
+	<string>responseLocation</string>
+	<key>completerAlignment</key>
+	<string>shouldFormatSensor</string>
+	<key>customizedCapacity</key>
+	<string>respondercoord</string>
+	<key>findposition</key>
+	<string>cubitbottom</string>
+	<key>protectedstorehead</key>
+	<string>canvasInteraction</string>
+	<key>publicState</key>
+	<string>opaqueGrayscale</string>
+	<key>rapidEvent</key>
+	<string>painterdepth</string>
+	<key>sequentialGridView</key>
+	<string>canResumeProjection</string>
+	<key>shoulddisposetabview</key>
+	<string>channelsDistance</string>
+	<key>taxonomytail</key>
+	<string>modelResponse</string>
+</dict>
+</plist>

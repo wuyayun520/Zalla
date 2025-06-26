@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertValidation</key>
+	<string>buttonEnvironment</string>
+	<key>dataRotation</key>
+	<string>compositionalLatency</string>
+	<key>immutableTransformer</key>
+	<string>encodeSlash</string>
+	<key>shouldShowRoute</key>
+	<string>shouldBindWorkflow</string>
+	<key>textnumberdirection</key>
+	<string>themeTop</string>
+</dict>
+</plist>

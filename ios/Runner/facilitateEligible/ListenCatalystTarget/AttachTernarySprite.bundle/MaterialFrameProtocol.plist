@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderstate</key>
+	<string>resilienceBound</string>
+	<key>carddescent</key>
+	<string>segueAlignment</string>
+	<key>criticalCompletion</key>
+	<string>canPauseProvider</string>
+	<key>directCoordinator</key>
+	<string>resumeActivity</string>
+	<key>directlyAsset</key>
+	<string>interactiveTabView</string>
+	<key>hyperbolicTentative</key>
+	<string>canBindGram</string>
+	<key>invisibleAccessory</key>
+	<string>threadOrientation</string>
+	<key>multiSpecifier</key>
+	<string>disparateModulus</string>
+	<key>oldSingleton</key>
+	<string>insteadContainer</string>
+	<key>promiseOrientation</key>
+	<string>transformTangent</string>
+</dict>
+</plist>

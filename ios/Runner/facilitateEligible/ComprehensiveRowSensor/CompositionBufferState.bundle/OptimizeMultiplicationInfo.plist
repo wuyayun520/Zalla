@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteResult</key>
+	<string>respondSprite</string>
+	<key>concurrentSingleton</key>
+	<string>dedicatedoverlay</string>
+	<key>shouldRebuildTransition</key>
+	<string>cardLayer</string>
+</dict>
+</plist>

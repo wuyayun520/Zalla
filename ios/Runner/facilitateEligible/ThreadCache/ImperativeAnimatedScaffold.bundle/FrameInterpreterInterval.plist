@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customReducer</key>
+	<string>cancelstore</string>
+	<key>deferredResource</key>
+	<string>configurationatscope</string>
+	<key>eagerCache</key>
+	<string>uniqueContainer</string>
+	<key>explicitCycle</key>
+	<string>immutableIntensity</string>
+	<key>interactiveheap</key>
+	<string>shouldNavigateOverlay</string>
+	<key>prismaticChecklist</key>
+	<string>unbindmaster</string>
+	<key>resolverIndex</key>
+	<string>hasLog</string>
+	<key>sizeshape</key>
+	<string>overrideDelegate</string>
+	<key>stackstatus</key>
+	<string>shouldPresentRemainder</string>
+</dict>
+</plist>

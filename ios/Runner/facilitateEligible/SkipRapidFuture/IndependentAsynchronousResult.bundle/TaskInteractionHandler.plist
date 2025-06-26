@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildercontextindex</key>
+	<string>mountedPlayback</string>
+	<key>enabledObserver</key>
+	<string>interfaceAction</string>
+	<key>gradientBrightness</key>
+	<string>statelessCatalyst</string>
+	<key>processorRate</key>
+	<string>uniformMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customaspect</key>
+	<string>symbolcolor</string>
+	<key>greatview</key>
+	<string>boxshadowSize</string>
+	<key>isolateBehavior</key>
+	<string>immutablesample</string>
+	<key>shouldEndStream</key>
+	<string>holdTitle</string>
+	<key>shouldKeepEquipment</key>
+	<string>channelsAdapter</string>
+	<key>sinetierspeed</key>
+	<string>concurrentPermutation</string>
+</dict>
+</plist>

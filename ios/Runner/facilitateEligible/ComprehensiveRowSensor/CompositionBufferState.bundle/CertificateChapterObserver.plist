@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logRate</key>
+	<string>localizationDistance</string>
+	<key>protocolcount</key>
+	<string>shouldPresentCycle</string>
+	<key>reusablePageView</key>
+	<string>canSkipSlider</string>
+	<key>subscriptionsound</key>
+	<string>injectionSystem</string>
+	<key>textfieldscope</key>
+	<string>isAlert</string>
+	<key>transformervalidation</key>
+	<string>canTrainAnchor</string>
+</dict>
+</plist>

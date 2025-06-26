@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivespriteflags</key>
+	<string>activatedAllocator</string>
+	<key>constantSkewY</key>
+	<string>evolutionTint</string>
+	<key>drawerforce</key>
+	<string>projectionSpacing</string>
+	<key>monstervisible</key>
+	<string>characterbuffer</string>
+	<key>shouldPrepareGem</key>
+	<string>rebuildThread</string>
+	<key>statelessTrajectory</key>
+	<string>animatedCache</string>
+	<key>typicalMobile</key>
+	<string>largeStore</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEquipment</key>
+	<string>eventStructure</string>
+	<key>cubefactory</key>
+	<string>shouldUnmountedDrawer</string>
+	<key>effectBound</key>
+	<string>canPauseShader</string>
+	<key>finderOpacity</key>
+	<string>giftVisibility</string>
+	<key>interpolationLocation</key>
+	<string>spriteInterval</string>
+	<key>invisibleStrength</key>
+	<string>liteDisclaimer</string>
+	<key>normalResult</key>
+	<string>comprehensiveFragments</string>
+	<key>rangeHead</key>
+	<string>pauseBorder</string>
+</dict>
+</plist>

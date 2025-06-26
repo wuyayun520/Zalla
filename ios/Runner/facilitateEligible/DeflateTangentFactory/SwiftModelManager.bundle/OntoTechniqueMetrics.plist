@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMethod</key>
+	<string>defaultBinary</string>
+	<key>gridviewversusshape</key>
+	<string>uniformConverter</string>
+	<key>shouldUnmountedChallenge</key>
+	<string>commonplate</string>
+</dict>
+</plist>

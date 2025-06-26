@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatebottom</key>
+	<string>crudeAnimatedContainer</string>
+	<key>notifytouch</key>
+	<string>shouldEndMaster</string>
+	<key>oldBoxShadow</key>
+	<string>canCreateMember</string>
+	<key>pinchableBinary</key>
+	<string>resolveSubscription</string>
+	<key>pinchableInteractor</key>
+	<string>tappableElement</string>
+	<key>semanticstint</key>
+	<string>sinkHead</string>
+	<key>visibleResolver</key>
+	<string>publicmenu</string>
+</dict>
+</plist>

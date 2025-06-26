@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSegue</key>
+	<string>desktopSpot</string>
+	<key>fixedTask</key>
+	<string>pendingGraphic</string>
+	<key>inheritedreducer</key>
+	<string>staticFragment</string>
+	<key>interfacearoundstructure</key>
+	<string>descriptionAction</string>
+	<key>latencydensity</key>
+	<string>radioinfo</string>
+	<key>secondShader</key>
+	<string>canDisconnectWidget</string>
+	<key>shouldEncodeStoryboard</key>
+	<string>inflateCapsule</string>
+	<key>toolBehavior</key>
+	<string>giftLocation</string>
+	<key>updateoffset</key>
+	<string>priorSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRemediation</key>
+	<string>unaryprocessor</string>
+	<key>coordinatortypedelay</key>
+	<string>canSkipProject</string>
+	<key>mapDuration</key>
+	<string>selectorState</string>
+	<key>masterAcceleration</key>
+	<string>fragmentFacade</string>
+	<key>materialTentative</key>
+	<string>configurationlistener</string>
+	<key>richtextVelocity</key>
+	<string>audioVelocity</string>
+	<key>temporaryAnalogy</key>
+	<string>notificationSkewY</string>
+	<key>uniforminterpolation</key>
+	<string>shouldParseBullet</string>
+</dict>
+</plist>

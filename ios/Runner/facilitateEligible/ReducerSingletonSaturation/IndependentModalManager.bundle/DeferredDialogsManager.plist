@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScreen</key>
+	<string>retainedTrigger</string>
+	<key>bitrateFormat</key>
+	<string>decodeZone</string>
+	<key>interactorbrightness</key>
+	<string>bufferDuration</string>
+	<key>mediumGraph</key>
+	<string>persistentSorter</string>
+	<key>optionincommand</key>
+	<string>emitPlate</string>
+	<key>shouldResumeKernel</key>
+	<string>tabviewscene</string>
+	<key>shouldTrainAspect</key>
+	<string>adaptivedependencyshade</string>
+	<key>subsequentfragmentvelocity</key>
+	<string>nextAccessory</string>
+	<key>symmetricTitle</key>
+	<string>keylogarithmvalidation</string>
+	<key>topicaudio</key>
+	<string>providerChain</string>
+</dict>
+</plist>

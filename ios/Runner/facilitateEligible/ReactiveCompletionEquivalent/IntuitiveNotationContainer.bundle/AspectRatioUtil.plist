@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderDensity</key>
+	<string>fixedreliability</string>
+	<key>borderinsideinterpreter</key>
+	<string>associatedMaterial</string>
+	<key>draggableCursor</key>
+	<string>accordionanalyzer</string>
+	<key>mediumScalability</key>
+	<string>shouldReplaceTernary</string>
+	<key>mergerValidation</key>
+	<string>secondStateful</string>
+	<key>scrollerBound</key>
+	<string>haspageview</string>
+	<key>shouldReplaceGram</key>
+	<string>canFinishConstraint</string>
+	<key>significantData</key>
+	<string>priorityparamindex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanLoss</key>
+	<string>transformUseCase</string>
+	<key>gramfunctionspacing</key>
+	<string>observeNavigator</string>
+	<key>litebufferdistance</key>
+	<string>hardUnary</string>
+	<key>newestConstraint</key>
+	<string>streamDelay</string>
+	<key>notifierfromsystem</key>
+	<string>canProcessEqualization</string>
+	<key>shouldAnimateUsage</key>
+	<string>canPopDuration</string>
+	<key>shouldUnbindScreen</key>
+	<string>shouldSubscribeCompletion</string>
+	<key>shouldtransformradio</key>
+	<string>canParseChallenge</string>
+	<key>tappablestorevisible</key>
+	<string>shouldAttachConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionincludeoperation</key>
+	<string>validateLog</string>
+	<key>crudePadding</key>
+	<string>fixedIntegrity</string>
+	<key>cupertinoNorm</key>
+	<string>repositoryTheme</string>
+	<key>customizedShape</key>
+	<string>selectedSession</string>
+	<key>intermediatePainter</key>
+	<string>explicitBatch</string>
+	<key>methodInset</key>
+	<string>futureInterval</string>
+	<key>subsequentStrength</key>
+	<string>resilientExponent</string>
+	<key>tableBound</key>
+	<string>offsetController</string>
+</dict>
+</plist>

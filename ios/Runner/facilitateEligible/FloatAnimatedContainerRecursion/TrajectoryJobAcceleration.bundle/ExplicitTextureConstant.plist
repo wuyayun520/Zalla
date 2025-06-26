@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelincludeobserver</key>
+	<string>semanticsLeft</string>
+	<key>ephemeralObserver</key>
+	<string>canDeserializeRadio</string>
+	<key>immediateAlert</key>
+	<string>otherZone</string>
+	<key>metadataVelocity</key>
+	<string>logarithmCenter</string>
+	<key>readinterface</key>
+	<string>canUnmountedStack</string>
+	<key>shouldCacheStack</key>
+	<string>inflateWorkflow</string>
+	<key>shouldFetchIndicator</key>
+	<string>priorOptimizer</string>
+	<key>shouldStartSwift</key>
+	<string>sineSystem</string>
+	<key>substantialCatalyst</key>
+	<string>nativeSorter</string>
+</dict>
+</plist>

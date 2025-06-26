@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVisibility</key>
+	<string>accessibleEntropy</string>
+	<key>desktopLoss</key>
+	<string>activatedDrawer</string>
+	<key>erasenorm</key>
+	<string>selectedternary</string>
+	<key>inflatecompleter</key>
+	<string>allocatorInterpreter</string>
+	<key>inflatemodel</key>
+	<string>activeLocalization</string>
+	<key>pinchableModule</key>
+	<string>nextcollection</string>
+	<key>protectedIsolate</key>
+	<string>flexibleMechanism</string>
+	<key>protocolfeature</key>
+	<string>listenCursor</string>
+	<key>shouldStopNotification</key>
+	<string>tickerOpacity</string>
+</dict>
+</plist>

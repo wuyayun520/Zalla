@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowtail</key>
+	<string>disabledtangenttail</string>
+	<key>capacityopacity</key>
+	<string>swiftmatrix</string>
+	<key>defaultoverlay</key>
+	<string>labelinjection</string>
+	<key>formatCoord</key>
+	<string>logarithmDecorator</string>
+	<key>segmentVisibility</key>
+	<string>subpixelCenter</string>
+	<key>shouldNavigateBase</key>
+	<string>intermediateEffect</string>
+</dict>
+</plist>

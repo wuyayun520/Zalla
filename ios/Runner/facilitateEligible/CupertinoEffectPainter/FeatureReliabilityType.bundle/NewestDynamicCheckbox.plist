@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbesideactivity</key>
+	<string>providereffect</string>
+	<key>convolutionBorder</key>
+	<string>upgradeTimer</string>
+	<key>crudeMember</key>
+	<string>layoutcount</string>
+	<key>dependencyobserverscale</key>
+	<string>shouldUnmountedEffect</string>
+	<key>featureparampadding</key>
+	<string>blocthroughflyweight</string>
+	<key>flexiblelistener</key>
+	<string>modalComposite</string>
+	<key>greatConsumption</key>
+	<string>routelikefacade</string>
+	<key>modulusstream</key>
+	<string>overlaySingleton</string>
+	<key>numericalTraversal</key>
+	<string>loaderDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachduration</key>
+	<string>largeConsumption</string>
+	<key>compositionalChapter</key>
+	<string>currentsensor</string>
+	<key>draggablewidgetdepth</key>
+	<string>keyConstraint</string>
+	<key>ephemeralData</key>
+	<string>shouldRouteSample</string>
+	<key>geometricnormbehavior</key>
+	<string>binaryVisible</string>
+	<key>greatUtil</key>
+	<string>canLayoutStack</string>
+	<key>imperativeMatrix</key>
+	<string>playSingleton</string>
+	<key>liteAudio</key>
+	<string>displayableButton</string>
+	<key>mediaquerypervariable</key>
+	<string>synchronousImpression</string>
+	<key>touchMargin</key>
+	<string>fixedCapsule</string>
+</dict>
+</plist>

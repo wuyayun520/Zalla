@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionconverter</key>
+	<string>visibleDetector</string>
+	<key>ephemeralCompletion</key>
+	<string>semanticcoordinator</string>
+	<key>listenerandfacade</key>
+	<string>denseRichText</string>
+	<key>specifierForce</key>
+	<string>canTransitionTable</string>
+	<key>trajectoryHead</key>
+	<string>interfaceMemento</string>
+	<key>unactivatedVector</key>
+	<string>nextShape</string>
+	<key>uniquemargintail</key>
+	<string>canTransformBullet</string>
+</dict>
+</plist>

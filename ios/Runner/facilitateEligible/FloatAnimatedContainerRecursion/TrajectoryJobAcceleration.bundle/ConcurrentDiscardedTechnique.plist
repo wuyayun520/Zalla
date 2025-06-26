@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShape</key>
+	<string>handleslider</string>
+	<key>geometricJoiner</key>
+	<string>semanticParticle</string>
+	<key>playbackEdge</key>
+	<string>shouldEmitAnimation</string>
+	<key>shouldUnbindBloc</key>
+	<string>immediateTabBar</string>
+	<key>videostate</key>
+	<string>prevAnalogy</string>
+</dict>
+</plist>

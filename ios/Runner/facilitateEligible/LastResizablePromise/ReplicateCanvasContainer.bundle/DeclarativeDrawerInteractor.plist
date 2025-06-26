@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoasync</key>
+	<string>eagerImpact</string>
+	<key>flexibleCallback</key>
+	<string>canCancelMonster</string>
+	<key>inactiveFormat</key>
+	<string>beginnerMaster</string>
+	<key>nativeListener</key>
+	<string>buttonMomentum</string>
+	<key>repositoryRate</key>
+	<string>creatorlocation</string>
+	<key>reusableStamp</key>
+	<string>canDecodeChallenge</string>
+	<key>shouldBindChecklist</key>
+	<string>onpaddingtap</string>
+	<key>statefulConfidentiality</key>
+	<string>mapForce</string>
+	<key>substantialaspectbehavior</key>
+	<string>disconnectOffset</string>
+	<key>transformerSkewY</key>
+	<string>injectionAcceleration</string>
+</dict>
+</plist>

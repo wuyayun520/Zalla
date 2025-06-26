@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBase</key>
+	<string>mediaqueryVariable</string>
+	<key>activeMedia</key>
+	<string>fetchInteger</string>
+	<key>advancedGroup</key>
+	<string>draggableOffset</string>
+	<key>basicChapter</key>
+	<string>eagerNotifier</string>
+	<key>detectorValidation</key>
+	<string>canEmitMaster</string>
+	<key>sizeenvironmentorientation</key>
+	<string>cachecapsule</string>
+	<key>staticsingleton</key>
+	<string>emitbutton</string>
+</dict>
+</plist>

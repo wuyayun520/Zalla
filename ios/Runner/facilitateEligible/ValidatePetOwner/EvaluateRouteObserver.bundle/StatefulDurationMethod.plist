@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumTopic</key>
+	<string>shouldMountedMedia</string>
+	<key>resilientBuilder</key>
+	<string>samplePosition</string>
+	<key>reusableStateless</key>
+	<string>cruderecursion</string>
+	<key>subscriberHue</key>
+	<string>seamlesstolerance</string>
+	<key>uniformJoiner</key>
+	<string>permissiveTrigger</string>
+	<key>widgetvelocity</key>
+	<string>canLoadSlider</string>
+	<key>zoneFeedback</key>
+	<string>binderCoord</string>
+</dict>
+</plist>

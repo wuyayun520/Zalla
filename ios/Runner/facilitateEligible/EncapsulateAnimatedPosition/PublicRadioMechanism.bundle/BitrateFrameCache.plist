@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerTint</key>
+	<string>shouldSkipInterpolation</string>
+	<key>inactiveinstruction</key>
+	<string>hardAnchor</string>
+	<key>retainedCharacteristic</key>
+	<string>othertext</string>
+	<key>sequentialSubscription</key>
+	<string>channelstint</string>
+	<key>specifyMission</key>
+	<string>keepcompleter</string>
+	<key>stampresource</key>
+	<string>chapterTail</string>
+	<key>statefulversusvariable</key>
+	<string>checklistCenter</string>
+</dict>
+</plist>

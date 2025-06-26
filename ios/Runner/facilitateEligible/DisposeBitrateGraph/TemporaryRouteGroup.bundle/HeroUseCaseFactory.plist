@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerfinder</key>
+	<string>inflateNavigation</string>
+	<key>descriptionpolyfill</key>
+	<string>canReplaceCatalyst</string>
+	<key>geometrictransformeralignment</key>
+	<string>ternaryVisibility</string>
+	<key>immediatepreviewposition</key>
+	<string>eraseBuilder</string>
+	<key>imperativeGestureDetector</key>
+	<string>enabledBase</string>
+	<key>normalWidget</key>
+	<string>gridProcess</string>
+	<key>shouldKeepStream</key>
+	<string>referenceVisible</string>
+	<key>shouldUnbindListView</key>
+	<string>handleSine</string>
+	<key>workflowScale</key>
+	<string>resultbehavior</string>
+</dict>
+</plist>

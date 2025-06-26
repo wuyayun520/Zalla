@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantSize</key>
+	<string>shouldBuildResource</string>
+	<key>dimensionSize</key>
+	<string>canFormatCard</string>
+	<key>eagerGem</key>
+	<string>memberTheme</string>
+	<key>reliabilityLocation</key>
+	<string>lostsessionshape</string>
+	<key>shaderdecoratoracceleration</key>
+	<string>mediocreStoryboard</string>
+	<key>shouldFormatPlayback</key>
+	<string>resourcemementotheme</string>
+	<key>statusDensity</key>
+	<string>sceneMargin</string>
+	<key>topicexceptdecorator</key>
+	<string>shouldValidateCollection</string>
+	<key>traversalCenter</key>
+	<string>canValidateGate</string>
+</dict>
+</plist>

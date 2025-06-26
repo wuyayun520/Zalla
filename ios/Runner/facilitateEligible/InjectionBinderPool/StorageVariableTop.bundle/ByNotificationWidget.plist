@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeConstraint</key>
+	<string>shouldMountSegue</string>
+	<key>firstRange</key>
+	<string>restartAperture</string>
+	<key>localDrawer</key>
+	<string>shouldlayoutmedia</string>
+	<key>specifySkin</key>
+	<string>uniqueRect</string>
+	<key>transformerdespitenumber</key>
+	<string>shouldAttachReduction</string>
+</dict>
+</plist>

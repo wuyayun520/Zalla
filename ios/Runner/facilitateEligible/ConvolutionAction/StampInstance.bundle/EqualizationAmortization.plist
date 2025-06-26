@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTransformer</key>
+	<string>entropyTail</string>
+	<key>inkwellprocessrotation</key>
+	<string>factoryOffset</string>
+	<key>latencyInterval</key>
+	<string>shouldEncodeConstraint</string>
+	<key>respectiveAudio</key>
+	<string>resilientMobile</string>
+	<key>robustMaster</key>
+	<string>marginPosition</string>
+	<key>shouldShowListView</key>
+	<string>declarativeContraction</string>
+	<key>synchronousBloc</key>
+	<string>opaqueAnimatedContainer</string>
+</dict>
+</plist>

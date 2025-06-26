@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateorstyle</key>
+	<string>rectSkewY</string>
+	<key>delicateplatehue</key>
+	<string>iscard</string>
+	<key>eagerInfo</key>
+	<string>stampDecorator</string>
+	<key>euclideanSlider</key>
+	<string>sharedReplica</string>
+	<key>managerShade</key>
+	<string>painterPhase</string>
+	<key>missedPadding</key>
+	<string>rendererColor</string>
+	<key>primarygraphdelay</key>
+	<string>restartSkin</string>
+	<key>shouldPopOptimizer</key>
+	<string>eagerCapsule</string>
+	<key>synchronousFactory</key>
+	<string>intuitiveRoute</string>
+	<key>vectorstyle</key>
+	<string>interactiveaspect</string>
+</dict>
+</plist>

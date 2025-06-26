@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoanimatedcontainerorientation</key>
+	<string>interfaceconstant</string>
+	<key>combinerShade</key>
+	<string>initializeProvider</string>
+	<key>currentMerger</key>
+	<string>prepareSwift</string>
+	<key>sensorconsumption</key>
+	<string>streamlineTexture</string>
+	<key>shouldAttachRichText</key>
+	<string>deferredanimationskewx</string>
+	<key>shouldLoadSymbol</key>
+	<string>missedZone</string>
+</dict>
+</plist>

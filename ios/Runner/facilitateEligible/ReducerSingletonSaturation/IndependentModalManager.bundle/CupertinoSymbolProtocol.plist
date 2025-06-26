@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorSpacing</key>
+	<string>missionRotation</string>
+	<key>gramstatevelocity</key>
+	<string>assetMediator</string>
+	<key>immediateModule</key>
+	<string>radioOrientation</string>
+	<key>largesingletonspeed</key>
+	<string>notifyAppBar</string>
+	<key>queueforce</key>
+	<string>significantTopic</string>
+	<key>semanticStateless</key>
+	<string>validateInstruction</string>
+	<key>subsequentCube</key>
+	<string>diversifiedAsync</string>
+	<key>unactivatedSubscription</key>
+	<string>heapbutton</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRow</key>
+	<string>permissiveTransformer</string>
+	<key>activeCallback</key>
+	<string>pageviewAcceleration</string>
+	<key>constraintexceptnumber</key>
+	<string>touchRadius</string>
+	<key>interactiveEntity</key>
+	<string>positionedKind</string>
+	<key>interfacePressure</key>
+	<string>intermediateService</string>
+	<key>mediocreObject</key>
+	<string>navigateColumn</string>
+	<key>mutableTabView</key>
+	<string>shouldObserveConstraint</string>
+	<key>pointResponse</key>
+	<string>desktopQueue</string>
+	<key>priorSample</key>
+	<string>canConnectAppBar</string>
+	<key>shouldPersistSignature</key>
+	<string>projectforshape</string>
+</dict>
+</plist>

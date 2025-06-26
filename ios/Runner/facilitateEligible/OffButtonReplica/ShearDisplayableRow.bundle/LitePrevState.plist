@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedresulttension</key>
+	<string>subscribeChallenge</string>
+	<key>parallelExtension</key>
+	<string>aspectEnvironment</string>
+	<key>primaryFragment</key>
+	<string>viewVariable</string>
+	<key>rendererInterval</key>
+	<string>hierarchicalResponse</string>
+	<key>shouldMountedSpot</key>
+	<string>lostStateless</string>
+	<key>shouldRouteBase</key>
+	<string>shouldStopNotification</string>
+	<key>sizedboxSpacing</key>
+	<string>shoulddismissdescriptor</string>
+	<key>tappablePrecision</key>
+	<string>mainAsset</string>
+</dict>
+</plist>

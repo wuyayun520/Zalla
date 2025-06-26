@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationchannel</key>
+	<string>oldGraph</string>
+	<key>ephemeralRoute</key>
+	<string>refreshVector</string>
+	<key>localItem</key>
+	<string>shouldNotifyVariant</string>
+	<key>shouldContinueCache</key>
+	<string>desktopTask</string>
+	<key>shoulddisconnectmonster</key>
+	<string>requiredOffset</string>
+	<key>shouldpopaccessory</key>
+	<string>nativeConsumer</string>
+	<key>vertexAcceleration</key>
+	<string>canRouteCube</string>
+</dict>
+</plist>

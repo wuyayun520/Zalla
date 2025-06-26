@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVelocity</key>
+	<string>nextVector</string>
+	<key>exceptionName</key>
+	<string>equalizationName</string>
+	<key>immediateDropdownButton</key>
+	<string>menuEnvironment</string>
+	<key>measurestate</key>
+	<string>parsenode</string>
+	<key>synchronousSprite</key>
+	<string>commonReference</string>
+</dict>
+</plist>

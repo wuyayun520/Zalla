@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customConfidentiality</key>
+	<string>callbackcontextpressure</string>
+	<key>difficultInstruction</key>
+	<string>immediatestore</string>
+	<key>transformerscope</key>
+	<string>draggableOffset</string>
+</dict>
+</plist>

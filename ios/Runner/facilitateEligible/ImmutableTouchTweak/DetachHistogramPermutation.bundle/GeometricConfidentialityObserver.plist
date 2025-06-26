@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryright</key>
+	<string>buttonParameter</string>
+	<key>adaptivePermutation</key>
+	<string>inheritedAction</string>
+	<key>immutableConfiguration</key>
+	<string>deflateGrain</string>
+	<key>notifyrow</key>
+	<string>observeSprite</string>
+	<key>persistentSplitter</key>
+	<string>responsiveTween</string>
+	<key>polygonPressure</key>
+	<string>shouldMountExponent</string>
+	<key>responderInteraction</key>
+	<string>enhanceTexture</string>
+	<key>semanticslikesystem</key>
+	<string>substantialResource</string>
+	<key>shouldPushBatch</key>
+	<string>scrollRotation</string>
+</dict>
+</plist>

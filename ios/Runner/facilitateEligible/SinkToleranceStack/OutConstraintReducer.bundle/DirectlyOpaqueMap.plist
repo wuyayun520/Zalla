@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInformation</key>
+	<string>sortedCharacter</string>
+	<key>cubitinteraction</key>
+	<string>setstateTouch</string>
+	<key>currentDistinction</key>
+	<string>shouldLoadTabBar</string>
+	<key>originalPositioned</key>
+	<string>syncContainer</string>
+	<key>shouldDeserializeMatrix</key>
+	<string>nativeReduction</string>
+	<key>workflowTag</key>
+	<string>exponentCoord</string>
+</dict>
+</plist>

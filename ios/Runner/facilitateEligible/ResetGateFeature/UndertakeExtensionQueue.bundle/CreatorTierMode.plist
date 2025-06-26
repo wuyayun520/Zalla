@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementName</key>
+	<string>bufferdata</string>
+	<key>gridprocessorigin</key>
+	<string>topicContrast</string>
+	<key>interactiveInkWell</key>
+	<string>canObservePriority</string>
+	<key>layerHead</key>
+	<string>shouldFetchSlash</string>
+	<key>profilenearphase</key>
+	<string>touchintegration</string>
+	<key>statelessvisibility</key>
+	<string>flexibleScroller</string>
+</dict>
+</plist>

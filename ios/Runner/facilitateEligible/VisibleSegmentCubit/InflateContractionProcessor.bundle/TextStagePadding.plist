@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterRotation</key>
+	<string>tappableSize</string>
+	<key>completerviamethod</key>
+	<string>workflowInteraction</string>
+	<key>mediumLog</key>
+	<string>canObserveChecklist</string>
+	<key>multispecifier</key>
+	<string>uniformStream</string>
+	<key>opaqueSingleton</key>
+	<string>persistentNavigator</string>
+	<key>shouldContinueClipper</key>
+	<string>imperativeRemainder</string>
+	<key>shouldMountCoordinator</key>
+	<string>layerOperation</string>
+	<key>statelessSkewX</key>
+	<string>firstError</string>
+	<key>subsequentParticle</key>
+	<string>beginnerResilience</string>
+</dict>
+</plist>

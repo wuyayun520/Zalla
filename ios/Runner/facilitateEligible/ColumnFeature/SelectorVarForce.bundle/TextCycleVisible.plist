@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerreceiver</key>
+	<string>resilienceinset</string>
+	<key>nextTexture</key>
+	<string>observeExtension</string>
+	<key>permissiverect</key>
+	<string>firstHistogram</string>
+	<key>popupAlignment</key>
+	<string>euclideanqueuedistance</string>
+	<key>shouldpaintbuilder</key>
+	<string>canPopSegue</string>
+	<key>viewaboutactivity</key>
+	<string>tolerancesaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyColor</key>
+	<string>onmaterialtap</string>
+	<key>formatpositioned</key>
+	<string>shouldDisposeTextField</string>
+	<key>globalMission</key>
+	<string>shouldTransitionPageView</string>
+	<key>graphicMargin</key>
+	<string>independentReliability</string>
+	<key>localConfidentiality</key>
+	<string>notifylogarithm</string>
+	<key>prismaticScale</key>
+	<string>sliderOrigin</string>
+	<key>providercenter</key>
+	<string>decodeBoxShadow</string>
+	<key>relationalAlpha</key>
+	<string>chooserSpacing</string>
+	<key>sharedResult</key>
+	<string>usedCapacity</string>
+</dict>
+</plist>

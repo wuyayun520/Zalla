@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalBase</key>
+	<string>componentOrientation</string>
+	<key>persistentImpact</key>
+	<string>functionalStateless</string>
+	<key>protecteddependency</key>
+	<string>undertakeAwait</string>
+	<key>scalabilityOrigin</key>
+	<string>revisitTitle</string>
+	<key>tensortrigger</key>
+	<string>streamSpot</string>
+</dict>
+</plist>

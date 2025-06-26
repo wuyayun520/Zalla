@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseMomentum</key>
+	<string>materialLoader</string>
+	<key>catalystinflyweight</key>
+	<string>finishStateless</string>
+	<key>curveandsystem</key>
+	<string>futureCommand</string>
+	<key>interpolationbuffercontrast</key>
+	<string>geometricChallenge</string>
+	<key>iterativefuture</key>
+	<string>canPauseFragment</string>
+	<key>oldTabBar</key>
+	<string>prismaticSwift</string>
+	<key>parallelAlpha</key>
+	<string>materialEnvironment</string>
+	<key>priorResponder</key>
+	<string>reusablePainter</string>
+	<key>progressbarscopespeed</key>
+	<string>intermediateLog</string>
+	<key>uniqueAnimator</key>
+	<string>capsulethanform</string>
+</dict>
+</plist>

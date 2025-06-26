@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directButton</key>
+	<string>renderbullet</string>
+	<key>euclideantechniquescale</key>
+	<string>findState</string>
+	<key>referenceBrightness</key>
+	<string>notifierTemple</string>
+	<key>requestbrightness</key>
+	<string>currentChallenge</string>
+	<key>stampSkewX</key>
+	<string>resourceComposite</string>
+	<key>standaloneFinder</key>
+	<string>axisTop</string>
+	<key>tappableScheduler</key>
+	<string>statefulProgressBar</string>
+</dict>
+</plist>

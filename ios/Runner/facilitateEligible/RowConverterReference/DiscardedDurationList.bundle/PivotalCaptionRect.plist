@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllermaterializer</key>
+	<string>storyboardvideo</string>
+	<key>semanticConvolution</key>
+	<string>gateMode</string>
+	<key>shouldConnectBaseline</key>
+	<string>hasConstraint</string>
+	<key>statelessDetail</key>
+	<string>rebuildTangent</string>
+	<key>uniqueerrorinset</key>
+	<string>publicBloc</string>
+</dict>
+</plist>

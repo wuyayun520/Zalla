@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMenu</key>
+	<string>efficiencyFlags</string>
+	<key>mutableTicker</key>
+	<string>groupaudio</string>
+	<key>navigationamongflyweight</key>
+	<string>desktopPager</string>
+	<key>shouldYieldIcon</key>
+	<string>shouldTransformCapsule</string>
+</dict>
+</plist>

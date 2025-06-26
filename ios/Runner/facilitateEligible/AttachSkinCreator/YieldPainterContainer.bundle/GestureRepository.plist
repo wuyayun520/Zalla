@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentinsideparameter</key>
+	<string>marshalTask</string>
+	<key>pinchablerange</key>
+	<string>shouldCreateExpanded</string>
+	<key>protocolFlags</key>
+	<string>sampleopacity</string>
+	<key>refreshchapter</key>
+	<string>shouldDeserializeClipper</string>
+	<key>shouldcacheanimatedcontainer</key>
+	<string>immutableStroke</string>
+	<key>shouldnotifyloss</key>
+	<string>parallelEntropy</string>
+	<key>singleTopic</key>
+	<string>transformerPosition</string>
+</dict>
+</plist>

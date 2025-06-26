@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionvaluemode</key>
+	<string>shouldBindSemantics</string>
+	<key>dataAcceleration</key>
+	<string>reliabilityFlags</string>
+	<key>nativeAwait</key>
+	<string>textfieldFeedback</string>
+	<key>oldpageviewrate</key>
+	<string>crudecosinesaturation</string>
+	<key>painterobserverindex</key>
+	<string>originalLatency</string>
+	<key>playbacknavigator</key>
+	<string>sharedInjection</string>
+	<key>priorityDelay</key>
+	<string>seamlessManager</string>
+</dict>
+</plist>

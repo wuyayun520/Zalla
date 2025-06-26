@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableiconappearance</key>
+	<string>dismissDependency</string>
+	<key>freeresource</key>
+	<string>composablebehavior</string>
+	<key>limitticker</key>
+	<string>routeCupertino</string>
+	<key>publicScheduler</key>
+	<string>cardFormat</string>
+	<key>staticEvent</key>
+	<string>consumeAction</string>
+</dict>
+</plist>

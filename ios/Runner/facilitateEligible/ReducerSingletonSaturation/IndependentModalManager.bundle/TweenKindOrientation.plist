@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturefromcommand</key>
+	<string>pushSizedBox</string>
+	<key>modulePadding</key>
+	<string>scalabilityindex</string>
+	<key>sheartabview</key>
+	<string>wrapTitle</string>
+	<key>shouldcacheaccessory</key>
+	<string>seamlessTaxonomy</string>
+	<key>sorterHue</key>
+	<string>scrollableDelegate</string>
+</dict>
+</plist>

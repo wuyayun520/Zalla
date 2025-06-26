@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticevolution</key>
+	<string>sortedDescriptor</string>
+	<key>chapterinteraction</key>
+	<string>integrityPosition</string>
+	<key>cubitContrast</key>
+	<string>compositionalSensor</string>
+	<key>loopshape</key>
+	<string>reductionLeft</string>
+	<key>observerflyweightcontrast</key>
+	<string>advancedChart</string>
+	<key>referenceSaturation</key>
+	<string>animationForm</string>
+	<key>shouldYieldThread</key>
+	<string>mediumScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordermomentum</key>
+	<string>deactivatespecifier</string>
+	<key>enabledimage</key>
+	<string>connectRadius</string>
+	<key>enabledreducer</key>
+	<string>hardScale</string>
+	<key>permanentException</key>
+	<string>effectScope</string>
+	<key>rolerectangle</key>
+	<string>largeTransformer</string>
+	<key>tappableOption</key>
+	<string>eventSize</string>
+</dict>
+</plist>

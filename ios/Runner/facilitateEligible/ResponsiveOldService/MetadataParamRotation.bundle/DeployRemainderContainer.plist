@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatecontainer</key>
+	<string>explicitThroughput</string>
+	<key>elasticprogressbarpressure</key>
+	<string>cupertinoMediaQuery</string>
+	<key>futurethroughput</key>
+	<string>immutableVertex</string>
+	<key>lazyParticle</key>
+	<string>materialCurve</string>
+	<key>newestPopup</key>
+	<string>originalSegue</string>
+	<key>reducebrush</key>
+	<string>canBindRemainder</string>
+	<key>relationalLifecycle</key>
+	<string>canPaintMonster</string>
+	<key>requiredstreamlocation</key>
+	<string>spottag</string>
+	<key>unsortedAction</key>
+	<string>granularMatrix</string>
+</dict>
+</plist>

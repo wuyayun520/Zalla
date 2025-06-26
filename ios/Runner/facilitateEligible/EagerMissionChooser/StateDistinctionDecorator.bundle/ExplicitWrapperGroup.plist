@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncvertex</key>
+	<string>detachcustompaint</string>
+	<key>boxshadowFeedback</key>
+	<string>emitActivity</string>
+	<key>createbitrate</key>
+	<string>embraceTimer</string>
+	<key>fixedrestriction</key>
+	<string>originalRadius</string>
+	<key>onfragmentchanged</key>
+	<string>rotateCubit</string>
+	<key>opaqueVector</key>
+	<string>connectalpha</string>
+	<key>segueMomentum</key>
+	<string>denseScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMap</key>
+	<string>shouldSetStateSkirt</string>
+	<key>cyclemediatorscale</key>
+	<string>defaulteffect</string>
+	<key>lazyScope</key>
+	<string>independentCombiner</string>
+	<key>specifyScope</key>
+	<string>animatedMultiplication</string>
+</dict>
+</plist>

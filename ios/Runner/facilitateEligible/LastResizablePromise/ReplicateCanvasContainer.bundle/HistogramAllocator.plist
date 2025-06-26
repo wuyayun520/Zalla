@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reflectwidget</key>
+	<string>elasticStep</string>
+	<key>seguethroughflyweight</key>
+	<string>subsequentAwait</string>
+	<key>sophisticatedHero</key>
+	<string>shouldPauseGate</string>
+	<key>sorterLeft</key>
+	<string>canEndInterpolation</string>
+</dict>
+</plist>

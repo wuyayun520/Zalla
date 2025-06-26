@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDisclaimer</key>
+	<string>fusedPosition</string>
+	<key>canvasobserver</key>
+	<string>scaleValue</string>
+	<key>deprecatemodel</key>
+	<string>serializedocument</string>
+	<key>directIntensity</key>
+	<string>borderType</string>
+	<key>displayableMend</key>
+	<string>presenterTransparency</string>
+	<key>relationalcompleter</key>
+	<string>onalertchanged</string>
+	<key>titleoroperation</key>
+	<string>explicitSignature</string>
+</dict>
+</plist>

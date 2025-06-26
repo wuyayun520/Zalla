@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerparammode</key>
+	<string>utilpatternvalidation</string>
+	<key>crucialResilience</key>
+	<string>liteChart</string>
+	<key>diversifiedrecursion</key>
+	<string>concurrentAlpha</string>
+	<key>draggableResource</key>
+	<string>interfaceefficiency</string>
+	<key>imperativeCupertino</key>
+	<string>standaloneVariant</string>
+	<key>protectedEntropy</key>
+	<string>statelessStep</string>
+	<key>pushdelegate</key>
+	<string>persistentFrame</string>
+	<key>replicaInterval</key>
+	<string>memberSpeed</string>
+</dict>
+</plist>

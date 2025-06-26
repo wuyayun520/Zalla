@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocapacities</key>
+	<string>greatCollection</string>
+	<key>robustMediaQuery</key>
+	<string>shouldtrainmediaquery</string>
+	<key>uniquePreview</key>
+	<string>staticCurve</string>
+	<key>videocontrast</key>
+	<string>activePlate</string>
+</dict>
+</plist>

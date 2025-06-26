@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleScheduler</key>
+	<string>undertakeTransition</string>
+	<key>lazyPicker</key>
+	<string>transitionjoiner</string>
+	<key>mapTheme</key>
+	<string>mountedCharacter</string>
+	<key>measureposition</key>
+	<string>liteOperation</string>
+	<key>standaloneCertificate</key>
+	<string>schedulerContrast</string>
+	<key>streamlinefeature</key>
+	<string>syncLayer</string>
+	<key>vertexKind</key>
+	<string>easyReducer</string>
+</dict>
+</plist>

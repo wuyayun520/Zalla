@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celltween</key>
+	<string>completionnearkind</string>
+	<key>fixedOverlay</key>
+	<string>spritewithoutvar</string>
+	<key>replicaResponse</key>
+	<string>canYieldAlpha</string>
+	<key>resilientService</key>
+	<string>remainderoffset</string>
+	<key>shouldDismissConstraint</key>
+	<string>callbackmomentum</string>
+	<key>standaloneisolateopacity</key>
+	<string>commonLinker</string>
+	<key>subscribealignment</key>
+	<string>updateMediaQuery</string>
+</dict>
+</plist>

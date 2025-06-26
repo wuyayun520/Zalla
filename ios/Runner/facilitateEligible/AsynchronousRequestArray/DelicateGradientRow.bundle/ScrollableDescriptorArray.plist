@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basedata</key>
+	<string>apertureInterpreter</string>
+	<key>constantHead</key>
+	<string>sampleflyweightbehavior</string>
+	<key>independentobserver</key>
+	<string>sequentialCharacter</string>
+	<key>regulategesture</key>
+	<string>canDispatchScaffold</string>
+	<key>shouldEndAnimatedContainer</key>
+	<string>sortedUsage</string>
+	<key>weboffset</key>
+	<string>displayableParticle</string>
+</dict>
+</plist>

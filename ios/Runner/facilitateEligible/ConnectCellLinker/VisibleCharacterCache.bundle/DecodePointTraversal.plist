@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSpot</key>
+	<string>exceptionWork</string>
+	<key>disabledAnchor</key>
+	<string>canParseRadio</string>
+	<key>hardradiusborder</key>
+	<string>exceptionStyle</string>
+	<key>selectedCursor</key>
+	<string>shouldunbindlog</string>
+	<key>shouldBindCycle</key>
+	<string>scrollableFlex</string>
+	<key>shouldUnmountedRow</key>
+	<string>easyMapper</string>
+	<key>sortedCheckbox</key>
+	<string>shouldStreamRow</string>
+</dict>
+</plist>

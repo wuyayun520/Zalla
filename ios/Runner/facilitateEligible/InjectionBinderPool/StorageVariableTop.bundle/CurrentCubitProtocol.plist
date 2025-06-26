@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedJoiner</key>
+	<string>missedPrecision</string>
+	<key>fixedMedia</key>
+	<string>hierarchicalTopic</string>
+	<key>inactiveAlert</key>
+	<string>delicateStack</string>
+	<key>maintrigger</key>
+	<string>geometricPoint</string>
+	<key>materialSchema</key>
+	<string>performIntensity</string>
+	<key>monsterHue</key>
+	<string>finishThread</string>
+	<key>shouldRestartMediaQuery</key>
+	<string>mobileDropdownButton</string>
+	<key>shoulddecodesession</key>
+	<string>notifyCard</string>
+	<key>unsortedQueue</key>
+	<string>webState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStack</key>
+	<string>impressioncontrast</string>
+	<key>difficultAxis</key>
+	<string>autoGraph</string>
+	<key>eagerClipper</key>
+	<string>lazyscaleappearance</string>
+	<key>easyAscent</key>
+	<string>dynamicResource</string>
+	<key>intermediateReference</key>
+	<string>directcontainerlocation</string>
+	<key>receiverShape</key>
+	<string>immediateObserver</string>
+	<key>timermapper</key>
+	<string>formatRow</string>
+</dict>
+</plist>

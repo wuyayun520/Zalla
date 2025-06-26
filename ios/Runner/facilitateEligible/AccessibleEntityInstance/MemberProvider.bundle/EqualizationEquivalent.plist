@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartimer</key>
+	<string>sanitizestate</string>
+	<key>asynchronousFragment</key>
+	<string>autoPreview</string>
+	<key>consumerLeft</key>
+	<string>renderMomentum</string>
+	<key>grainOffset</key>
+	<string>compileTask</string>
+	<key>operationthancomposite</key>
+	<string>pushManager</string>
+	<key>resumenode</key>
+	<string>quantizerintensity</string>
+</dict>
+</plist>

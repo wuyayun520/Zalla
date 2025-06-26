@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterValidation</key>
+	<string>equalsink</string>
+	<key>missedPageView</key>
+	<string>resolverDepth</string>
+	<key>pinchableModule</key>
+	<string>implementWidget</string>
+	<key>shouldStopMaterial</key>
+	<string>interactorbesidework</string>
+</dict>
+</plist>

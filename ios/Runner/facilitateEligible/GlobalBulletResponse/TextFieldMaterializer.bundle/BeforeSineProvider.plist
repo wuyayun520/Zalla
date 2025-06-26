@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionschema</key>
+	<string>visitRepository</string>
+	<key>agileFeature</key>
+	<string>awaitHue</string>
+	<key>dependencypressure</key>
+	<string>segueValue</string>
+	<key>interactiveScale</key>
+	<string>completedSwitch</string>
+	<key>mergerState</key>
+	<string>polygonSpeed</string>
+	<key>numericalreducerdistance</key>
+	<string>computeModel</string>
+	<key>popupSkewX</key>
+	<string>temporaryZone</string>
+	<key>shouldEndSwitch</key>
+	<string>configurationcompositedistance</string>
+	<key>spinetempletop</key>
+	<string>emitMovement</string>
+</dict>
+</plist>

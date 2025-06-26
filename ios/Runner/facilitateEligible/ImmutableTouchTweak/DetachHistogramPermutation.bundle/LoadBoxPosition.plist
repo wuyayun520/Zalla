@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDelay</key>
+	<string>transitionChain</string>
+	<key>concurrentutil</key>
+	<string>canObserveCaption</string>
+	<key>customPadding</key>
+	<string>sinkrate</string>
+	<key>desktopCollection</key>
+	<string>interfaceadapterskewy</string>
+	<key>hardStrength</key>
+	<string>normalSize</string>
+	<key>newesttext</key>
+	<string>shouldFetchPoint</string>
+	<key>pushlogarithm</key>
+	<string>diffableSymbol</string>
+	<key>storecompleter</key>
+	<string>validatecursor</string>
+</dict>
+</plist>

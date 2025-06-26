@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableMaster</key>
+	<string>intuitiveMonster</string>
+	<key>ontextfieldtap</key>
+	<string>semanticMaster</string>
+	<key>publicQueue</key>
+	<string>customContainer</string>
+	<key>typicalScheduler</key>
+	<string>wrapPosition</string>
+	<key>uniqueprovision</key>
+	<string>adaptivelistener</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentaperture</key>
+	<string>mobileAlpha</string>
+	<key>challengeFormat</key>
+	<string>firstSorter</string>
+	<key>discardedService</key>
+	<string>scalabilityDistance</string>
+	<key>normalefficiency</key>
+	<string>grainValidation</string>
+	<key>opaqueArithmetic</key>
+	<string>decorationSystem</string>
+	<key>shouldPresentVariant</key>
+	<string>addConstraint</string>
+	<key>shouldStopGrayscale</key>
+	<string>factoryFunction</string>
+	<key>shouldStopUnary</key>
+	<string>dropdownbuttonfactory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectpopup</key>
+	<string>sanitizeInterface</string>
+	<key>ephemeralImpact</key>
+	<string>oldRect</string>
+	<key>intuitiveInterface</key>
+	<string>materialchallengeorigin</string>
+	<key>intuitiveNotifier</key>
+	<string>mediocrecertificateacceleration</string>
+	<key>opaqueEquivalent</key>
+	<string>mediumAnimation</string>
+	<key>primaryThroughput</key>
+	<string>shouldPublishPlate</string>
+	<key>referencecommandoffset</key>
+	<string>presenterRight</string>
+	<key>semanticsCenter</key>
+	<string>displayResponse</string>
+	<key>synchronousChallenge</key>
+	<string>fillListener</string>
+</dict>
+</plist>

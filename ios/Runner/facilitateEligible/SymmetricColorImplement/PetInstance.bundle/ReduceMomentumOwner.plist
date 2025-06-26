@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialBox</key>
+	<string>dedicatedSemantics</string>
+	<key>mediumSensor</key>
+	<string>skiptitle</string>
+	<key>numericalinterfacedensity</key>
+	<string>hashResponse</string>
+	<key>positionappearance</key>
+	<string>holdroute</string>
+	<key>shouldRenderSpot</key>
+	<string>prevdescriptorsaturation</string>
+	<key>shouldStreamCompletion</key>
+	<string>invisiblestoragefeedback</string>
+	<key>shouldTransformDialogs</key>
+	<string>selectedinterpolation</string>
+	<key>shouldValidateMonster</key>
+	<string>sustainableSpot</string>
+	<key>transformaspect</key>
+	<string>taskvelocity</string>
+	<key>viewHead</key>
+	<string>maintainButton</string>
+</dict>
+</plist>

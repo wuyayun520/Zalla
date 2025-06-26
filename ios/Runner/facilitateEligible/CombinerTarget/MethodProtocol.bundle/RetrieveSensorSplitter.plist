@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSemantics</key>
+	<string>significantalignment</string>
+	<key>gridviewsize</key>
+	<string>symmetricCollection</string>
+	<key>hardRow</key>
+	<string>plateParameter</string>
+	<key>materialpager</key>
+	<string>reducerCount</string>
+	<key>permanentAsset</key>
+	<string>smallScalability</string>
+	<key>shouldBuildSensor</key>
+	<string>deliveryAcceleration</string>
+	<key>shouldRenderTabView</key>
+	<string>scalePattern</string>
+	<key>singleDuration</key>
+	<string>shouldSetStateSample</string>
+</dict>
+</plist>

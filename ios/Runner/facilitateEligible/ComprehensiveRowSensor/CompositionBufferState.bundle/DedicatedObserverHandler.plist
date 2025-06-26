@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainertrigger</key>
+	<string>commonInformation</string>
+	<key>cubitSpacing</key>
+	<string>cloneAllocator</string>
+	<key>fragmentsBound</key>
+	<string>brushcontextspacing</string>
+	<key>largeSize</key>
+	<string>opaqueProvider</string>
+	<key>layerInset</key>
+	<string>canStopHistogram</string>
+	<key>mainInterpolation</key>
+	<string>navigateSlash</string>
+	<key>missedAnimator</key>
+	<string>shouldFetchArithmetic</string>
+	<key>resilientPet</key>
+	<string>remainderFlyweight</string>
+	<key>typicalGraph</key>
+	<string>entropyStatus</string>
+</dict>
+</plist>

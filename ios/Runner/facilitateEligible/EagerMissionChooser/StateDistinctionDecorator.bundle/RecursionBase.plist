@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBase</key>
+	<string>giftVelocity</string>
+	<key>chapterFeedback</key>
+	<string>positionAlignment</string>
+	<key>dependencyprovision</key>
+	<string>canFinishProfile</string>
+	<key>publicSample</key>
+	<string>shouldRebuildAxis</string>
+	<key>reactiveDetector</key>
+	<string>switchbufferskewx</string>
+	<key>rebuildbase</key>
+	<string>shouldSubscribePlayback</string>
+	<key>schemaVelocity</key>
+	<string>routedecoratorbehavior</string>
+	<key>shadersize</key>
+	<string>enabledCycle</string>
+	<key>vectorizepainter</key>
+	<string>showSubpixel</string>
+</dict>
+</plist>

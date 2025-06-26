@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentReduction</key>
+	<string>spinConstraint</string>
+	<key>custompaintintensity</key>
+	<string>listenHistogram</string>
+	<key>geometricAlignment</key>
+	<string>canPersistRemainder</string>
+	<key>multiplicationTint</key>
+	<string>shouldRebuildEqualization</string>
+	<key>nativePriority</key>
+	<string>unmountedExponent</string>
+	<key>prevcoordinator</key>
+	<string>disconnectBox</string>
+	<key>rendererorientation</key>
+	<string>rotateException</string>
+	<key>sequentialTextField</key>
+	<string>adaptiveEntity</string>
+	<key>shouldValidateCoordinator</key>
+	<string>vertexVelocity</string>
+	<key>sinkDensity</key>
+	<string>progressbarcontainbuffer</string>
+</dict>
+</plist>

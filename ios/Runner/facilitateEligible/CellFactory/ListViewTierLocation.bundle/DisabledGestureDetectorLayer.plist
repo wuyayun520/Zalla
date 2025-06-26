@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoQueue</key>
+	<string>elementPosition</string>
+	<key>basicSorter</key>
+	<string>symbolfacaderotation</string>
+	<key>converterStatus</key>
+	<string>positioninteraction</string>
+	<key>diffableResponse</key>
+	<string>masterPadding</string>
+	<key>reactiveService</key>
+	<string>reduceHash</string>
+	<key>screenandform</key>
+	<string>disabledChapter</string>
+</dict>
+</plist>

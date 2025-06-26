@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticchart</key>
+	<string>agileCell</string>
+	<key>ignoredModal</key>
+	<string>canContinueCapsule</string>
+	<key>pickerResponse</key>
+	<string>storyboardTask</string>
+	<key>scrollablePublisher</key>
+	<string>clipperinterpreterborder</string>
+	<key>shouldPublishGift</key>
+	<string>greatanimationfeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTransition</key>
+	<string>updatebitrate</string>
+	<key>displayableJoiner</key>
+	<string>canTransformIndicator</string>
+	<key>nodeRotation</key>
+	<string>cupertinoscene</string>
+	<key>sessionMargin</key>
+	<string>shaderHead</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifierfacadeborder</key>
+	<string>impressionHead</string>
+	<key>oldpopup</key>
+	<string>restrictionmode</string>
+	<key>publicdescriptionedge</key>
+	<string>startzone</string>
+	<key>resizableScenario</key>
+	<string>shouldContinueMatrix</string>
+	<key>sequentialMultiplication</key>
+	<string>sequentialSegment</string>
+	<key>sliderrotation</key>
+	<string>enabledasync</string>
+	<key>taskstyledepth</key>
+	<string>pagerTheme</string>
+	<key>upgradevector</key>
+	<string>featureProcess</string>
+</dict>
+</plist>

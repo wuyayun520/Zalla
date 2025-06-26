@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSingleton</key>
+	<string>animatedSegment</string>
+	<key>ephemeralMend</key>
+	<string>canAttachTransition</string>
+	<key>presenterPadding</key>
+	<string>opaqueModule</string>
+	<key>resultRotation</key>
+	<string>removeTransformer</string>
+</dict>
+</plist>

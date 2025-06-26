@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletstate</key>
+	<string>containerBrightness</string>
+	<key>easyAspectRatio</key>
+	<string>significantScene</string>
+	<key>evaluationBottom</key>
+	<string>shouldTransitionModulus</string>
+	<key>mediumPresenter</key>
+	<string>canLoadTouch</string>
+	<key>newestIcon</key>
+	<string>receiveRoute</string>
+	<key>splitterinteraction</key>
+	<string>mobilestatus</string>
+	<key>standaloneSign</key>
+	<string>buildExpanded</string>
+	<key>vectorinsidememento</key>
+	<string>canMountedCard</string>
+	<key>webDetail</key>
+	<string>completedNotifier</string>
+	<key>zoneDelay</key>
+	<string>disconnectbullet</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteReduction</key>
+	<string>setupConfiguration</string>
+	<key>largereliability</key>
+	<string>immutableStateless</string>
+	<key>listenconstraint</key>
+	<string>cupertinoDelivery</string>
+	<key>nativeFeature</key>
+	<string>injectionStatus</string>
+	<key>oldQueue</key>
+	<string>resizableReplica</string>
+	<key>scrollableInfrastructure</key>
+	<string>cupertinoCaption</string>
+	<key>scrollerBrightness</key>
+	<string>executeFuture</string>
+	<key>shouldBindUsage</key>
+	<string>parallelEvaluation</string>
+	<key>sortedSpine</key>
+	<string>tickerEnvironment</string>
+</dict>
+</plist>

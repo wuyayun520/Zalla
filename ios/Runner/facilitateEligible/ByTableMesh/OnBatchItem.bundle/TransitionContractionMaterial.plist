@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionaroundshape</key>
+	<string>hasreduction</string>
+	<key>basicQueue</key>
+	<string>rangeTop</string>
+	<key>captionTag</key>
+	<string>canPauseAnchor</string>
+	<key>interactiveDescriptor</key>
+	<string>canTransformBaseline</string>
+	<key>iterativeAperture</key>
+	<string>cursorResponse</string>
+	<key>primaryVector</key>
+	<string>detachmap</string>
+	<key>resourceforsingleton</key>
+	<string>polygonIndex</string>
+	<key>spriteStyle</key>
+	<string>desktopLayer</string>
+</dict>
+</plist>

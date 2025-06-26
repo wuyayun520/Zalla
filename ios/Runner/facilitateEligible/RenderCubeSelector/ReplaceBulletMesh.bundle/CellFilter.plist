@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSkewX</key>
+	<string>retainedbuffer</string>
+	<key>attachtext</key>
+	<string>requestswitch</string>
+	<key>lastgrid</key>
+	<string>canUnmountConsumer</string>
+	<key>liteEqualization</key>
+	<string>pivotalsymbol</string>
+	<key>multiQuaternion</key>
+	<string>overrideDecoration</string>
+	<key>mutableController</key>
+	<string>addSubscription</string>
+	<key>shouldBuildPet</key>
+	<string>shouldDetachRoute</string>
+	<key>shouldUnbindGraphic</key>
+	<string>scaleLeft</string>
+</dict>
+</plist>

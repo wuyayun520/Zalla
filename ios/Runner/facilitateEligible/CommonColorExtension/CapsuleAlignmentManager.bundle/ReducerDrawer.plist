@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundletext</key>
+	<string>notifierStatus</string>
+	<key>cachecaption</key>
+	<string>priorDimension</string>
+	<key>displayableListView</key>
+	<string>transformusecase</string>
+	<key>displayablePlayback</key>
+	<string>normalNavigation</string>
+	<key>equivalentTag</key>
+	<string>cubitthroughvisitor</string>
+	<key>frameScale</key>
+	<string>usedExpanded</string>
+	<key>navigationrouter</key>
+	<string>delegateInteractor</string>
+	<key>statelessChecklist</key>
+	<string>nativeCaption</string>
+</dict>
+</plist>

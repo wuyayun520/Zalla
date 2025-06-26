@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCombiner</key>
+	<string>imagetaskcontrast</string>
+	<key>discardedCurve</key>
+	<string>diversifiedawait</string>
+	<key>dynamicProvider</key>
+	<string>extensionDecorator</string>
+	<key>largeLoss</key>
+	<string>distinctiondelay</string>
+	<key>nodeindex</key>
+	<string>statefulSplitter</string>
+	<key>positionedskewy</key>
+	<string>paddingBottom</string>
+	<key>shouldvalidateclipper</key>
+	<string>visualizepet</string>
+	<key>storagebybridge</key>
+	<string>shouldStopUnary</string>
+	<key>textureinstate</key>
+	<string>inactiveMovement</string>
+	<key>uniformIntegration</key>
+	<string>canTransitionAnimatedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScreen</key>
+	<string>activeTopic</string>
+	<key>shouldAnimateNavigator</key>
+	<string>petuntiltask</string>
+	<key>shouldFinishAspect</key>
+	<string>fragmentsContrast</string>
+	<key>shouldSerializeNavigation</key>
+	<string>iterativeDelegate</string>
+	<key>triggerDirection</key>
+	<string>crucialExpanded</string>
+	<key>vectorForce</key>
+	<string>reflectTransition</string>
+</dict>
+</plist>

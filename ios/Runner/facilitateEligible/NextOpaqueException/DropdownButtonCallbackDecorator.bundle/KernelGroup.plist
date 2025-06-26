@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTexture</key>
+	<string>canTrainStateless</string>
+	<key>crucialBullet</key>
+	<string>greatAxis</string>
+	<key>delegateOrientation</key>
+	<string>positionSpeed</string>
+	<key>intermediateError</key>
+	<string>endboxshadow</string>
+	<key>isInterpolation</key>
+	<string>ephemeralStack</string>
+	<key>joinerorientation</key>
+	<string>canConnectModulus</string>
+	<key>mobileVertex</key>
+	<string>factoryCycle</string>
+	<key>resizableTime</key>
+	<string>cancelGate</string>
+	<key>resultName</key>
+	<string>momentumBottom</string>
+</dict>
+</plist>

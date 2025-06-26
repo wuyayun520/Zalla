@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactercompleter</key>
+	<string>requiredPreview</string>
+	<key>commonModule</key>
+	<string>equipmentSingleton</string>
+	<key>custompaintparametertop</key>
+	<string>keyInstruction</string>
+	<key>dialogsdespiteform</key>
+	<string>scaffoldKind</string>
+	<key>liteBorder</key>
+	<string>mergervelocity</string>
+	<key>methodOffset</key>
+	<string>canInflateAperture</string>
+	<key>seekconstraint</key>
+	<string>discardedItem</string>
+	<key>similarConnector</key>
+	<string>newestKernel</string>
+	<key>transitiondecoratorscale</key>
+	<string>subscribeCosine</string>
+</dict>
+</plist>

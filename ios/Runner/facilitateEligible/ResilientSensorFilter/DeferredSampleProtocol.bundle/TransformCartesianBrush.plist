@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionchaintint</key>
+	<string>baseexceptparameter</string>
+	<key>fetchoperation</key>
+	<string>beginnerSine</string>
+	<key>scenariotype</key>
+	<string>greatScope</string>
+	<key>serviceacceleration</key>
+	<string>animatedStoryboard</string>
+	<key>shouldDecodeRadio</key>
+	<string>cursorNumber</string>
+	<key>shouldStopSegue</key>
+	<string>backwarddelegatevisible</string>
+	<key>specifyActivity</key>
+	<string>flexibleinterfaceborder</string>
+	<key>storageduringtask</key>
+	<string>mapperLeft</string>
+	<key>workflowtaskrotation</key>
+	<string>catalystTop</string>
+</dict>
+</plist>

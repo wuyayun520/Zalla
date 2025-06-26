@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEmitter</key>
+	<string>mobileTrajectory</string>
+	<key>customStateless</key>
+	<string>fixedLocalization</string>
+	<key>defaultArithmetic</key>
+	<string>originalCurve</string>
+	<key>impactVisibility</key>
+	<string>mediocreResult</string>
+	<key>providerofwork</key>
+	<string>shearAllocator</string>
+	<key>shouldNavigateTask</key>
+	<string>smartResolver</string>
+	<key>shoulddisconnectgram</key>
+	<string>shouldUpdateSign</string>
+	<key>statefulGraph</key>
+	<string>integerMethod</string>
+	<key>titleValidation</key>
+	<string>emitGesture</string>
+	<key>utiloftype</key>
+	<string>canPauseTabBar</string>
+</dict>
+</plist>

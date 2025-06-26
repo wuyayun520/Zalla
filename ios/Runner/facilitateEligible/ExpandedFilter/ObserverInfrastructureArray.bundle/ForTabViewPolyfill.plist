@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTransparency</key>
+	<string>shouldDisconnectConstraint</string>
+	<key>basicFragments</key>
+	<string>richtextevent</string>
+	<key>groupvalidation</key>
+	<string>vectoredge</string>
+	<key>shouldSkipInkWell</key>
+	<string>buildMediaQuery</string>
+</dict>
+</plist>

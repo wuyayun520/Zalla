@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableEfficiency</key>
+	<string>prioritysingletonsize</string>
+	<key>gridFlags</key>
+	<string>mainHistogram</string>
+	<key>rebuildchapter</key>
+	<string>hasCheckbox</string>
+	<key>usecaseOffset</key>
+	<string>flexiblegradient</string>
+</dict>
+</plist>

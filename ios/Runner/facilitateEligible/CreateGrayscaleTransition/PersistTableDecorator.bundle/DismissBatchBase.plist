@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorborder</key>
+	<string>marginrate</string>
+	<key>immediateCompletion</key>
+	<string>secondBaseline</string>
+	<key>inactiveConsumption</key>
+	<string>revisitPosition</string>
+	<key>roleedge</key>
+	<string>denseConnector</string>
+	<key>shouldshowgraphic</key>
+	<string>inflateService</string>
+	<key>significantCertificate</key>
+	<string>destroyRect</string>
+</dict>
+</plist>

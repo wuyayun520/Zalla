@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAxis</key>
+	<string>newestSensor</string>
+	<key>declarativeTaxonomy</key>
+	<string>matrixFlyweight</string>
+	<key>explicitUseCase</key>
+	<string>desktopquaternion</string>
+	<key>normalConnector</key>
+	<string>retainedbehavior</string>
+	<key>numericalKernel</key>
+	<string>robustMetrics</string>
+	<key>retainedcaptiontag</key>
+	<string>lastsegmentappearance</string>
+</dict>
+</plist>

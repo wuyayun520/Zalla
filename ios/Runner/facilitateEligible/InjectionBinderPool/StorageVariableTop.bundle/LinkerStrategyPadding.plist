@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInset</key>
+	<string>ignoredSwift</string>
+	<key>desktopGradient</key>
+	<string>nativeNib</string>
+	<key>documentSpacing</key>
+	<string>tweakLeft</string>
+	<key>mechanismRate</key>
+	<string>holdService</string>
+	<key>offsetColor</key>
+	<string>profileScope</string>
+	<key>shouldrenderview</key>
+	<string>intermediateGift</string>
+</dict>
+</plist>

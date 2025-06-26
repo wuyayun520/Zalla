@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScale</key>
+	<string>explicitCombiner</string>
+	<key>delicateSlash</key>
+	<string>resilientChooser</string>
+	<key>deliveryStatus</key>
+	<string>canConnectMap</string>
+	<key>documentforenvironment</key>
+	<string>canNavigatePageView</string>
+	<key>documentscopesaturation</key>
+	<string>lazyInterpolation</string>
+	<key>optimizeracceleration</key>
+	<string>constantCenter</string>
+	<key>pinchableAperture</key>
+	<string>globalDispatcher</string>
+	<key>shouldPauseMobile</key>
+	<string>canKeepMusic</string>
+	<key>shouldresumealert</key>
+	<string>remainderLeft</string>
+	<key>smallNotifier</key>
+	<string>interactorDepth</string>
+</dict>
+</plist>

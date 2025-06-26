@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentconstant</key>
+	<string>enabledVector</string>
+	<key>displayableObject</key>
+	<string>minEntropy</string>
+	<key>multiComponent</key>
+	<string>missedShader</string>
+	<key>shouldDecodeMatrix</key>
+	<string>animationAction</string>
+	<key>shouldMountedProjection</key>
+	<string>shouldEmitAlpha</string>
+	<key>tableHue</key>
+	<string>canRebuildCompletion</string>
+</dict>
+</plist>

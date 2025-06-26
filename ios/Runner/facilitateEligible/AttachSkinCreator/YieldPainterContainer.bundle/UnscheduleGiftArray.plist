@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentPressure</key>
+	<string>uniformDescription</string>
+	<key>emitterAppearance</key>
+	<string>modelShade</string>
+	<key>explicitresourceflags</key>
+	<string>divideSink</string>
+	<key>fixedBatch</key>
+	<string>calculatetable</string>
+	<key>loadchapter</key>
+	<string>alignmentStyle</string>
+	<key>materialDisclaimer</key>
+	<string>shouldPopTabBar</string>
+	<key>timerandvalue</key>
+	<string>originalRepository</string>
+</dict>
+</plist>

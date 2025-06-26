@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonebase</key>
+	<string>blocProxy</string>
+	<key>directGrayscale</key>
+	<string>canTrainMobile</string>
+	<key>requiredAlert</key>
+	<string>directlySizedBox</string>
+	<key>sceneforadapter</key>
+	<string>descriptorShade</string>
+	<key>skinBound</key>
+	<string>comprehensiveMargin</string>
+	<key>unaryutil</key>
+	<string>offsetFunction</string>
+</dict>
+</plist>

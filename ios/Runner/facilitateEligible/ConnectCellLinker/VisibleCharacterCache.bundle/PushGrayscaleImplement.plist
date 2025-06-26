@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertName</key>
+	<string>mobileHash</string>
+	<key>buttonreceiver</key>
+	<string>shoulddisconnectnotification</string>
+	<key>cubitHead</key>
+	<string>subsequentConsumer</string>
+	<key>embraceasync</key>
+	<string>mountedDialogs</string>
+	<key>hasConsumer</key>
+	<string>cartesianNavigator</string>
+	<key>screennotation</key>
+	<string>substantialProjection</string>
+	<key>temporaryNavigator</key>
+	<string>zoneColor</string>
+</dict>
+</plist>

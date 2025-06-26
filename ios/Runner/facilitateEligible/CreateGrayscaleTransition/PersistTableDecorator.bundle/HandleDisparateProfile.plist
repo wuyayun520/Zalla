@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWorkflow</key>
+	<string>gradientPressure</string>
+	<key>chartamongprocess</key>
+	<string>shouldLayoutProject</string>
+	<key>hardlifecycle</key>
+	<string>reconcilemodal</string>
+	<key>richtextMode</key>
+	<string>synchronousPager</string>
+	<key>shouldContinueSensor</key>
+	<string>columnScale</string>
+	<key>shoulddecodeexpanded</key>
+	<string>typicalKernel</string>
+	<key>textsaturation</key>
+	<string>canFetchScale</string>
+	<key>thresholdTint</key>
+	<string>mainrouteforce</string>
+</dict>
+</plist>

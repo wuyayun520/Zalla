@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferType</key>
+	<string>activityPattern</string>
+	<key>cellDirection</key>
+	<string>publicCollection</string>
+	<key>concreteRow</key>
+	<string>informationrotation</string>
+	<key>curvecontrast</key>
+	<string>appendRect</string>
+	<key>deferredFormat</key>
+	<string>shouldTransitionEqualization</string>
+	<key>expandedContrast</key>
+	<string>retainedKernel</string>
+	<key>iterativeIcon</key>
+	<string>multiTimeline</string>
+	<key>shouldSkipSample</key>
+	<string>intermediateSizedBox</string>
+	<key>standaloneprioritykind</key>
+	<string>animationBound</string>
+	<key>substantialinterpolationsize</key>
+	<string>streamLabel</string>
+</dict>
+</plist>

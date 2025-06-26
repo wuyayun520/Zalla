@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkduration</key>
+	<string>dynamicChannels</string>
+	<key>customAxis</key>
+	<string>shouldSaveDescriptor</string>
+	<key>permanentStream</key>
+	<string>functionalLatency</string>
+	<key>shouldResumeNotifier</key>
+	<string>shouldStreamCompletion</string>
+	<key>shouldUnmountAnchor</key>
+	<string>shouldProcessSlider</string>
+	<key>slashdespitestructure</key>
+	<string>autoAnimator</string>
+	<key>symmetricData</key>
+	<string>standaloneInterpolation</string>
+	<key>taxonomyBorder</key>
+	<string>synchronizeNavigator</string>
+</dict>
+</plist>

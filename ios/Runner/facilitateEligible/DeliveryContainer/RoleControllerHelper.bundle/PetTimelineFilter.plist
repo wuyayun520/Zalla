@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVisible</key>
+	<string>captureListener</string>
+	<key>permanentMethod</key>
+	<string>effectactionbound</string>
+	<key>statefultype</key>
+	<string>createProjection</string>
+	<key>touchtransition</key>
+	<string>shouldSerializeCapsule</string>
+</dict>
+</plist>

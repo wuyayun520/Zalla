@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCursor</key>
+	<string>replaceSpine</string>
+	<key>equipmentstream</key>
+	<string>makeCoordinator</string>
+	<key>euclideanFlex</key>
+	<string>accelerateNode</string>
+	<key>formatnib</key>
+	<string>segmentOrientation</string>
+	<key>inheritedStroke</key>
+	<string>deployCurve</string>
+	<key>interactiveMenu</key>
+	<string>graphicTask</string>
+	<key>rendererMomentum</key>
+	<string>characterPosition</string>
+	<key>spotResponse</key>
+	<string>lastHeap</string>
+	<key>tangentmementoindex</key>
+	<string>observeNib</string>
+	<key>threadStyle</key>
+	<string>completedDropdownButton</string>
+</dict>
+</plist>

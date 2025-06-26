@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFlex</key>
+	<string>sanitizeChart</string>
+	<key>builderlayeredge</key>
+	<string>axisFramework</string>
+	<key>mainresource</key>
+	<string>storeHue</string>
+	<key>normaldocumenthead</key>
+	<string>canDismissScroll</string>
+	<key>presentervisible</key>
+	<string>animateAnimation</string>
+	<key>shouldAttachScale</key>
+	<string>segmentdetector</string>
+	<key>shouldMountedProvider</key>
+	<string>liteProcessor</string>
+	<key>standaloneIntensity</key>
+	<string>tabviewActivity</string>
+</dict>
+</plist>

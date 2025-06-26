@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPadding</key>
+	<string>unlockVector</string>
+	<key>buildertitle</key>
+	<string>cleanRepository</string>
+	<key>consultativeradiusmode</key>
+	<string>tensorRadio</string>
+	<key>enabledRecursion</key>
+	<string>canSerializeSensor</string>
+	<key>opaqueVideo</key>
+	<string>storageFramework</string>
+	<key>shouldDeserializeImage</key>
+	<string>composableActivity</string>
+	<key>shouldShowStateless</key>
+	<string>cursorMargin</string>
+</dict>
+</plist>

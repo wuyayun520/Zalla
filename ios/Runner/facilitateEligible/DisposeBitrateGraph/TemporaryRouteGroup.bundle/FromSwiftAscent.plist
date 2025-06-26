@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaprovision</key>
+	<string>canMountedRole</string>
+	<key>mobileSpot</key>
+	<string>discardedSession</string>
+	<key>mutableTextField</key>
+	<string>priorResponder</string>
+	<key>shouldReplaceTool</key>
+	<string>gramType</string>
+</dict>
+</plist>

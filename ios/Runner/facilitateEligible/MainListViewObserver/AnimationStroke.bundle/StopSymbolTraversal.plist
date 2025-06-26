@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerRichText</key>
+	<string>particleorigin</string>
+	<key>loopFormat</key>
+	<string>eagerLinker</string>
+	<key>missedAnimator</key>
+	<string>tablestyletint</string>
+	<key>nextDropdownButton</key>
+	<string>typicalAlert</string>
+	<key>provideranalyzer</key>
+	<string>sequentialRoute</string>
+	<key>subsequentDependency</key>
+	<string>interpolateSubscription</string>
+</dict>
+</plist>

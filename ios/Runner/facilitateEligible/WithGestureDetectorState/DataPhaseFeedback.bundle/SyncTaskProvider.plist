@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralspot</key>
+	<string>shouldDecodeSlider</string>
+	<key>multiplicationmomentum</key>
+	<string>positionContrast</string>
+	<key>numericalequalization</key>
+	<string>shouldDispatchDropdownButton</string>
+	<key>seamlessSubpixel</key>
+	<string>renderHistogram</string>
+	<key>similaroverlaytheme</key>
+	<string>canObserveStoryboard</string>
+	<key>sustainableBatch</key>
+	<string>collectiontail</string>
+</dict>
+</plist>

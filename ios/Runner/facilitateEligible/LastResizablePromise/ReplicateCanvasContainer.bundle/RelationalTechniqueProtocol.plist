@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerdelay</key>
+	<string>modelparamcount</string>
+	<key>customBinder</key>
+	<string>dismissInjection</string>
+	<key>declarativeInfo</key>
+	<string>mutableRecursion</string>
+	<key>polyfillColor</key>
+	<string>dropdownbuttonversusstate</string>
+	<key>primaryGroup</key>
+	<string>routeCertificate</string>
+	<key>publicRestriction</key>
+	<string>paintHero</string>
+	<key>publisherflags</key>
+	<string>ephemeralnavigator</string>
+	<key>repositorydelivery</key>
+	<string>interpolatecontroller</string>
+	<key>textbrightness</key>
+	<string>comprehensiveLatency</string>
+</dict>
+</plist>

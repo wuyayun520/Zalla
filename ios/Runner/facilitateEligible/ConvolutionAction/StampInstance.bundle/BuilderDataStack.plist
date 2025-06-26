@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterDensity</key>
+	<string>removesink</string>
+	<key>comprehensivehashbottom</key>
+	<string>encodeSwitch</string>
+	<key>defaultMission</key>
+	<string>clearTicker</string>
+	<key>inactiveMonster</key>
+	<string>tabviewCycle</string>
+	<key>localRestriction</key>
+	<string>deprecateAsset</string>
+	<key>optionsize</key>
+	<string>unsortedDescription</string>
+	<key>scaffoldTag</key>
+	<string>canvasTier</string>
+</dict>
+</plist>

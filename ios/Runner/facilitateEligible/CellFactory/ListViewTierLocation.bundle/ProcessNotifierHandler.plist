@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>automusicsaturation</key>
+	<string>listviewJob</string>
+	<key>composableCosine</key>
+	<string>multiGrid</string>
+	<key>containercallback</key>
+	<string>agileSubscriber</string>
+	<key>draggableRemainder</key>
+	<string>shouldHandleChecklist</string>
+	<key>imageSkewY</key>
+	<string>replicaLeft</string>
+	<key>largeExtension</key>
+	<string>asyncEnvironment</string>
+	<key>persistentContainer</key>
+	<string>dismissFrame</string>
+	<key>quaternionSpeed</key>
+	<string>isolatecontextedge</string>
+	<key>replacemember</key>
+	<string>connectTexture</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonArchitecture</key>
+	<string>numericalGem</string>
+	<key>dependencyValidation</key>
+	<string>tensorSound</string>
+	<key>euclideancontroller</key>
+	<string>architectureMomentum</string>
+	<key>handlerspeed</key>
+	<string>gradientMomentum</string>
+	<key>radiusuntilactivity</key>
+	<string>playbackCenter</string>
+	<key>synchronousAnimator</key>
+	<string>customizedConfiguration</string>
+</dict>
+</plist>

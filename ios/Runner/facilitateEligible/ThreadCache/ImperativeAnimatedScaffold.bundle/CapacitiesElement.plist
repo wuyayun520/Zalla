@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBorder</key>
+	<string>shouldMountedSensor</string>
+	<key>desktopPriority</key>
+	<string>localstatefrequency</string>
+	<key>independentprogressbar</key>
+	<string>canDisposeSizedBox</string>
+	<key>optimizerrectangle</key>
+	<string>geometricScheduler</string>
+	<key>shouldBindDelegate</key>
+	<string>refreshResolver</string>
+	<key>subscriberOpacity</key>
+	<string>pendingNorm</string>
+</dict>
+</plist>

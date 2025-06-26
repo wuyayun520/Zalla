@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledexception</key>
+	<string>persistContainer</string>
+	<key>joinerPressure</key>
+	<string>keepRole</string>
+	<key>materialTitle</key>
+	<string>numericalzone</string>
+	<key>splitterduration</key>
+	<string>alphaRate</string>
+</dict>
+</plist>

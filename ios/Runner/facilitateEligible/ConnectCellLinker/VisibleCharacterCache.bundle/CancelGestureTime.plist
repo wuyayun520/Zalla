@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextEmitter</key>
+	<string>mountedCapsule</string>
+	<key>nextMember</key>
+	<string>sliderBuffer</string>
+	<key>nodeSkewX</key>
+	<string>robustRecursion</string>
+	<key>operationTint</key>
+	<string>shouldKeepScreen</string>
+	<key>protectedFragments</key>
+	<string>skipScroll</string>
+	<key>shouldkeepgradient</key>
+	<string>inactiveInkWell</string>
+	<key>statelessDistance</key>
+	<string>displayBuffer</string>
+	<key>transposechallenge</key>
+	<string>annotateAction</string>
+</dict>
+</plist>

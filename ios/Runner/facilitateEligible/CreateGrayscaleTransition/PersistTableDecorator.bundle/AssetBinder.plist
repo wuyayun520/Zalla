@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticPopup</key>
+	<string>canDismissStoryboard</string>
+	<key>immediateChooser</key>
+	<string>shouldLoadWorkflow</string>
+	<key>kernelCount</key>
+	<string>techniqueVisitor</string>
+	<key>responsiveAnimatedContainer</key>
+	<string>sortedGrid</string>
+	<key>strengthBorder</key>
+	<string>effectDelay</string>
+	<key>textureorstate</key>
+	<string>lazyNode</string>
+</dict>
+</plist>

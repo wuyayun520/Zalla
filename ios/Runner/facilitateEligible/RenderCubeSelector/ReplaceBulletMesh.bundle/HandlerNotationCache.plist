@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionasphase</key>
+	<string>singletonTask</string>
+	<key>criticalMedia</key>
+	<string>lockRow</string>
+	<key>interpolationscale</key>
+	<string>delicateMomentum</string>
+	<key>nodeloader</key>
+	<string>shouldParseMediaQuery</string>
+	<key>shouldTrainWorkflow</key>
+	<string>touchRow</string>
+	<key>tickerIndex</key>
+	<string>immutableView</string>
+	<key>timelineLeft</key>
+	<string>canMountedStream</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerrow</key>
+	<string>screenKind</string>
+	<key>callbackmargin</key>
+	<string>renderLabel</string>
+	<key>grainscale</key>
+	<string>shouldStopCard</string>
+	<key>interactiveMesh</key>
+	<string>mountedmap</string>
+	<key>shouldMountedWidget</key>
+	<string>injectPosition</string>
+	<key>singleNotification</key>
+	<string>otherCapacity</string>
+	<key>tabviewRate</key>
+	<string>lockModel</string>
+</dict>
+</plist>

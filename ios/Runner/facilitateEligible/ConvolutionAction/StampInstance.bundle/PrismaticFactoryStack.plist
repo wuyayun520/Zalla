@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserDirection</key>
+	<string>shouldAttachBloc</string>
+	<key>denseEvent</key>
+	<string>storedecoratorappearance</string>
+	<key>difficultScene</key>
+	<string>minGradient</string>
+	<key>hierarchicalvector</key>
+	<string>tappableCompleter</string>
+	<key>oldTouch</key>
+	<string>fusedScene</string>
+	<key>shouldBuildAlert</key>
+	<string>requestStage</string>
+	<key>transpilealignment</key>
+	<string>coordinatorreliability</string>
+</dict>
+</plist>

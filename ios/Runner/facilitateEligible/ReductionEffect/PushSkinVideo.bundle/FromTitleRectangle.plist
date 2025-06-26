@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalEfficiency</key>
+	<string>shouldFormatTextField</string>
+	<key>iconTension</key>
+	<string>statefulCache</string>
+	<key>singleSkin</key>
+	<string>sessioncenter</string>
+	<key>specifierVisibility</key>
+	<string>releaseNode</string>
+	<key>strengthSaturation</key>
+	<string>shouldValidateUnary</string>
+	<key>ternaryOffset</key>
+	<string>sharedEntity</string>
+</dict>
+</plist>

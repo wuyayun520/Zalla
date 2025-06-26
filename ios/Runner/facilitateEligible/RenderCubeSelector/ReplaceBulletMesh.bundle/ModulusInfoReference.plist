@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>linkerSpeed</key>
+	<string>missedGrid</string>
+	<key>processfragment</key>
+	<string>canYieldRemainder</string>
+	<key>reactiveSubscriber</key>
+	<string>substantialroute</string>
+	<key>resizableCharacteristic</key>
+	<string>drawCallback</string>
+</dict>
+</plist>

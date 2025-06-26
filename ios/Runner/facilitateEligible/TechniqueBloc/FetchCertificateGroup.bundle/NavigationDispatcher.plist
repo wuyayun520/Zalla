@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventfeedback</key>
+	<string>borderTail</string>
+	<key>paddingTransparency</key>
+	<string>thresholdsize</string>
+	<key>shouldNavigateBuilder</key>
+	<string>requestDecorator</string>
+	<key>statelessTraversal</key>
+	<string>delegateRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarcubit</key>
+	<string>routeCertificate</string>
+	<key>defaultBrush</key>
+	<string>keepCupertino</string>
+	<key>lastRange</key>
+	<string>dynamicProject</string>
+	<key>otherScaffold</key>
+	<string>convertsignature</string>
+	<key>permissiveLoop</key>
+	<string>declarativePresenter</string>
+	<key>resilientCapsule</key>
+	<string>mediumText</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commoneffect</key>
+	<string>canMountMission</string>
+	<key>detectorresponse</key>
+	<string>enhancegram</string>
+	<key>easyIntegration</key>
+	<string>numericalHandler</string>
+	<key>inactiveDependency</key>
+	<string>webGrayscale</string>
+	<key>oldsound</key>
+	<string>requestprogressbar</string>
+	<key>responsiveLoop</key>
+	<string>restoreDuration</string>
+	<key>shouldUnbindDocument</key>
+	<string>musicviastructure</string>
+	<key>uniformBinder</key>
+	<string>spinePadding</string>
+</dict>
+</plist>

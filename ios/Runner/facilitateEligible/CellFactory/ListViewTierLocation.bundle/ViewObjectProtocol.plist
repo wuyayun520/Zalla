@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionmediatoredge</key>
+	<string>maxNotification</string>
+	<key>convertcell</key>
+	<string>actionCenter</string>
+	<key>groupcombiner</key>
+	<string>activatedPresenter</string>
+	<key>hashoperationmode</key>
+	<string>radioperform</string>
+	<key>providerslider</key>
+	<string>buttonPlatform</string>
+	<key>shouldDispatchTangent</key>
+	<string>prevProcessor</string>
+	<key>typicalcheckbox</key>
+	<string>positionedaroundsystem</string>
+</dict>
+</plist>

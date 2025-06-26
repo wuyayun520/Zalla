@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbaseline</key>
+	<string>undertakeChart</string>
+	<key>coordinatormethodbottom</key>
+	<string>parsetimer</string>
+	<key>crudeModal</key>
+	<string>amortizationShape</string>
+	<key>cupertinoEvent</key>
+	<string>configurationInterval</string>
+	<key>directlyFinder</key>
+	<string>encodeHandler</string>
+	<key>permanentpaintercenter</key>
+	<string>customizedUnary</string>
+	<key>provideramongvisitor</key>
+	<string>storyboardcreator</string>
+	<key>radiusRotation</key>
+	<string>trajectoryRate</string>
+	<key>shouldfinishreference</key>
+	<string>nativeSearcher</string>
+	<key>temporaryRequest</key>
+	<string>alertParameter</string>
+</dict>
+</plist>

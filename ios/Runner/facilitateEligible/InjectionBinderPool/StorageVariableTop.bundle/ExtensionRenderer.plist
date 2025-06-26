@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarytypeindex</key>
+	<string>primaryConsumption</string>
+	<key>customizedfactoryfeedback</key>
+	<string>clusterPressure</string>
+	<key>durationBrightness</key>
+	<string>shouldUnbindMargin</string>
+	<key>isolateoutsidework</key>
+	<string>pinchableviewmomentum</string>
+	<key>mainConsumption</key>
+	<string>canFinishSymbol</string>
+	<key>pinchableKernel</key>
+	<string>remediationFeedback</string>
+	<key>shouldInflatePoint</key>
+	<string>analyzesprite</string>
+	<key>shouldinflatelayout</key>
+	<string>crucialSwitch</string>
+</dict>
+</plist>

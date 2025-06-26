@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatebitrate</key>
+	<string>sortedSwitch</string>
+	<key>bulletShape</key>
+	<string>nativePainter</string>
+	<key>directlynavigator</key>
+	<string>actionquaternion</string>
+	<key>lostCell</key>
+	<string>retainedEqualization</string>
+	<key>pinchableBullet</key>
+	<string>lockprotocol</string>
+	<key>requirederror</key>
+	<string>requiredGate</string>
+	<key>resourceSpeed</key>
+	<string>animatedGrid</string>
+	<key>shouldParseDocument</key>
+	<string>canRestartNotification</string>
+	<key>sophisticatedVideo</key>
+	<string>sharedclipper</string>
+</dict>
+</plist>

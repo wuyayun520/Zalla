@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorkindborder</key>
+	<string>keyclipper</string>
+	<key>consultativeCanvas</key>
+	<string>equipmentCount</string>
+	<key>displayableEntity</key>
+	<string>listenerResponse</string>
+	<key>enabledlocalizationkind</key>
+	<string>fusedImage</string>
+	<key>interactorTension</key>
+	<string>resetGroup</string>
+	<key>prismaticElasticity</key>
+	<string>respectiveMatrix</string>
+	<key>tabviewformdensity</key>
+	<string>rotateIntensity</string>
+</dict>
+</plist>

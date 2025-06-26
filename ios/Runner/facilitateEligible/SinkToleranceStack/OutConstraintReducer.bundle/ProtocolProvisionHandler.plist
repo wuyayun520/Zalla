@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeBorder</key>
+	<string>exponentEdge</string>
+	<key>lastRole</key>
+	<string>replaceTask</string>
+	<key>respectiveOperation</key>
+	<string>displayableScaffold</string>
+	<key>seekfactory</key>
+	<string>intermediateRenderer</string>
+	<key>shouldReplaceAlpha</key>
+	<string>symbolBrightness</string>
+	<key>shouldtransformpadding</key>
+	<string>euclideanFormat</string>
+</dict>
+</plist>

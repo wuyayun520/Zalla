@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerStream</key>
+	<string>findHash</string>
+	<key>immediateWidget</key>
+	<string>shouldSkipPoint</string>
+	<key>pivotalEvolution</key>
+	<string>persistentEvent</string>
+	<key>shouldlayoutconsumer</key>
+	<string>denseHash</string>
+	<key>textContrast</key>
+	<string>permutationDelay</string>
+	<key>visibleThroughput</key>
+	<string>streaminsidemethod</string>
+</dict>
+</plist>

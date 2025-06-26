@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursortext</key>
+	<string>completerbridgeinterval</string>
+	<key>dispatchfuture</key>
+	<string>multiplyProgressBar</string>
+	<key>invisibleInfo</key>
+	<string>setstatetask</string>
+	<key>pointresponse</key>
+	<string>tentativeState</string>
+	<key>queueLocation</key>
+	<string>independentSubpixel</string>
+	<key>resizableGrid</key>
+	<string>filltopic</string>
+	<key>semanticStroke</key>
+	<string>mediocreResolver</string>
+	<key>shouldPauseScale</key>
+	<string>consumeCompleter</string>
+	<key>shouldUpdatePlate</key>
+	<string>previewOperation</string>
+	<key>usageKind</key>
+	<string>canDismissAlert</string>
+</dict>
+</plist>

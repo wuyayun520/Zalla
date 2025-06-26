@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledError</key>
+	<string>clusterDelay</string>
+	<key>graphdepth</key>
+	<string>interceptTicker</string>
+	<key>interfaceInteraction</key>
+	<string>shouldbuildgram</string>
+	<key>limitentity</key>
+	<string>compositionalStore</string>
+	<key>lockgate</key>
+	<string>shoulddispatchprofile</string>
+	<key>mediocrePriority</key>
+	<string>locateTicker</string>
+	<key>shouldDetachOptimizer</key>
+	<string>streamlineCallback</string>
+	<key>synchronousconsumption</key>
+	<string>consultativeStorage</string>
+</dict>
+</plist>

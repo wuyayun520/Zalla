@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateintensity</key>
+	<string>onborderchanged</string>
+	<key>asyncTheme</key>
+	<string>canRouteBuilder</string>
+	<key>comprehensiveSegment</key>
+	<string>reduceTimer</string>
+	<key>imperativeConnector</key>
+	<string>positionedAction</string>
+	<key>invisiblePlayback</key>
+	<string>dimensionBrightness</string>
+	<key>isolatereducer</key>
+	<string>requiredBitrate</string>
+	<key>semanticGroup</key>
+	<string>zoneinterpreterposition</string>
+	<key>unactivatedSearcher</key>
+	<string>shouldUnmountProject</string>
+</dict>
+</plist>

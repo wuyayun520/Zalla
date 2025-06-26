@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUsage</key>
+	<string>sanitizeConfiguration</string>
+	<key>arithmeticcurve</key>
+	<string>multicapacity</string>
+	<key>cartesianTraversal</key>
+	<string>persistentObserver</string>
+	<key>criticalAmortization</key>
+	<string>pickerInterval</string>
+	<key>descentDelay</key>
+	<string>analyzerFlags</string>
+	<key>numericalWorkflow</key>
+	<string>canFetchSkirt</string>
+	<key>pointscopeinterval</key>
+	<string>canListenMusic</string>
+	<key>smallScalability</key>
+	<string>activeCapacities</string>
+	<key>standaloneSubscription</key>
+	<string>boxRate</string>
+	<key>variantSpacing</key>
+	<string>matrixPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOrientation</key>
+	<string>reusableTaxonomy</string>
+	<key>cacheAcceleration</key>
+	<string>descriptorMode</string>
+	<key>easyIntegrity</key>
+	<string>recursionCount</string>
+	<key>instantiatemodulus</key>
+	<string>shouldEndPositioned</string>
+	<key>mapperEdge</key>
+	<string>repositorybrightness</string>
+</dict>
+</plist>

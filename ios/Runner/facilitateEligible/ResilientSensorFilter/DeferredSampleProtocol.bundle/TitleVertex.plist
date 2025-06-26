@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintpresenter</key>
+	<string>intuitiveObject</string>
+	<key>disabledBatch</key>
+	<string>shouldEndDialogs</string>
+	<key>explicitlocalization</key>
+	<string>tappableDetail</string>
+	<key>layoutexception</key>
+	<string>semanticActivity</string>
+	<key>sineSpacing</key>
+	<string>canPrepareStream</string>
+	<key>uniformMomentum</key>
+	<string>visibleExponent</string>
+</dict>
+</plist>

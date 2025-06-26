@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialGraph</key>
+	<string>extensionmementoshape</string>
+	<key>pushutil</key>
+	<string>statefulConsumption</string>
+	<key>relationalPublisher</key>
+	<string>renderMember</string>
+	<key>requesttag</key>
+	<string>subsequentinjection</string>
+	<key>shouldDecodeGesture</key>
+	<string>canSkipCube</string>
+	<key>storageOrigin</key>
+	<string>shouldRebuildCanvas</string>
+</dict>
+</plist>

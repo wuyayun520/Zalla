@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitkind</key>
+	<string>mixinPopup</string>
+	<key>currentlinker</key>
+	<string>consultativeConsumer</string>
+	<key>groupAlignment</key>
+	<string>canParseGrayscale</string>
+	<key>intermediateRectangle</key>
+	<string>canBuildOptimizer</string>
+	<key>invisiblestate</key>
+	<string>canTransitionText</string>
+	<key>reducealignment</key>
+	<string>equalizationAppearance</string>
+	<key>shouldEncodeFragment</key>
+	<string>graphVelocity</string>
+</dict>
+</plist>

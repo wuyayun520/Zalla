@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGate</key>
+	<string>asynchronousCollection</string>
+	<key>completerincludejob</key>
+	<string>screenvisible</string>
+	<key>easySwift</key>
+	<string>observerCommand</string>
+	<key>elementTension</key>
+	<string>cellCommand</string>
+	<key>fusedtexture</key>
+	<string>reactiveDescriptor</string>
+	<key>sharedPopup</key>
+	<string>tensorBuilder</string>
+	<key>shouldPushBox</key>
+	<string>localdurationstyle</string>
+</dict>
+</plist>

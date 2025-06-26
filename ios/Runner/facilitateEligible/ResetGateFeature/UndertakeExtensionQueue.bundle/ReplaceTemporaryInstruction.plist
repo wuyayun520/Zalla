@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSkin</key>
+	<string>canAnimateInkWell</string>
+	<key>diffableExponent</key>
+	<string>shouldProcessEqualization</string>
+	<key>futurelikeadapter</key>
+	<string>nextAscent</string>
+	<key>isSensor</key>
+	<string>tangentFacade</string>
+	<key>pagerVisible</key>
+	<string>nativeSingleton</string>
+	<key>permissiveDescriptor</key>
+	<string>switchCoord</string>
+	<key>scrollablesegment</key>
+	<string>sustainableStateless</string>
+	<key>staticfragment</key>
+	<string>shouldUpdateInstruction</string>
+	<key>webElasticity</key>
+	<string>visualizeAsync</string>
+</dict>
+</plist>

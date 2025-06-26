@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalSearcher</key>
+	<string>canLoadSegue</string>
+	<key>inheritedfeaturetag</key>
+	<string>radioutil</string>
+	<key>normalProject</key>
+	<string>equalChart</string>
+	<key>numericalBoxShadow</key>
+	<string>consumerCenter</string>
+	<key>popresource</key>
+	<string>sharedModule</string>
+	<key>shouldPersistFuture</key>
+	<string>shouldPauseNavigation</string>
+	<key>webResolver</key>
+	<string>methodOpacity</string>
+</dict>
+</plist>

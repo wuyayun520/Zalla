@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteReducer</key>
+	<string>scheduleAnimation</string>
+	<key>defaultMission</key>
+	<string>scaffoldJob</string>
+	<key>explicitAscent</key>
+	<string>debugZone</string>
+	<key>liteIsolate</key>
+	<string>unmountedPet</string>
+	<key>shouldEncodeSkin</key>
+	<string>replaceExpanded</string>
+	<key>shouldFetchRow</key>
+	<string>dispatchCursor</string>
+	<key>shouldSaveDrawer</key>
+	<string>shouldpersistequipment</string>
+	<key>viewrecursion</key>
+	<string>alphatint</string>
+</dict>
+</plist>

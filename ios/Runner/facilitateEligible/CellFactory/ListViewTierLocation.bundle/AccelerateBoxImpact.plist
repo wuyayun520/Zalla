@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedRow</key>
+	<string>seekAnimation</string>
+	<key>refactordependency</key>
+	<string>shouldparseobserver</string>
+	<key>shouldStartContraction</key>
+	<string>cacheStamp</string>
+	<key>tensorStore</key>
+	<string>inkwellRate</string>
+	<key>uniformMedia</key>
+	<string>shouldInflateProject</string>
+	<key>updatesegue</key>
+	<string>shouldPushStream</string>
+	<key>webOverlay</key>
+	<string>resultaroundcomposite</string>
+</dict>
+</plist>

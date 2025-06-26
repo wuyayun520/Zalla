@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScenario</key>
+	<string>loaderTension</string>
+	<key>constraintinfrastructure</key>
+	<string>convertReducer</string>
+	<key>efficiencyAcceleration</key>
+	<string>canConnectCurve</string>
+	<key>globalKernel</key>
+	<string>boxandphase</string>
+	<key>interfaceexceptadapter</key>
+	<string>usagelistener</string>
+	<key>isPoint</key>
+	<string>startDimension</string>
+	<key>mediumResource</key>
+	<string>shouldmountedaperture</string>
+	<key>schemaColor</key>
+	<string>inheritedMethod</string>
+	<key>shouldSkipTabBar</key>
+	<string>shouldPopSine</string>
+</dict>
+</plist>

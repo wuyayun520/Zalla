@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWorkflow</key>
+	<string>seamlessBinary</string>
+	<key>channelswithtype</key>
+	<string>marshalCurve</string>
+	<key>comprehensiveAlert</key>
+	<string>lostChannel</string>
+	<key>keyConsumption</key>
+	<string>collectionWork</string>
+	<key>rectvaluedelay</key>
+	<string>priorScope</string>
+	<key>resizableIntegrity</key>
+	<string>unaryFramework</string>
+	<key>shouldFetchOptimizer</key>
+	<string>canStreamSubpixel</string>
+	<key>shouldStartOption</key>
+	<string>showcompleter</string>
+	<key>statusTheme</key>
+	<string>sharedConstraint</string>
+	<key>sustainableCatalyst</key>
+	<string>opaqueMesh</string>
+</dict>
+</plist>

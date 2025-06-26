@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateobserver</key>
+	<string>prevManager</string>
+	<key>cupertinoMember</key>
+	<string>fixedGesture</string>
+	<key>fusedPositioned</key>
+	<string>actionenvironmentdepth</string>
+	<key>gestureMode</key>
+	<string>multiEquivalent</string>
+	<key>loopofadapter</key>
+	<string>publishScale</string>
+	<key>profilealongparam</key>
+	<string>resolverAdapter</string>
+	<key>respectivevectorvisible</key>
+	<string>completionSaturation</string>
+	<key>scrollableMapper</key>
+	<string>activatedContainer</string>
+	<key>webLoss</key>
+	<string>localTransition</string>
+</dict>
+</plist>

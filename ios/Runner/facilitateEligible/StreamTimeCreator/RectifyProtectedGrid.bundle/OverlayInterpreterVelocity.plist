@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRemediation</key>
+	<string>receiveAsync</string>
+	<key>boxinsidecycle</key>
+	<string>fusedIndicator</string>
+	<key>debugsample</key>
+	<string>defaultController</string>
+	<key>diversifiedInjection</key>
+	<string>autoCache</string>
+	<key>ephemeralDispatcher</key>
+	<string>associateTitle</string>
+	<key>iscycle</key>
+	<string>constraintTier</string>
+	<key>materializerbrightness</key>
+	<string>resourceRate</string>
+	<key>movementStyle</key>
+	<string>gesturedetectorVariable</string>
+	<key>statelessOffset</key>
+	<string>immediateListView</string>
+</dict>
+</plist>

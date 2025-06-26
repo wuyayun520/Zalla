@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAnchor</key>
+	<string>canPopListView</string>
+	<key>persistenttopic</key>
+	<string>activatedError</string>
+	<key>segmentmerger</key>
+	<string>statefulCycle</string>
+	<key>shouldSkipComposition</key>
+	<string>servicetransparency</string>
+</dict>
+</plist>

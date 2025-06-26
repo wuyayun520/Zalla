@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMember</key>
+	<string>norminterpreterfeedback</string>
+	<key>obtainbehavior</key>
+	<string>textfieldAcceleration</string>
+	<key>opaqueMusic</key>
+	<string>draggableStrength</string>
+	<key>originalMetrics</key>
+	<string>shouldKeepAppBar</string>
+	<key>shouldDisposeMultiplication</key>
+	<string>declarativeStore</string>
+	<key>stepresponse</key>
+	<string>seamlessCache</string>
+	<key>topicName</key>
+	<string>registerLoop</string>
+</dict>
+</plist>

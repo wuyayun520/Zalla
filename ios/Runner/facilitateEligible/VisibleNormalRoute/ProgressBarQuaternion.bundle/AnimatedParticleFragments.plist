@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionpreview</key>
+	<string>hyperbolicConsumer</string>
+	<key>customizedticker</key>
+	<string>navigationcluster</string>
+	<key>previewwithoutcycle</key>
+	<string>resumeSizedBox</string>
+	<key>requestposition</key>
+	<string>synchronousPopup</string>
+	<key>visibleSelector</key>
+	<string>subsequentRenderer</string>
+</dict>
+</plist>

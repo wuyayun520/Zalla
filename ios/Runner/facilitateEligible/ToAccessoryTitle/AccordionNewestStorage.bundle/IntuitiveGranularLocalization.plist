@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDirection</key>
+	<string>callbackResponse</string>
+	<key>componentoffset</key>
+	<string>smallcurverate</string>
+	<key>emitterPressure</key>
+	<string>inheritedCell</string>
+	<key>gemBorder</key>
+	<string>streamMaster</string>
+	<key>independentSine</key>
+	<string>flexibleTween</string>
+	<key>logshade</key>
+	<string>boxshadowShape</string>
+	<key>mutableCapacity</key>
+	<string>canFetchStoryboard</string>
+	<key>responsedensity</key>
+	<string>shouldFormatEqualization</string>
+	<key>shouldShowInkWell</key>
+	<string>groupstatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferMargin</key>
+	<string>shouldresumedropdownbutton</string>
+	<key>certificateMargin</key>
+	<string>canAnimateFuture</string>
+	<key>deserializeoption</key>
+	<string>unbindstream</string>
+	<key>elasticListener</key>
+	<string>pushBuffer</string>
+	<key>independentConsumer</key>
+	<string>asynchronousUsage</string>
+	<key>lastLayout</key>
+	<string>disposeStream</string>
+	<key>musicthroughframework</key>
+	<string>skinParameter</string>
+</dict>
+</plist>

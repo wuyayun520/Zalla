@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleraboutprocess</key>
+	<string>paralleldetector</string>
+	<key>dependencypolygon</key>
+	<string>compositionaldescription</string>
+	<key>dispatcherDepth</key>
+	<string>globalSlash</string>
+	<key>instructionAcceleration</key>
+	<string>immediateNotifier</string>
+	<key>playbackBottom</key>
+	<string>assetShade</string>
+	<key>rowHue</key>
+	<string>shouldPresentButton</string>
+	<key>semanticReducer</key>
+	<string>shouldObserveArithmetic</string>
+	<key>webCubit</key>
+	<string>parseListener</string>
+</dict>
+</plist>

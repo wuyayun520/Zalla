@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbaralignment</key>
+	<string>disconnectModal</string>
+	<key>consumerobserver</key>
+	<string>subtleRestriction</string>
+	<key>controllerStyle</key>
+	<string>animationdistinction</string>
+	<key>nativeStateful</key>
+	<string>pageviewFrequency</string>
+	<key>otherPlayback</key>
+	<string>trainUnary</string>
+	<key>sequentialexceptiondelay</key>
+	<string>protectedAnimatedContainer</string>
+</dict>
+</plist>

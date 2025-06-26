@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentshapeposition</key>
+	<string>interactiveChannel</string>
+	<key>blocInteraction</key>
+	<string>hierarchicalProgressBar</string>
+	<key>contrastDirection</key>
+	<string>hardLoader</string>
+	<key>deferredIntensity</key>
+	<string>inflateConstraint</string>
+	<key>grainTop</key>
+	<string>consultativeInteraction</string>
+	<key>objectSpacing</key>
+	<string>reducershade</string>
+	<key>savenib</key>
+	<string>buildUnary</string>
+	<key>shouldNotifyKernel</key>
+	<string>profileStream</string>
+	<key>shouldpausedescriptor</key>
+	<string>observerDirection</string>
+	<key>transitionobserveredge</key>
+	<string>descriptorOperation</string>
+</dict>
+</plist>

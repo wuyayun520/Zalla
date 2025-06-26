@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletformat</key>
+	<string>routeInset</string>
+	<key>crucialMatrix</key>
+	<string>shouldSubscribePainter</string>
+	<key>difficultcompletion</key>
+	<string>positionRate</string>
+	<key>futureforce</key>
+	<string>previewdepth</string>
+	<key>grainOffset</key>
+	<string>constantPadding</string>
+	<key>otherTweak</key>
+	<string>shouldValidateNib</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledEntropy</key>
+	<string>numericalasync</string>
+	<key>displayableArithmetic</key>
+	<string>gestureflyweightborder</string>
+	<key>featureinset</key>
+	<string>customizedSchema</string>
+	<key>listenerscopecount</key>
+	<string>canDetachSine</string>
+	<key>optionSpeed</key>
+	<string>nativePositioned</string>
+	<key>permissivePlayback</key>
+	<string>shouldPublishAnchor</string>
+	<key>shouldSerializeStep</key>
+	<string>deserializePopup</string>
+</dict>
+</plist>

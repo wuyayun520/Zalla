@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillutil</key>
+	<string>startBuilder</string>
+	<key>requiredProcessor</key>
+	<string>canNotifySegment</string>
+	<key>shouldAnimateMaster</key>
+	<string>sortedSingleton</string>
+	<key>shouldKeepEffect</key>
+	<string>uniformShader</string>
+	<key>smartAscent</key>
+	<string>alertAlignment</string>
+</dict>
+</plist>

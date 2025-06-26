@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInterval</key>
+	<string>shouldReplaceCustomPaint</string>
+	<key>disparateListView</key>
+	<string>canStopRemainder</string>
+	<key>materialDialogs</key>
+	<string>pushReducer</string>
+	<key>prismaticRemediation</key>
+	<string>fusedTrajectory</string>
+	<key>scaleIndex</key>
+	<string>unaryOrientation</string>
+	<key>shouldKeepSlider</key>
+	<string>axislikecontext</string>
+	<key>textureBottom</key>
+	<string>custompaintPhase</string>
+	<key>visualizegroup</key>
+	<string>responderName</string>
+</dict>
+</plist>

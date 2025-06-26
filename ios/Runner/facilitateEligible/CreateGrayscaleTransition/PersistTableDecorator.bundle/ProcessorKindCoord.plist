@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paddingspeed</key>
+	<string>skirtForm</string>
+	<key>rapidtangent</key>
+	<string>boxInteraction</string>
+	<key>resizableSpecifier</key>
+	<string>statelessModel</string>
+	<key>tensorShape</key>
+	<string>scrollmethod</string>
+</dict>
+</plist>

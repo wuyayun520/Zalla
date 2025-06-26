@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMargin</key>
+	<string>assetSpacing</string>
+	<key>cardtransparency</key>
+	<string>chapterbuilder</string>
+	<key>customizedCombiner</key>
+	<string>cubitPlatform</string>
+	<key>semanticSkin</key>
+	<string>canUpdateGestureDetector</string>
+</dict>
+</plist>

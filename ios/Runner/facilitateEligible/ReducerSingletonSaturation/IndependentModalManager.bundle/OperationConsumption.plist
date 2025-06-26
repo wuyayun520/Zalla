@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInfrastructure</key>
+	<string>shoulddeserializecurve</string>
+	<key>largeResource</key>
+	<string>shouldattachentropy</string>
+	<key>routelikebridge</key>
+	<string>cycleTransparency</string>
+	<key>shouldBindSubpixel</key>
+	<string>customCard</string>
+	<key>shouldUnmountButton</key>
+	<string>previewperstate</string>
+	<key>statusContrast</key>
+	<string>autoItem</string>
+</dict>
+</plist>

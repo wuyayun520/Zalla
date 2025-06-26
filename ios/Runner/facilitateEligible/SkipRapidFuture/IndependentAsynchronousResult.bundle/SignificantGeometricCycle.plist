@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoryboard</key>
+	<string>clearAllocator</string>
+	<key>createmonster</key>
+	<string>interactiveEfficiency</string>
+	<key>layoutspeed</key>
+	<string>compositionBridge</string>
+	<key>profiletechnique</key>
+	<string>canInflateSine</string>
+	<key>protocolDirection</key>
+	<string>canPublishGem</string>
+</dict>
+</plist>

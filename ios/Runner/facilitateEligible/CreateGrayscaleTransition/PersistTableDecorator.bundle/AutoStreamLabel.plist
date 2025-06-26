@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTop</key>
+	<string>connectgrayscale</string>
+	<key>beginnerEmitter</key>
+	<string>globalSize</string>
+	<key>curveRotation</key>
+	<string>contractionVelocity</string>
+	<key>descriptorKind</key>
+	<string>elasticityFrequency</string>
+	<key>displayableGridView</key>
+	<string>canMountedPet</string>
+	<key>extensionScale</key>
+	<string>tolerancePosition</string>
+	<key>reducerAlignment</key>
+	<string>subtleStore</string>
+</dict>
+</plist>

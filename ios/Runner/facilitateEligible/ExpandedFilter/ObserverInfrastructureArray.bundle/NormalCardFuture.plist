@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackfeedback</key>
+	<string>significantConstraint</string>
+	<key>containerBottom</key>
+	<string>deactivateText</string>
+	<key>graphicValidation</key>
+	<string>numericalCosine</string>
+	<key>resilientCreator</key>
+	<string>canEncodeDescriptor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvescale</key>
+	<string>temporaryAspectRatio</string>
+	<key>grainAppearance</key>
+	<string>hyperbolicChart</string>
+	<key>projectiontop</key>
+	<string>reusableHash</string>
+	<key>segueDepth</key>
+	<string>batchOrientation</string>
+	<key>shouldStartConstraint</key>
+	<string>oldAnalyzer</string>
+	<key>signatureTransparency</key>
+	<string>shouldRebuildNavigator</string>
+	<key>textforce</key>
+	<string>canPersistResource</string>
+</dict>
+</plist>

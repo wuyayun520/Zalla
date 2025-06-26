@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedResilience</key>
+	<string>controllerStrategy</string>
+	<key>behavioraroundphase</key>
+	<string>streamTextField</string>
+	<key>lazyAnimation</key>
+	<string>stacktimer</string>
+	<key>managerDirection</key>
+	<string>celltween</string>
+	<key>opaqueMusic</key>
+	<string>catalystActivity</string>
+	<key>radiussize</key>
+	<string>reduceFrame</string>
+	<key>shouldPersistRichText</key>
+	<string>shouldRenderExpanded</string>
+</dict>
+</plist>

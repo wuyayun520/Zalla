@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mendDepth</key>
+	<string>shouldProcessSemantics</string>
+	<key>resizableBinder</key>
+	<string>optimizeRoute</string>
+	<key>resumeextension</key>
+	<string>lazyoffsetcenter</string>
+	<key>servicelikeobserver</key>
+	<string>shouldEmitRadio</string>
+	<key>shouldUnbindMusic</key>
+	<string>largeQuaternion</string>
+	<key>typicalSubpixel</key>
+	<string>instructionoffset</string>
+	<key>uniformSpine</key>
+	<string>radiusBrightness</string>
+</dict>
+</plist>

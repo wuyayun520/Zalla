@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistSpacing</key>
+	<string>symbolviashape</string>
+	<key>granularconfiguration</key>
+	<string>missedSelector</string>
+	<key>pushsegue</key>
+	<string>canConnectRadio</string>
+	<key>routerShade</key>
+	<string>formatSubpixel</string>
+	<key>shouldTrainExtension</key>
+	<string>canFetchActivity</string>
+</dict>
+</plist>

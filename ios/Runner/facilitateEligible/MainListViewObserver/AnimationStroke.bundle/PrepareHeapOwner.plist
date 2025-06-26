@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveObserver</key>
+	<string>labelbeyondstructure</string>
+	<key>beginnerChooser</key>
+	<string>pendingPositioned</string>
+	<key>concurrentCallback</key>
+	<string>unmountedExpanded</string>
+	<key>criticalCaption</key>
+	<string>coordinatorinmode</string>
+	<key>layercontrast</key>
+	<string>replicateAsync</string>
+	<key>missedController</key>
+	<string>adaptiveActivity</string>
+	<key>nibBrightness</key>
+	<string>descriptorMargin</string>
+	<key>offsetBehavior</key>
+	<string>shouldEndCoordinator</string>
+	<key>skirtstyle</key>
+	<string>activeProfile</string>
+</dict>
+</plist>

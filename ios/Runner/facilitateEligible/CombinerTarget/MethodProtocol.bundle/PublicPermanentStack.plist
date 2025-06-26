@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesthantier</key>
+	<string>transitiontype</string>
+	<key>eagerDescent</key>
+	<string>saveFuture</string>
+	<key>elasticityShape</key>
+	<string>yieldbuffer</string>
+	<key>inheritedQuaternion</key>
+	<string>canYieldGridView</string>
+	<key>sessiondespitetier</key>
+	<string>declarativeDependency</string>
+	<key>shouldPublishCustomPaint</key>
+	<string>canShowAppBar</string>
+	<key>shouldShowTransition</key>
+	<string>characterpressure</string>
+</dict>
+</plist>

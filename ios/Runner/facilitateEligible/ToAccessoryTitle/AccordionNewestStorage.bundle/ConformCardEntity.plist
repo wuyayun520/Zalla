@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicSample</key>
+	<string>liteReference</string>
+	<key>parallelBaseline</key>
+	<string>callbackActivity</string>
+	<key>routepolygon</key>
+	<string>canRebuildWidget</string>
+	<key>shouldEmitBaseline</key>
+	<string>inflatesize</string>
+	<key>shouldPopOption</key>
+	<string>capsuleWork</string>
+	<key>singletonTheme</key>
+	<string>ephemeralChallenge</string>
+	<key>statelessvisible</key>
+	<string>toolSkewY</string>
+</dict>
+</plist>

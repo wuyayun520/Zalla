@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateResolver</key>
+	<string>immediateOccasion</string>
+	<key>normalAccessory</key>
+	<string>shouldConnectNorm</string>
+	<key>shouldDisconnectAccessory</key>
+	<string>localLinker</string>
+	<key>stepuntilphase</key>
+	<string>taxonomybound</string>
+	<key>tabbarScale</key>
+	<string>prismaticLinker</string>
+	<key>temporaryCheckbox</key>
+	<string>isolateadaptervelocity</string>
+</dict>
+</plist>

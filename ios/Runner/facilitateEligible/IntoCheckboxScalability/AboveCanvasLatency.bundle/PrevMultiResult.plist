@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pointCenter</key>
+	<string>containerloader</string>
+	<key>shearpet</key>
+	<string>buildermode</string>
+	<key>shouldLoadThread</key>
+	<string>compositionPlatform</string>
+	<key>shouldPopMember</key>
+	<string>scheduleAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserborder</key>
+	<string>diffableFuture</string>
+	<key>detailDuration</key>
+	<string>normObserver</string>
+	<key>dynamicChallenge</key>
+	<string>otherResult</string>
+	<key>lossright</key>
+	<string>exceptionFormat</string>
+	<key>mediacallback</key>
+	<string>activityroute</string>
+	<key>resolvercontroller</key>
+	<string>parseRole</string>
+	<key>respectiveFuture</key>
+	<string>opaquestore</string>
+	<key>shouldCacheProfile</key>
+	<string>webScroll</string>
+	<key>subtleWrapper</key>
+	<string>canPublishTool</string>
+	<key>textureduration</key>
+	<string>splitterInterval</string>
+</dict>
+</plist>

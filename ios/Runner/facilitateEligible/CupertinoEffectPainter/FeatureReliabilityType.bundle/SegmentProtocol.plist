@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAlignment</key>
+	<string>mediaPadding</string>
+	<key>pointFrequency</key>
+	<string>pivotalController</string>
+	<key>storageVelocity</key>
+	<string>gemphasecontrast</string>
+	<key>timeramongcommand</key>
+	<string>canCreateOperation</string>
+</dict>
+</plist>

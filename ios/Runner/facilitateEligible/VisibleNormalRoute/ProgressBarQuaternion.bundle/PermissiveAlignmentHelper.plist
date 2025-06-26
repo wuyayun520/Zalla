@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalshader</key>
+	<string>canMountDecoration</string>
+	<key>customizedDelivery</key>
+	<string>endOperation</string>
+	<key>denseDrawer</key>
+	<string>referenceMode</string>
+	<key>frameuntilmethod</key>
+	<string>parseDecoration</string>
+	<key>selectedScaffold</key>
+	<string>shouldValidateCoordinator</string>
+	<key>typicalElasticity</key>
+	<string>topicVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedService</key>
+	<string>fillZone</string>
+	<key>crudegesture</key>
+	<string>ignoredSplitter</string>
+	<key>enabledGridView</key>
+	<string>celltint</string>
+	<key>ephemeralDelivery</key>
+	<string>arithmeticReplica</string>
+	<key>firstTheme</key>
+	<string>listenSlider</string>
+	<key>gembyform</key>
+	<string>cacheType</string>
+	<key>intermediateMethod</key>
+	<string>sustainableBox</string>
+	<key>overrideentropy</key>
+	<string>continueCertificate</string>
+	<key>shouldpublishbullet</key>
+	<string>diffableModule</string>
+	<key>tensorRect</key>
+	<string>localizationinterpreterbound</string>
+</dict>
+</plist>

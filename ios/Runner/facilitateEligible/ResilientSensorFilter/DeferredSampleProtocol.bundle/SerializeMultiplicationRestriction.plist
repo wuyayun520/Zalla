@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbehavior</key>
+	<string>soundOrientation</string>
+	<key>checkboxTint</key>
+	<string>containertransformer</string>
+	<key>granularEvaluation</key>
+	<string>handlerFeedback</string>
+	<key>iterativeDescriptor</key>
+	<string>tablefortask</string>
+	<key>mobileIntensity</key>
+	<string>sharedSize</string>
+	<key>requiredSpecifier</key>
+	<string>currentresolver</string>
+	<key>smallCoordinator</key>
+	<string>shouldUnmountDuration</string>
+	<key>streampermutation</key>
+	<string>compositionalBandwidth</string>
+	<key>tappableAnchor</key>
+	<string>unsortedCharacter</string>
+	<key>techniqueresolver</key>
+	<string>secondCatalyst</string>
+</dict>
+</plist>

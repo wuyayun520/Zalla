@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellHue</key>
+	<string>shouldValidateAperture</string>
+	<key>converterfeedback</key>
+	<string>shouldStartProject</string>
+	<key>cubitSpeed</key>
+	<string>visitSingleton</string>
+	<key>missedState</key>
+	<string>associatedBinary</string>
+	<key>shouldConnectHero</key>
+	<string>shouldPersistSession</string>
+	<key>trainanimation</key>
+	<string>invisibleCharacteristic</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticShader</key>
+	<string>permissiveSpine</string>
+	<key>bulletcolor</key>
+	<string>onalphatap</string>
+	<key>concurrentHistogram</key>
+	<string>sharedbaselinestyle</string>
+	<key>directScheduler</key>
+	<string>threadOrientation</string>
+	<key>mainScope</key>
+	<string>canValidateGraphic</string>
+	<key>mutableText</key>
+	<string>lostAnchor</string>
+	<key>normalConstraint</key>
+	<string>cancelAspect</string>
+	<key>painterTop</key>
+	<string>accessibleView</string>
+	<key>priorLayout</key>
+	<string>columnBridge</string>
+	<key>priorityMode</key>
+	<string>observeExponent</string>
+</dict>
+</plist>

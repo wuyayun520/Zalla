@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorduringshape</key>
+	<string>segueShape</string>
+	<key>inflatemobile</key>
+	<string>shouldformataccessory</string>
+	<key>integrityForce</key>
+	<string>usedReference</string>
+	<key>metricsTheme</key>
+	<string>allocateGraph</string>
+	<key>overlayawait</key>
+	<string>consumerdepth</string>
+	<key>resourcemargin</key>
+	<string>interactionState</string>
+	<key>shouldDetachMediaQuery</key>
+	<string>schedulerBound</string>
+	<key>shoulddispatchdelegate</key>
+	<string>seamlessEvolution</string>
+	<key>webEquipment</key>
+	<string>debugAwait</string>
+</dict>
+</plist>

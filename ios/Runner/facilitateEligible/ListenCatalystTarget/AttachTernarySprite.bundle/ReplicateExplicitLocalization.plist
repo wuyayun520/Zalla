@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTag</key>
+	<string>mountedNorm</string>
+	<key>resilientBullet</key>
+	<string>positionedmementobottom</string>
+	<key>sophisticatedRange</key>
+	<string>statelessAudio</string>
+	<key>viewScale</key>
+	<string>movementtransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directtextureflags</key>
+	<string>freeDelegate</string>
+	<key>groupBehavior</key>
+	<string>touchcanvas</string>
+	<key>persistentTernary</key>
+	<string>completedStack</string>
+	<key>responsiveGift</key>
+	<string>shouldBuildMember</string>
+	<key>textfieldFlags</key>
+	<string>hierarchicalpolygon</string>
+</dict>
+</plist>

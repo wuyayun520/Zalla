@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedModule</key>
+	<string>memberValue</string>
+	<key>rapidHero</key>
+	<string>parallelLog</string>
+	<key>releaseprovider</key>
+	<string>expandedMediator</string>
+	<key>shoulddismissgradient</key>
+	<string>emitEvent</string>
+</dict>
+</plist>

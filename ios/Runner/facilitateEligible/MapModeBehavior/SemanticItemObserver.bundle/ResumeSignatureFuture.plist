@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardmanager</key>
+	<string>containervisitorpressure</string>
+	<key>behaviorbesideflyweight</key>
+	<string>hierarchicalContrast</string>
+	<key>geometricRemainder</key>
+	<string>grainParameter</string>
+	<key>sustainableEvaluation</key>
+	<string>otherIntegration</string>
+	<key>temporaryrequestvisible</key>
+	<string>buildTouch</string>
+</dict>
+</plist>

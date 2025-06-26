@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphahead</key>
+	<string>exponentHue</string>
+	<key>beginnerSegue</key>
+	<string>lazyQuaternion</string>
+	<key>callbackappearance</key>
+	<string>axisFramework</string>
+	<key>menuanimation</key>
+	<string>overlayKind</string>
+	<key>shouldContinueWorkflow</key>
+	<string>responsiveProgressBar</string>
+	<key>shouldEmitMonster</key>
+	<string>granularsignaturetheme</string>
+	<key>textfieldSaturation</key>
+	<string>operationAction</string>
+	<key>videoappearance</key>
+	<string>marshalwidget</string>
+</dict>
+</plist>

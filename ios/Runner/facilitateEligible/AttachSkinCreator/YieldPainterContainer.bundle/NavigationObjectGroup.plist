@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentanimation</key>
+	<string>cupertinoResponder</string>
+	<key>difficultSlash</key>
+	<string>moveRow</string>
+	<key>flexibleGrain</key>
+	<string>loaderName</string>
+	<key>graphPressure</key>
+	<string>nextScalability</string>
+	<key>greatTernary</key>
+	<string>mendtype</string>
+	<key>musicPosition</key>
+	<string>shouldLoadProvider</string>
+	<key>positionedBrightness</key>
+	<string>delicateStep</string>
+	<key>statefulQueue</key>
+	<string>declarativetransformer</string>
+	<key>ternaryType</key>
+	<string>newestShader</string>
+</dict>
+</plist>

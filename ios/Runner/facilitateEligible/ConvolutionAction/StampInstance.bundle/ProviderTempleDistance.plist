@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSymbol</key>
+	<string>renderStream</string>
+	<key>fusedProvider</key>
+	<string>difficultTopic</string>
+	<key>meshOffset</key>
+	<string>builderAdapter</string>
+	<key>shouldLoadScreen</key>
+	<string>clearvector</string>
+	<key>singletontrigger</key>
+	<string>newestInterpolation</string>
+	<key>temporaryStore</key>
+	<string>normDelay</string>
+</dict>
+</plist>

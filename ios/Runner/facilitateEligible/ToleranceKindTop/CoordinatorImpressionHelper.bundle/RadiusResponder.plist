@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBottom</key>
+	<string>intuitiveArchitecture</string>
+	<key>displayableEvent</key>
+	<string>bufferlatency</string>
+	<key>inkwellexception</key>
+	<string>chapterdepth</string>
+	<key>publicVariant</key>
+	<string>backwardClipper</string>
+	<key>responseflags</key>
+	<string>bufferLeft</string>
+	<key>shouldPopLoss</key>
+	<string>canDetachSlider</string>
+	<key>tickerquaternion</key>
+	<string>euclideanMechanism</string>
+</dict>
+</plist>

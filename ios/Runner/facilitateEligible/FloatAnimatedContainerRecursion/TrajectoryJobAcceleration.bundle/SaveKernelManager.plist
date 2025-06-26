@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loadanchor</key>
+	<string>blocCenter</string>
+	<key>sharedconfidentiality</key>
+	<string>canUnbindGift</string>
+	<key>shouldTrainListView</key>
+	<string>subtleRichText</string>
+	<key>shouldpresentindicator</key>
+	<string>routerTension</string>
+	<key>tabviewpainter</key>
+	<string>utilStrategy</string>
+	<key>unsorteddescriptor</key>
+	<string>monsterFramework</string>
+</dict>
+</plist>

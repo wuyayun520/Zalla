@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSaturation</key>
+	<string>substantialVariant</string>
+	<key>interfaceatstrategy</key>
+	<string>decodeMovement</string>
+	<key>originalQueue</key>
+	<string>threadInteraction</string>
+	<key>robustProfile</key>
+	<string>prepareGradient</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOffset</key>
+	<string>shouldProcessFragment</string>
+	<key>disabledservice</key>
+	<string>canceloperation</string>
+	<key>haspainter</key>
+	<string>offsetBorder</string>
+	<key>listenercoord</key>
+	<string>bulletskewy</string>
+	<key>lostSearcher</key>
+	<string>pinchableModulus</string>
+	<key>shouldMountedProject</key>
+	<string>navigationRight</string>
+	<key>shouldShowPrecision</key>
+	<string>drawIntensity</string>
+</dict>
+</plist>

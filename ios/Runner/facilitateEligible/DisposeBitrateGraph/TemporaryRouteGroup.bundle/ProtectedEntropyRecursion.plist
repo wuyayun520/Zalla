@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonnotation</key>
+	<string>notationDepth</string>
+	<key>disparateCanvas</key>
+	<string>canBindTask</string>
+	<key>durationvertex</key>
+	<string>chapterCount</string>
+	<key>polygonTop</key>
+	<string>insteadSlider</string>
+	<key>sharedIndicator</key>
+	<string>adaptiveSwift</string>
+	<key>shouldFetchTransition</key>
+	<string>canDispatchLayout</string>
+	<key>singletonTag</key>
+	<string>subtleRectangle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDirection</key>
+	<string>shouldPaintResource</string>
+	<key>concreteLinker</key>
+	<string>customizedservice</string>
+	<key>discardedLoss</key>
+	<string>accordionFactory</string>
+	<key>resourcelocation</key>
+	<string>beginnerEfficiency</string>
+	<key>retainedNavigator</key>
+	<string>shouldDetachWidget</string>
+	<key>shaderVisible</key>
+	<string>shouldFinishTable</string>
+	<key>shouldMountSine</key>
+	<string>diversifiedResult</string>
+</dict>
+</plist>

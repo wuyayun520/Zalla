@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTransparency</key>
+	<string>keymap</string>
+	<key>directlyMomentum</key>
+	<string>cloneAlignment</string>
+	<key>directlyaction</key>
+	<string>rapidSkin</string>
+	<key>newestCursor</key>
+	<string>constraintSystem</string>
+	<key>prioritynearprocess</key>
+	<string>appbarStage</string>
+	<key>shouldSerializeAnimatedContainer</key>
+	<string>opaqueMargin</string>
+	<key>specifierinteraction</key>
+	<string>shouldrenderdialogs</string>
+	<key>standaloneDispatcher</key>
+	<string>radiusvisibility</string>
+</dict>
+</plist>

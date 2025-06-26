@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDispatcher</key>
+	<string>shouldFetchGestureDetector</string>
+	<key>controllerDirection</key>
+	<string>reliabilityOrigin</string>
+	<key>hyperbolicobserver</key>
+	<string>shouldhandleborder</string>
+	<key>invisibleSelector</key>
+	<string>enabledCurve</string>
+	<key>kernelAcceleration</key>
+	<string>listenGroup</string>
+	<key>markaspect</key>
+	<string>tensorEntropy</string>
+	<key>oncachechanged</key>
+	<string>restartMaster</string>
+	<key>specifierbuilder</key>
+	<string>elasticCurve</string>
+</dict>
+</plist>

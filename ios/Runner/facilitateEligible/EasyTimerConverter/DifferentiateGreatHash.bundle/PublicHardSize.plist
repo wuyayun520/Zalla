@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicImage</key>
+	<string>baselineconfidentiality</string>
+	<key>consultativecertificatename</key>
+	<string>richtextBound</string>
+	<key>dedicatedCompletion</key>
+	<string>rotateoffset</string>
+	<key>factoryandaction</key>
+	<string>diversifiedData</string>
+	<key>invisibleTime</key>
+	<string>toolPlatform</string>
+	<key>menuprototypebottom</key>
+	<string>playbackDirection</string>
+	<key>missedfragmenttag</key>
+	<string>unmountedSession</string>
+	<key>momentumtype</key>
+	<string>directVariant</string>
+	<key>scrollableMetadata</key>
+	<string>subtleBrush</string>
+</dict>
+</plist>

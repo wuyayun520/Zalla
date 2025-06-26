@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteStack</key>
+	<string>updateSegue</string>
+	<key>interactiveCapsule</key>
+	<string>popCompleter</string>
+	<key>isCycle</key>
+	<string>asyncEnvironment</string>
+	<key>pinchableCubit</key>
+	<string>traingroup</string>
+	<key>priorTechnique</key>
+	<string>robustRecursion</string>
+	<key>revisitnavigator</key>
+	<string>continueSignature</string>
+	<key>shouldSetStateRow</key>
+	<string>animateCustomPaint</string>
+	<key>shouldTransformDialogs</key>
+	<string>durationDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInteraction</key>
+	<string>independentdependencycoord</string>
+	<key>findervisible</key>
+	<string>responsivechannel</string>
+	<key>immediateScale</key>
+	<string>consultativeCheckbox</string>
+	<key>mobileCompleter</key>
+	<string>shouldParseBase</string>
+	<key>shouldBuildSign</key>
+	<string>shouldAttachAppBar</string>
+	<key>shouldEncodeConvolution</key>
+	<string>sequentialMerger</string>
+	<key>shouldValidateTask</key>
+	<string>comprehensiveLoop</string>
+	<key>standaloneSemantics</key>
+	<string>interactionHue</string>
+	<key>workflowDensity</key>
+	<string>shouldValidateScroll</string>
+</dict>
+</plist>

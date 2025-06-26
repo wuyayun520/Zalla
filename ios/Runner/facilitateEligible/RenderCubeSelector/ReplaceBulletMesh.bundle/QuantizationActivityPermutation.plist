@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAcceleration</key>
+	<string>subscribeAperture</string>
+	<key>durationexceptframework</key>
+	<string>loadChecklist</string>
+	<key>imageagainstchain</key>
+	<string>canNavigateSwift</string>
+	<key>listenstorage</key>
+	<string>serializeGrain</string>
+	<key>opaqueUnary</key>
+	<string>encapsulateEvent</string>
+	<key>resiliencescale</key>
+	<string>canPushOverlay</string>
+	<key>shouldAnimateFragment</key>
+	<string>heroMemento</string>
+	<key>specifyMusic</key>
+	<string>canPushNavigator</string>
+</dict>
+</plist>

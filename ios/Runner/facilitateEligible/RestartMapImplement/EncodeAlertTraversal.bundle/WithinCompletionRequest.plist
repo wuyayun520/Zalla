@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSubpixel</key>
+	<string>inflateConsumer</string>
+	<key>diversifiedcapacitiesbehavior</key>
+	<string>mountedbloc</string>
+	<key>integrationFeedback</key>
+	<string>rangeDensity</string>
+	<key>lazyMedia</key>
+	<string>fillTexture</string>
+	<key>metadatarotation</key>
+	<string>invisibleListener</string>
+	<key>mobileType</key>
+	<string>layoutColumn</string>
+	<key>selectorPosition</key>
+	<string>symmetricComponent</string>
+</dict>
+</plist>

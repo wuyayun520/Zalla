@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restartmethod</key>
+	<string>multiStrength</string>
+	<key>sanitizeoption</key>
+	<string>shouldInflateLoss</string>
+	<key>selectedrichtext</key>
+	<string>confidentialitySpacing</string>
+	<key>shouldBindCollection</key>
+	<string>streammesh</string>
+	<key>shouldDisconnectCube</key>
+	<string>spineOperation</string>
+	<key>shouldroutecolumn</key>
+	<string>shouldDisconnectSpine</string>
+	<key>stepScale</key>
+	<string>responderTransparency</string>
+	<key>visibleResilience</key>
+	<string>minBatch</string>
+</dict>
+</plist>

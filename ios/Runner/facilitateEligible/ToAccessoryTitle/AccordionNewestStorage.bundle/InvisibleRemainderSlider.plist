@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFormat</key>
+	<string>opaqueMaster</string>
+	<key>elasticHandler</key>
+	<string>triggerPressure</string>
+	<key>mainPolygon</key>
+	<string>isolateLayer</string>
+	<key>multiplychannel</key>
+	<string>listencolumn</string>
+	<key>opaqueRange</key>
+	<string>navigateScreen</string>
+	<key>pivotalflexborder</key>
+	<string>stopMission</string>
+	<key>shouldCacheConvolution</key>
+	<string>cubittension</string>
+	<key>shouldProcessCheckbox</key>
+	<string>specifyGestureDetector</string>
+	<key>slideralignment</key>
+	<string>difficultTabBar</string>
+</dict>
+</plist>

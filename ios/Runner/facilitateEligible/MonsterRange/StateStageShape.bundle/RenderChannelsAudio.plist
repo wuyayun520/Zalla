@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGraphic</key>
+	<string>onnavigationtap</string>
+	<key>intuitiveError</key>
+	<string>agileDelegate</string>
+	<key>materializervalidation</key>
+	<string>canFormatSignature</string>
+	<key>prevStrength</key>
+	<string>numericalRichText</string>
+	<key>resizableMaterial</key>
+	<string>decodePlayback</string>
+	<key>shaderBehavior</key>
+	<string>frameVariable</string>
+	<key>shouldUpdateCapsule</key>
+	<string>consultativePresenter</string>
+</dict>
+</plist>

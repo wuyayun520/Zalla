@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateloop</key>
+	<string>textNumber</string>
+	<key>activatetext</key>
+	<string>difficultCharacteristic</string>
+	<key>animatedIcon</key>
+	<string>intensityBrightness</string>
+	<key>gridfromform</key>
+	<string>activategrayscale</string>
+	<key>shouldNavigateScale</key>
+	<string>cupertinoDimension</string>
+	<key>shouldShowGesture</key>
+	<string>sequentialPlate</string>
+	<key>sustainableSprite</key>
+	<string>disposeAperture</string>
+	<key>unmountprofile</key>
+	<string>statefulTimer</string>
+	<key>unsortedPrecision</key>
+	<string>shouldTrainKernel</string>
+</dict>
+</plist>

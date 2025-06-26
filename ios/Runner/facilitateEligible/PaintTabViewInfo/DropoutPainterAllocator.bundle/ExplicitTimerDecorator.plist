@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionbesidecycle</key>
+	<string>providerParameter</string>
+	<key>multicharacter</key>
+	<string>discardedFeature</string>
+	<key>pickerorientation</key>
+	<string>publicGridView</string>
+	<key>shouldUnmountMovement</key>
+	<string>shouldresumeboxshadow</string>
+	<key>symbolTint</key>
+	<string>listenDescription</string>
+</dict>
+</plist>

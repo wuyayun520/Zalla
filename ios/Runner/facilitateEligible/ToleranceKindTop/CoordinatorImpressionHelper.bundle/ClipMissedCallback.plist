@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedHistogram</key>
+	<string>paintBorder</string>
+	<key>checklistresponse</key>
+	<string>offsetStore</string>
+	<key>gemVisible</key>
+	<string>shouldstreambutton</string>
+	<key>interactiveUsage</key>
+	<string>kernelDirection</string>
+	<key>nextGram</key>
+	<string>standaloneGrayscale</string>
+	<key>setstateroute</key>
+	<string>specifyStroke</string>
+	<key>shouldPaintCollection</key>
+	<string>independentUseCase</string>
+</dict>
+</plist>

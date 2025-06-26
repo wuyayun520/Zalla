@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containeruntilparam</key>
+	<string>hasAnimatedContainer</string>
+	<key>drawloop</key>
+	<string>canNotifyConsumer</string>
+	<key>eagerScroller</key>
+	<string>discardedInterpolation</string>
+	<key>gesturedetectorOrigin</key>
+	<string>shouldTransitionDialogs</string>
+	<key>multiAxis</key>
+	<string>intuitivePadding</string>
+	<key>subpixelDelay</key>
+	<string>activeequalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateservice</key>
+	<string>popState</string>
+	<key>effectHue</key>
+	<string>uniqueRoute</string>
+	<key>firstConverter</key>
+	<string>animatedcontainerFramework</string>
+	<key>fusedSample</key>
+	<string>connectService</string>
+	<key>imperativeVolume</key>
+	<string>endDropdownButton</string>
+	<key>otherMomentum</key>
+	<string>spineSpeed</string>
+	<key>pointsincescope</key>
+	<string>multiBatch</string>
+	<key>shouldObserveCanvas</key>
+	<string>persistticker</string>
+	<key>shouldParseAccessory</key>
+	<string>granularcapacities</string>
+</dict>
+</plist>

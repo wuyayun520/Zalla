@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryCount</key>
+	<string>rapidDrawer</string>
+	<key>isolateCount</key>
+	<string>rapidHero</string>
+	<key>onsteptap</key>
+	<string>nextEffect</string>
+	<key>progressbarscale</key>
+	<string>shouldShowCube</string>
+	<key>sharedDimension</key>
+	<string>commonreducer</string>
+	<key>typicalGram</key>
+	<string>currentcontroller</string>
+	<key>typicalRadio</key>
+	<string>lockunary</string>
+	<key>uniqueMenu</key>
+	<string>geometricOverlay</string>
+</dict>
+</plist>

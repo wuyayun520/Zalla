@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivesegue</key>
+	<string>resultOffset</string>
+	<key>emitterMode</key>
+	<string>navigatorPadding</string>
+	<key>intuitiveOption</key>
+	<string>factoryRate</string>
+	<key>keepexponent</key>
+	<string>respectiveMetadata</string>
+	<key>lazyTabView</key>
+	<string>mountLog</string>
+	<key>rapidMenu</key>
+	<string>substantialsliderdelay</string>
+	<key>shouldDecodeTextField</key>
+	<string>prevManager</string>
+	<key>shouldStopScaffold</key>
+	<string>clipperProxy</string>
+</dict>
+</plist>

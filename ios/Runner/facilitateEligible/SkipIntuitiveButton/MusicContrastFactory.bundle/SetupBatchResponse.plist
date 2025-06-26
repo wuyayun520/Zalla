@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendbuilder</key>
+	<string>canStopMediaQuery</string>
+	<key>interfaceVelocity</key>
+	<string>linkerIndex</string>
+	<key>memberevent</key>
+	<string>sensorStatus</string>
+	<key>quantizeroperation</key>
+	<string>requiredUseCase</string>
+	<key>retainedPet</key>
+	<string>encodeNotification</string>
+	<key>shouldSkipOptimizer</key>
+	<string>newestposition</string>
+	<key>shouldStreamDecoration</key>
+	<string>shouldUnbindTangent</string>
+	<key>shouldendchecklist</key>
+	<string>shouldcontinueinteger</string>
+	<key>sophisticatedaspectratio</key>
+	<string>parallelTicker</string>
+</dict>
+</plist>

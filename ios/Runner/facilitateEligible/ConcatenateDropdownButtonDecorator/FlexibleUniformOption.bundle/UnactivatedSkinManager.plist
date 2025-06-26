@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTimer</key>
+	<string>encodeequipment</string>
+	<key>compositionCenter</key>
+	<string>popLog</string>
+	<key>heapinteraction</key>
+	<string>flexibleTolerance</string>
+	<key>immediateDetector</key>
+	<string>concatenateDecoration</string>
+	<key>sharedMaster</key>
+	<string>textureAdapter</string>
+	<key>synchronousStep</key>
+	<string>parallellocalization</string>
+	<key>tensorPet</key>
+	<string>canRenderBinary</string>
+</dict>
+</plist>

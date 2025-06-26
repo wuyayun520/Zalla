@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentFrequency</key>
+	<string>responsiveNib</string>
+	<key>eagerMonster</key>
+	<string>backwardScroll</string>
+	<key>prismaticPageView</key>
+	<string>polyfillstyle</string>
+	<key>startresource</key>
+	<string>generateVector</string>
+	<key>throughputrotation</key>
+	<string>keeplistview</string>
+</dict>
+</plist>

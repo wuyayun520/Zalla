@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonkindskewx</key>
+	<string>sampleContext</string>
+	<key>flexibleEffect</key>
+	<string>annotateFactory</string>
+	<key>globalResolver</key>
+	<string>bandwidthMargin</string>
+	<key>hierarchicalController</key>
+	<string>streamEdge</string>
+	<key>loadtangent</key>
+	<string>momentumPattern</string>
+	<key>mainShader</key>
+	<string>segueCount</string>
+	<key>publicAspectRatio</key>
+	<string>volumeFrequency</string>
+	<key>relationalCube</key>
+	<string>pinchableScheduler</string>
+	<key>resizableFilter</key>
+	<string>granularTextField</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDecoration</key>
+	<string>handlerorigin</string>
+	<key>allocatorValidation</key>
+	<string>hyperbolicManager</string>
+	<key>publisherContrast</key>
+	<string>immutableStream</string>
+	<key>shouldBuildMember</key>
+	<string>graphVariable</string>
+	<key>shouldEmitCard</key>
+	<string>frameselector</string>
+	<key>shouldKeepScreen</key>
+	<string>completerObserver</string>
+	<key>shouldResumeLabel</key>
+	<string>concatenateInterface</string>
+	<key>subsequentSine</key>
+	<string>usageTheme</string>
+</dict>
+</plist>

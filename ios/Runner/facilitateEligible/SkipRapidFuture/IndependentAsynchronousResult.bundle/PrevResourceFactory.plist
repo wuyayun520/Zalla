@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStyle</key>
+	<string>shouldFinishPlayback</string>
+	<key>graphicMode</key>
+	<string>themeSingleton</string>
+	<key>interactiveDetector</key>
+	<string>handleTween</string>
+	<key>momentumColor</key>
+	<string>detachVariant</string>
+</dict>
+</plist>

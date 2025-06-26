@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstStore</key>
+	<string>paintCurve</string>
+	<key>inactiveRecursion</key>
+	<string>exceptionMargin</string>
+	<key>interactionFormat</key>
+	<string>coordinatorobserverinteraction</string>
+	<key>multiCluster</key>
+	<string>multiManager</string>
+	<key>rolethanfacade</key>
+	<string>displayableResilience</string>
+	<key>shouldDetachCanvas</key>
+	<string>diversifiedrouterformat</string>
+	<key>subpixelStyle</key>
+	<string>emitterEdge</string>
+</dict>
+</plist>

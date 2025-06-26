@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitStep</key>
+	<string>selectedNorm</string>
+	<key>featureappearance</key>
+	<string>secondTriangles</string>
+	<key>richtextscopeorientation</key>
+	<string>curvetag</string>
+	<key>shouldCreateCheckbox</key>
+	<string>activePreview</string>
+	<key>tableasstate</key>
+	<string>compositionalBorder</string>
+	<key>trianglesPressure</key>
+	<string>freeObserver</string>
+</dict>
+</plist>

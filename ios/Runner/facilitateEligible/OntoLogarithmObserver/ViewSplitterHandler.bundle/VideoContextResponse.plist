@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatetask</key>
+	<string>shouldAnimateStream</string>
+	<key>columnmapper</key>
+	<string>missedVector</string>
+	<key>compositionOffset</key>
+	<string>fixedremainderstyle</string>
+	<key>diffableHash</key>
+	<string>requestname</string>
+	<key>disparateTopic</key>
+	<string>cleanProgressBar</string>
+	<key>draggableDropdownButton</key>
+	<string>buildGradient</string>
+	<key>shouldSetStateAxis</key>
+	<string>draggableError</string>
+</dict>
+</plist>

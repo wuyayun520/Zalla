@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSorter</key>
+	<string>compositionalConnector</string>
+	<key>attachchart</key>
+	<string>converterInterval</string>
+	<key>clusterright</key>
+	<string>holdContainer</string>
+	<key>delicateGestureDetector</key>
+	<string>actiondelay</string>
+	<key>documentbyproxy</key>
+	<string>liteBehavior</string>
+	<key>keyswitch</key>
+	<string>responsiveMargin</string>
+	<key>uniqueQueue</key>
+	<string>resolveRouter</string>
+</dict>
+</plist>

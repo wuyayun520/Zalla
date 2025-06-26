@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSensor</key>
+	<string>reactiveTheme</string>
+	<key>nodecyclefeedback</key>
+	<string>isstateful</string>
+	<key>oldremainder</key>
+	<string>presentexpanded</string>
+	<key>prevresult</key>
+	<string>searchQueue</string>
+	<key>resolverdespitemediator</key>
+	<string>scaffoldchannel</string>
+	<key>substantialBase</key>
+	<string>overrideTitle</string>
+	<key>transformspine</key>
+	<string>commonTrajectory</string>
+	<key>yieldstep</key>
+	<string>requiredassettag</string>
+</dict>
+</plist>

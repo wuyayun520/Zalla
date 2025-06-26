@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleSpacing</key>
+	<string>unmountBaseline</string>
+	<key>deactivateentity</key>
+	<string>timebound</string>
+	<key>finishproject</key>
+	<string>subtleEvaluation</string>
+	<key>projectthroughmediator</key>
+	<string>euclideanGate</string>
+	<key>retainedCaption</key>
+	<string>eagerChooser</string>
+	<key>shouldLayoutGradient</key>
+	<string>tappableElement</string>
+	<key>shouldmountedstateful</key>
+	<string>sceneAdapter</string>
+	<key>similarDrawer</key>
+	<string>declarativeBuilder</string>
+</dict>
+</plist>

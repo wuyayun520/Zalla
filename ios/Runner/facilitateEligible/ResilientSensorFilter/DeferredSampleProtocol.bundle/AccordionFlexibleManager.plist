@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStyle</key>
+	<string>canValidateHero</string>
+	<key>certificateTheme</key>
+	<string>variantSpacing</string>
+	<key>difficultProgressBar</key>
+	<string>missiontimeline</string>
+	<key>locatemovement</key>
+	<string>storeIsolate</string>
+	<key>opaquedecoration</key>
+	<string>customtransitionmode</string>
+	<key>shouldUnbindInkWell</key>
+	<string>amortizationVisibility</string>
+	<key>statefulDescent</key>
+	<string>adaptiveModel</string>
+</dict>
+</plist>

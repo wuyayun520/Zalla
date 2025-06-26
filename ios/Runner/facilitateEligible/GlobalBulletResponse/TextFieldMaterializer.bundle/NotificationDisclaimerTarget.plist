@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectutil</key>
+	<string>sineSaturation</string>
+	<key>immediateaccessory</key>
+	<string>mergerStyle</string>
+	<key>shouldEncodeTransition</key>
+	<string>discardedInfrastructure</string>
+	<key>skirtfrequency</key>
+	<string>otherStream</string>
+</dict>
+</plist>

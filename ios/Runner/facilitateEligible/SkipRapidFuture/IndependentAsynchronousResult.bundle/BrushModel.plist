@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStroke</key>
+	<string>storeChannel</string>
+	<key>allocatorstateinset</key>
+	<string>shouldAnimateDialogs</string>
+	<key>boxshadowfromsingleton</key>
+	<string>themeVariable</string>
+	<key>movementinfrastructure</key>
+	<string>handlerFunction</string>
+	<key>originalPoint</key>
+	<string>clipHandler</string>
+	<key>otherCard</key>
+	<string>tappableVector</string>
+</dict>
+</plist>

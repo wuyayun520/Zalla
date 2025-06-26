@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixeddistinction</key>
+	<string>granularMargin</string>
+	<key>misseddecoration</key>
+	<string>granularskin</string>
+	<key>mutableMerger</key>
+	<string>interpolationDelay</string>
+	<key>platesincetype</key>
+	<string>processorStatus</string>
+	<key>singleCharacter</key>
+	<string>encodeButton</string>
+</dict>
+</plist>

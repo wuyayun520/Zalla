@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDelivery</key>
+	<string>notifierFeedback</string>
+	<key>firstShape</key>
+	<string>scrollableTechnique</string>
+	<key>originalchannel</key>
+	<string>kernelDistance</string>
+	<key>respectiveNib</key>
+	<string>activateWidget</string>
+	<key>shouldAttachCollection</key>
+	<string>shearException</string>
+</dict>
+</plist>

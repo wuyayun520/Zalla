@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttint</key>
+	<string>rebuildModal</string>
+	<key>granularColumn</key>
+	<string>stopScroll</string>
+	<key>greatArchitecture</key>
+	<string>utilAction</string>
+	<key>groupvarbound</key>
+	<string>bulletTop</string>
+	<key>mobileTweak</key>
+	<string>webVariant</string>
+	<key>shouldHandleCycle</key>
+	<string>canRouteSlider</string>
+	<key>shouldUnmountedSlider</key>
+	<string>sizedboxTransparency</string>
+</dict>
+</plist>

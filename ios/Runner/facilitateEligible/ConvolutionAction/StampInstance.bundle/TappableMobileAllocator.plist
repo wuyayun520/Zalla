@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInstruction</key>
+	<string>unsortedsubpixelformat</string>
+	<key>cupertinoPreview</key>
+	<string>spineComposite</string>
+	<key>customanchorinterval</key>
+	<string>functionalImpression</string>
+	<key>responsiveVertex</key>
+	<string>taskPadding</string>
+	<key>shouldPushCompletion</key>
+	<string>resourcePressure</string>
+</dict>
+</plist>

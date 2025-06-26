@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateReference</key>
+	<string>gradientLeft</string>
+	<key>diversifiedArchitecture</key>
+	<string>cupertinoInfrastructure</string>
+	<key>flexDensity</key>
+	<string>cupertinoRectangle</string>
+</dict>
+</plist>

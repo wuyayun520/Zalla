@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMatrix</key>
+	<string>publishTouch</string>
+	<key>declarativetouch</key>
+	<string>listenerForm</string>
+	<key>indicatorrecursion</key>
+	<string>lastCubit</string>
+	<key>invisibleThroughput</key>
+	<string>createDrawer</string>
+	<key>optionperactivity</key>
+	<string>intuitiveresulttension</string>
+	<key>primarymastertransparency</key>
+	<string>bindRoute</string>
+	<key>responsiveError</key>
+	<string>canDisconnectCurve</string>
+	<key>shouldPublishBehavior</key>
+	<string>hyperbolicOption</string>
+	<key>shouldRestartStream</key>
+	<string>documentstatevalidation</string>
+</dict>
+</plist>

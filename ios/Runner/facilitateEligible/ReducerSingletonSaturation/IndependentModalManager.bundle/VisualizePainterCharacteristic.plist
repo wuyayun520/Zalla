@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStatus</key>
+	<string>checkSize</string>
+	<key>infoTint</key>
+	<string>fetchTabBar</string>
+	<key>keyVideo</key>
+	<string>shouldEncodeRadio</string>
+	<key>otherPlayback</key>
+	<string>diversifiedProvider</string>
+	<key>resilientrole</key>
+	<string>mainEquivalent</string>
+	<key>roleResponse</key>
+	<string>standalonepolygon</string>
+	<key>shouldRenderAperture</key>
+	<string>sequentialGesture</string>
+	<key>smallDuration</key>
+	<string>appbarWork</string>
+	<key>webElement</key>
+	<string>semanticMultiplication</string>
+</dict>
+</plist>

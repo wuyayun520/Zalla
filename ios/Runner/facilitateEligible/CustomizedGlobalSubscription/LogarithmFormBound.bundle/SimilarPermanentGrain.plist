@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilecompletion</key>
+	<string>completedSign</string>
+	<key>descriptorframe</key>
+	<string>propagateSingleton</string>
+	<key>directlyCubit</key>
+	<string>resumePlayback</string>
+	<key>geometricDropdownButton</key>
+	<string>shouldPaintInstruction</string>
+	<key>hasBuilder</key>
+	<string>precisionfromcontext</string>
+	<key>sampleoffset</key>
+	<string>interceptChannel</string>
+	<key>shouldConnectText</key>
+	<string>canParseAccessory</string>
+	<key>shouldrestartborder</key>
+	<string>createhero</string>
+	<key>usedComponent</key>
+	<string>heroVisitor</string>
+</dict>
+</plist>

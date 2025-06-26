@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicaterequest</key>
+	<string>hyperbolicChannels</string>
+	<key>enabledTheme</key>
+	<string>discoverSingleton</string>
+	<key>handlerPadding</key>
+	<string>modulusFeedback</string>
+	<key>materialskewy</key>
+	<string>cycleFrequency</string>
+	<key>shouldTransitionLabel</key>
+	<string>standaloneLabel</string>
+	<key>symmetricTimer</key>
+	<string>standaloneVolume</string>
+	<key>textureversusparam</key>
+	<string>independentManager</string>
+</dict>
+</plist>

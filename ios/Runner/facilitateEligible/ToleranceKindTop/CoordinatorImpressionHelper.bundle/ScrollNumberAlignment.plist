@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVelocity</key>
+	<string>cellValue</string>
+	<key>certificateinteraction</key>
+	<string>shearReducer</string>
+	<key>deferredContainer</key>
+	<string>multichannels</string>
+	<key>modelskewx</key>
+	<string>splitterbehavior</string>
+	<key>publicLoader</key>
+	<string>materialCheckbox</string>
+	<key>statelesstraversal</key>
+	<string>serializeNavigation</string>
+	<key>tangentwithoutwork</key>
+	<string>stringifyEvent</string>
+</dict>
+</plist>

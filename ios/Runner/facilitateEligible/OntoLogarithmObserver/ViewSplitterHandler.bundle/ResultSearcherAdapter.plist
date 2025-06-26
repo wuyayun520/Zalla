@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentNavigator</key>
+	<string>hasGate</string>
+	<key>lostDescriptor</key>
+	<string>writeMenu</string>
+	<key>mutableTouch</key>
+	<string>consumptionTint</string>
+	<key>publisherMomentum</key>
+	<string>asynchronousLocalization</string>
+	<key>sineForce</key>
+	<string>sanitizeWidget</string>
+</dict>
+</plist>

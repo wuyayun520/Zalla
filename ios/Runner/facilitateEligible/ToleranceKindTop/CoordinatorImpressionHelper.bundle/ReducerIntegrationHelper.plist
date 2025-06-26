@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGrid</key>
+	<string>savereduction</string>
+	<key>exceptionbuffershape</key>
+	<string>checkboxAction</string>
+	<key>newestProtocol</key>
+	<string>expandedtraversal</string>
+	<key>presenterconfidentiality</key>
+	<string>draggableNotifier</string>
+	<key>sequentialService</key>
+	<string>sortedZone</string>
+	<key>shouldMountVariant</key>
+	<string>behaviorStage</string>
+	<key>smallGate</key>
+	<string>constantEdge</string>
+	<key>trainpreview</key>
+	<string>multiBorder</string>
+</dict>
+</plist>

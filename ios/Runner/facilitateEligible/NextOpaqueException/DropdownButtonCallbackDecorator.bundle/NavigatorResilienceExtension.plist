@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentscale</key>
+	<string>gridSize</string>
+	<key>consumerandadapter</key>
+	<string>tensorNib</string>
+	<key>disabledTimer</key>
+	<string>gridviewoutsidemode</string>
+	<key>greatHeap</key>
+	<string>axisInterval</string>
+	<key>observerAlignment</key>
+	<string>transitionSkewX</string>
+	<key>observerchainmargin</key>
+	<string>scrollerDepth</string>
+</dict>
+</plist>

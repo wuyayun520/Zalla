@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCheckbox</key>
+	<string>isbutton</string>
+	<key>cubestate</key>
+	<string>observecompletion</string>
+	<key>intuitivemend</key>
+	<string>accessorystroke</string>
+	<key>requestenvironmentinterval</key>
+	<string>globalPager</string>
+	<key>semanticGrayscale</key>
+	<string>shouldCreateCustomPaint</string>
+	<key>shouldDisposeProject</key>
+	<string>protectedPet</string>
+	<key>shouldRouteMobile</key>
+	<string>sustainablegesture</string>
+	<key>singletontype</key>
+	<string>floatChart</string>
+	<key>substantialCubit</key>
+	<string>requiredTouch</string>
+	<key>webMember</key>
+	<string>textobserverstate</string>
+</dict>
+</plist>

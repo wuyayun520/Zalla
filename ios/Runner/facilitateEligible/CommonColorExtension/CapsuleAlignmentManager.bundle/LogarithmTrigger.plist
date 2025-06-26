@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSpacing</key>
+	<string>playbackRight</string>
+	<key>agileSelector</key>
+	<string>dialogsVisitor</string>
+	<key>alignmentHead</key>
+	<string>measureQueue</string>
+	<key>checklistTag</key>
+	<string>currentNavigation</string>
+	<key>primaryGesture</key>
+	<string>scrollFlyweight</string>
+	<key>rowSkewY</key>
+	<string>customExponent</string>
+	<key>shouldUnbindVariant</key>
+	<string>materialAspect</string>
+	<key>sineBrightness</key>
+	<string>infoSkewX</string>
+</dict>
+</plist>

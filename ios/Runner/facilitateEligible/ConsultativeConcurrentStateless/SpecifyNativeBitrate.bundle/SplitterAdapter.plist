@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinteraction</key>
+	<string>baselineOffset</string>
+	<key>draggableInjection</key>
+	<string>integerDistance</string>
+	<key>sequentialtweenshape</key>
+	<string>canConnectDocument</string>
+	<key>shouldListenSession</key>
+	<string>cosinetext</string>
+	<key>shouldPaintDialogs</key>
+	<string>volumeShade</string>
+	<key>statefulHeap</key>
+	<string>largeCapsule</string>
+	<key>taxonomyHead</key>
+	<string>explicitConverter</string>
+</dict>
+</plist>

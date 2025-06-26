@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaopacity</key>
+	<string>materialProxy</string>
+	<key>hardTransformer</key>
+	<string>shouldRouteProjection</string>
+	<key>lastSignature</key>
+	<string>displayException</string>
+	<key>otheranimatedcontainervalidation</key>
+	<string>mediumConstant</string>
+	<key>shouldDisposeCompletion</key>
+	<string>canRestartDrawer</string>
+	<key>shouldMountedTransition</key>
+	<string>taskbehavior</string>
+	<key>shouldParseTouch</key>
+	<string>typicalThreshold</string>
+</dict>
+</plist>

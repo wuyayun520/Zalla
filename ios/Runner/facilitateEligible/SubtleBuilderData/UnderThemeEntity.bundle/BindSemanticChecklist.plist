@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPresenter</key>
+	<string>mediaandstyle</string>
+	<key>custompainttime</key>
+	<string>shouldEmitMediaQuery</string>
+	<key>dispatchtexture</key>
+	<string>writeException</string>
+	<key>effectshade</key>
+	<string>shouldTransitionButton</string>
+	<key>hardContrast</key>
+	<string>shouldEmitScroll</string>
+	<key>reusableWrapper</key>
+	<string>canParseSign</string>
+	<key>sensorstructureskewy</key>
+	<string>labelcontaincomposite</string>
+	<key>textfieldRight</key>
+	<string>disabledRadius</string>
+	<key>texturemodule</key>
+	<string>retainedInkWell</string>
+</dict>
+</plist>

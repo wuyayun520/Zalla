@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserHue</key>
+	<string>differentiateState</string>
+	<key>gradientFlags</key>
+	<string>opaqueConstraint</string>
+	<key>instructionShade</key>
+	<string>endCaption</string>
+	<key>prevDisclaimer</key>
+	<string>canReplaceMultiplication</string>
+	<key>servicetime</key>
+	<string>showCanvas</string>
+	<key>shouldMountedConsumer</key>
+	<string>showGraph</string>
+	<key>shouldskipinstruction</key>
+	<string>masterCycle</string>
+	<key>uniformAnimator</key>
+	<string>providerthanobserver</string>
+</dict>
+</plist>

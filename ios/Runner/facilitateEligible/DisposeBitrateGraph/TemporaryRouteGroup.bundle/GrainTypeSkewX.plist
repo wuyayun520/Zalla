@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferKind</key>
+	<string>publisherinteraction</string>
+	<key>chapterbrightness</key>
+	<string>synchronousSkirt</string>
+	<key>cupertinoInjection</key>
+	<string>handleredge</string>
+	<key>fixedSound</key>
+	<string>statelessMaster</string>
+	<key>graphicparamshape</key>
+	<string>grayscaleproxytheme</string>
+	<key>polyfillDelay</key>
+	<string>heapParam</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityShape</key>
+	<string>alerttrigger</string>
+	<key>cosinematrix</key>
+	<string>crucialRoute</string>
+	<key>disabledState</key>
+	<string>semanticSearcher</string>
+	<key>flextransparency</key>
+	<string>animategrain</string>
+	<key>mediumContainer</key>
+	<string>multiAnalyzer</string>
+	<key>routeinfrastructure</key>
+	<string>shouldEncodePositioned</string>
+	<key>sequentialChooser</key>
+	<string>interactiveBloc</string>
+</dict>
+</plist>

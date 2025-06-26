@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAccessory</key>
+	<string>usagenumberbrightness</string>
+	<key>compositionalOverlay</key>
+	<string>transformReference</string>
+	<key>finderInset</key>
+	<string>itemRotation</string>
+	<key>imperativeSign</key>
+	<string>notifyPreview</string>
+	<key>memberflags</key>
+	<string>radiodensity</string>
+	<key>presentstack</key>
+	<string>transformLayer</string>
+	<key>uniformIndicator</key>
+	<string>canSkipTextField</string>
+</dict>
+</plist>

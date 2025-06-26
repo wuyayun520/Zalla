@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalFeature</key>
+	<string>streamNavigation</string>
+	<key>elasticSignature</key>
+	<string>lastPoint</string>
+	<key>sampleversussystem</key>
+	<string>mainProgressBar</string>
+	<key>schedulecache</key>
+	<string>shouldtrainalert</string>
+	<key>shouldDetachGesture</key>
+	<string>allocatorTier</string>
+	<key>shouldstartmission</key>
+	<string>subscribeSign</string>
+	<key>tappableAccessory</key>
+	<string>pivotalbutton</string>
+	<key>transitionBound</key>
+	<string>canCreateExpanded</string>
+	<key>vectorOffset</key>
+	<string>documentfactory</string>
+	<key>vertexBrightness</key>
+	<string>repositoryType</string>
+</dict>
+</plist>

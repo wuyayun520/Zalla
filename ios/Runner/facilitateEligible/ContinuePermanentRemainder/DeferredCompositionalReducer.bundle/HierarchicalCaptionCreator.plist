@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcertificate</key>
+	<string>usedCompleter</string>
+	<key>enabledText</key>
+	<string>unsortedAccessory</string>
+	<key>intermediateBrush</key>
+	<string>sanitizeRouter</string>
+	<key>smallGrid</key>
+	<string>bufferBottom</string>
+</dict>
+</plist>

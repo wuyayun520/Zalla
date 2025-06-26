@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedUnary</key>
+	<string>isolateRate</string>
+	<key>immutableStack</key>
+	<string>interceptPresenter</string>
+	<key>lazyStateless</key>
+	<string>exponentopacity</string>
+	<key>previewvarname</key>
+	<string>canDisconnectGestureDetector</string>
+	<key>shouldShowSign</key>
+	<string>onaspecttap</string>
+	<key>sizeactionforce</key>
+	<string>normVelocity</string>
+	<key>statusContrast</key>
+	<string>copyQueue</string>
+</dict>
+</plist>

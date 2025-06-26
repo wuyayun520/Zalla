@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRow</key>
+	<string>locateMethod</string>
+	<key>interpolationAppearance</key>
+	<string>tabbardepth</string>
+	<key>reusablesliderinset</key>
+	<string>sequentialLayout</string>
+	<key>segmentTop</key>
+	<string>canEncodeUnary</string>
+	<key>semanticInkWell</key>
+	<string>equalprovider</string>
+	<key>shouldConnectContraction</key>
+	<string>deserializeManager</string>
+</dict>
+</plist>

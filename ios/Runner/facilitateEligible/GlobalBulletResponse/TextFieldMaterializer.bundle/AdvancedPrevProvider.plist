@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveCosine</key>
+	<string>shouldShowSkirt</string>
+	<key>inheritedBox</key>
+	<string>geometricProgressBar</string>
+	<key>mainBuilder</key>
+	<string>shouldSaveStream</string>
+	<key>tensorScene</key>
+	<string>channelsformat</string>
+</dict>
+</plist>

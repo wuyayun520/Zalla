@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedExponent</key>
+	<string>gramHue</string>
+	<key>debugarithmetic</key>
+	<string>timerSystem</string>
+	<key>invisiblescroll</key>
+	<string>retainedService</string>
+	<key>largeComponent</key>
+	<string>restartmedia</string>
+	<key>shouldstopchallenge</key>
+	<string>shouldTransitionProjection</string>
+	<key>webZone</key>
+	<string>encodeAnimation</string>
+</dict>
+</plist>

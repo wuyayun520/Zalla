@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferMode</key>
+	<string>canMountedLoss</string>
+	<key>offsetadaptervalidation</key>
+	<string>grayscalePrototype</string>
+	<key>publisherKind</key>
+	<string>rebuildSensor</string>
+	<key>shouldShowMomentum</key>
+	<string>canHandleInkWell</string>
+</dict>
+</plist>

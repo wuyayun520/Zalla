@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateReference</key>
+	<string>canFinishBaseline</string>
+	<key>largeRemainder</key>
+	<string>desktopSound</string>
+	<key>mediumProtocol</key>
+	<string>pivotalPlate</string>
+	<key>metricsShape</key>
+	<string>mediocreVolume</string>
+	<key>requestbandwidth</key>
+	<string>statefulDirection</string>
+	<key>skinIndex</key>
+	<string>criticalReceiver</string>
+	<key>synchronizestateless</key>
+	<string>shouldContinueMedia</string>
+</dict>
+</plist>

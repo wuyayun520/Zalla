@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionsceneleft</key>
+	<string>canHandleModal</string>
+	<key>diffableMetadata</key>
+	<string>firstZone</string>
+	<key>dispatchervisible</key>
+	<string>discoverRepository</string>
+	<key>draggableSlider</key>
+	<string>canTransformMovement</string>
+	<key>shouldAttachAccessory</key>
+	<string>shouldUpdateReference</string>
+	<key>storyboardactionstyle</key>
+	<string>hierarchicalutilskewy</string>
+	<key>tweakTint</key>
+	<string>requestGrain</string>
+</dict>
+</plist>

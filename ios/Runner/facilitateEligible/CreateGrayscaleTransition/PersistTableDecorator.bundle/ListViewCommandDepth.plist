@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonQueue</key>
+	<string>columnInteraction</string>
+	<key>hierarchicalGesture</key>
+	<string>usedExtension</string>
+	<key>permissivemapper</key>
+	<string>mutableSingleton</string>
+	<key>respectiveDrawer</key>
+	<string>symbolpermutation</string>
+	<key>robustReceiver</key>
+	<string>usedCapsule</string>
+	<key>segueOffset</key>
+	<string>introspectCoordinator</string>
+	<key>shouldMountWidget</key>
+	<string>currentMaster</string>
+	<key>uniqueBinder</key>
+	<string>textureRight</string>
+</dict>
+</plist>

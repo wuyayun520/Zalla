@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMesh</key>
+	<string>animateAxis</string>
+	<key>confidentialityPadding</key>
+	<string>independentPainter</string>
+	<key>criticalScene</key>
+	<string>tappableGridView</string>
+	<key>intuitiveChapter</key>
+	<string>sharedPreview</string>
+	<key>linkerOrientation</key>
+	<string>loaderOrientation</string>
+	<key>semanticsMargin</key>
+	<string>defaultpet</string>
+	<key>smartasset</key>
+	<string>flexibleAsync</string>
+</dict>
+</plist>

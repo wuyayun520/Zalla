@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFormat</key>
+	<string>subtleExtension</string>
+	<key>cupertinoOpacity</key>
+	<string>conformReducer</string>
+	<key>interactiveWidget</key>
+	<string>shouldBuildReduction</string>
+	<key>listviewdistance</key>
+	<string>canSkipGate</string>
+	<key>multiAscent</key>
+	<string>cardState</string>
+	<key>shouldUnbindScroll</key>
+	<string>shouldCancelCollection</string>
+	<key>sortedMember</key>
+	<string>largeexponenttag</string>
+</dict>
+</plist>

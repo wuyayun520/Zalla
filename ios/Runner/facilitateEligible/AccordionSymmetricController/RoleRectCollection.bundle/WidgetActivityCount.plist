@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenticon</key>
+	<string>canSerializeSizedBox</string>
+	<key>drawerOffset</key>
+	<string>shouldUnmountedRemainder</string>
+	<key>interactiveLinker</key>
+	<string>shouldPresentInterpolation</string>
+	<key>managerlayersaturation</key>
+	<string>setstateTernary</string>
+	<key>mediaqueryDistance</key>
+	<string>analogyType</string>
+	<key>shouldStreamGesture</key>
+	<string>nativeRestriction</string>
+	<key>stampversusstate</key>
+	<string>graindensity</string>
+	<key>timershape</key>
+	<string>mountBatch</string>
+</dict>
+</plist>

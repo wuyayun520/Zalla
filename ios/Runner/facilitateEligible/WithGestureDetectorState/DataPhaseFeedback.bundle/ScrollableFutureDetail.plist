@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchrotation</key>
+	<string>viewname</string>
+	<key>comprehensiveFinder</key>
+	<string>reducerDuration</string>
+	<key>consultativeSwitch</key>
+	<string>retainedsceneorientation</string>
+	<key>factoryrotation</key>
+	<string>builderTail</string>
+	<key>functionallocalizationscale</key>
+	<string>mobileTraversal</string>
+	<key>lastarithmetic</key>
+	<string>draggablePainter</string>
+	<key>repositoryFormat</key>
+	<string>directMetadata</string>
+	<key>shouldskippositioned</key>
+	<string>imperativebuilder</string>
+	<key>timerKind</key>
+	<string>canRebuildContainer</string>
+</dict>
+</plist>

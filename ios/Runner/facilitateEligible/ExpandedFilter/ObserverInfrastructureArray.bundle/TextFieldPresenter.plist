@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionShape</key>
+	<string>alignmentCoord</string>
+	<key>descriptorStatus</key>
+	<string>easyGrid</string>
+	<key>evaluateprotocol</key>
+	<string>resolverpolyfill</string>
+	<key>petHue</key>
+	<string>dropoutcolumn</string>
+	<key>resizableEvaluation</key>
+	<string>sustainableCubit</string>
+	<key>semanticInteraction</key>
+	<string>desktopGridView</string>
+	<key>signshader</key>
+	<string>concreteRequest</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousError</key>
+	<string>scalelocation</string>
+	<key>asynchronoustouch</key>
+	<string>beginnerNavigation</string>
+	<key>kernelSkewX</key>
+	<string>denseStateful</string>
+	<key>missedAnimatedContainer</key>
+	<string>pendingGraphic</string>
+	<key>playrepository</key>
+	<string>directElement</string>
+	<key>scrollableisolate</key>
+	<string>shouldObserveWidget</string>
+	<key>singletonappearance</key>
+	<string>seamlessProvision</string>
+	<key>smallSign</key>
+	<string>canContinuePlate</string>
+	<key>statelessLayer</key>
+	<string>otherAsset</string>
+	<key>zonebeyondtype</key>
+	<string>lossStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShade</key>
+	<string>shouldpopspot</string>
+	<key>firstChallenge</key>
+	<string>shouldResumeBitrate</string>
+	<key>lastManager</key>
+	<string>bufferValue</string>
+	<key>mediumsubscription</key>
+	<string>deferredAsync</string>
+	<key>mergerPadding</key>
+	<string>canFetchInstruction</string>
+	<key>observercompleter</key>
+	<string>isBorder</string>
+	<key>scrollablepreviewtint</key>
+	<string>discardedFrame</string>
+	<key>shouldLoadSlash</key>
+	<string>permanentBandwidth</string>
+	<key>statefulAudio</key>
+	<string>rapidCanvas</string>
+</dict>
+</plist>

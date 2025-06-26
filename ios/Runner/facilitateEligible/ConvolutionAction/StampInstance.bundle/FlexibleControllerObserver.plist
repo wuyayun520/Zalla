@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEvent</key>
+	<string>canUnbindCompletion</string>
+	<key>imperativeFormat</key>
+	<string>canEndFlex</string>
+	<key>routeInterval</key>
+	<string>canTrainOptimizer</string>
+	<key>signatureappearance</key>
+	<string>metadataTag</string>
+</dict>
+</plist>

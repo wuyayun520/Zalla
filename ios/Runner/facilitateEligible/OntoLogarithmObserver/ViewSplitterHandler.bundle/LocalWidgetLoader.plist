@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDepth</key>
+	<string>baseBound</string>
+	<key>consumerSkewX</key>
+	<string>pivotalGrain</string>
+	<key>dedicatedChecklist</key>
+	<string>spotDuration</string>
+	<key>hardGrayscale</key>
+	<string>trainEffect</string>
+	<key>mobileRadius</key>
+	<string>offsetresponse</string>
+	<key>shouldNotifyTheme</key>
+	<string>rectangleShape</string>
+	<key>shouldresumestack</key>
+	<string>sensorVisitor</string>
+</dict>
+</plist>

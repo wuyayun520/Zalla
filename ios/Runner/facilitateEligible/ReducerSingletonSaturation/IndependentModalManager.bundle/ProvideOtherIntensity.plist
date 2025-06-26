@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorIndex</key>
+	<string>processresult</string>
+	<key>cartesianStack</key>
+	<string>markscreen</string>
+	<key>interactiveloss</key>
+	<string>staticOffset</string>
+	<key>respectiveGestureDetector</key>
+	<string>nextBandwidth</string>
+	<key>sceneCount</key>
+	<string>euclideanLabel</string>
+	<key>shouldDisposeThread</key>
+	<string>shouldConnectVariant</string>
+	<key>shouldPublishBase</key>
+	<string>herolistener</string>
+	<key>sineopacity</key>
+	<string>refactorReducer</string>
+</dict>
+</plist>

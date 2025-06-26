@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredVariant</key>
+	<string>multiplyHandler</string>
+	<key>functionalhashinterval</key>
+	<string>currentinteger</string>
+	<key>inheritedTable</key>
+	<string>gradientForm</string>
+	<key>seamlessTernary</key>
+	<string>spriteOffset</string>
+	<key>shouldPersistScale</key>
+	<string>durationstream</string>
+	<key>shouldSaveDimension</key>
+	<string>shouldStopContainer</string>
+	<key>triggerTheme</key>
+	<string>sinkVelocity</string>
+	<key>unaryresponder</key>
+	<string>canRouteTextField</string>
+</dict>
+</plist>

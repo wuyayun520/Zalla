@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardapertureorientation</key>
+	<string>substantialSwitch</string>
+	<key>customizedGesture</key>
+	<string>canEmitActivity</string>
+	<key>cycleSaturation</key>
+	<string>shouldEndCursor</string>
+	<key>functionalDocument</key>
+	<string>missedVertex</string>
+	<key>robustIntensity</key>
+	<string>accessibleCubit</string>
+	<key>robustPolygon</key>
+	<string>canHandleModulus</string>
+	<key>sharedstream</key>
+	<string>agileNode</string>
+	<key>shouldDisconnectScreen</key>
+	<string>iterativeHash</string>
+	<key>shouldkeepcell</key>
+	<string>promiseActivity</string>
+	<key>tweakTheme</key>
+	<string>lossInterval</string>
+</dict>
+</plist>

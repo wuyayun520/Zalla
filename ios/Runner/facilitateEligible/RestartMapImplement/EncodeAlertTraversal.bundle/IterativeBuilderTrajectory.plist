@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityAcceleration</key>
+	<string>iterativeScene</string>
+	<key>disabledChallenge</key>
+	<string>missedBuffer</string>
+	<key>endbutton</key>
+	<string>commonManager</string>
+	<key>nextFuture</key>
+	<string>mountedAnimation</string>
+	<key>singleTween</key>
+	<string>expandedDirection</string>
+</dict>
+</plist>

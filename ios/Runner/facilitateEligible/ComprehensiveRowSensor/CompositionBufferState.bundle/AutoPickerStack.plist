@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserTension</key>
+	<string>brushOrientation</string>
+	<key>dependencyHead</key>
+	<string>embraceprovider</string>
+	<key>heapSaturation</key>
+	<string>clusterOrientation</string>
+	<key>invisibleScheduler</key>
+	<string>popDropdownButton</string>
+	<key>protocolscroller</key>
+	<string>canParseInterpolation</string>
+	<key>robustCycle</key>
+	<string>asyncDelay</string>
+	<key>robustMetrics</key>
+	<string>canSerializeMonster</string>
+	<key>sharedFragments</key>
+	<string>iterativeIcon</string>
+	<key>transformertint</key>
+	<string>mediaqueryversusfunction</string>
+</dict>
+</plist>

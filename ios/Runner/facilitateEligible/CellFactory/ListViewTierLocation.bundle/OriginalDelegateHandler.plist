@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCoord</key>
+	<string>uniqueShape</string>
+	<key>enabledResilience</key>
+	<string>cupertinoScheduler</string>
+	<key>gridviewStatus</key>
+	<string>prepareRichText</string>
+	<key>ignoredRect</key>
+	<string>stopPlayback</string>
+	<key>observerformhead</key>
+	<string>positionSpacing</string>
+	<key>pivotalmultiplicationtint</key>
+	<string>largeZone</string>
+	<key>publishtimer</key>
+	<string>replaceHandler</string>
+	<key>similarInformation</key>
+	<string>sizearoundflyweight</string>
+	<key>vertexBottom</key>
+	<string>localPolygon</string>
+</dict>
+</plist>

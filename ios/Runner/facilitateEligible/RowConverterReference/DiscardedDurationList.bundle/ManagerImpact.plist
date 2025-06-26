@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasdensity</key>
+	<string>showBatch</string>
+	<key>cupertinoRadio</key>
+	<string>robustBehavior</string>
+	<key>hardSession</key>
+	<string>persistPageView</string>
+	<key>unsortedintensity</key>
+	<string>cursorMomentum</string>
+</dict>
+</plist>

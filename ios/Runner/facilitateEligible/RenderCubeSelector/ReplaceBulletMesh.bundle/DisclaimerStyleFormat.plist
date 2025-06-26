@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGroup</key>
+	<string>featureProxy</string>
+	<key>deferredSample</key>
+	<string>cartesianDescription</string>
+	<key>equivalentContrast</key>
+	<string>gradienttransition</string>
+	<key>firstComponent</key>
+	<string>iterativePublisher</string>
+	<key>shouldPrepareProtocol</key>
+	<string>buildercombiner</string>
+	<key>substantialArchitecture</key>
+	<string>orchestrateLabel</string>
+	<key>taskRotation</key>
+	<string>listenerKind</string>
+	<key>unaryinteractor</key>
+	<string>shouldNavigateModulus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlycompleterinteraction</key>
+	<string>attachTransition</string>
+	<key>documentType</key>
+	<string>shouldUnmountBehavior</string>
+	<key>lastbrush</key>
+	<string>shouldPublishController</string>
+	<key>onbloctap</key>
+	<string>stampuntilsystem</string>
+	<key>protectedReplica</key>
+	<string>expandedInset</string>
+	<key>resolverTransparency</key>
+	<string>staticRemainder</string>
+	<key>shouldDismissSlash</key>
+	<string>canSetStateSkin</string>
+	<key>shouldobserveradio</key>
+	<string>resetChannel</string>
+	<key>topicAppearance</key>
+	<string>skirtEnvironment</string>
+</dict>
+</plist>

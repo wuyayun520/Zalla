@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodefragment</key>
+	<string>attachShader</string>
+	<key>draggableCupertino</key>
+	<string>menuinteraction</string>
+	<key>granularRepository</key>
+	<string>scrollableSubscriber</string>
+	<key>shouldmountclipper</key>
+	<string>immediateaxistag</string>
+	<key>titletint</key>
+	<string>keyCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalgrouppadding</key>
+	<string>descriptorcount</string>
+	<key>offsetType</key>
+	<string>declarativeSignature</string>
+	<key>opaqueZone</key>
+	<string>dismissWidget</string>
+	<key>shouldfinisheffect</key>
+	<string>navigationMethod</string>
+	<key>sophisticatedBorder</key>
+	<string>handlerlikecommand</string>
+	<key>specifyArchitecture</key>
+	<string>standalonegradient</string>
+	<key>staticLog</key>
+	<string>isolatestyle</string>
+	<key>triggerInset</key>
+	<string>dataDuration</string>
+</dict>
+</plist>

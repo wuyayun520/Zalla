@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentMomentum</key>
+	<string>shouldPrepareDocument</string>
+	<key>convolutionKind</key>
+	<string>mobileSearcher</string>
+	<key>providerAcceleration</key>
+	<string>reusableScalability</string>
+	<key>singleManager</key>
+	<string>responsiveTextField</string>
+	<key>smallTrajectory</key>
+	<string>intermediateAxis</string>
+	<key>startobserver</key>
+	<string>backwardTraversal</string>
+	<key>threadaspect</key>
+	<string>directConsumer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveobserveropacity</key>
+	<string>maintainChapter</string>
+	<key>localConstraint</key>
+	<string>modalActivity</string>
+	<key>parallelInjection</key>
+	<string>consultativeSine</string>
+	<key>resilientSpecifier</key>
+	<string>behaviorCommand</string>
+	<key>secondSkin</key>
+	<string>musicnavigator</string>
+	<key>toleranceFlags</key>
+	<string>sequentialzonekind</string>
+</dict>
+</plist>

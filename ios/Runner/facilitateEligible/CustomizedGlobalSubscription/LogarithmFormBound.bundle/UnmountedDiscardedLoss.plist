@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDensity</key>
+	<string>dropoutmetadata</string>
+	<key>defaultcursor</key>
+	<string>selectedGestureDetector</string>
+	<key>interactivegradient</key>
+	<string>quantizationBuilder</string>
+	<key>methodchaincount</key>
+	<string>accordiontitleinset</string>
+	<key>mobileoffsetrotation</key>
+	<string>materialFeedback</string>
+	<key>publicCompleter</key>
+	<string>easyInformation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCupertino</key>
+	<string>convolutionandbuffer</string>
+	<key>firstDocument</key>
+	<string>joinerTransparency</string>
+	<key>localReducer</key>
+	<string>scrollableKernel</string>
+	<key>localizationvelocity</key>
+	<string>independentAxis</string>
+	<key>quaternionSkewY</key>
+	<string>resilientContrast</string>
+	<key>shouldProcessCache</key>
+	<string>repositorySkewX</string>
+</dict>
+</plist>

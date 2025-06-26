@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findrichtext</key>
+	<string>denseCard</string>
+	<key>granularCollection</key>
+	<string>characteristicLocation</string>
+	<key>pivotalStream</key>
+	<string>updatePromise</string>
+	<key>spinedirection</key>
+	<string>gemcoordinator</string>
+</dict>
+</plist>

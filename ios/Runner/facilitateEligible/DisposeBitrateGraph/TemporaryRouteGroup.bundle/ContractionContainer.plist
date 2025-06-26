@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainthead</key>
+	<string>sustainableGridView</string>
+	<key>copyhash</key>
+	<string>customizedContainer</string>
+	<key>frametail</key>
+	<string>requiredTextField</string>
+	<key>mediumHash</key>
+	<string>keepparticle</string>
+	<key>musicName</key>
+	<string>mergerSaturation</string>
+	<key>pageviewchannel</key>
+	<string>canNavigateChannels</string>
+	<key>shouldUnmountedPainter</key>
+	<string>chapterName</string>
+	<key>singletontempletint</key>
+	<string>routerelasticity</string>
+	<key>statelessBuffer</key>
+	<string>temporaryDescent</string>
+</dict>
+</plist>

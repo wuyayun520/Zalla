@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousElasticity</key>
+	<string>rendersignature</string>
+	<key>composableFuture</key>
+	<string>compositionMode</string>
+	<key>eagerSkirt</key>
+	<string>shouldNotifyNib</string>
+	<key>explicitAscent</key>
+	<string>restoreResource</string>
+	<key>framecontextshape</key>
+	<string>petcompositename</string>
+	<key>invisibleHandler</key>
+	<string>canLoadSign</string>
+	<key>uniformAnimatedContainer</key>
+	<string>heroPosition</string>
+</dict>
+</plist>

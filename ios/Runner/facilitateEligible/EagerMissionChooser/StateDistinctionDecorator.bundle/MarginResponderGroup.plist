@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPressure</key>
+	<string>batchtolerance</string>
+	<key>blocpatterntint</key>
+	<string>shouldSerializeWidget</string>
+	<key>concurrentSign</key>
+	<string>tabviewstyle</string>
+	<key>consultativescaffoldvisibility</key>
+	<string>pushPoint</string>
+	<key>currentreference</key>
+	<string>evaluationOpacity</string>
+	<key>particleStyle</key>
+	<string>awaitvertex</string>
+	<key>webTicker</key>
+	<string>gateresult</string>
+</dict>
+</plist>

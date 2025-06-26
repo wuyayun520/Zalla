@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalFilter</key>
+	<string>fixedTangent</string>
+	<key>infoleft</key>
+	<string>sampleTransparency</string>
+	<key>numericalWrapper</key>
+	<string>associatedPageView</string>
+	<key>opaqueController</key>
+	<string>shouldPushBase</string>
+	<key>pointKind</key>
+	<string>smartCapacities</string>
+	<key>prevDetail</key>
+	<string>dataAppearance</string>
+	<key>requestDirection</key>
+	<string>grainForce</string>
+	<key>shouldbindcard</key>
+	<string>consumeLayer</string>
+	<key>shouldpushborder</key>
+	<string>lastCallback</string>
+</dict>
+</plist>

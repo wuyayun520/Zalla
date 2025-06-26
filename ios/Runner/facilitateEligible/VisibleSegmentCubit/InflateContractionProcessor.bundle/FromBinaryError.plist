@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTrigger</key>
+	<string>notifierBound</string>
+	<key>creatorFormat</key>
+	<string>visitTopic</string>
+	<key>enabledPositioned</key>
+	<string>transitionStoryboard</string>
+	<key>hierarchicalPromise</key>
+	<string>mainRichText</string>
+	<key>parallelStoryboard</key>
+	<string>integerwithcommand</string>
+	<key>smallIcon</key>
+	<string>stepTheme</string>
+	<key>visibleBuffer</key>
+	<string>animatorTail</string>
+</dict>
+</plist>

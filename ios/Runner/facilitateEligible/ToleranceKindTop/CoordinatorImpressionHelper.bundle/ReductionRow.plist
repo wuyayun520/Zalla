@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStrength</key>
+	<string>textfieldForm</string>
+	<key>normalSorter</key>
+	<string>hasEquipment</string>
+	<key>playbackOpacity</key>
+	<string>canStartCharacter</string>
+	<key>robustBrush</key>
+	<string>metadataStyle</string>
+	<key>tappableAppBar</key>
+	<string>hyperbolicMusic</string>
+</dict>
+</plist>

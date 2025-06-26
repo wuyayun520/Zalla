@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtaxonomy</key>
+	<string>activateGraph</string>
+	<key>clipperopacity</key>
+	<string>significantBatch</string>
+	<key>grainvertex</key>
+	<string>globalbuttonrate</string>
+	<key>hyperbolicPresenter</key>
+	<string>responsiveshape</string>
+	<key>mediaqueryAlignment</key>
+	<string>skinprovider</string>
+	<key>mediocreResponse</key>
+	<string>exceptioninteraction</string>
+	<key>mediumCheckbox</key>
+	<string>canHandleOperation</string>
+	<key>similarPolygon</key>
+	<string>serviceFramework</string>
+	<key>streamOrigin</key>
+	<string>fusedSizedBox</string>
+</dict>
+</plist>

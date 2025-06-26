@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelpadding</key>
+	<string>layoutcommanddistance</string>
+	<key>checklistVisibility</key>
+	<string>asyncaroundtier</string>
+	<key>dedicatedLabel</key>
+	<string>touchmementofeedback</string>
+	<key>ephemeralCluster</key>
+	<string>previewVisitor</string>
+	<key>firstHash</key>
+	<string>shouldupdateprojection</string>
+	<key>layerfromscope</key>
+	<string>responderfrequency</string>
+	<key>materializerOffset</key>
+	<string>scaffoldDecorator</string>
+	<key>permanentCompleter</key>
+	<string>shouldbuildpriority</string>
+	<key>shouldInflateEquipment</key>
+	<string>imageSpeed</string>
+</dict>
+</plist>

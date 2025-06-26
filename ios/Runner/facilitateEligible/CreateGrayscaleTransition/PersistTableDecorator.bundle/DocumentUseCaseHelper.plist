@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateconsumption</key>
+	<string>responseStrategy</string>
+	<key>denseSchema</key>
+	<string>shouldStopCollection</string>
+	<key>dispatcherSpacing</key>
+	<string>validateTangent</string>
+	<key>graphBorder</key>
+	<string>multiPreview</string>
+	<key>insteadchart</key>
+	<string>taxonomyHead</string>
+	<key>largeBehavior</key>
+	<string>easyIntegration</string>
+	<key>shouldParseScaffold</key>
+	<string>basicDelegate</string>
+</dict>
+</plist>

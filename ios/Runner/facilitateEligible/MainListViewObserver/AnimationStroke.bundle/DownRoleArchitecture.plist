@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBound</key>
+	<string>currentappbar</string>
+	<key>composableFlex</key>
+	<string>exitResolver</string>
+	<key>fusedAwait</key>
+	<string>reactiveintensityduration</string>
+	<key>gridviewCenter</key>
+	<string>dropdownbuttonversusinterpreter</string>
+	<key>materialflags</key>
+	<string>positionedParameter</string>
+	<key>parallelTraversal</key>
+	<string>emitController</string>
+	<key>rectfunctioncontrast</key>
+	<string>canSaveLabel</string>
+	<key>statefulRemediation</key>
+	<string>directGradient</string>
+	<key>vertexOpacity</key>
+	<string>observerprocesstint</string>
+</dict>
+</plist>

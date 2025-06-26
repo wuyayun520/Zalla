@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectgesture</key>
+	<string>numericalInteractor</string>
+	<key>dissociaterole</key>
+	<string>schedulerFormat</string>
+	<key>errorvariableorigin</key>
+	<string>shouldRestartUnary</string>
+	<key>responsiveallocatorskewx</key>
+	<string>canKeepSkirt</string>
+	<key>semanticsBorder</key>
+	<string>drawModel</string>
+	<key>shouldreplacehero</key>
+	<string>subsequentListener</string>
+	<key>sinkFlags</key>
+	<string>viewcount</string>
+	<key>statelessPresenter</key>
+	<string>checkboxTail</string>
+</dict>
+</plist>

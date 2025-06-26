@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeconstraint</key>
+	<string>visibleNotation</string>
+	<key>agileRequest</key>
+	<string>functionalItem</string>
+	<key>clipperScale</key>
+	<string>instantiateStorage</string>
+	<key>firstAlert</key>
+	<string>stampOrientation</string>
+	<key>shouldDetachNib</key>
+	<string>mediumLogarithm</string>
+	<key>subtleDetector</key>
+	<string>lockRouter</string>
+	<key>widgetinset</key>
+	<string>webUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveradius</key>
+	<string>selectedSkin</string>
+	<key>agileResponder</key>
+	<string>skipprojection</string>
+	<key>decorationindex</key>
+	<string>canPublishMonster</string>
+	<key>dynamicBase</key>
+	<string>paintreference</string>
+	<key>fusedBehavior</key>
+	<string>canPopCapsule</string>
+	<key>lastComposition</key>
+	<string>canBindSpecifier</string>
+	<key>requiredGift</key>
+	<string>titleVariable</string>
+	<key>resilientSample</key>
+	<string>declarativeResponder</string>
+	<key>shouldEncodeCapacities</key>
+	<string>canDetachPriority</string>
+</dict>
+</plist>

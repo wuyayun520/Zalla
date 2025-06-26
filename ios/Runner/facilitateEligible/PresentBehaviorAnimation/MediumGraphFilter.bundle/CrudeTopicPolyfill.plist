@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticusageinset</key>
+	<string>drawUseCase</string>
+	<key>shouldDetachKernel</key>
+	<string>streamPrototype</string>
+	<key>shouldLayoutNotifier</key>
+	<string>protectedSwitch</string>
+	<key>sophisticatedModal</key>
+	<string>shouldNotifyChannels</string>
+	<key>standaloneReduction</key>
+	<string>curvearoundlayer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelkernel</key>
+	<string>lazyTask</string>
+	<key>crucialUsage</key>
+	<string>composableImpact</string>
+	<key>flexibleScaffold</key>
+	<string>extendscaffold</string>
+	<key>lazyMetrics</key>
+	<string>newestOperation</string>
+	<key>mechanismCenter</key>
+	<string>streammode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTraversal</key>
+	<string>updateCupertino</string>
+	<key>imageTail</key>
+	<string>cubitFramework</string>
+	<key>litePosition</key>
+	<string>localizationoffset</string>
+	<key>mediocreTextField</key>
+	<string>responseMemento</string>
+	<key>routerincludesingleton</key>
+	<string>mediaqueryRate</string>
+	<key>seamlessCursor</key>
+	<string>firstStateless</string>
+	<key>semanticMomentum</key>
+	<string>mobileMember</string>
+	<key>shouldUpdateMap</key>
+	<string>deferredDialogs</string>
+</dict>
+</plist>

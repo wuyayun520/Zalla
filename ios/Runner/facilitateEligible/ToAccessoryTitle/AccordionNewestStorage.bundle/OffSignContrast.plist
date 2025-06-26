@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTolerance</key>
+	<string>shouldSubscribeLayout</string>
+	<key>compositionalCluster</key>
+	<string>videoKind</string>
+	<key>creatorVisibility</key>
+	<string>platedescent</string>
+	<key>displayableDisclaimer</key>
+	<string>accordionMatrix</string>
+	<key>mapperResponse</key>
+	<string>disabledPicker</string>
+	<key>scrollabletimerskewx</key>
+	<string>shouldStreamSubpixel</string>
+	<key>shouldReplaceSlider</key>
+	<string>dynamicCluster</string>
+	<key>sliderevent</key>
+	<string>encodePainter</string>
+	<key>synchronousInterface</key>
+	<string>strengthDuration</string>
+</dict>
+</plist>

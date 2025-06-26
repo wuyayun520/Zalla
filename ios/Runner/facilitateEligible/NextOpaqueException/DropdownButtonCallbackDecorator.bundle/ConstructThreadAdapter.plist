@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModulus</key>
+	<string>expandedusecase</string>
+	<key>autoInteger</key>
+	<string>relationalChannel</string>
+	<key>buildalert</key>
+	<string>swiftinsidevar</string>
+	<key>flexibleTopic</key>
+	<string>canvasParameter</string>
+	<key>geometricListener</key>
+	<string>canRenderStateless</string>
+	<key>hierarchicalMaterial</key>
+	<string>wrapperLocation</string>
+	<key>shouldEmitSine</key>
+	<string>listenLog</string>
+	<key>shouldStreamImage</key>
+	<string>threadVelocity</string>
+	<key>swiftTheme</key>
+	<string>clusterLeft</string>
+</dict>
+</plist>

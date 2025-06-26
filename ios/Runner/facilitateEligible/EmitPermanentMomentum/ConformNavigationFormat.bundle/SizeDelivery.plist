@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDepth</key>
+	<string>canDisconnectPadding</string>
+	<key>containerdata</key>
+	<string>stateContrast</string>
+	<key>endtransformer</key>
+	<string>canPrepareCheckbox</string>
+	<key>euclideanresultcolor</key>
+	<string>gemName</string>
+	<key>hierarchicalLabel</key>
+	<string>resourceTop</string>
+	<key>moduluslayout</key>
+	<string>shouldUnmountGraphic</string>
+	<key>semanticGraph</key>
+	<string>firstEfficiency</string>
+	<key>themeTint</key>
+	<string>executeeffect</string>
+</dict>
+</plist>

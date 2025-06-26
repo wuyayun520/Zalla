@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortype</key>
+	<string>quitInjection</string>
+	<key>concretePrecision</key>
+	<string>animationDensity</string>
+	<key>consumptionName</key>
+	<string>multiStrength</string>
+	<key>emitdialogs</key>
+	<string>decodeTexture</string>
+	<key>giftPosition</key>
+	<string>layoutbottom</string>
+	<key>playbackResponse</key>
+	<string>makeDelegate</string>
+	<key>resulttheme</key>
+	<string>seamlesscanvasdistance</string>
+	<key>retainedLinker</key>
+	<string>lastdecoration</string>
+	<key>sortedChallenge</key>
+	<string>largeInkWell</string>
+</dict>
+</plist>

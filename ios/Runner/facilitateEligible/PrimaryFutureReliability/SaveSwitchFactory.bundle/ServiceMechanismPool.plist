@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateChart</key>
+	<string>transposeTopic</string>
+	<key>pivotalSplitter</key>
+	<string>cubePlatform</string>
+	<key>previewType</key>
+	<string>catalystDensity</string>
+	<key>shouldMountSkirt</key>
+	<string>disabledquaternion</string>
+	<key>subscriberSaturation</key>
+	<string>stateColor</string>
+</dict>
+</plist>

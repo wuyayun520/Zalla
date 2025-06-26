@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerInset</key>
+	<string>sceneTask</string>
+	<key>consultativeHeap</key>
+	<string>asynchronousContrast</string>
+	<key>defaultappbar</key>
+	<string>shouldObserveTable</string>
+	<key>modelTransparency</key>
+	<string>shouldHandleTable</string>
+	<key>modulusPressure</key>
+	<string>timeTop</string>
+	<key>responsiveQueue</key>
+	<string>destroyGraph</string>
+	<key>shouldRouteResource</key>
+	<string>eagerTraversal</string>
+</dict>
+</plist>

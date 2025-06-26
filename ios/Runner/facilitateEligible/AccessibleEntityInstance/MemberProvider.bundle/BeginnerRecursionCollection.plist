@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedpager</key>
+	<string>localizationmend</string>
+	<key>normalBrush</key>
+	<string>canLayoutRemainder</string>
+	<key>secondisolateacceleration</key>
+	<string>decodeAnimatedContainer</string>
+	<key>shouldInflateNavigation</key>
+	<string>respectiveMovement</string>
+	<key>tensorprecisionoffset</key>
+	<string>dataRotation</string>
+</dict>
+</plist>

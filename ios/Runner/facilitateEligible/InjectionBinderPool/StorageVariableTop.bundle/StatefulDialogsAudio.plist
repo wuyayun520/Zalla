@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchdelay</key>
+	<string>fillFactory</string>
+	<key>disabledComposition</key>
+	<string>canPrepareMargin</string>
+	<key>euclideanVertex</key>
+	<string>makeResult</string>
+	<key>metadataColor</key>
+	<string>canPaintResource</string>
+	<key>reactiveRole</key>
+	<string>hasgrayscale</string>
+	<key>shouldMountComposition</key>
+	<string>contractionType</string>
+	<key>tweenagainstvisitor</key>
+	<string>storyboardInset</string>
+	<key>unsortedStateful</key>
+	<string>sophisticatedstreambrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesplitter</key>
+	<string>operationBound</string>
+	<key>asynchronousDrawer</key>
+	<string>spritestroke</string>
+	<key>completionprototypestate</key>
+	<string>opaqueMethod</string>
+	<key>compositionalRenderer</key>
+	<string>constantCount</string>
+	<key>consumptionRate</key>
+	<string>priorEvent</string>
+	<key>kernelVisible</key>
+	<string>substantialDetector</string>
+	<key>missedSign</key>
+	<string>notifytransformer</string>
+	<key>smartProtocol</key>
+	<string>canEndCube</string>
+</dict>
+</plist>

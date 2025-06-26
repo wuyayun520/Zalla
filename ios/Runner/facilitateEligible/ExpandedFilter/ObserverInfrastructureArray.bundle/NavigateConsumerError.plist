@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindresource</key>
+	<string>canTransformTabBar</string>
+	<key>easyTime</key>
+	<string>findPopup</string>
+	<key>imperativeComposition</key>
+	<string>unmountbutton</string>
+	<key>primarySkin</key>
+	<string>resilientWrapper</string>
+	<key>smartDisclaimer</key>
+	<string>gestureSingleton</string>
+	<key>storageForce</key>
+	<string>currentpositioned</string>
+	<key>topicValidation</key>
+	<string>dismissStep</string>
+</dict>
+</plist>

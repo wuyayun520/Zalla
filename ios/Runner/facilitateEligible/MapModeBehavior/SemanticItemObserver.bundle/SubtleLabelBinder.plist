@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddropdownbutton</key>
+	<string>flexibleIndicator</string>
+	<key>builderOffset</key>
+	<string>symmetricProjection</string>
+	<key>convolutionTag</key>
+	<string>explicitChecklist</string>
+	<key>cubitframe</key>
+	<string>showKernel</string>
+	<key>directlyText</key>
+	<string>canLayoutRoute</string>
+	<key>dynamicgraphtint</key>
+	<string>uniqueRemediation</string>
+	<key>plateCount</key>
+	<string>shouldSubscribeRemainder</string>
+	<key>serviceCoord</key>
+	<string>compositionProxy</string>
+	<key>serviceleveloffset</key>
+	<string>restartExtension</string>
+</dict>
+</plist>

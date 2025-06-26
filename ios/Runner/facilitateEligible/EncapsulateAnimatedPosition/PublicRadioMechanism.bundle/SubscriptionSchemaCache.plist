@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSpot</key>
+	<string>materialstructurevalidation</string>
+	<key>diffableFragment</key>
+	<string>subtleBinder</string>
+	<key>modulusshade</key>
+	<string>materialEquipment</string>
+	<key>musicOffset</key>
+	<string>mobileStamp</string>
+	<key>renameprogressbar</key>
+	<string>optimizerObserver</string>
+	<key>rowIndex</key>
+	<string>addUseCase</string>
+	<key>shouldTrainAccessory</key>
+	<string>missedConfiguration</string>
+	<key>storeInset</key>
+	<string>shouldHandleUsage</string>
+</dict>
+</plist>

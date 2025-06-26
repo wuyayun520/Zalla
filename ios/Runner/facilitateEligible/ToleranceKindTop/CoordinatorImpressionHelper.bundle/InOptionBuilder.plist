@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentShape</key>
+	<string>cupertinoAnalogy</string>
+	<key>coordinatortaskhead</key>
+	<string>polygonCoord</string>
+	<key>prismaticDescription</key>
+	<string>timelineForce</string>
+	<key>shouldPersistHero</key>
+	<string>mechanismAlignment</string>
+	<key>unsortedFlex</key>
+	<string>desktopElasticity</string>
+</dict>
+</plist>

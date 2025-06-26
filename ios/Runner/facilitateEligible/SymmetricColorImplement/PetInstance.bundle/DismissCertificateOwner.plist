@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStrength</key>
+	<string>radiuscontrast</string>
+	<key>disabledTopic</key>
+	<string>canStartPositioned</string>
+	<key>immutableLoader</key>
+	<string>globalPresenter</string>
+	<key>notificationRotation</key>
+	<string>completionDelay</string>
+	<key>robustResolver</key>
+	<string>canPauseBullet</string>
+	<key>scalerotation</key>
+	<string>keyunaryhead</string>
+	<key>shouldRenderGridView</key>
+	<string>grainBound</string>
+	<key>staticPrecision</key>
+	<string>multiplyScene</string>
+	<key>tickeratform</key>
+	<string>reusableGrayscale</string>
+</dict>
+</plist>

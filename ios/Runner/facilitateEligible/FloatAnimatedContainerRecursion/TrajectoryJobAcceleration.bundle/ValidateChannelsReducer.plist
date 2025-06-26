@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBorder</key>
+	<string>sequentialNotifier</string>
+	<key>cartesianwidgetindex</key>
+	<string>cubeComposite</string>
+	<key>eventBottom</key>
+	<string>canShowColumn</string>
+	<key>navigatorflyweighttop</key>
+	<string>cupertinoCapacity</string>
+</dict>
+</plist>

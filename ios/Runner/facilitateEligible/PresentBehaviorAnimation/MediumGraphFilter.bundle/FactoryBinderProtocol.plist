@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTaxonomy</key>
+	<string>flexibleSchema</string>
+	<key>collectionchainshape</key>
+	<string>directlyAnalogy</string>
+	<key>functionalBuilder</key>
+	<string>alignmenttail</string>
+	<key>immediatePrecision</key>
+	<string>builderBound</string>
+	<key>inheritedMonster</key>
+	<string>newestSkin</string>
+	<key>permissiveComponent</key>
+	<string>keyBase</string>
+	<key>shouldSetStateMember</key>
+	<string>marginInterval</string>
+	<key>smallswitch</key>
+	<string>commonShader</string>
+	<key>sustainableInfo</key>
+	<string>gatetransition</string>
+</dict>
+</plist>

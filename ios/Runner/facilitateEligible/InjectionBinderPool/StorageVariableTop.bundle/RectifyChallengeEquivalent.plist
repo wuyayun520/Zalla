@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedExponent</key>
+	<string>newestModel</string>
+	<key>durationoutsideoperation</key>
+	<string>catalystOperation</string>
+	<key>lostAsync</key>
+	<string>basicVector</string>
+	<key>progressbaratflyweight</key>
+	<string>shouldFetchIndicator</string>
+	<key>shouldPrepareMaterial</key>
+	<string>updateNotification</string>
+	<key>tappableOption</key>
+	<string>currentChecklist</string>
+</dict>
+</plist>

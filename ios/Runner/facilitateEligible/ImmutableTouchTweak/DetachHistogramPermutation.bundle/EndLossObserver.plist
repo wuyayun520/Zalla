@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSkirt</key>
+	<string>traingridview</string>
+	<key>newestReliability</key>
+	<string>resumeAxis</string>
+	<key>shouldResumeGridView</key>
+	<string>gridBorder</string>
+	<key>tappableMapper</key>
+	<string>masterPressure</string>
+</dict>
+</plist>

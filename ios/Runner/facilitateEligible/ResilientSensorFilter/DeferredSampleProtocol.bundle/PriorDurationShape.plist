@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScheduler</key>
+	<string>playFeature</string>
+	<key>discardedSegment</key>
+	<string>rectifyGroup</string>
+	<key>explicitAspect</key>
+	<string>retainDuration</string>
+	<key>granularListener</key>
+	<string>adaptiveAccessory</string>
+	<key>loaderKind</key>
+	<string>musicPattern</string>
+	<key>shouldloadcursor</key>
+	<string>sineForm</string>
+	<key>webPublisher</key>
+	<string>axisInterpreter</string>
+</dict>
+</plist>

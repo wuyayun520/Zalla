@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSelector</key>
+	<string>taskvertex</string>
+	<key>finishmedia</key>
+	<string>selectedshader</string>
+	<key>globalDelivery</key>
+	<string>exitTitle</string>
+	<key>inflateaction</key>
+	<string>equalTexture</string>
+	<key>injectionResponse</key>
+	<string>bufferBridge</string>
+	<key>lazyVector</key>
+	<string>resilientsignaturetail</string>
+	<key>processbox</key>
+	<string>delegateOperation</string>
+	<key>shouldStreamStep</key>
+	<string>analyzerSize</string>
+	<key>sophisticateddependencyscale</key>
+	<string>flexibleapertureorigin</string>
+	<key>tabbarbesidebridge</key>
+	<string>dynamicBehavior</string>
+</dict>
+</plist>

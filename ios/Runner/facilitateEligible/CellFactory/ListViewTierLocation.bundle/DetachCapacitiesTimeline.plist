@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleresource</key>
+	<string>usedInformation</string>
+	<key>accordionContainer</key>
+	<string>canYieldTangent</string>
+	<key>compositionalSpine</key>
+	<string>concurrentCoordinator</string>
+	<key>exponentEdge</key>
+	<string>obtainView</string>
+	<key>flexcommandrotation</key>
+	<string>sortedspriteindex</string>
+	<key>ignoredBase</key>
+	<string>canStopAlpha</string>
+	<key>persistentRemainder</key>
+	<string>marshalInterface</string>
+	<key>shouldendplayback</key>
+	<string>composableBloc</string>
+</dict>
+</plist>

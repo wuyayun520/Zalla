@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMedia</key>
+	<string>dependencyMediator</string>
+	<key>listenertransparency</key>
+	<string>parallelRouter</string>
+	<key>missedExtension</key>
+	<string>coordinatorhue</string>
+	<key>persistentIntegration</key>
+	<string>pickerAppearance</string>
+	<key>smartStream</key>
+	<string>heroPattern</string>
+	<key>transformwidget</key>
+	<string>delicateSpine</string>
+	<key>webCheckbox</key>
+	<string>greatBehavior</string>
+</dict>
+</plist>

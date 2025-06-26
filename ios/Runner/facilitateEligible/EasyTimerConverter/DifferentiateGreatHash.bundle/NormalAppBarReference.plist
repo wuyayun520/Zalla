@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityColor</key>
+	<string>layoututil</string>
+	<key>channeltolerance</key>
+	<string>canEmitGram</string>
+	<key>dedicatedresourcevisibility</key>
+	<string>serviceBrightness</string>
+	<key>kernelKind</key>
+	<string>traversalTransparency</string>
+	<key>keyTweak</key>
+	<string>pagerTransparency</string>
+	<key>originalsubscriber</key>
+	<string>painterSpeed</string>
+	<key>synchronousDropdownButton</key>
+	<string>largeColor</string>
+	<key>textsubscriber</key>
+	<string>layoutresource</string>
+</dict>
+</plist>

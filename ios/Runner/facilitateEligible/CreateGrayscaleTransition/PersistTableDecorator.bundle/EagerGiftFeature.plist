@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalMultiplication</key>
+	<string>interactiveSwitch</string>
+	<key>numericallayout</key>
+	<string>undertakeMenu</string>
+	<key>optionbufferalignment</key>
+	<string>signIndex</string>
+	<key>relationalCell</key>
+	<string>looptag</string>
+	<key>sharedUsage</key>
+	<string>shouldSetStateSlash</string>
+	<key>staticaccessory</key>
+	<string>textureJob</string>
+</dict>
+</plist>

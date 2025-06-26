@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontractionscale</key>
+	<string>entropydescription</string>
+	<key>collectionsorter</key>
+	<string>loopSkewY</string>
+	<key>crucialPet</key>
+	<string>listviewEnvironment</string>
+	<key>cupertinoBaseline</key>
+	<string>startSemantics</string>
+	<key>reducerleft</key>
+	<string>nativeModule</string>
+	<key>shouldBindButton</key>
+	<string>canMountedFragment</string>
+	<key>shouldProcessSubpixel</key>
+	<string>pushgraphic</string>
+</dict>
+</plist>

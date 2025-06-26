@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveColumn</key>
+	<string>otherVolume</string>
+	<key>appbarmethod</key>
+	<string>rebuildRole</string>
+	<key>ignoredMechanism</key>
+	<string>baselineAcceleration</string>
+	<key>shouldConnectReference</key>
+	<string>maxStack</string>
+	<key>sortedPermutation</key>
+	<string>missionalongtemple</string>
+	<key>standaloneGestureDetector</key>
+	<string>convolutionInteraction</string>
+	<key>volumeSize</key>
+	<string>directGift</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldEncodeStoryboard</key>
+	<string>taskPadding</string>
+	<key>significantVolume</key>
+	<string>accessoryStatus</string>
+	<key>singleImpact</key>
+	<string>advancedsceneinset</string>
+	<key>splitterTop</key>
+	<string>requestRouter</string>
+	<key>wrapperRotation</key>
+	<string>canMountedEntropy</string>
+</dict>
+</plist>

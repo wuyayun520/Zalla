@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatematrix</key>
+	<string>shouldsavegradient</string>
+	<key>intuitiveAnalogy</key>
+	<string>offsetBloc</string>
+	<key>loadlabel</key>
+	<string>yieldmanager</string>
+	<key>mainPromise</key>
+	<string>grouppressure</string>
+	<key>servicestate</key>
+	<string>permissiveMedia</string>
+	<key>synchronousInterface</key>
+	<string>unregisterAsync</string>
+</dict>
+</plist>

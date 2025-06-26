@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handleduration</key>
+	<string>canStopAnchor</string>
+	<key>hierarchicalRestriction</key>
+	<string>shouldPrepareButton</string>
+	<key>iconOrigin</key>
+	<string>reduceDecoration</string>
+	<key>newestAsset</key>
+	<string>canBindBuilder</string>
+	<key>visibleOption</key>
+	<string>secondResponse</string>
+	<key>wraphash</key>
+	<string>firstAllocator</string>
+	<key>wrapmodel</key>
+	<string>oldSpot</string>
+</dict>
+</plist>

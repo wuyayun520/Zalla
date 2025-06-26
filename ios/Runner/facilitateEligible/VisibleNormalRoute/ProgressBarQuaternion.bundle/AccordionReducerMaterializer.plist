@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestorage</key>
+	<string>accordionReplica</string>
+	<key>displayableUtil</key>
+	<string>shouldyieldscroll</string>
+	<key>inactiveTimer</key>
+	<string>freeHash</string>
+	<key>resourcewithouttype</key>
+	<string>floatLayout</string>
+	<key>reusableGesture</key>
+	<string>titleamongcomposite</string>
+</dict>
+</plist>

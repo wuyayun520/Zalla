@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyAwait</key>
+	<string>cellpermode</string>
+	<key>grainTheme</key>
+	<string>singleModel</string>
+	<key>shouldDisposeTouch</key>
+	<string>listenerCoord</string>
+	<key>tappableResponder</key>
+	<string>marginMethod</string>
+</dict>
+</plist>

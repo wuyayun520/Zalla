@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPermutation</key>
+	<string>convolutionFramework</string>
+	<key>constraintpadding</key>
+	<string>emitOverlay</string>
+	<key>cursorreducer</key>
+	<string>largeRenderer</string>
+	<key>effectSpeed</key>
+	<string>ephemeralAnimation</string>
+	<key>promiseduringenvironment</key>
+	<string>skinvariablesize</string>
+	<key>threadDirection</key>
+	<string>similarModal</string>
+</dict>
+</plist>

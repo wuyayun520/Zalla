@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLoss</key>
+	<string>transformLocalization</string>
+	<key>mountrect</key>
+	<string>processAlignment</string>
+	<key>prevSpine</key>
+	<string>interpolateAlignment</string>
+	<key>uniformRichText</key>
+	<string>canEmitBaseline</string>
+	<key>yieldconstraint</key>
+	<string>canDisposeAxis</string>
+</dict>
+</plist>

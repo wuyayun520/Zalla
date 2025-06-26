@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesName</key>
+	<string>tappableAllocator</string>
+	<key>customSelector</key>
+	<string>descriptorpreview</string>
+	<key>dedicatedTrigger</key>
+	<string>implementVector</string>
+	<key>multiInformation</key>
+	<string>storeForce</string>
+	<key>shouldPrepareDuration</key>
+	<string>shouldLayoutCapacities</string>
+	<key>subscriptionMode</key>
+	<string>dynamicScroller</string>
+	<key>tasksaturation</key>
+	<string>beginnerresponseborder</string>
+</dict>
+</plist>

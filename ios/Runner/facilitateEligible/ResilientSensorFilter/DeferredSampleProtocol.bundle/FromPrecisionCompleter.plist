@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystwithoutadapter</key>
+	<string>canEndPositioned</string>
+	<key>draggableTransition</key>
+	<string>taskright</string>
+	<key>gestureTint</key>
+	<string>methodrotation</string>
+	<key>layouttable</key>
+	<string>shouldStreamRow</string>
+	<key>materialTransition</key>
+	<string>streamlineRoute</string>
+	<key>shouldFetchOverlay</key>
+	<string>criticalCycle</string>
+	<key>shouldPresentButton</key>
+	<string>canFormatProfile</string>
+	<key>shouldPushDelegate</key>
+	<string>descriptorIndex</string>
+</dict>
+</plist>

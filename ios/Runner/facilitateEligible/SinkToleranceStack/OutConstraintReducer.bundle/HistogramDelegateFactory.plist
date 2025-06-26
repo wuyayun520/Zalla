@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBottom</key>
+	<string>mediaqueryDepth</string>
+	<key>deserializeentity</key>
+	<string>subscribeMargin</string>
+	<key>movementnearstrategy</key>
+	<string>shouldFormatArithmetic</string>
+	<key>opaquetangent</key>
+	<string>grainInteraction</string>
+	<key>shouldFetchUnary</key>
+	<string>inactiveQuaternion</string>
+</dict>
+</plist>

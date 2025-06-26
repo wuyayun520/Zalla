@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyInteraction</key>
+	<string>canRebuildGestureDetector</string>
+	<key>canvasAppearance</key>
+	<string>builderlikestage</string>
+	<key>displayableAxis</key>
+	<string>modalPlatform</string>
+	<key>hasAspect</key>
+	<string>resiliencePressure</string>
+	<key>intermediateStamp</key>
+	<string>symmetricSlider</string>
+	<key>parallelDelegate</key>
+	<string>grainsensor</string>
+	<key>prioritySaturation</key>
+	<string>shouldPrepareLabel</string>
+	<key>similarcallback</key>
+	<string>discardedIntegration</string>
+	<key>unsortedScreen</key>
+	<string>globalEquipment</string>
+</dict>
+</plist>

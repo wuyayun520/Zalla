@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDensity</key>
+	<string>subscriptionInterval</string>
+	<key>cubitKind</key>
+	<string>clipperTail</string>
+	<key>dynamicIntegrity</key>
+	<string>immutableLoss</string>
+	<key>futureHue</key>
+	<string>handlePriority</string>
+	<key>ignoredPopup</key>
+	<string>traversalVisibility</string>
+	<key>routerFlags</key>
+	<string>canUnbindProtocol</string>
+	<key>sequentialReduction</key>
+	<string>remainderBound</string>
+	<key>substantialBullet</key>
+	<string>activatedScheduler</string>
+	<key>tappableRow</key>
+	<string>canKeepProject</string>
+	<key>tweakHue</key>
+	<string>loadBuilder</string>
+</dict>
+</plist>

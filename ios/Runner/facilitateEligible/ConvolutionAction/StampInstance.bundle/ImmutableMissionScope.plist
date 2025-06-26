@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureType</key>
+	<string>resilientCubit</string>
+	<key>gridviewSkewY</key>
+	<string>shouldPopExpanded</string>
+	<key>keyConfiguration</key>
+	<string>mergerHead</string>
+	<key>layoutPadding</key>
+	<string>shouldTrainChecklist</string>
+	<key>reusablePresenter</key>
+	<string>shouldunmountedaxis</string>
+	<key>shouldUpdatePlayback</key>
+	<string>compositionalMaterializer</string>
+	<key>signContrast</key>
+	<string>utilname</string>
+	<key>standaloneInstruction</key>
+	<string>shouldYieldTool</string>
+	<key>techniqueRotation</key>
+	<string>lastInfo</string>
+</dict>
+</plist>

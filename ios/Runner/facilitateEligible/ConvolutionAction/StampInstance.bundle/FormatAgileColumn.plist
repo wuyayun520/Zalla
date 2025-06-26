@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesallocator</key>
+	<string>deferredPublisher</string>
+	<key>elasticTable</key>
+	<string>firstCoordinator</string>
+	<key>mutableTabView</key>
+	<string>shouldPrepareInkWell</string>
+	<key>shouldUnmountedExponent</key>
+	<string>visibleAnimator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncstylevisibility</key>
+	<string>fusedColumn</string>
+	<key>checklistInteraction</key>
+	<string>vertexRight</string>
+	<key>consultativeGate</key>
+	<string>shouldMountCanvas</string>
+	<key>delicateTextField</key>
+	<string>tappableShader</string>
+	<key>descriptiontaskstatus</key>
+	<string>sequentialConnector</string>
+	<key>easyInfrastructure</key>
+	<string>injectService</string>
+	<key>interactiveStroke</key>
+	<string>canPrepareMaterial</string>
+	<key>mutableRadio</key>
+	<string>difficultprotocolduration</string>
+	<key>specifySignature</key>
+	<string>onsliderchanged</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerTop</key>
+	<string>reactivedrawer</string>
+	<key>compilecontainer</key>
+	<string>nodeTop</string>
+	<key>concreteIndicator</key>
+	<string>customizedFeature</string>
+	<key>effectstyle</key>
+	<string>invisibleaccessory</string>
+	<key>immutableTransformer</key>
+	<string>setstateBaseline</string>
+	<key>semanticResponse</key>
+	<string>crucialScroll</string>
+	<key>shouldEmitScale</key>
+	<string>sliderShape</string>
+	<key>significantzoneopacity</key>
+	<string>unmountedBitrate</string>
+	<key>staticRectangle</key>
+	<string>canInflateCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoException</key>
+	<string>shouldMountShader</string>
+	<key>hierarchicalSign</key>
+	<string>shouldYieldClipper</string>
+	<key>parallelBinary</key>
+	<string>unactivatedTicker</string>
+	<key>performcubit</key>
+	<string>persistentOperation</string>
+	<key>pinchableFinder</key>
+	<string>histogramHue</string>
+	<key>primaryInfrastructure</key>
+	<string>clusterTint</string>
+	<key>remediationEdge</key>
+	<string>formatDelay</string>
+</dict>
+</plist>

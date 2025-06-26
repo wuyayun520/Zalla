@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBehavior</key>
+	<string>accessibleDrawer</string>
+	<key>displayableIsolate</key>
+	<string>specifierFeedback</string>
+	<key>normalGroup</key>
+	<string>dedicatedAppBar</string>
+	<key>protocolTag</key>
+	<string>receiverDirection</string>
+	<key>robustcubeleft</key>
+	<string>delegaterate</string>
+	<key>shouldAnimateSkirt</key>
+	<string>emithistogram</string>
+	<key>shouldRestartLogarithm</key>
+	<string>canRouteStack</string>
+</dict>
+</plist>

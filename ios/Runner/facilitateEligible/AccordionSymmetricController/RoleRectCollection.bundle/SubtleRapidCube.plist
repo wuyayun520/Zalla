@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerfrequency</key>
+	<string>catalystdensity</string>
+	<key>graphEdge</key>
+	<string>onsymboltap</string>
+	<key>permanentConstant</key>
+	<string>hardStore</string>
+	<key>primaryPolygon</key>
+	<string>primaryCluster</string>
+	<key>specifierDuration</key>
+	<string>issymbol</string>
+</dict>
+</plist>

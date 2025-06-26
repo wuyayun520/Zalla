@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterval</key>
+	<string>equipmentActivity</string>
+	<key>globalPosition</key>
+	<string>tappablePlayback</string>
+	<key>oldExtension</key>
+	<string>independentSession</string>
+	<key>parallelUseCase</key>
+	<string>decodeAperture</string>
+	<key>replicaResponse</key>
+	<string>semanticinfrastructure</string>
+	<key>shouldConnectChallenge</key>
+	<string>canCancelButton</string>
+	<key>singleTween</key>
+	<string>columnfunctionscale</string>
+</dict>
+</plist>

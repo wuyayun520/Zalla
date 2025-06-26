@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentRect</key>
+	<string>elasticMember</string>
+	<key>layouttransparency</key>
+	<string>characterDirection</string>
+	<key>nibskewx</key>
+	<string>eagerBloc</string>
+	<key>playbackRotation</key>
+	<string>offsetHead</string>
+	<key>shouldSerializeSign</key>
+	<string>respectiveprovider</string>
+	<key>shouldTransformSensor</key>
+	<string>standalonePriority</string>
+	<key>skirtformat</key>
+	<string>concreteInfo</string>
+</dict>
+</plist>

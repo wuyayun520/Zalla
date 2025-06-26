@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeNotification</key>
+	<string>canFetchBuilder</string>
+	<key>invisibleCapacities</key>
+	<string>listenGrid</string>
+	<key>normalSlash</key>
+	<string>canCancelGradient</string>
+	<key>permanentText</key>
+	<string>enabledobserver</string>
+	<key>shouldConnectPainter</key>
+	<string>navigatorevent</string>
+	<key>shouldNotifyInteger</key>
+	<string>mountSensor</string>
+	<key>substantiallabelrate</key>
+	<string>sceneStrategy</string>
+	<key>timerAppearance</key>
+	<string>reactiveTopic</string>
+</dict>
+</plist>

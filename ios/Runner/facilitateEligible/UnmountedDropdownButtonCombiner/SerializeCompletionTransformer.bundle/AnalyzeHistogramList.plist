@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialelasticity</key>
+	<string>lockCubit</string>
+	<key>fixedEvaluation</key>
+	<string>sharedGraphic</string>
+	<key>independentSymbol</key>
+	<string>multiVertex</string>
+	<key>pinchableStrength</key>
+	<string>pausealpha</string>
+	<key>shouldNavigateClipper</key>
+	<string>flexiblePoint</string>
+	<key>tensorCollection</key>
+	<string>multiSubscriber</string>
+</dict>
+</plist>

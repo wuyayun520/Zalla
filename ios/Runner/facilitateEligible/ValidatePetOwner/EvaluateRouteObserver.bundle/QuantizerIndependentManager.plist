@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOperation</key>
+	<string>shouldPrepareTool</string>
+	<key>capacityResponse</key>
+	<string>semanticMatrix</string>
+	<key>entitywithsystem</key>
+	<string>canUnbindProtocol</string>
+	<key>lazyHandler</key>
+	<string>nativeOperation</string>
+	<key>priorityopacity</key>
+	<string>specifierstore</string>
+</dict>
+</plist>

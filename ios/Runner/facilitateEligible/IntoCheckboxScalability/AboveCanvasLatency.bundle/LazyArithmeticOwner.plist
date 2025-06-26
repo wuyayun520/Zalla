@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProcessor</key>
+	<string>independentcallback</string>
+	<key>denseUnary</key>
+	<string>mediaqueryallocator</string>
+	<key>othermemberstatus</key>
+	<string>elasticChart</string>
+	<key>reactiveResponder</key>
+	<string>agileNotifier</string>
+	<key>substantialRectangle</key>
+	<string>pushLoss</string>
+</dict>
+</plist>

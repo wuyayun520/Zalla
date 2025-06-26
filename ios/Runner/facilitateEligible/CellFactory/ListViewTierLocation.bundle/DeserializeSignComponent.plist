@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctexture</key>
+	<string>shouldUpdatePositioned</string>
+	<key>builderright</key>
+	<string>shouldhandleaspect</string>
+	<key>permissivemodel</key>
+	<string>colorTheme</string>
+	<key>rendericon</key>
+	<string>attachUseCase</string>
+	<key>richtextduration</key>
+	<string>startAlpha</string>
+	<key>serviceStatus</key>
+	<string>seekLocalization</string>
+	<key>shouldMountCertificate</key>
+	<string>animateStorage</string>
+	<key>shouldTransitionProfile</key>
+	<string>isBrush</string>
+</dict>
+</plist>

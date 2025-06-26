@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlert</key>
+	<string>canShowRoute</string>
+	<key>captionVisibility</key>
+	<string>presentResource</string>
+	<key>flexiblegrainstatus</key>
+	<string>directlyReference</string>
+	<key>notationShade</key>
+	<string>denseCreator</string>
+	<key>responderright</key>
+	<string>canLoadSwift</string>
+	<key>shouldPublishHero</key>
+	<string>resetResult</string>
+</dict>
+</plist>

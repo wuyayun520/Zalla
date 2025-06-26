@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudescalability</key>
+	<string>visibleProject</string>
+	<key>retainedResilience</key>
+	<string>efficiencyAcceleration</string>
+	<key>shouldstartcapsule</key>
+	<string>detachGraph</string>
+	<key>strengthVisible</key>
+	<string>shouldtrainoption</string>
+</dict>
+</plist>

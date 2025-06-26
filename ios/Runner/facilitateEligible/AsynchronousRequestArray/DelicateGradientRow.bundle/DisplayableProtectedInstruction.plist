@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledsensor</key>
+	<string>requiredCapacities</string>
+	<key>grainmechanism</key>
+	<string>shouldUnbindBase</string>
+	<key>resourceTheme</key>
+	<string>cacheduringmethod</string>
+	<key>shouldKeepGradient</key>
+	<string>shouldPauseBoxShadow</string>
+	<key>stateatfunction</key>
+	<string>primaryUseCase</string>
+	<key>visitfactory</key>
+	<string>multiplyAction</string>
+</dict>
+</plist>

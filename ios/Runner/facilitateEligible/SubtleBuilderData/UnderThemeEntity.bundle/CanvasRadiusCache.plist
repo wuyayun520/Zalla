@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumersubscription</key>
+	<string>shouldCancelWorkflow</string>
+	<key>previewLocation</key>
+	<string>convertResource</string>
+	<key>retainedsplitter</key>
+	<string>instantiateChapter</string>
+	<key>roleFrequency</key>
+	<string>assetcompositepadding</string>
+	<key>sequentialBandwidth</key>
+	<string>resetLayout</string>
+	<key>tensorBox</key>
+	<string>positiontype</string>
+	<key>unlockoffset</key>
+	<string>workflowoutsidesingleton</string>
+</dict>
+</plist>

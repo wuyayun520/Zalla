@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionSpeed</key>
+	<string>exceptionColor</string>
+	<key>commonMusic</key>
+	<string>accordionDetector</string>
+	<key>constraintquaternion</key>
+	<string>binaryinterface</string>
+	<key>contractionTension</key>
+	<string>numericalResponder</string>
+	<key>elasticDetail</key>
+	<string>substantialsine</string>
+	<key>lazyInterpolation</key>
+	<string>workflowOpacity</string>
+	<key>scopeFlags</key>
+	<string>firstTangent</string>
+	<key>shouldDisposeContainer</key>
+	<string>routeInterpolation</string>
+	<key>shouldUpdateRadio</key>
+	<string>resourcestatus</string>
+	<key>standalonereducer</key>
+	<string>transitionsincecycle</string>
+</dict>
+</plist>

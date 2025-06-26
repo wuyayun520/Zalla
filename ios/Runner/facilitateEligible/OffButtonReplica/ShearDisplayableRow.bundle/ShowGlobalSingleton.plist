@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorFrequency</key>
+	<string>containerMemento</string>
+	<key>ephemeralOverlay</key>
+	<string>isTernary</string>
+	<key>inheritedImpact</key>
+	<string>confidentialityMode</string>
+	<key>rectSkewY</key>
+	<string>shouldInflateCurve</string>
+	<key>requestplatformfeedback</key>
+	<string>consultativeScope</string>
+	<key>singleAnalyzer</key>
+	<string>diffableAction</string>
+	<key>startmomentum</key>
+	<string>polygonSpacing</string>
+</dict>
+</plist>

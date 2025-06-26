@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentLocation</key>
+	<string>fixedReliability</string>
+	<key>hierarchicalentity</key>
+	<string>disparateRange</string>
+	<key>nativeEffect</key>
+	<string>mediocreCurve</string>
+	<key>occasionSkewX</key>
+	<string>searcherTint</string>
+	<key>reusableStamp</key>
+	<string>drawGrid</string>
+	<key>shouldUpdatePageView</key>
+	<string>shoulddetachactivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleFrequency</key>
+	<string>hyperbolicMetrics</string>
+	<key>fixedInterpolation</key>
+	<string>batchTint</string>
+	<key>profilePressure</key>
+	<string>reusableFuture</string>
+	<key>refreshinteractor</key>
+	<string>inactiveAppBar</string>
+	<key>shouldBuildNotification</key>
+	<string>explicitRadius</string>
+	<key>statusInset</key>
+	<string>calculateNode</string>
+	<key>tweenDensity</key>
+	<string>sophisticatedsprite</string>
+</dict>
+</plist>

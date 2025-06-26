@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSubscriber</key>
+	<string>radiusvalidation</string>
+	<key>formatdensity</key>
+	<string>repositoryChain</string>
+	<key>inheritedpoint</key>
+	<string>interactiveTask</string>
+	<key>notifymethod</key>
+	<string>alphafeedback</string>
+	<key>paddingHead</key>
+	<string>functionalalpha</string>
+	<key>paddingorigin</key>
+	<string>staticComposition</string>
+	<key>polygonFlags</key>
+	<string>accordionQuaternion</string>
+	<key>scrollablePopup</key>
+	<string>canSubscribeWorkflow</string>
+	<key>shouldMountedView</key>
+	<string>tweenDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInformation</key>
+	<string>binaryBridge</string>
+	<key>commonTexture</key>
+	<string>playbackTheme</string>
+	<key>directfactorytheme</key>
+	<string>momentumcontextinset</string>
+	<key>easyQuaternion</key>
+	<string>overlayresult</string>
+	<key>multiUseCase</key>
+	<string>shouldUpdateOverlay</string>
+	<key>semanticGram</key>
+	<string>semanticReduction</string>
+	<key>shouldDecodeText</key>
+	<string>canDispatchPoint</string>
+</dict>
+</plist>

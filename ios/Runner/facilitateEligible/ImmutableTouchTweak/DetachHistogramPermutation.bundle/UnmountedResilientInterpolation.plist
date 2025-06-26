@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertaxonomy</key>
+	<string>limitRoute</string>
+	<key>layoutofvisitor</key>
+	<string>lazyDetail</string>
+	<key>onplatechanged</key>
+	<string>dismissDocument</string>
+	<key>originalPadding</key>
+	<string>statefulPromise</string>
+	<key>publicEquivalent</key>
+	<string>resumeModal</string>
+	<key>segmentInset</key>
+	<string>debugGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtexture</key>
+	<string>animationVariable</string>
+	<key>collectionTint</key>
+	<string>normalsink</string>
+	<key>coordinatorwrapper</key>
+	<string>hardProvider</string>
+	<key>inheritedsizestate</key>
+	<string>interpolationSaturation</string>
+	<key>keyWrapper</key>
+	<string>shouldMountedRichText</string>
+	<key>permissiveRecursion</key>
+	<string>requestVisible</string>
+	<key>secondMaterializer</key>
+	<string>featureSpacing</string>
+	<key>shouldMountPadding</key>
+	<string>sorterOpacity</string>
+	<key>smartPresenter</key>
+	<string>liteSymbol</string>
+	<key>webgrayscalestatus</key>
+	<string>semanticLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocgraph</key>
+	<string>canValidateText</string>
+	<key>decorationtransparency</key>
+	<string>evaluationOrigin</string>
+	<key>denseMedia</key>
+	<string>animationtransparency</string>
+	<key>disparateModel</key>
+	<string>hierarchicalCombiner</string>
+	<key>fusedBoxShadow</key>
+	<string>dropoutFuture</string>
+	<key>managerdirection</key>
+	<string>delicateView</string>
+	<key>rangeOffset</key>
+	<string>resultDelay</string>
+	<key>shouldRebuildUsage</key>
+	<string>shouldPushMaterial</string>
+	<key>thresholdTag</key>
+	<string>canEmitActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintprototypemode</key>
+	<string>shouldobservenavigation</string>
+	<key>ephemeralShader</key>
+	<string>queuePattern</string>
+	<key>primaryimpression</key>
+	<string>retrieveEntity</string>
+	<key>respectivewidget</key>
+	<string>mountView</string>
+	<key>shouldDisconnectSession</key>
+	<string>deployStorage</string>
+	<key>shouldRouteProfile</key>
+	<string>dedicatedradius</string>
+	<key>sizedboxBottom</key>
+	<string>currentPublisher</string>
+	<key>workflowAlignment</key>
+	<string>canDisposeGate</string>
+</dict>
+</plist>

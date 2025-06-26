@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatednotificationhue</key>
+	<string>gemJob</string>
+	<key>easytweak</key>
+	<string>cardStyle</string>
+	<key>interactionCenter</key>
+	<string>shouldRouteAspect</string>
+	<key>permanentAccessory</key>
+	<string>confidentialityLocation</string>
+	<key>shouldRoutePromise</key>
+	<string>liteProject</string>
+	<key>statefulRestriction</key>
+	<string>bundleIsolate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitshapeedge</key>
+	<string>primaryRenderer</string>
+	<key>hasRemainder</key>
+	<string>exceptionOffset</string>
+	<key>integritydepth</key>
+	<string>listenFeature</string>
+	<key>originalInfo</key>
+	<string>convertNavigator</string>
+	<key>providertint</key>
+	<string>executeUtil</string>
+	<key>shouldStartBaseline</key>
+	<string>canListenMember</string>
+	<key>specifyRange</key>
+	<string>globalWorkflow</string>
+</dict>
+</plist>

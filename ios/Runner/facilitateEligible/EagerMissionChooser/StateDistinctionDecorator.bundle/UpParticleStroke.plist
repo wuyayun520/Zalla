@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSession</key>
+	<string>disconnectscale</string>
+	<key>hasmodal</key>
+	<string>discardedTrigger</string>
+	<key>projectjoiner</key>
+	<string>canValidateProject</string>
+	<key>protocolMode</key>
+	<string>equivalentState</string>
+</dict>
+</plist>

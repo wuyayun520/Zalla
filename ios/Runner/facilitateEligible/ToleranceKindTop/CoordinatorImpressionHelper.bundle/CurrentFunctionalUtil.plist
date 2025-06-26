@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeeffectmargin</key>
+	<string>greatMusic</string>
+	<key>basicSplitter</key>
+	<string>canPopSwitch</string>
+	<key>defaultcaption</key>
+	<string>receiveHandler</string>
+	<key>draggableObject</key>
+	<string>resolveBuilder</string>
+	<key>grayscaletypecenter</key>
+	<string>notificationMemento</string>
+	<key>notationTransparency</key>
+	<string>recursionCount</string>
+	<key>parallelGesture</key>
+	<string>cupertinoCube</string>
+	<key>permanentNode</key>
+	<string>insteadRequest</string>
+</dict>
+</plist>

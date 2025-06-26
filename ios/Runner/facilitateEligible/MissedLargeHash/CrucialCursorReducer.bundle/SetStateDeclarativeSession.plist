@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchColor</key>
+	<string>robustLoss</string>
+	<key>continuevariant</key>
+	<string>captionbandwidth</string>
+	<key>crucialExtension</key>
+	<string>robustResource</string>
+	<key>indicatorType</key>
+	<string>wrapAlignment</string>
+	<key>lifecycleSkewY</key>
+	<string>parallelMap</string>
+	<key>smallSine</key>
+	<string>retrievechart</string>
+	<key>toleranceDepth</key>
+	<string>largeGrain</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentMode</key>
+	<string>handleView</string>
+	<key>buildertrigger</key>
+	<string>permanentPet</string>
+	<key>kernelTail</key>
+	<string>introspectParticle</string>
+	<key>missedPreview</key>
+	<string>stampScope</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedsemanticsdirection</key>
+	<string>lazystoreopacity</string>
+	<key>checkboxlikestage</key>
+	<string>hascontroller</string>
+	<key>crudeelement</key>
+	<string>hierarchicalNotifier</string>
+	<key>firstNotification</key>
+	<string>assetBorder</string>
+	<key>iconcallback</key>
+	<string>shouldEndVariant</string>
+	<key>reactiveMetadata</key>
+	<string>symmetricObserver</string>
+	<key>stopobserver</key>
+	<string>cupertinoEquipment</string>
+	<key>texturebrightness</key>
+	<string>herobylayer</string>
+	<key>thresholdSpacing</key>
+	<string>diversifiedGroup</string>
+	<key>usedBehavior</key>
+	<string>entityFacade</string>
+</dict>
+</plist>

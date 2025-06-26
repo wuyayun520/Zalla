@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSpeed</key>
+	<string>quaternionShape</string>
+	<key>capacityTheme</key>
+	<string>parseGestureDetector</string>
+	<key>dimensionInset</key>
+	<string>callbackoutsideobserver</string>
+	<key>dynamicGestureDetector</key>
+	<string>gradientlayerbottom</string>
+	<key>fusedGrain</key>
+	<string>fetchUnary</string>
+	<key>layoutDensity</key>
+	<string>canKeepGesture</string>
+	<key>mutableVariant</key>
+	<string>shouldfetchduration</string>
+	<key>permissiveAsset</key>
+	<string>metricsHue</string>
+	<key>resolveresolver</key>
+	<string>tabviewPadding</string>
+</dict>
+</plist>

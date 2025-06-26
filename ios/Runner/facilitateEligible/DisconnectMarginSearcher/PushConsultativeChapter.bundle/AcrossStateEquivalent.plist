@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardError</key>
+	<string>completerValidation</string>
+	<key>nextBrush</key>
+	<string>canStartCell</string>
+	<key>onentropytap</key>
+	<string>commonTraversal</string>
+	<key>seamlessService</key>
+	<string>rendererLocation</string>
+	<key>shouldStartChallenge</key>
+	<string>endGate</string>
+	<key>shouldUnbindGestureDetector</key>
+	<string>pivotalLabel</string>
+	<key>sophisticatedMedia</key>
+	<string>opaqueSink</string>
+</dict>
+</plist>

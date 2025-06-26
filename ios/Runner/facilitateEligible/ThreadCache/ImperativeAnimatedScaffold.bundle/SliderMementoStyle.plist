@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMaterializer</key>
+	<string>mountTable</string>
+	<key>ephemeralKernel</key>
+	<string>sineFlags</string>
+	<key>firstSearcher</key>
+	<string>delicateBuilder</string>
+	<key>imperativeBrush</key>
+	<string>lockHandler</string>
+	<key>storeName</key>
+	<string>timerFramework</string>
+</dict>
+</plist>

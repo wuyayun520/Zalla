@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAsset</key>
+	<string>iterativeEvolution</string>
+	<key>composableRequest</key>
+	<string>histogramBuffer</string>
+	<key>euclideanFeature</key>
+	<string>binaryMemento</string>
+	<key>integerlocation</key>
+	<string>performPreview</string>
+	<key>storageforce</key>
+	<string>canAnimateDrawer</string>
+	<key>tappableCompleter</key>
+	<string>layoutRate</string>
+	<key>unactivatedGesture</key>
+	<string>mergerRight</string>
+</dict>
+</plist>

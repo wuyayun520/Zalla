@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextNotification</key>
+	<string>sineSkewX</string>
+	<key>prevconstant</key>
+	<string>amortizationspacing</string>
+	<key>specifierprototypeoffset</key>
+	<string>parseAction</string>
+	<key>typicalGem</key>
+	<string>currentsubpixel</string>
+</dict>
+</plist>

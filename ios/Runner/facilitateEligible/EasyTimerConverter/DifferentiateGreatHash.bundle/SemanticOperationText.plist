@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackspacing</key>
+	<string>stackStrategy</string>
+	<key>captionTension</key>
+	<string>updateBox</string>
+	<key>compositionFeedback</key>
+	<string>canDisconnectDialogs</string>
+	<key>documentthroughlayer</key>
+	<string>checkException</string>
+	<key>hyperbolicSpecifier</key>
+	<string>shouldListenIndicator</string>
+	<key>lazyCache</key>
+	<string>vectorizemedia</string>
+	<key>sinklistener</key>
+	<string>minChallenge</string>
+	<key>statefulImpression</key>
+	<string>currentScroller</string>
+	<key>triggerFrequency</key>
+	<string>prevaccessorystatus</string>
+</dict>
+</plist>

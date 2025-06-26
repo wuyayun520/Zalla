@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directInjection</key>
+	<string>channelsSystem</string>
+	<key>listviewparamtype</key>
+	<string>cartesianAnchor</string>
+</dict>
+</plist>

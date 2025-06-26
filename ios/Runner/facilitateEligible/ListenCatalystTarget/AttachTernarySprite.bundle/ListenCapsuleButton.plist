@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTrajectory</key>
+	<string>startImage</string>
+	<key>defaultNotifier</key>
+	<string>vectorizeRouter</string>
+	<key>detachposition</key>
+	<string>publicSegue</string>
+	<key>hasMap</key>
+	<string>paddingcompleter</string>
+	<key>permissiveInstruction</key>
+	<string>curveacceleration</string>
+	<key>shouldDetachMediaQuery</key>
+	<string>shouldUnbindSkirt</string>
+	<key>shouldFormatMaster</key>
+	<string>visitDecoration</string>
+	<key>shouldshowunary</key>
+	<string>customizedDistinction</string>
+	<key>typicalResponse</key>
+	<string>playnode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterMargin</key>
+	<string>requestSpeed</string>
+	<key>lazygrid</key>
+	<string>shouldbindskin</string>
+	<key>pivotalPrecision</key>
+	<string>currentsegue</string>
+	<key>shouldDetachCosine</key>
+	<string>shouldunmountedappbar</string>
+	<key>synchronousRecursion</key>
+	<string>webMatrix</string>
+</dict>
+</plist>

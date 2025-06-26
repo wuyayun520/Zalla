@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentTicker</key>
+	<string>scaleDelay</string>
+	<key>notifyappbar</key>
+	<string>hyperbolicVertex</string>
+	<key>shouldPopTouch</key>
+	<string>canTransitionBloc</string>
+	<key>shouldSetStateMultiplication</key>
+	<string>shouldEmitImage</string>
+	<key>taskAppearance</key>
+	<string>evaluateCoordinator</string>
+</dict>
+</plist>

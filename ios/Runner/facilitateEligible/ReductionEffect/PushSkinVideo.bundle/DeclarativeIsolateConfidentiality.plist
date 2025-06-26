@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celleffect</key>
+	<string>iterativeCluster</string>
+	<key>dedicatedFormat</key>
+	<string>primaryGesture</string>
+	<key>gestureHead</key>
+	<string>materialFeature</string>
+	<key>rapidTriangles</key>
+	<string>permissiveMetadata</string>
+	<key>shouldSetStateMargin</key>
+	<string>canRebuildCatalyst</string>
+	<key>singleslider</key>
+	<string>popModal</string>
+	<key>substantialCompletion</key>
+	<string>prepareBloc</string>
+	<key>webSegue</key>
+	<string>nodeInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellDirection</key>
+	<string>rapidAnchor</string>
+	<key>imagecontrast</key>
+	<string>instructionPosition</string>
+	<key>intuitiveException</key>
+	<string>canShowCheckbox</string>
+	<key>invisibleView</key>
+	<string>unactivatedAnchor</string>
+	<key>overlaybrightness</key>
+	<string>canContinueContraction</string>
+	<key>projectIndex</key>
+	<string>arithmeticstyle</string>
+	<key>responsetimeline</key>
+	<string>numericalEfficiency</string>
+	<key>taskBorder</key>
+	<string>prismaticModule</string>
+	<key>uniformConnector</key>
+	<string>batchVisibility</string>
+</dict>
+</plist>

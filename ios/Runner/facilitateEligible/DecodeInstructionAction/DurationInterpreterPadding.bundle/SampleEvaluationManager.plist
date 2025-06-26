@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSpot</key>
+	<string>unactivatedEquipment</string>
+	<key>concurrentConnector</key>
+	<string>canNavigateMultiplication</string>
+	<key>scrolldirection</key>
+	<string>materialCard</string>
+	<key>shouldFormatSubpixel</key>
+	<string>crudeCard</string>
+	<key>shouldRebuildMomentum</key>
+	<string>mechanismBehavior</string>
+	<key>shouldUpdateAccessory</key>
+	<string>dedicatedPlate</string>
+	<key>widgettweak</key>
+	<string>transitionaudio</string>
+</dict>
+</plist>

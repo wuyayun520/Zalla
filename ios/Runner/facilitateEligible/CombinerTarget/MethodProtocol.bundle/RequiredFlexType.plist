@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSwitch</key>
+	<string>canTrainDropdownButton</string>
+	<key>cardTag</key>
+	<string>firstLoss</string>
+	<key>flexibleProtocol</key>
+	<string>nativeComponent</string>
+	<key>histogramAcceleration</key>
+	<string>shouldSerializeGestureDetector</string>
+	<key>resolverCount</key>
+	<string>shouldUnmountSymbol</string>
+	<key>shouldPublishBullet</key>
+	<string>persistentSlider</string>
+	<key>zoneLeft</key>
+	<string>singleCube</string>
+</dict>
+</plist>

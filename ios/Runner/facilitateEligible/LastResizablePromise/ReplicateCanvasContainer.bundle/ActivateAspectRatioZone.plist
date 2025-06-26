@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterkind</key>
+	<string>schemaTag</string>
+	<key>customScale</key>
+	<string>selectedBinary</string>
+	<key>hyperbolicGridView</key>
+	<string>radiusinterval</string>
+	<key>progressbarBottom</key>
+	<string>parallelAlpha</string>
+	<key>rendererStyle</key>
+	<string>allocatorLeft</string>
+	<key>resultname</key>
+	<string>addBuffer</string>
+	<key>shouldNotifyNavigation</key>
+	<string>respondHandler</string>
+	<key>shouldStopSemantics</key>
+	<string>statelessListener</string>
+	<key>shouldValidateRichText</key>
+	<string>asyncScope</string>
+</dict>
+</plist>

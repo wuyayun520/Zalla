@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDistance</key>
+	<string>entropyLevel</string>
+	<key>granularProgressBar</key>
+	<string>resourceascent</string>
+	<key>mountprogressbar</key>
+	<string>stopOperation</string>
+	<key>tabviewFlags</key>
+	<string>retainedtickerkind</string>
+	<key>webArithmetic</key>
+	<string>releaseText</string>
+</dict>
+</plist>

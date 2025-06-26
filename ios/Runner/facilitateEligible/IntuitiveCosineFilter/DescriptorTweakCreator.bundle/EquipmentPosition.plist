@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnpressure</key>
+	<string>secondSlider</string>
+	<key>drawerHead</key>
+	<string>crucialRequest</string>
+	<key>histogramwidget</key>
+	<string>popupCenter</string>
+	<key>inactiveobserverrotation</key>
+	<string>encodeContainer</string>
+	<key>normaboutfacade</key>
+	<string>shouldResumeScaffold</string>
+	<key>shouldResumeHistogram</key>
+	<string>canCacheActivity</string>
+</dict>
+</plist>

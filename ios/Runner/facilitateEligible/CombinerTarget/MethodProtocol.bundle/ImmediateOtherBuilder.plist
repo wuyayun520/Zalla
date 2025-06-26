@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMechanism</key>
+	<string>progressbarScale</string>
+	<key>cartesianArithmetic</key>
+	<string>mutableGrid</string>
+	<key>currentaccessory</key>
+	<string>musicSaturation</string>
+	<key>monsterMode</key>
+	<string>listviewEnvironment</string>
+	<key>parallelSorter</key>
+	<string>integeroperationtint</string>
+	<key>reliabilitylocation</key>
+	<string>setstatezone</string>
+</dict>
+</plist>

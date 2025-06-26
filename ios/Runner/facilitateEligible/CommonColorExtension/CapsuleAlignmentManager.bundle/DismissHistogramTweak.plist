@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryhead</key>
+	<string>oldMenu</string>
+	<key>cursorbandwidth</key>
+	<string>captionDistance</string>
+	<key>onmaptap</key>
+	<string>uniqueSubscriber</string>
+	<key>pushdependency</key>
+	<string>brushMediator</string>
+	<key>shouldLayoutScale</key>
+	<string>petParameter</string>
+	<key>shouldSkipChannels</key>
+	<string>createLayout</string>
+	<key>smallImpact</key>
+	<string>sampleContext</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryDistance</key>
+	<string>popInstruction</string>
+	<key>immediateNotification</key>
+	<string>mountStateless</string>
+	<key>requiredTabView</key>
+	<string>robustSize</string>
+	<key>reusableChannels</key>
+	<string>scalabilitypressure</string>
+</dict>
+</plist>

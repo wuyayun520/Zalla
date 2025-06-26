@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcubit</key>
+	<string>inheritedSensor</string>
+	<key>elasticitybehavior</key>
+	<string>animatedSine</string>
+	<key>ignoredObserver</key>
+	<string>canFetchMap</string>
+	<key>modelName</key>
+	<string>shouldFormatVariant</string>
+	<key>popupinterpreterfeedback</key>
+	<string>usedfragment</string>
+	<key>reactiveOperation</key>
+	<string>framewithscope</string>
+	<key>robustalignment</key>
+	<string>shouldCreateScale</string>
+</dict>
+</plist>

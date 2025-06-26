@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderDirection</key>
+	<string>inactiveconnector</string>
+	<key>composableLog</key>
+	<string>observerrotation</string>
+	<key>concurrentStore</key>
+	<string>dissociateCallback</string>
+	<key>missedSpine</key>
+	<string>commonTheme</string>
+	<key>permanentCapsule</key>
+	<string>mainRect</string>
+	<key>persistentProcessor</key>
+	<string>directlyBuilder</string>
+	<key>pinchableCatalyst</key>
+	<string>semanticColor</string>
+	<key>sessionPressure</key>
+	<string>unmarshalException</string>
+	<key>shouldNotifyTouch</key>
+	<string>deserializeTangent</string>
+</dict>
+</plist>

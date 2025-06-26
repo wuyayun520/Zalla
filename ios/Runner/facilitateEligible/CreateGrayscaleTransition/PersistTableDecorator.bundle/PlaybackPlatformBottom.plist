@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastskewx</key>
+	<string>ongridviewchanged</string>
+	<key>currentsegue</key>
+	<string>canYieldUnary</string>
+	<key>keepsprite</key>
+	<string>deserializeEvent</string>
+	<key>shouldSubscribeTheme</key>
+	<string>connectorTransparency</string>
+	<key>tappableReference</key>
+	<string>requiredSize</string>
+</dict>
+</plist>

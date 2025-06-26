@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionpicker</key>
+	<string>multiConstraint</string>
+	<key>animationforbuffer</key>
+	<string>progressbarPhase</string>
+	<key>cursorTop</key>
+	<string>mendName</string>
+	<key>geometricTransformer</key>
+	<string>smallCaption</string>
+	<key>independentGram</key>
+	<string>mediocreListView</string>
+	<key>numericalScalability</key>
+	<string>elasticInformation</string>
+	<key>pivotalContraction</key>
+	<string>deployAllocator</string>
+	<key>substantialView</key>
+	<string>musicFunction</string>
+	<key>uniformResponse</key>
+	<string>hardLoop</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedParticle</key>
+	<string>inheritedConvolution</string>
+	<key>elasticTheme</key>
+	<string>profileRect</string>
+	<key>enabledThroughput</key>
+	<string>baselinetask</string>
+	<key>offsetMargin</key>
+	<string>deferredTool</string>
+	<key>reactiveModule</key>
+	<string>shouldSerializeCycle</string>
+	<key>shouldEmitGridView</key>
+	<string>prismaticcycledensity</string>
+	<key>shouldencodelistview</key>
+	<string>statefulLoop</string>
+	<key>symmetricThreshold</key>
+	<string>directTicker</string>
+	<key>synchronousSprite</key>
+	<string>transpileIsolate</string>
+</dict>
+</plist>

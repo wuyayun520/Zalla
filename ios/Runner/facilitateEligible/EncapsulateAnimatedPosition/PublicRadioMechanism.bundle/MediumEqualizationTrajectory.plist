@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorTension</key>
+	<string>lockHash</string>
+	<key>disabledRepository</key>
+	<string>criticalDialogs</string>
+	<key>ephemeralBandwidth</key>
+	<string>imperativeCapsule</string>
+	<key>ephemeralCupertino</key>
+	<string>inheritedRemediation</string>
+	<key>gesturedetectorlevelbehavior</key>
+	<string>canEndHero</string>
+	<key>keymaterializer</key>
+	<string>listenOverlay</string>
+	<key>mobileCallback</key>
+	<string>promiseContrast</string>
+	<key>mobileCapacity</key>
+	<string>clearResolver</string>
+	<key>shouldhandlematerial</key>
+	<string>specifyStorage</string>
+</dict>
+</plist>

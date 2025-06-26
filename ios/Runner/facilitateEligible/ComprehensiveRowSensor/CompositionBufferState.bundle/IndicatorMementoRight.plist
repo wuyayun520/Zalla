@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activetriangles</key>
+	<string>smartCluster</string>
+	<key>cartesianComponent</key>
+	<string>updateNotification</string>
+	<key>concreteChart</key>
+	<string>disparateScale</string>
+	<key>decorationMode</key>
+	<string>actionPadding</string>
+	<key>hyperbolicScalability</key>
+	<string>scaleStructure</string>
+	<key>lazyDescription</key>
+	<string>shouldPersistStamp</string>
+	<key>nextNotifier</key>
+	<string>firstTechnique</string>
+	<key>providerAlignment</key>
+	<string>symmetricCurve</string>
+	<key>synchronousStatus</key>
+	<string>shouldDisconnectChecklist</string>
+</dict>
+</plist>

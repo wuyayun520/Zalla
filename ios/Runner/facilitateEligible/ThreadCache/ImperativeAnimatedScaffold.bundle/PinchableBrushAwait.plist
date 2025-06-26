@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAcceleration</key>
+	<string>renderBoxShadow</string>
+	<key>independentMultiplication</key>
+	<string>menuShape</string>
+	<key>playbackStatus</key>
+	<string>popcupertino</string>
+	<key>shoulddispatchstateless</key>
+	<string>appbarRate</string>
+	<key>trajectoryBehavior</key>
+	<string>nextImpact</string>
+</dict>
+</plist>

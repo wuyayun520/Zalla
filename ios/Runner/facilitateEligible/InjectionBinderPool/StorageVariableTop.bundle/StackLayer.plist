@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitpageview</key>
+	<string>cleanException</string>
+	<key>graphTag</key>
+	<string>canShowCapsule</string>
+	<key>robustVector</key>
+	<string>localArchitecture</string>
+	<key>scenarioFlags</key>
+	<string>shouldSavePlayback</string>
+	<key>shouldDismissProfile</key>
+	<string>cycleInset</string>
+	<key>shouldEndLayout</key>
+	<string>notifyplate</string>
+	<key>sinereliability</key>
+	<string>operationchooser</string>
+</dict>
+</plist>

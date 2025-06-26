@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTag</key>
+	<string>minPageView</string>
+	<key>criticalDelivery</key>
+	<string>tweenshade</string>
+	<key>desktopsession</key>
+	<string>globalInfo</string>
+	<key>shouldConnectNavigator</key>
+	<string>independentCupertino</string>
+	<key>shouldFormatBloc</key>
+	<string>errorTail</string>
+	<key>shouldRoutePlate</key>
+	<string>disconnectStream</string>
+</dict>
+</plist>

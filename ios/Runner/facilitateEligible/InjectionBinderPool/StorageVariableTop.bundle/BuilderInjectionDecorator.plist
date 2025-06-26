@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentRight</key>
+	<string>mutableDialogs</string>
+	<key>basicScenario</key>
+	<string>enabledChapter</string>
+	<key>ephemeralTechnique</key>
+	<string>executeFeature</string>
+	<key>extendresource</key>
+	<string>ephemeralSize</string>
+	<key>heapshapecount</key>
+	<string>discoverLoop</string>
+	<key>iterativeMedia</key>
+	<string>shouldUnmountedBrush</string>
+	<key>shouldResumeDropdownButton</key>
+	<string>resumeIndicator</string>
+	<key>techniqueStatus</key>
+	<string>strengthbehavior</string>
+</dict>
+</plist>

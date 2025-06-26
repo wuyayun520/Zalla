@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellDistance</key>
+	<string>permanentSample</string>
+	<key>customIntegrity</key>
+	<string>shouldInflateProtocol</string>
+	<key>displayableAudio</key>
+	<string>canvasSingleton</string>
+	<key>draggableMission</key>
+	<string>canDismissBinary</string>
+	<key>exceptionvolume</key>
+	<string>disclaimerMode</string>
+	<key>ignoredProvider</key>
+	<string>shouldPrepareSubpixel</string>
+	<key>semanticchannel</key>
+	<string>streamlineHandler</string>
+	<key>shouldListenSign</key>
+	<string>polygonresponse</string>
+	<key>shouldProcessBaseline</key>
+	<string>canUnbindReduction</string>
+	<key>significantBitrate</key>
+	<string>apertureTension</string>
+</dict>
+</plist>

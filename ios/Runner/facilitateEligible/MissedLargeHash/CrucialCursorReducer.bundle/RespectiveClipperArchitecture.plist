@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleanimation</key>
+	<string>effectMediator</string>
+	<key>defaultNotifier</key>
+	<string>unactivatedMultiplication</string>
+	<key>maincheckboxrate</key>
+	<string>smartInfo</string>
+	<key>musicMode</key>
+	<string>cancelActivity</string>
+	<key>mutableBrush</key>
+	<string>benchmarkFrame</string>
+	<key>permanentExpanded</key>
+	<string>dissociateEntity</string>
+	<key>radioappearance</key>
+	<string>sharedAnalyzer</string>
+	<key>shouldMountBitrate</key>
+	<string>bandwidthOrientation</string>
+	<key>smartStep</key>
+	<string>cubeAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInkWell</key>
+	<string>materialConstraint</string>
+	<key>independentSample</key>
+	<string>imperativeLatency</string>
+	<key>lostInfo</key>
+	<string>instantiateTransition</string>
+	<key>measuresample</key>
+	<string>globalPublisher</string>
+	<key>objectPosition</key>
+	<string>multiloopstate</string>
+	<key>shouldEncodeSemantics</key>
+	<string>sharedtransformerstyle</string>
+	<key>similarBinary</key>
+	<string>canSubscribeRadio</string>
+	<key>viewbehavior</key>
+	<string>seekTicker</string>
+</dict>
+</plist>

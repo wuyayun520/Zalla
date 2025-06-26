@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChannel</key>
+	<string>interactiveShape</string>
+	<key>channelSize</key>
+	<string>channelLayer</string>
+	<key>disparateScaffold</key>
+	<string>permanentSlash</string>
+	<key>popinterface</key>
+	<string>rowexceptcontext</string>
+	<key>progressbarlayermomentum</key>
+	<string>keepStamp</string>
+	<key>shouldKeepEquipment</key>
+	<string>removeNavigator</string>
+</dict>
+</plist>

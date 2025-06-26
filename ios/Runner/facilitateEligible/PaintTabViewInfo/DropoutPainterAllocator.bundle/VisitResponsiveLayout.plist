@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAspectRatio</key>
+	<string>expandedPressure</string>
+	<key>criticalAppBar</key>
+	<string>shouldStartInstruction</string>
+	<key>dataStatus</key>
+	<string>scaffolddepth</string>
+	<key>deserializesegue</key>
+	<string>selectorborder</string>
+	<key>dynamicOffset</key>
+	<string>cupertinoAlignment</string>
+	<key>immutableSelector</key>
+	<string>saveStack</string>
+	<key>newestAlert</key>
+	<string>robustBatch</string>
+	<key>sampleFormat</key>
+	<string>comprehensiveRect</string>
+	<key>sophisticatedTopic</key>
+	<string>vectorstatus</string>
+</dict>
+</plist>

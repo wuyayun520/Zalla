@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapteragainstdecorator</key>
+	<string>decorationVisitor</string>
+	<key>entityamongvar</key>
+	<string>canStreamCursor</string>
+	<key>functionalScope</key>
+	<string>initializeLocalization</string>
+	<key>integrationMomentum</key>
+	<string>pivotalCharacter</string>
+	<key>lazyBrush</key>
+	<string>previewValue</string>
+	<key>observerTint</key>
+	<string>sustainableContrast</string>
+	<key>screenName</key>
+	<string>pivotalNotification</string>
+	<key>shouldSetStateUnary</key>
+	<string>clearAction</string>
+	<key>shouldconnecttheme</key>
+	<string>mapperDistance</string>
+	<key>splittersize</key>
+	<string>pinchableGrid</string>
+</dict>
+</plist>

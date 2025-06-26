@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTheme</key>
+	<string>criticalCollection</string>
+	<key>annotateoffset</key>
+	<string>relationalItem</string>
+	<key>draggableUnary</key>
+	<string>responsiveRange</string>
+	<key>finishvector</key>
+	<string>apertureDensity</string>
+	<key>fixedDescriptor</key>
+	<string>retrieveprovider</string>
+	<key>granularConstraint</key>
+	<string>quaternionInset</string>
+	<key>layerdetector</key>
+	<string>connectCard</string>
+	<key>threadFrequency</key>
+	<string>mediocreTime</string>
+	<key>timelineFormat</key>
+	<string>providerHue</string>
+</dict>
+</plist>

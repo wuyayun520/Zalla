@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConsumer</key>
+	<string>attachDialogs</string>
+	<key>combinerposition</key>
+	<string>channelvelocity</string>
+	<key>custompaintparameterstate</key>
+	<string>quitduration</string>
+	<key>gridHead</key>
+	<string>shouldLayoutTernary</string>
+	<key>numericalNib</key>
+	<string>handleRole</string>
+	<key>shouldBindEquipment</key>
+	<string>handlerslider</string>
+	<key>shouldSkipLog</key>
+	<string>cursorVisible</string>
+	<key>shouldUnmountReference</key>
+	<string>shouldKeepCell</string>
+</dict>
+</plist>

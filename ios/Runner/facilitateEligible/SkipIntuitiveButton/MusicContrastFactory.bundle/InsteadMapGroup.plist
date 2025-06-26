@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectbuilder</key>
+	<string>localScenario</string>
+	<key>euclideanFormat</key>
+	<string>mobileReceiver</string>
+	<key>granularTimer</key>
+	<string>composableResult</string>
+	<key>rectFrequency</key>
+	<string>disposecontroller</string>
+</dict>
+</plist>

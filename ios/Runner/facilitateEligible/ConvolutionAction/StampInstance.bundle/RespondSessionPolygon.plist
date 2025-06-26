@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioInterval</key>
+	<string>validateSymbol</string>
+	<key>blocTop</key>
+	<string>detectorLeft</string>
+	<key>gateRotation</key>
+	<string>gesturedetectorStage</string>
+	<key>intensitystyle</key>
+	<string>specifierTag</string>
+	<key>interactiveTouch</key>
+	<string>localizationpicker</string>
+	<key>largeAccessory</key>
+	<string>canSerializeResource</string>
+	<key>mapperTag</key>
+	<string>vertexDepth</string>
+	<key>normalStateless</key>
+	<string>concurrentCustomPaint</string>
+	<key>shouldUnmountedNavigator</key>
+	<string>shouldpersistcolumn</string>
+</dict>
+</plist>

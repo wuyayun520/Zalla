@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProvider</key>
+	<string>convolutionbound</string>
+	<key>attachzone</key>
+	<string>deferredCollection</string>
+	<key>shouldTransitionBloc</key>
+	<string>batchSkewX</string>
+	<key>shouldValidatePlayback</key>
+	<string>paintMediaQuery</string>
+	<key>shouldroutesemantics</key>
+	<string>completerevaluation</string>
+</dict>
+</plist>

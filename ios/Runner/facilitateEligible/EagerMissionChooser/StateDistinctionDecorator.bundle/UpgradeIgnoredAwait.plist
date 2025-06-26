@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBox</key>
+	<string>subscribeIcon</string>
+	<key>convolutionscroller</key>
+	<string>canCancelCapsule</string>
+	<key>emitcubit</key>
+	<string>notifygraph</string>
+	<key>fixedCursor</key>
+	<string>notificationPosition</string>
+	<key>largeAxis</key>
+	<string>shouldRouteTransition</string>
+	<key>pointtaskcolor</key>
+	<string>scenestylestate</string>
+	<key>scrollablelooporigin</key>
+	<string>quantizationState</string>
+</dict>
+</plist>

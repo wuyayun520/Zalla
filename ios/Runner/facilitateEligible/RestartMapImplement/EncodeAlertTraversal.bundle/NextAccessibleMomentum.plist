@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInfo</key>
+	<string>canDisposeMobile</string>
+	<key>missedLifecycle</key>
+	<string>beginnerAwait</string>
+	<key>permanentChart</key>
+	<string>viewtaskshade</string>
+	<key>primaryPoint</key>
+	<string>mainBoxShadow</string>
+	<key>semanticCanvas</key>
+	<string>localizationorcomposite</string>
+	<key>updategram</key>
+	<string>heapContext</string>
+</dict>
+</plist>

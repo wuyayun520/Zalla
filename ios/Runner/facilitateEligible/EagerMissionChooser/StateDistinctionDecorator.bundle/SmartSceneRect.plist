@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerDirection</key>
+	<string>canCancelLabel</string>
+	<key>denseConstant</key>
+	<string>repositoryformat</string>
+	<key>ignoredIntegrity</key>
+	<string>displayablePageView</string>
+	<key>metricsTint</key>
+	<string>logForce</string>
+	<key>precisionproxybound</key>
+	<string>listenerResponse</string>
+	<key>robustMomentum</key>
+	<string>inflatematrix</string>
+	<key>shoulddisconnectscreen</key>
+	<string>provideStorage</string>
+	<key>standaloneLoop</key>
+	<string>animatorRight</string>
+	<key>textureRate</key>
+	<string>removeStream</string>
+	<key>webResolver</key>
+	<string>shouldObserveStack</string>
+</dict>
+</plist>

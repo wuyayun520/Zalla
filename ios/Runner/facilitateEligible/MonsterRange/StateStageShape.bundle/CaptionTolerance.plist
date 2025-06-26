@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRemediation</key>
+	<string>shouldTransitionEntropy</string>
+	<key>composableFragments</key>
+	<string>reactiveError</string>
+	<key>requiredpermutation</key>
+	<string>quaternionValidation</string>
+	<key>scrollercontrast</key>
+	<string>persistSignature</string>
+	<key>symmetricsignaturehue</key>
+	<string>hashAdapter</string>
+</dict>
+</plist>

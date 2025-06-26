@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfacadecenter</key>
+	<string>nodeBorder</string>
+	<key>customAnimatedContainer</key>
+	<string>expandedvector</string>
+	<key>permanentHash</key>
+	<string>segueFlyweight</string>
+	<key>prevArithmetic</key>
+	<string>tensorstatus</string>
+	<key>priorStamp</key>
+	<string>diffableCupertino</string>
+	<key>shouldFinishCache</key>
+	<string>receiveAsync</string>
+</dict>
+</plist>

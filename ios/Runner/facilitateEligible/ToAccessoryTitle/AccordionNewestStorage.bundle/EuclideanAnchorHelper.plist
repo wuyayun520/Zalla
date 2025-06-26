@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleIntensity</key>
+	<string>activateFuture</string>
+	<key>adaptiveDetector</key>
+	<string>inheritedElement</string>
+	<key>creatorFrequency</key>
+	<string>robustModel</string>
+	<key>iconsound</key>
+	<string>publishMember</string>
+	<key>resizableInteraction</key>
+	<string>aspectratioFeedback</string>
+	<key>roleInset</key>
+	<string>usedMenu</string>
+	<key>switchAppearance</key>
+	<string>optimizeRow</string>
+	<key>usedpositiontop</key>
+	<string>baseFlags</string>
+</dict>
+</plist>

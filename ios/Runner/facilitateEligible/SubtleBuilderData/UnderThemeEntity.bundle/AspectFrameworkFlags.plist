@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStyle</key>
+	<string>oncontrollerchanged</string>
+	<key>assetResponse</key>
+	<string>synchronizeButton</string>
+	<key>dependencySpeed</key>
+	<string>shouldPushBrush</string>
+	<key>displayableBox</key>
+	<string>secondStack</string>
+	<key>groupwithsystem</key>
+	<string>projectLeft</string>
+	<key>radiusSkewX</key>
+	<string>dispatchconstraint</string>
+	<key>resolverlocation</key>
+	<string>invisiblestreamstatus</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleDensity</key>
+	<string>buttonDuration</string>
+	<key>constructtheme</key>
+	<string>moveText</string>
+	<key>customInjection</key>
+	<string>dismissshader</string>
+	<key>granularmend</key>
+	<string>canKeepTabBar</string>
+	<key>mediocreInteger</key>
+	<string>clipAlignment</string>
+	<key>resourceDelay</key>
+	<string>unmarshalqueue</string>
+	<key>shouldconnectslider</key>
+	<string>factorymode</string>
+	<key>shouldrebuildinterpolation</key>
+	<string>specifierEdge</string>
+	<key>slidersinceadapter</key>
+	<string>blocstylecount</string>
+	<key>subscriberSpacing</key>
+	<string>routeDescriptor</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionSkewX</key>
+	<string>generateBloc</string>
+	<key>mediocresubpixel</key>
+	<string>firstTrigger</string>
+	<key>responsiveWidget</key>
+	<string>createGridView</string>
+	<key>usageName</key>
+	<string>asynchronousBuilder</string>
+</dict>
+</plist>

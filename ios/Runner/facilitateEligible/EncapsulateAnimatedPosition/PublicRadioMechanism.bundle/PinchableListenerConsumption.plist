@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCallback</key>
+	<string>subsequentTopic</string>
+	<key>descriptorbuffer</key>
+	<string>advancedAudio</string>
+	<key>emitterOrientation</key>
+	<string>buttonAppearance</string>
+	<key>popupsinceadapter</key>
+	<string>canPublishMaterial</string>
+	<key>shouldPresentRadio</key>
+	<string>firstGrain</string>
+	<key>shouldupdatetransition</key>
+	<string>shouldTrainPadding</string>
+	<key>significantGesture</key>
+	<string>animatedGift</string>
+	<key>statefulTexture</key>
+	<string>delicateExpanded</string>
+</dict>
+</plist>

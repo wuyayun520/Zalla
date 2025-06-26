@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSize</key>
+	<string>specifySubpixel</string>
+	<key>exitrequest</key>
+	<string>builderProcess</string>
+	<key>isCube</key>
+	<string>directConstraint</string>
+	<key>optionwithoutvalue</key>
+	<string>sceneLocation</string>
+	<key>pageviewPadding</key>
+	<string>customRect</string>
+	<key>plateRotation</key>
+	<string>canUpdateCycle</string>
+	<key>seamlessReference</key>
+	<string>localizationEdge</string>
+	<key>singleVariant</key>
+	<string>decodeEqualization</string>
+</dict>
+</plist>

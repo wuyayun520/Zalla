@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSpeed</key>
+	<string>permissiveMedia</string>
+	<key>columnprocesscolor</key>
+	<string>consumeBuffer</string>
+	<key>hashBottom</key>
+	<string>pauseHistogram</string>
+	<key>pivotalShape</key>
+	<string>canPaintGrayscale</string>
+	<key>shouldSaveTabBar</key>
+	<string>resizableTimeline</string>
+	<key>shouldUnmountCupertino</key>
+	<string>canUnmountBaseline</string>
+	<key>taxonomyBorder</key>
+	<string>bandwidthSkewY</string>
+	<key>unactivatedVariant</key>
+	<string>shouldFinishGift</string>
+</dict>
+</plist>

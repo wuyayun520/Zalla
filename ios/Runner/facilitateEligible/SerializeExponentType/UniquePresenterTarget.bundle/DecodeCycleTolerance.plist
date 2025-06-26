@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMedia</key>
+	<string>injectionindex</string>
+	<key>animatedMobile</key>
+	<string>pivotalLatency</string>
+	<key>detectorBound</key>
+	<string>entropyVisibility</string>
+	<key>ephemeralListView</key>
+	<string>independentPageView</string>
+	<key>persistentmaterialdirection</key>
+	<string>densePopup</string>
+	<key>petformemento</key>
+	<string>diffableHandler</string>
+	<key>shouldunmountedcomposition</key>
+	<string>storerate</string>
+	<key>similarAsset</key>
+	<string>signDecorator</string>
+	<key>usedmobile</key>
+	<string>chooserSkewY</string>
+</dict>
+</plist>

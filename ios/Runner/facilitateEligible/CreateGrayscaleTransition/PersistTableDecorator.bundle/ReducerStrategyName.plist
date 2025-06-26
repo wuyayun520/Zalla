@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGridView</key>
+	<string>itemOpacity</string>
+	<key>consumercontrast</key>
+	<string>statefulEmitter</string>
+	<key>cupertinoqueueopacity</key>
+	<string>displayableInkWell</string>
+	<key>custominjectioncount</key>
+	<string>pinchableProvider</string>
+	<key>disclaimerForce</key>
+	<string>associatedImpact</string>
+	<key>formatTag</key>
+	<string>independentRadius</string>
+	<key>prismaticColumn</key>
+	<string>executeController</string>
+	<key>shouldkeepconvolution</key>
+	<string>restoreIsolate</string>
+</dict>
+</plist>

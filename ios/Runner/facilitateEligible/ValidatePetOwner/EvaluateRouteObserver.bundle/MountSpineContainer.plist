@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableEffect</key>
+	<string>graphCount</string>
+	<key>logDuration</key>
+	<string>shouldProcessPromise</string>
+	<key>providedelegate</key>
+	<string>configurationCommand</string>
+	<key>shouldParseMovement</key>
+	<string>rapidmemberrate</string>
+	<key>spineprogressbar</key>
+	<string>respectiveJoiner</string>
+</dict>
+</plist>

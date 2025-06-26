@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerScale</key>
+	<string>sampleBorder</string>
+	<key>asynchronousTabBar</key>
+	<string>tickerBehavior</string>
+	<key>independentHandler</key>
+	<string>mountedSignature</string>
+	<key>publicbinary</key>
+	<string>shouldmountbox</string>
+	<key>responserate</key>
+	<string>canTrainOption</string>
+	<key>setstatemusic</key>
+	<string>seekConfiguration</string>
+	<key>shouldPublishLoss</key>
+	<string>canLoadPlayback</string>
+	<key>threadshape</key>
+	<string>positionconstant</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSaturation</key>
+	<string>viewInteraction</string>
+	<key>eventaboutcommand</key>
+	<string>shouldshowunary</string>
+	<key>explicitRect</key>
+	<string>shouldRebuildPlayback</string>
+	<key>imageContrast</key>
+	<string>gradientevolution</string>
+	<key>materialSign</key>
+	<string>diffableTentative</string>
+	<key>paintcube</key>
+	<string>shouldtraincatalyst</string>
+	<key>sequentialfuture</key>
+	<string>thresholdCoord</string>
+</dict>
+</plist>

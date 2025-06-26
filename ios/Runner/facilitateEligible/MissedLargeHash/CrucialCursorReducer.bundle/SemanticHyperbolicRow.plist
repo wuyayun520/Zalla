@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureschema</key>
+	<string>endCell</string>
+	<key>eagerrow</key>
+	<string>pickerSize</string>
+	<key>mediumVolume</key>
+	<string>permanentTrajectory</string>
+	<key>publicPrecision</key>
+	<string>yieldLog</string>
+	<key>shouldCreateSemantics</key>
+	<string>persistStream</string>
+	<key>shouldListenScaffold</key>
+	<string>decorationCount</string>
+	<key>shouldRebuildCache</key>
+	<string>canPublishCube</string>
+	<key>webRect</key>
+	<string>catalystContrast</string>
+</dict>
+</plist>

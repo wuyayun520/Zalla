@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogySkewY</key>
+	<string>skinFormat</string>
+	<key>bufferMargin</key>
+	<string>visualizeservice</string>
+	<key>dynamicResponder</key>
+	<string>layerLocation</string>
+	<key>fusedgem</key>
+	<string>kernelSkewX</string>
+	<key>hashValidation</key>
+	<string>deserializeShader</string>
+	<key>shouldLayoutCosine</key>
+	<string>inkwellforflyweight</string>
+	<key>shouldStreamMediaQuery</key>
+	<string>canMountedSpot</string>
+	<key>sizedboxinstructure</key>
+	<string>geometricsorter</string>
+	<key>startanimatedcontainer</key>
+	<string>loaderLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAsync</key>
+	<string>ignoredBloc</string>
+	<key>consumptionTop</key>
+	<string>shouldSerializeTouch</string>
+	<key>crudeLayout</key>
+	<string>collectionMemento</string>
+	<key>delegatetypeborder</key>
+	<string>otherTopic</string>
+	<key>equalizationShape</key>
+	<string>disparateAmortization</string>
+	<key>granularScene</key>
+	<string>consumerTop</string>
+	<key>hierarchicalGroup</key>
+	<string>defaultdescriptor</string>
+	<key>otherLocalization</key>
+	<string>shouldDecodeCycle</string>
+</dict>
+</plist>

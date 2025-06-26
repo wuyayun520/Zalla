@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCoord</key>
+	<string>expandedKind</string>
+	<key>diffableevent</key>
+	<string>oldEquipment</string>
+	<key>disabledMargin</key>
+	<string>exceptioninsidesystem</string>
+	<key>groupPressure</key>
+	<string>instructionversusbuffer</string>
+	<key>visibleTriangles</key>
+	<string>shouldValidateMargin</string>
+</dict>
+</plist>

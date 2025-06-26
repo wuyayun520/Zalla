@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachsession</key>
+	<string>canCancelHeap</string>
+	<key>currentFuture</key>
+	<string>shouldParseStack</string>
+	<key>delegatetextfield</key>
+	<string>interactivebullet</string>
+	<key>descriptiondecoratortag</key>
+	<string>crucialcolor</string>
+	<key>factorystatus</key>
+	<string>encodeTitle</string>
+	<key>shouldCreateCustomPaint</key>
+	<string>originalresolver</string>
+	<key>shouldunbindappbar</key>
+	<string>floatGraph</string>
+</dict>
+</plist>

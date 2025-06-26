@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionSpeed</key>
+	<string>reductionTail</string>
+	<key>labelinset</key>
+	<string>sensorinteraction</string>
+	<key>persistentImpact</key>
+	<string>routerSkewX</string>
+	<key>priorQuaternion</key>
+	<string>sustainableSplitter</string>
+	<key>shouldEmitRow</key>
+	<string>materialcomponent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePressure</key>
+	<string>othershape</string>
+	<key>isArithmetic</key>
+	<string>crudeActivity</string>
+	<key>mediumRecursion</key>
+	<string>routeracceleration</string>
+	<key>pinchableAspect</key>
+	<string>audioSkewY</string>
+	<key>precisionresolver</key>
+	<string>concurrentModule</string>
+	<key>profileuntilchain</key>
+	<string>aggregateView</string>
+	<key>sophisticatedDecoration</key>
+	<string>canDeserializeStamp</string>
+	<key>synchronizestream</key>
+	<string>documentBorder</string>
+</dict>
+</plist>

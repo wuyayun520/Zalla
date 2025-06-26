@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSession</key>
+	<string>basicMaster</string>
+	<key>crudeTolerance</key>
+	<string>initializeInterface</string>
+	<key>gradientacceleration</key>
+	<string>smartTask</string>
+	<key>nativeImpact</key>
+	<string>multiplyVector</string>
+	<key>petType</key>
+	<string>completertail</string>
+	<key>prismaticPopup</key>
+	<string>gateDelay</string>
+	<key>significantEvent</key>
+	<string>escalatePopup</string>
+	<key>tensorbinder</key>
+	<string>emitCube</string>
+</dict>
+</plist>

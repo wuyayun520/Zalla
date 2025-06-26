@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlytickerleft</key>
+	<string>shouldUnbindDialogs</string>
+	<key>immediateWorkflow</key>
+	<string>pickerName</string>
+	<key>independentCoordinator</key>
+	<string>moduleSpacing</string>
+	<key>materialWorkflow</key>
+	<string>deferredHistogram</string>
+	<key>opaqueInterface</key>
+	<string>substantialCursor</string>
+	<key>relationalMethod</key>
+	<string>interactiveAlignment</string>
+	<key>requestInterval</key>
+	<string>keepSample</string>
+	<key>shouldHandleTangent</key>
+	<string>shaderFormat</string>
+	<key>symmetricUtil</key>
+	<string>staticdropdownbuttoncolor</string>
+</dict>
+</plist>

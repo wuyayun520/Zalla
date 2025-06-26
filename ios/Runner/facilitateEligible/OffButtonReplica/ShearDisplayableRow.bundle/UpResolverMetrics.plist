@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushMomentum</key>
+	<string>layoutpermediator</string>
+	<key>robustTable</key>
+	<string>canAttachScaffold</string>
+	<key>shouldMountBorder</key>
+	<string>layerEdge</string>
+	<key>toleranceTag</key>
+	<string>shouldEmitLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionKind</key>
+	<string>rapidAlignment</string>
+	<key>criticalContainer</key>
+	<string>iterativeTime</string>
+	<key>graintop</key>
+	<string>canRouteSign</string>
+	<key>interactivelocalization</key>
+	<string>taskMediator</string>
+	<key>menuvariabledelay</key>
+	<string>accessibleentityborder</string>
+	<key>notifierkind</key>
+	<string>displayablePermutation</string>
+	<key>shouldfetchstateless</key>
+	<string>difficultConnector</string>
+	<key>substantialStateful</key>
+	<string>serializeRouter</string>
+</dict>
+</plist>

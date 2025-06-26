@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInterval</key>
+	<string>standaloneChannel</string>
+	<key>channelsbinder</key>
+	<string>slashMethod</string>
+	<key>defaultAnimation</key>
+	<string>diversifiedintensitycenter</string>
+	<key>draggableFrame</key>
+	<string>imageAlignment</string>
+	<key>globalloss</key>
+	<string>localdimensioncenter</string>
+	<key>informationMode</key>
+	<string>reduceGrain</string>
+	<key>isolateFeedback</key>
+	<string>publisherTint</string>
+	<key>shouldRebuildStateless</key>
+	<string>splitterresponse</string>
+	<key>shouldTransitionTheme</key>
+	<string>temporaryCompletion</string>
+	<key>transitionorvisitor</key>
+	<string>customizedhero</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStoryboard</key>
+	<string>unmountedScaffold</string>
+	<key>blocborder</key>
+	<string>canRestartSubpixel</string>
+	<key>geometricbehaviorappearance</key>
+	<string>desktopSwift</string>
+	<key>gesturedetectorDelay</key>
+	<string>formatTangent</string>
+	<key>hashorigin</key>
+	<string>integerVisible</string>
+	<key>mobiledescription</key>
+	<string>progressbarProxy</string>
+	<key>notificationLocation</key>
+	<string>storagetransparency</string>
+	<key>resilientTraversal</key>
+	<string>transitionStateless</string>
+	<key>robustProgressBar</key>
+	<string>shearListener</string>
+	<key>statefulDetector</key>
+	<string>canTrainMaterial</string>
+</dict>
+</plist>

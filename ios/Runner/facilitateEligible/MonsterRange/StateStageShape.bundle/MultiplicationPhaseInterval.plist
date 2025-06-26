@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinosession</key>
+	<string>bundleTransformer</string>
+	<key>easyMenu</key>
+	<string>paintAxis</string>
+	<key>shouldResumeModal</key>
+	<string>requestvariableinset</string>
+	<key>shoulddisconnecttheme</key>
+	<string>endSwitch</string>
+	<key>smallSignature</key>
+	<string>constraintTop</string>
+	<key>tabbarformappearance</key>
+	<string>transitionawayoperation</string>
+</dict>
+</plist>

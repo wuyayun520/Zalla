@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateoccasion</key>
+	<string>destroyChapter</string>
+	<key>filterStatus</key>
+	<string>completermodule</string>
+	<key>flexibleService</key>
+	<string>encodeCustomPaint</string>
+	<key>iterativeCoordinator</key>
+	<string>disabledSwitch</string>
+	<key>provisionInteraction</key>
+	<string>blocsincestage</string>
+	<key>shouldRenderReduction</key>
+	<string>staticDetail</string>
+	<key>shouldconnecttable</key>
+	<string>layoutSystem</string>
+</dict>
+</plist>

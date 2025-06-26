@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasindicator</key>
+	<string>attachRadio</string>
+	<key>lastMedia</key>
+	<string>columnPrototype</string>
+	<key>managercenter</key>
+	<string>tappableIntegration</string>
+	<key>paintalignment</key>
+	<string>shouldcreateexpanded</string>
+	<key>shouldCacheSpecifier</key>
+	<string>modalVisibility</string>
+	<key>shouldSerializeOverlay</key>
+	<string>normalmatrix</string>
+	<key>shouldYieldSpot</key>
+	<string>quantizerTicker</string>
+	<key>stampPosition</key>
+	<string>sustainableController</string>
+</dict>
+</plist>

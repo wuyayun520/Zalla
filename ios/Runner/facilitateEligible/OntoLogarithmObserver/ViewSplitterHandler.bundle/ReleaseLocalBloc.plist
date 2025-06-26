@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSkewY</key>
+	<string>resilientResponder</string>
+	<key>overlayshade</key>
+	<string>navigategesture</string>
+	<key>shouldAnimateHistogram</key>
+	<string>canAnimateStamp</string>
+	<key>shouldrestartequipment</key>
+	<string>canRouteMember</string>
+</dict>
+</plist>

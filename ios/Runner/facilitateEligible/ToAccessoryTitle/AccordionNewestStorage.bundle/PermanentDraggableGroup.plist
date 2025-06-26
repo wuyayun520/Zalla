@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commontexture</key>
+	<string>canPresentBoxShadow</string>
+	<key>materialAmortization</key>
+	<string>ignoredMatrix</string>
+	<key>normalTimer</key>
+	<string>temporaryReduction</string>
+	<key>restorecurve</key>
+	<string>resourceVisible</string>
+	<key>revisitgradient</key>
+	<string>respectiveRestriction</string>
+	<key>robustSession</key>
+	<string>featureBorder</string>
+	<key>shouldSetStateInkWell</key>
+	<string>referencePlatform</string>
+	<key>standaloneconsumer</key>
+	<string>immutableTriangles</string>
+	<key>transitionScale</key>
+	<string>singletween</string>
+	<key>usageOrigin</key>
+	<string>discardedFrame</string>
+</dict>
+</plist>

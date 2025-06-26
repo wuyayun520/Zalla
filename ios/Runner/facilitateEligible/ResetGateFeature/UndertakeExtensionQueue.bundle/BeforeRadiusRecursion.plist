@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRouter</key>
+	<string>convertTransformer</string>
+	<key>finderScale</key>
+	<string>hashkind</string>
+	<key>oldScenario</key>
+	<string>transformCollection</string>
+	<key>pivotalCoordinator</key>
+	<string>saveText</string>
+	<key>sequentialUsage</key>
+	<string>fixedcurveedge</string>
+	<key>shouldEmitEqualization</key>
+	<string>topicShape</string>
+	<key>shouldPauseUsage</key>
+	<string>yieldmanager</string>
+	<key>throughputspeed</key>
+	<string>sliderRotation</string>
+</dict>
+</plist>

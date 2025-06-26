@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBound</key>
+	<string>presenterVisible</string>
+	<key>flexOffset</key>
+	<string>responsiveSignature</string>
+	<key>inactivereliability</key>
+	<string>enhanceText</string>
+	<key>inheritedAppBar</key>
+	<string>semanticPager</string>
+	<key>permanentElement</key>
+	<string>behaviorShade</string>
+	<key>requiredcolor</key>
+	<string>newestTimeline</string>
+	<key>viewFlags</key>
+	<string>poolAllocator</string>
+</dict>
+</plist>

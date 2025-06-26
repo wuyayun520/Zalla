@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorflags</key>
+	<string>canResumeProjection</string>
+	<key>denseProjection</key>
+	<string>mobileAnalogy</string>
+	<key>hastabbar</key>
+	<string>priorBatch</string>
+	<key>logFeedback</key>
+	<string>repositoryPattern</string>
+	<key>otherBullet</key>
+	<string>futurecontrast</string>
+	<key>prevSegue</key>
+	<string>featureandtemple</string>
+	<key>traintext</key>
+	<string>elasticityStatus</string>
+	<key>widgetResponse</key>
+	<string>semanticShape</string>
+	<key>workflowSkewY</key>
+	<string>parallelArithmetic</string>
+</dict>
+</plist>

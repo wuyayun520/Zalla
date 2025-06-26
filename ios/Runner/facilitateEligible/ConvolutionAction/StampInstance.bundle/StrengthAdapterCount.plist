@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConfiguration</key>
+	<string>timeVelocity</string>
+	<key>basemodel</key>
+	<string>transformReduction</string>
+	<key>capsuleTint</key>
+	<string>cupertinoBuilder</string>
+	<key>discardedProgressBar</key>
+	<string>fixedInteractor</string>
+	<key>elasticitySpacing</key>
+	<string>mobileOperation</string>
+	<key>lazygraphic</key>
+	<string>onspinetap</string>
+	<key>mechanismBorder</key>
+	<string>standaloneVertex</string>
+	<key>receiverspacing</key>
+	<string>fragmentTransparency</string>
+	<key>statefulWidget</key>
+	<string>animatedEvaluation</string>
+</dict>
+</plist>

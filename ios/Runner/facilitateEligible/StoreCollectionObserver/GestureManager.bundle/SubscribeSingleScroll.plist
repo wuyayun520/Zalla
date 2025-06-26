@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEquipment</key>
+	<string>groupOperation</string>
+	<key>cubedistance</key>
+	<string>largeExponent</string>
+	<key>draggableStore</key>
+	<string>concretePadding</string>
+	<key>functionalView</key>
+	<string>timerorstage</string>
+	<key>granularSprite</key>
+	<string>granularBloc</string>
+	<key>invisibleFragment</key>
+	<string>shouldPopController</string>
+	<key>nativeStep</key>
+	<string>statelessTextField</string>
+	<key>rectmapper</key>
+	<string>flexactiondensity</string>
+	<key>secondAscent</key>
+	<string>subtleMesh</string>
+	<key>usageForce</key>
+	<string>preparetextfield</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customFrame</key>
+	<string>textureVar</string>
+	<key>inheritedActivity</key>
+	<string>connectScreen</string>
+	<key>keeprequest</key>
+	<string>positionedRight</string>
+	<key>missedCard</key>
+	<string>shouldYieldUnary</string>
+	<key>missionRotation</key>
+	<string>configureLabel</string>
+	<key>shouldRouteTangent</key>
+	<string>canRebuildPadding</string>
+	<key>sophisticatedFactory</key>
+	<string>handleSingleton</string>
+	<key>unsortedComponent</key>
+	<string>drawController</string>
+	<key>webActivity</key>
+	<string>renameAsync</string>
+</dict>
+</plist>

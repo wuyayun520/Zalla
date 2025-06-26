@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLayer</key>
+	<string>keyLatency</string>
+	<key>intermediateasyncposition</key>
+	<string>subtleLoader</string>
+	<key>sessionTension</key>
+	<string>loadAnimatedContainer</string>
+	<key>shouldEncodeSpine</key>
+	<string>cancelOverlay</string>
+	<key>shouldRestartKernel</key>
+	<string>transformCanvas</string>
+	<key>temporarystateful</key>
+	<string>onpromisechanged</string>
+</dict>
+</plist>

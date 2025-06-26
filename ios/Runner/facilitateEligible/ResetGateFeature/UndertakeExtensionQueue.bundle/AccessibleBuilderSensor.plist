@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudechapter</key>
+	<string>priorAmortization</string>
+	<key>flexibleReduction</key>
+	<string>customMultiplication</string>
+	<key>geometricIcon</key>
+	<string>originalSchema</string>
+	<key>liteCubit</key>
+	<string>stopAppBar</string>
+	<key>resumesample</key>
+	<string>inactiveInterface</string>
+	<key>shouldSetStateBoxShadow</key>
+	<string>easyTweak</string>
+	<key>shouldroutecontraction</key>
+	<string>lazyMaster</string>
+</dict>
+</plist>

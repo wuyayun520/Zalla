@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCurve</key>
+	<string>momentumTail</string>
+	<key>configurationproxydirection</key>
+	<string>usedTable</string>
+	<key>discardedroletype</key>
+	<string>anchorDistance</string>
+	<key>protectedManager</key>
+	<string>widgetjoiner</string>
+	<key>restrictionSpeed</key>
+	<string>denseRepository</string>
+	<key>reusablepainter</key>
+	<string>cubeAdapter</string>
+	<key>shouldBuildIndicator</key>
+	<string>canDecodeLayout</string>
+	<key>shouldReplaceEntropy</key>
+	<string>menuinterval</string>
+	<key>shouldResumeMediaQuery</key>
+	<string>invisibleRepository</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMargin</key>
+	<string>readConfiguration</string>
+	<key>firstScreen</key>
+	<string>unaryphaselocation</string>
+	<key>resourceconverter</key>
+	<string>specifyResult</string>
+	<key>scrollablePager</key>
+	<string>widgetvalidation</string>
+	<key>sharedstore</key>
+	<string>lastRestriction</string>
+	<key>shouldbindsubpixel</key>
+	<string>discardedZone</string>
+	<key>storeValidation</key>
+	<string>shouldUpdateGridView</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterOffset</key>
+	<string>detachQueue</string>
+	<key>createlog</key>
+	<string>canAnimateAperture</string>
+	<key>discardedNotification</key>
+	<string>particleSize</string>
+	<key>durationrate</key>
+	<string>originalAllocator</string>
+	<key>permissiveutil</key>
+	<string>rendertitle</string>
+	<key>requiredresourcetop</key>
+	<string>normalSubscription</string>
+	<key>respondertension</key>
+	<string>pushLoop</string>
+	<key>reusableExpanded</key>
+	<string>tweakOrientation</string>
+</dict>
+</plist>

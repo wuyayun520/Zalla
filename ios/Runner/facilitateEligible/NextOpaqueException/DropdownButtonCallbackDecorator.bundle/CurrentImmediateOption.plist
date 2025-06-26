@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationTension</key>
+	<string>instantiateException</string>
+	<key>remainderPosition</key>
+	<string>offsetOpacity</string>
+	<key>setuplayer</key>
+	<string>sharedMenu</string>
+	<key>shouldPublishRole</key>
+	<string>iterativealpharight</string>
+	<key>shouldSetStateObserver</key>
+	<string>localMatrix</string>
+</dict>
+</plist>

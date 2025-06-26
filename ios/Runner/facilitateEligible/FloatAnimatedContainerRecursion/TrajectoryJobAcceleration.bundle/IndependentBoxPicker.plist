@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocfilter</key>
+	<string>pendingCosine</string>
+	<key>integrationName</key>
+	<string>activatedCharacter</string>
+	<key>iterativeHash</key>
+	<string>spriteHead</string>
+	<key>listenercompositevisibility</key>
+	<string>completerfeedback</string>
+	<key>metadatamaterializer</key>
+	<string>cubitStructure</string>
+	<key>precisionFlags</key>
+	<string>minGridView</string>
+	<key>scaffoldInset</key>
+	<string>comprehensiveConfiguration</string>
+	<key>shouldLoadCapsule</key>
+	<string>criticalRadius</string>
+	<key>shouldpopcollection</key>
+	<string>concurrentColumn</string>
+</dict>
+</plist>

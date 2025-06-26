@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterFrequency</key>
+	<string>overrideParticle</string>
+	<key>colorSpacing</key>
+	<string>unarystylecoord</string>
+	<key>cycleMargin</key>
+	<string>activatedGradient</string>
+	<key>draggableTimer</key>
+	<string>shouldObserveLoss</string>
+	<key>notifiertemplesaturation</key>
+	<string>concurrentGate</string>
+	<key>pinchableFilter</key>
+	<string>geometricSpine</string>
+</dict>
+</plist>

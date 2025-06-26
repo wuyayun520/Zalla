@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitLocalization</key>
+	<string>assetValue</string>
+	<key>flexibleRenderer</key>
+	<string>primaryMaterial</string>
+	<key>globalSpot</key>
+	<string>checklistBound</string>
+	<key>impactinterval</key>
+	<string>modulusintegrity</string>
+	<key>requiredRemainder</key>
+	<string>instructionPressure</string>
+	<key>scaffoldflags</key>
+	<string>imageSize</string>
+	<key>scalestore</key>
+	<string>shouldPopStoryboard</string>
+	<key>seamlesspromisetype</key>
+	<string>characteristicAcceleration</string>
+	<key>variantmomentum</key>
+	<string>permissiveNib</string>
+	<key>viewduringparameter</key>
+	<string>layoutController</string>
+</dict>
+</plist>

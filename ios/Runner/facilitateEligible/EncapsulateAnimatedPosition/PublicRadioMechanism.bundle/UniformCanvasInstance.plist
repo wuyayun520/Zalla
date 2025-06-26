@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecanvas</key>
+	<string>dismissLayer</string>
+	<key>awaittheme</key>
+	<string>capacitymode</string>
+	<key>curveVisibility</key>
+	<string>elasticDialogs</string>
+	<key>fixeddispatcher</key>
+	<string>concurrentAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logPadding</key>
+	<string>numericalOption</string>
+	<key>mainaspect</key>
+	<string>equalizationScale</string>
+	<key>nextobserverposition</key>
+	<string>errorResponse</string>
+	<key>pinchableRect</key>
+	<string>canCacheStream</string>
+	<key>shouldListenOverlay</key>
+	<string>consumeDuration</string>
+	<key>storagepressure</key>
+	<string>streamoutsideparam</string>
+	<key>visibleHash</key>
+	<string>sineVelocity</string>
+</dict>
+</plist>

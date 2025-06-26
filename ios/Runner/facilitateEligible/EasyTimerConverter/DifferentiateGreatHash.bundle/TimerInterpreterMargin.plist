@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAnalogy</key>
+	<string>fixedBaseline</string>
+	<key>equalizationcommandflags</key>
+	<string>isGradient</string>
+	<key>inflatedelegate</key>
+	<string>inflatebitrate</string>
+	<key>interactiveEntity</key>
+	<string>axisacceleration</string>
+	<key>lastSession</key>
+	<string>backwardSorter</string>
+	<key>lostDetail</key>
+	<string>shoulddetachicon</string>
+	<key>parallelMend</key>
+	<string>greatCompleter</string>
+	<key>semanticschema</key>
+	<string>insteadState</string>
+	<key>shouldEncodeExpanded</key>
+	<string>exponentTheme</string>
+	<key>switchFeedback</key>
+	<string>lastScenario</string>
+</dict>
+</plist>

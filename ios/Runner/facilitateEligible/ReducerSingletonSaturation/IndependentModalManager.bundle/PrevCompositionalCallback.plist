@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocalignment</key>
+	<string>delegateVar</string>
+	<key>concreteZone</key>
+	<string>matrixOperation</string>
+	<key>ephemeralSession</key>
+	<string>displayableCharacteristic</string>
+	<key>liteProject</key>
+	<string>canRenderView</string>
+	<key>shouldShowCompletion</key>
+	<string>exponentStatus</string>
+	<key>trajectorySkewX</key>
+	<string>canAnimateScaffold</string>
+	<key>usagesprite</key>
+	<string>eagerSlider</string>
+	<key>viewforce</key>
+	<string>functionalTween</string>
+</dict>
+</plist>

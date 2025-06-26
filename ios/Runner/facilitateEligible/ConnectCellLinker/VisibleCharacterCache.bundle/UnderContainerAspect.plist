@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryResponse</key>
+	<string>grainObserver</string>
+	<key>agileTernary</key>
+	<string>comprehensiveCursor</string>
+	<key>appbarbehavior</key>
+	<string>requiredPublisher</string>
+	<key>associatedUseCase</key>
+	<string>directHandler</string>
+	<key>builderbehavior</key>
+	<string>clearHandler</string>
+	<key>cosinemodebound</key>
+	<string>notificationStrategy</string>
+	<key>remediationInset</key>
+	<string>optionMemento</string>
+	<key>resourcevaluestyle</key>
+	<string>semanticInstruction</string>
+</dict>
+</plist>

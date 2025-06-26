@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionTheme</key>
+	<string>sustainableColumn</string>
+	<key>draggabletextstyle</key>
+	<string>canCacheChecklist</string>
+	<key>globalsubscription</key>
+	<string>pushaspect</string>
+	<key>intuitiveButton</key>
+	<string>signStrategy</string>
+	<key>intuitivePageView</key>
+	<string>canObserveMusic</string>
+	<key>reactiveAnalyzer</key>
+	<string>eagerTransition</string>
+	<key>robustData</key>
+	<string>segmentPattern</string>
+	<key>shouldRebuildAspect</key>
+	<string>interactiveScenario</string>
+</dict>
+</plist>

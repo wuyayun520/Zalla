@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelrotation</key>
+	<string>exponentChain</string>
+	<key>exceptioninstyle</key>
+	<string>checkboxObserver</string>
+	<key>maketopic</key>
+	<string>boxCycle</string>
+	<key>projectBottom</key>
+	<string>fetchUnary</string>
+	<key>quitrow</key>
+	<string>canPushDimension</string>
+	<key>smallTolerance</key>
+	<string>serializeCurve</string>
+</dict>
+</plist>

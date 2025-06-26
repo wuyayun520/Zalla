@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseScene</key>
+	<string>executeBuilder</string>
+	<key>displayablePermutation</key>
+	<string>vectorStructure</string>
+	<key>evaluateframe</key>
+	<string>listenerStrategy</string>
+	<key>lifecycleTop</key>
+	<string>sampletransformer</string>
+	<key>mediaPadding</key>
+	<string>signatureversuscontext</string>
+	<key>mutableLocalization</key>
+	<string>canStreamRadio</string>
+	<key>otherschema</key>
+	<string>listenRoute</string>
+	<key>sharedTool</key>
+	<string>mediumSpine</string>
+	<key>timeTheme</key>
+	<string>shouldTransitionRoute</string>
+</dict>
+</plist>

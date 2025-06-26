@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeModel</key>
+	<string>debugAwait</string>
+	<key>finishusecase</key>
+	<string>pushIntensity</string>
+	<key>inactiveTable</key>
+	<string>materialutilscale</string>
+	<key>intensityacceleration</key>
+	<string>playWidget</string>
+	<key>layoutinmediator</key>
+	<string>appendDuration</string>
+	<key>parallelEquipment</key>
+	<string>unmountLayout</string>
+	<key>permanentusecase</key>
+	<string>fetchLoss</string>
+	<key>retainedCharacter</key>
+	<string>visibleProvision</string>
+</dict>
+</plist>

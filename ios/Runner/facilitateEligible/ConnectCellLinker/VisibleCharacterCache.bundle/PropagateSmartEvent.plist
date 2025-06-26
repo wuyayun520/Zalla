@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiletool</key>
+	<string>cursorOpacity</string>
+	<key>assetstyle</key>
+	<string>transformerState</string>
+	<key>behaviorborder</key>
+	<string>smartstorestate</string>
+	<key>curvepager</key>
+	<string>priorRichText</string>
+	<key>displayablestreamskewy</key>
+	<string>reduceGraph</string>
+	<key>diversifiedSelector</key>
+	<string>flexibleStep</string>
+	<key>prevLifecycle</key>
+	<string>refactorLabel</string>
+	<key>shouldShowTangent</key>
+	<string>gemsingletonsaturation</string>
+</dict>
+</plist>

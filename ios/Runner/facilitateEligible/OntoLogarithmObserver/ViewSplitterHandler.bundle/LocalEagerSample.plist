@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticsingletonmode</key>
+	<string>greatVolume</string>
+	<key>invisiblePermutation</key>
+	<string>canSaveSlider</string>
+	<key>pivotalPopup</key>
+	<string>shouldDetachGem</string>
+	<key>shouldDecodeAxis</key>
+	<string>statefulGridView</string>
+	<key>signatureTension</key>
+	<string>cupertinoProject</string>
+</dict>
+</plist>

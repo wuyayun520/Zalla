@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRichText</key>
+	<string>expandedColor</string>
+	<key>associatedCubit</key>
+	<string>errorFunction</string>
+	<key>flexibleSegue</key>
+	<string>desktopOffset</string>
+	<key>immutableTaxonomy</key>
+	<string>alignmentCoord</string>
+	<key>retainedgraph</key>
+	<string>bufferstatus</string>
+	<key>shouldNavigateMember</key>
+	<string>canDispatchCapsule</string>
+	<key>shouldTransitionSegue</key>
+	<string>fusedClipper</string>
+</dict>
+</plist>

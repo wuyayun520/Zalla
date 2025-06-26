@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsState</key>
+	<string>shouldStartEffect</string>
+	<key>composableResolver</key>
+	<string>sinkvisitordensity</string>
+	<key>cupertinoImpact</key>
+	<string>canEncodePriority</string>
+	<key>enabledPager</key>
+	<string>canFetchMatrix</string>
+	<key>functionalSingleton</key>
+	<string>webPolyfill</string>
+	<key>informationPressure</key>
+	<string>equipmentAlignment</string>
+	<key>largeStoryboard</key>
+	<string>ephemeralDescription</string>
+	<key>respectiveCatalyst</key>
+	<string>unsortedSegue</string>
+	<key>servicevariablebound</key>
+	<string>statefulAppearance</string>
+</dict>
+</plist>

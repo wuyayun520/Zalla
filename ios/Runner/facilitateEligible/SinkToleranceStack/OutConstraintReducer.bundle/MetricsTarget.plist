@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocachename</key>
+	<string>remainderFormat</string>
+	<key>declarativeOccasion</key>
+	<string>decodeScene</string>
+	<key>nativeBullet</key>
+	<string>canDisconnectSegment</string>
+	<key>scenarioSize</key>
+	<string>popDelegate</string>
+	<key>shouldDisconnectEffect</key>
+	<string>discardedRow</string>
+	<key>shouldNavigateGraphic</key>
+	<string>reactiveFlex</string>
+	<key>shouldProcessPlate</key>
+	<string>loadDecoration</string>
+	<key>shouldReplaceContainer</key>
+	<string>bufferreceiver</string>
+	<key>widgethue</key>
+	<string>dropdownbuttonHead</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedThreshold</key>
+	<string>shouldObserveButton</string>
+	<key>composabletextsaturation</key>
+	<string>tappableTool</string>
+	<key>customCard</key>
+	<string>reusableInteraction</string>
+	<key>diffableRestriction</key>
+	<string>lastHandler</string>
+	<key>difficultcoordinator</key>
+	<string>axisProcess</string>
+	<key>easyMediaQuery</key>
+	<string>searcherType</string>
+	<key>immutableSplitter</key>
+	<string>interactorDirection</string>
+	<key>listeneroutsideactivity</key>
+	<string>canMountedCapsule</string>
+</dict>
+</plist>

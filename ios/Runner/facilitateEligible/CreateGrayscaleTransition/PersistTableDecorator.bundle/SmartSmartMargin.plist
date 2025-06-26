@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvelayermargin</key>
+	<string>anchorAction</string>
+	<key>defaultmodulus</key>
+	<string>shouldSavePrecision</string>
+	<key>firstConfiguration</key>
+	<string>tickerStructure</string>
+	<key>plateshapefrequency</key>
+	<string>parsemethod</string>
+	<key>promisedirection</key>
+	<string>handlefragment</string>
+	<key>restrictionMomentum</key>
+	<string>behaviorSize</string>
+	<key>shouldResumeDialogs</key>
+	<string>resizeAnimation</string>
+</dict>
+</plist>

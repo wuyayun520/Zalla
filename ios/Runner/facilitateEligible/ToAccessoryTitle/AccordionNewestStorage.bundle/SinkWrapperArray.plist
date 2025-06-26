@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxdespitemethod</key>
+	<string>canCreateSine</string>
+	<key>concurrentCubit</key>
+	<string>checklistResponse</string>
+	<key>gesturedetectorInterval</key>
+	<string>shouldTransformPositioned</string>
+	<key>interfaceOrientation</key>
+	<string>errorTop</string>
+	<key>keyMaterial</key>
+	<string>sophisticatedGraph</string>
+	<key>mapperBrightness</key>
+	<string>dialogsLayer</string>
+	<key>previewBrightness</key>
+	<string>canStreamProject</string>
+	<key>shouldProcessText</key>
+	<string>providePreview</string>
+	<key>shouldValidateCube</key>
+	<string>cardpager</string>
+</dict>
+</plist>

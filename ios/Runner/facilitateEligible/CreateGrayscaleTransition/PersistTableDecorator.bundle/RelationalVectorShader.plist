@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftasstrategy</key>
+	<string>computeProgressBar</string>
+	<key>interactorspeed</key>
+	<string>titleMomentum</string>
+	<key>parallelClipper</key>
+	<string>euclideannode</string>
+	<key>setstatemaster</key>
+	<string>aspectratioDuration</string>
+	<key>shouldResumeCursor</key>
+	<string>missioncluster</string>
+	<key>substantialEfficiency</key>
+	<string>pointSize</string>
+</dict>
+</plist>

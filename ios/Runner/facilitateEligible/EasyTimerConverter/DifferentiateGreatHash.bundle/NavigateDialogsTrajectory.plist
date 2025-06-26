@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializetable</key>
+	<string>contractionDistance</string>
+	<key>exponentthanprocess</key>
+	<string>inactiveStrength</string>
+	<key>normalCurve</key>
+	<string>loaderHue</string>
+	<key>parallelSession</key>
+	<string>canDeserializeSegment</string>
+	<key>sortedStroke</key>
+	<string>shouldMountThread</string>
+</dict>
+</plist>

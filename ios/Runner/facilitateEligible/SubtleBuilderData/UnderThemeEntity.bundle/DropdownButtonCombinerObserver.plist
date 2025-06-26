@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatorientation</key>
+	<string>asyncDistance</string>
+	<key>globalProtocol</key>
+	<string>dropoutController</string>
+	<key>mainInkWell</key>
+	<string>canLayoutSwitch</string>
+	<key>mergerDensity</key>
+	<string>inheritedTween</string>
+	<key>queueRate</key>
+	<string>providermethodbottom</string>
+	<key>shouldDispatchExtension</key>
+	<string>modalDelay</string>
+	<key>shouldUnmountGram</key>
+	<string>liteSignature</string>
+	<key>subtleCharacter</key>
+	<string>schemaCount</string>
+</dict>
+</plist>

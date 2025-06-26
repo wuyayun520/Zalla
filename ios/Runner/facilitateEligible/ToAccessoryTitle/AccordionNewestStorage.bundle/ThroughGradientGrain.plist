@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTextField</key>
+	<string>shouldprocessroute</string>
+	<key>comprehensiveResource</key>
+	<string>shouldRebuildBox</string>
+	<key>nativeArchitecture</key>
+	<string>sensorAcceleration</string>
+	<key>shouldTrainMission</key>
+	<string>configurationDepth</string>
+</dict>
+</plist>

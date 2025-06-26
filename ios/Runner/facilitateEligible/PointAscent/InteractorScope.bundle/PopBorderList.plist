@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCapacities</key>
+	<string>canvasNumber</string>
+	<key>consumptionRate</key>
+	<string>alphaCycle</string>
+	<key>heaptop</key>
+	<string>shouldUnmountedScreen</string>
+	<key>instructionskewy</key>
+	<string>invokeIntensity</string>
+	<key>lastVertex</key>
+	<string>invisibleUnary</string>
+	<key>materializerdensity</key>
+	<string>retainAction</string>
+	<key>mobileradiuscoord</key>
+	<string>dependencyinvalue</string>
+	<key>referenceshader</key>
+	<string>linkerInset</string>
+	<key>taxonomyRotation</key>
+	<string>integrityspeed</string>
+	<key>uniqueIntegration</key>
+	<string>animateChecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredWorkflow</key>
+	<string>observeHeap</string>
+	<key>geometricLogarithm</key>
+	<string>interpolateController</string>
+	<key>loadcache</key>
+	<string>canConnectAlpha</string>
+	<key>localGroup</key>
+	<string>canAnimateCube</string>
+	<key>menuversusvariable</key>
+	<string>animatedResponder</string>
+	<key>resilientUsage</key>
+	<string>canNavigateMaterial</string>
+	<key>shouldConnectConsumer</key>
+	<string>shouldCancelVariant</string>
+	<key>staticInformation</key>
+	<string>denseMapper</string>
+</dict>
+</plist>

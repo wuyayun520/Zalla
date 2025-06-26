@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyBandwidth</key>
+	<string>defaultChallenge</string>
+	<key>globalLifecycle</key>
+	<string>arithmeticListener</string>
+	<key>makesegue</key>
+	<string>joinerTop</string>
+	<key>shouldPublishBase</key>
+	<string>tabbarScope</string>
+	<key>shouldUnmountShader</key>
+	<string>emitterTint</string>
+	<key>sortedloop</key>
+	<string>markutil</string>
+</dict>
+</plist>

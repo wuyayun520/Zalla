@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursordelay</key>
+	<string>skinForm</string>
+	<key>elasticGestureDetector</key>
+	<string>touchComposite</string>
+	<key>expandedchart</key>
+	<string>shapeTail</string>
+	<key>reusableProgressBar</key>
+	<string>checklistDirection</string>
+	<key>sceneaschain</key>
+	<string>unmountGridView</string>
+	<key>shouldRenderBatch</key>
+	<string>pausesingleton</string>
+	<key>similarThroughput</key>
+	<string>materialthanobserver</string>
+	<key>stackColor</key>
+	<string>refactorrichtext</string>
+</dict>
+</plist>

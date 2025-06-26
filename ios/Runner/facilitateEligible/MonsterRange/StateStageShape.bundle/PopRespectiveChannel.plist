@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfiguration</key>
+	<string>canLayoutScreen</string>
+	<key>alignmentcontaincommand</key>
+	<string>detachtextfield</string>
+	<key>detachfuture</key>
+	<string>taskjobcoord</string>
+	<key>directsingletonformat</key>
+	<string>subsequentLabel</string>
+	<key>fixedGrid</key>
+	<string>shouldMountedThread</string>
+	<key>histogramFeedback</key>
+	<string>graphicVelocity</string>
+	<key>materialSingleton</key>
+	<string>easychapter</string>
+	<key>particleType</key>
+	<string>functionalModule</string>
+	<key>permissiveDependency</key>
+	<string>normSystem</string>
+</dict>
+</plist>

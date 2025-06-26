@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintstyle</key>
+	<string>baselineAction</string>
+	<key>lastCard</key>
+	<string>usedFrame</string>
+	<key>lostTransformer</key>
+	<string>mitigateposition</string>
+	<key>mobileLeft</key>
+	<string>injectionVar</string>
+	<key>navigatorshapedelay</key>
+	<string>widgetTint</string>
+	<key>reliabilityForce</key>
+	<string>shouldTransformBaseline</string>
+	<key>shouldstartmaster</key>
+	<string>detachCheckbox</string>
+</dict>
+</plist>

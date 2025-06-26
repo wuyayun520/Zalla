@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatlabel</key>
+	<string>validateSegue</string>
+	<key>mobileAnimator</key>
+	<string>equivalentKind</string>
+	<key>nibBorder</key>
+	<string>progressbarEnvironment</string>
+	<key>opaqueSample</key>
+	<string>shouldRenderMonster</string>
+	<key>rapidSkin</key>
+	<string>transposeUtil</string>
+	<key>typicalThread</key>
+	<string>webWorkflow</string>
+</dict>
+</plist>

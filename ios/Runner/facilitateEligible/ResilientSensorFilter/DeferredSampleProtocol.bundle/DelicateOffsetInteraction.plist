@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustparticle</key>
+	<string>shouldKeepDescriptor</string>
+	<key>fixedVolume</key>
+	<string>storebitrate</string>
+	<key>grayscaleperfacade</key>
+	<string>clusterDirection</string>
+	<key>mountedcosine</key>
+	<string>batchContrast</string>
+	<key>shouldDisposeOperation</key>
+	<string>updateSubpixel</string>
+	<key>singleDescription</key>
+	<string>shouldPrepareSegue</string>
+	<key>sortedData</key>
+	<string>lockMetadata</string>
+	<key>usedAxis</key>
+	<string>factoryMargin</string>
+</dict>
+</plist>

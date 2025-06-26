@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedCreator</key>
+	<string>singletonKind</string>
+	<key>explicitLayer</key>
+	<string>challengeCycle</string>
+	<key>flexiblePolyfill</key>
+	<string>clipperRate</string>
+	<key>profilethroughvisitor</key>
+	<string>objectOffset</string>
+	<key>transformerduringstate</key>
+	<string>shouldSetStateProtocol</string>
+</dict>
+</plist>

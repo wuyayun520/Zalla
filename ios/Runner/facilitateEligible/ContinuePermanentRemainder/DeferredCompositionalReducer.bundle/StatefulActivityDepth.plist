@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBitrate</key>
+	<string>comprehensiveNavigator</string>
+	<key>expandedColor</key>
+	<string>shouldpauseanchor</string>
+	<key>formatdelegate</key>
+	<string>equipmentOrigin</string>
+	<key>nextPositioned</key>
+	<string>infoLeft</string>
+	<key>nibadaptercolor</key>
+	<string>unsortedcard</string>
+	<key>shouldMountBloc</key>
+	<string>primaryConverter</string>
+	<key>shouldParseConsumer</key>
+	<string>polygonSaturation</string>
+	<key>shouldUpdateSegue</key>
+	<string>shouldCreateLog</string>
+	<key>symmetricTentative</key>
+	<string>validateMaterial</string>
+</dict>
+</plist>

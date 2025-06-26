@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEqualization</key>
+	<string>resourceacceleration</string>
+	<key>elasticityCount</key>
+	<string>cubitDepth</string>
+	<key>globalProject</key>
+	<string>canCreateConvolution</string>
+	<key>occasionalignment</key>
+	<string>fragmentInterval</string>
+	<key>shouldbindmodulus</key>
+	<string>significantIndicator</string>
+	<key>vectorForce</key>
+	<string>canResumeChallenge</string>
+</dict>
+</plist>

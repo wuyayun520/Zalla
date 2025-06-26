@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisplatformscale</key>
+	<string>advancedCustomPaint</string>
+	<key>choosertension</key>
+	<string>hierarchicalQuaternion</string>
+	<key>constraintName</key>
+	<string>benchmarkError</string>
+	<key>inactiveEmitter</key>
+	<string>stringifyHandler</string>
+	<key>nextPager</key>
+	<string>scrollableCubit</string>
+	<key>opaqueExponent</key>
+	<string>lostRecursion</string>
+	<key>shouldInflateIndicator</key>
+	<string>loopCycle</string>
+	<key>singleChapter</key>
+	<string>navigatoredge</string>
+</dict>
+</plist>

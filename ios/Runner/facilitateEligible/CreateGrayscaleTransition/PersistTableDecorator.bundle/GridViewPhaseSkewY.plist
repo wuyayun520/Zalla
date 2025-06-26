@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardsink</key>
+	<string>sortedCanvas</string>
+	<key>crudeBinder</key>
+	<string>resultFormat</string>
+	<key>gridcolor</key>
+	<string>shouldformatsignature</string>
+	<key>nativeNib</key>
+	<string>accordionUseCase</string>
+	<key>sessionawaymemento</key>
+	<string>richtextTier</string>
+	<key>shouldRestartAspectRatio</key>
+	<string>canEncodeFuture</string>
+</dict>
+</plist>

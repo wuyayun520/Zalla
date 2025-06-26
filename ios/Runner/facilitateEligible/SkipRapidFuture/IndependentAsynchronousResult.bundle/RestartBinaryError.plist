@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMend</key>
+	<string>largeSpecifier</string>
+	<key>deferredReliability</key>
+	<string>canSerializePositioned</string>
+	<key>independentColumn</key>
+	<string>workflowColor</string>
+	<key>keycard</key>
+	<string>canDetachProvider</string>
+	<key>lastContrast</key>
+	<string>hardCombiner</string>
+	<key>lastRequest</key>
+	<string>canUnbindPadding</string>
+	<key>shouldStreamDelegate</key>
+	<string>eagerThroughput</string>
+	<key>similarMethod</key>
+	<string>appbarprocessor</string>
+</dict>
+</plist>

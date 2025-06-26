@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionWorkflow</key>
+	<string>shouldPushInterpolation</string>
+	<key>asynchronousObserver</key>
+	<string>canStopCurve</string>
+	<key>cleansubpixel</key>
+	<string>missedDependency</string>
+	<key>defaulttransition</key>
+	<string>overlaymodule</string>
+	<key>prismaticAccessory</key>
+	<string>animatedLog</string>
+	<key>profilefeedback</key>
+	<string>restartGrayscale</string>
+	<key>statefulListView</key>
+	<string>hardAccessory</string>
+</dict>
+</plist>

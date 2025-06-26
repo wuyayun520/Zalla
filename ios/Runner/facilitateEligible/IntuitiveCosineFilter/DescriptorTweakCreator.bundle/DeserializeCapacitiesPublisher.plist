@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveIndex</key>
+	<string>statefulvisible</string>
+	<key>eagerRenderer</key>
+	<string>adaptiveMapper</string>
+	<key>fixedAmortization</key>
+	<string>fixeddurationtheme</string>
+	<key>hardLabel</key>
+	<string>frameName</string>
+	<key>sizePressure</key>
+	<string>finderDepth</string>
+	<key>textnearplatform</key>
+	<string>integerProcess</string>
+</dict>
+</plist>

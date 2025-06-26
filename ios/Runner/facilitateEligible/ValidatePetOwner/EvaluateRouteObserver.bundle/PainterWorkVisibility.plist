@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationsingletonrotation</key>
+	<string>decodeCycle</string>
+	<key>clipperSaturation</key>
+	<string>navigationDelay</string>
+	<key>fusedInteraction</key>
+	<string>endProfile</string>
+	<key>litestack</key>
+	<string>unmarshalCallback</string>
+	<key>lossMargin</key>
+	<string>certificateDistance</string>
+	<key>opaquestrength</key>
+	<string>handlerFacade</string>
+	<key>pivotalDescent</key>
+	<string>canStartStream</string>
+	<key>prevParticle</key>
+	<string>shaderBridge</string>
+	<key>shouldUnmountSkin</key>
+	<string>keygiftrotation</string>
+	<key>synchronoustransitionkind</key>
+	<string>mobileWork</string>
+</dict>
+</plist>

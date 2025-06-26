@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendalert</key>
+	<string>numericalPopup</string>
+	<key>encodeactivity</key>
+	<string>overlayVisitor</string>
+	<key>factorykind</key>
+	<string>canFormatChannels</string>
+	<key>pinchablepositionformat</key>
+	<string>injectiontransparency</string>
+	<key>positionedskewx</key>
+	<string>repositorybrightness</string>
+	<key>sharedEfficiency</key>
+	<string>canPaintArithmetic</string>
+	<key>shouldShowSample</key>
+	<string>reactiveEquipment</string>
+</dict>
+</plist>

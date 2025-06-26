@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAppearance</key>
+	<string>dispatcherHead</string>
+	<key>concretememberdistance</key>
+	<string>shouldUnbindTransition</string>
+	<key>customAwait</key>
+	<string>spinePhase</string>
+	<key>menuMomentum</key>
+	<string>shouldyieldternary</string>
+	<key>unaryFeedback</key>
+	<string>selectedView</string>
+</dict>
+</plist>

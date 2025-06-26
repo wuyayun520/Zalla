@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoop</key>
+	<string>routeFramework</string>
+	<key>baselineTension</key>
+	<string>shouldStartAlpha</string>
+	<key>cartesianInjection</key>
+	<string>shouldSubscribeCheckbox</string>
+	<key>defaultDuration</key>
+	<string>canSerializeAperture</string>
+	<key>listenerPadding</key>
+	<string>shouldSubscribeChecklist</string>
+	<key>maintaintimer</key>
+	<string>shouldNotifyRemainder</string>
+	<key>resilientFeature</key>
+	<string>accessiblePadding</string>
+	<key>shouldPublishOptimizer</key>
+	<string>priorController</string>
+</dict>
+</plist>

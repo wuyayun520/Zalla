@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customdimensionpadding</key>
+	<string>backwardSorter</string>
+	<key>directconsumption</key>
+	<string>containerbottom</string>
+	<key>displayableextension</key>
+	<string>shouldpresentalert</string>
+	<key>newestNotifier</key>
+	<string>diffableTexture</string>
+	<key>provisionDepth</key>
+	<string>emitSegue</string>
+</dict>
+</plist>

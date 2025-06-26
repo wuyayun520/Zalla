@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterpatternspeed</key>
+	<string>frameValue</string>
+	<key>compiledelegate</key>
+	<string>shouldNavigateCosine</string>
+	<key>crudeAudio</key>
+	<string>activeSensor</string>
+	<key>dropdownbuttonOrientation</key>
+	<string>directProvider</string>
+	<key>enabledInteger</key>
+	<string>shouldtransitionflex</string>
+	<key>hyperbolicsize</key>
+	<string>crucialBullet</string>
+	<key>robustLayer</key>
+	<string>responseParameter</string>
+	<key>shouldSerializeProvider</key>
+	<string>pauseAnimatedContainer</string>
+	<key>shouldparseinteger</key>
+	<string>canCreateButton</string>
+</dict>
+</plist>

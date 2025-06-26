@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveduringcycle</key>
+	<string>canFinishContraction</string>
+	<key>frameRight</key>
+	<string>shouldConnectMap</string>
+	<key>heapSize</key>
+	<string>utilRotation</string>
+	<key>keyChallenge</key>
+	<string>priorChannel</string>
+	<key>materializerSkewY</key>
+	<string>tappablebrush</string>
+	<key>movestore</key>
+	<string>consultativeTitle</string>
+	<key>opaquebrush</key>
+	<string>variantthanvalue</string>
+	<key>shouldDisconnectGift</key>
+	<string>replicaScale</string>
+	<key>spineresponse</key>
+	<string>canTransformSpine</string>
+	<key>throughputColor</key>
+	<string>equalizationSize</string>
+</dict>
+</plist>

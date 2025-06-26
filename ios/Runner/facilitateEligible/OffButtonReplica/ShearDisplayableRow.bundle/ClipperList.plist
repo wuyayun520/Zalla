@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorColor</key>
+	<string>routersize</string>
+	<key>liteChapter</key>
+	<string>continueAppBar</string>
+	<key>playrect</key>
+	<string>responsiveproject</string>
+	<key>seamlessScroll</key>
+	<string>hardStack</string>
+	<key>uniformTable</key>
+	<string>revisitPreview</string>
+</dict>
+</plist>

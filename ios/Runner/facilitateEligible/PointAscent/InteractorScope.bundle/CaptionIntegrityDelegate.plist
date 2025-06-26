@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeManager</key>
+	<string>maxExponent</string>
+	<key>declarativeBehavior</key>
+	<string>promiseStructure</string>
+	<key>extensionType</key>
+	<string>functionalArchitecture</string>
+	<key>lostPlayback</key>
+	<string>shouldSetStateCell</string>
+	<key>reusablecurvedistance</key>
+	<string>deserializeInterface</string>
+	<key>shouldInflateTouch</key>
+	<string>processequalization</string>
+	<key>shouldRouteText</key>
+	<string>reducerVariable</string>
+</dict>
+</plist>

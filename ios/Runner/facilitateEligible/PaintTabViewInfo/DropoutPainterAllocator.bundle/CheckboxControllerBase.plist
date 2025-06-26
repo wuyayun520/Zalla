@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFragment</key>
+	<string>criticalEvent</string>
+	<key>composableAmortization</key>
+	<string>robustCaption</string>
+	<key>delicateTweak</key>
+	<string>sizeShape</string>
+	<key>dimensionPosition</key>
+	<string>poppopup</string>
+	<key>greatSegue</key>
+	<string>generateAsync</string>
+	<key>inactiveAmortization</key>
+	<string>boxshadowVisibility</string>
+	<key>lazyAnalyzer</key>
+	<string>scrollableAmortization</string>
+	<key>niblabel</key>
+	<string>shouldRenderMomentum</string>
+	<key>responseinteraction</key>
+	<string>normalMobile</string>
+	<key>sinkkind</key>
+	<string>channelState</string>
+</dict>
+</plist>

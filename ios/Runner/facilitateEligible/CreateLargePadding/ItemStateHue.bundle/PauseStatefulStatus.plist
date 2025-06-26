@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryResponse</key>
+	<string>channelScope</string>
+	<key>elasticityShape</key>
+	<string>interactiveGrid</string>
+	<key>explicitstoreright</key>
+	<string>ignoredIcon</string>
+	<key>intuitiveBorder</key>
+	<string>overlayfrequency</string>
+	<key>isstateful</key>
+	<string>isGram</string>
+	<key>keyTime</key>
+	<string>unregisterChannel</string>
+	<key>lostComponent</key>
+	<string>compositionalTheme</string>
+	<key>masterForce</key>
+	<string>observerPadding</string>
+	<key>secondnavigationoffset</key>
+	<string>visibleDescription</string>
+	<key>shouldInflateButton</key>
+	<string>shouldSubscribeOverlay</string>
+</dict>
+</plist>

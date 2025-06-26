@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFlags</key>
+	<string>disparateObserver</string>
+	<key>displayableSemantics</key>
+	<string>shouldDismissBorder</string>
+	<key>globalBloc</key>
+	<string>renderTechnique</string>
+	<key>hasappbar</key>
+	<string>shouldSetStateMovement</string>
+	<key>imagecount</key>
+	<string>shouldEncodeBoxShadow</string>
+	<key>intuitiveModel</key>
+	<string>shouldObserveBloc</string>
+	<key>largereduceredge</key>
+	<string>agileStroke</string>
+</dict>
+</plist>

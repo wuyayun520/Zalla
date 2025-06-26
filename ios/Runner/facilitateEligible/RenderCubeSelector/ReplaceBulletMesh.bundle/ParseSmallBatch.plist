@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtextureoffset</key>
+	<string>globalStoryboard</string>
+	<key>blocsystemopacity</key>
+	<string>reconcileState</string>
+	<key>lazyAllocator</key>
+	<string>containerMethod</string>
+	<key>mediaqueryatlevel</key>
+	<string>agilevertex</string>
+	<key>shouldcachecube</key>
+	<string>globalAction</string>
+	<key>subtleHeap</key>
+	<string>updateMaster</string>
+</dict>
+</plist>

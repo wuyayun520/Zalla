@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEfficiency</key>
+	<string>shouldTrainTheme</string>
+	<key>easyTolerance</key>
+	<string>animatedFrame</string>
+	<key>hierarchicalPermutation</key>
+	<string>keepExpanded</string>
+	<key>immediatePopup</key>
+	<string>releaseAnimation</string>
+	<key>inheritedmastercontrast</key>
+	<string>channelSkewX</string>
+	<key>listenerflyweighttransparency</key>
+	<string>newestNavigator</string>
+	<key>shaderascent</key>
+	<string>basicinstruction</string>
+	<key>specifyDialogs</key>
+	<string>introspectAwait</string>
+	<key>uniformStroke</key>
+	<string>impactScale</string>
+</dict>
+</plist>

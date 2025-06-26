@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachclipper</key>
+	<string>consultativeBrush</string>
+	<key>binaryDuration</key>
+	<string>loopComposite</string>
+	<key>composableLoop</key>
+	<string>compileReducer</string>
+	<key>declarativeTernary</key>
+	<string>tweenShade</string>
+	<key>functionalintensitymargin</key>
+	<string>customizedfragments</string>
+	<key>tensorPolyfill</key>
+	<string>deactivateAsset</string>
+</dict>
+</plist>

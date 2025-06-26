@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelindex</key>
+	<string>adjustRepository</string>
+	<key>channelsInteraction</key>
+	<string>graphicBehavior</string>
+	<key>currentsemanticsmargin</key>
+	<string>injectionoffset</string>
+	<key>firstChecklist</key>
+	<string>descenttransparency</string>
+	<key>layoutstatus</key>
+	<string>shouldNavigateSwift</string>
+	<key>mobileworkacceleration</key>
+	<string>vertexpressure</string>
+	<key>symmetricBuffer</key>
+	<string>canPauseRow</string>
+	<key>transformerofcomposite</key>
+	<string>canNotifyScroll</string>
+</dict>
+</plist>

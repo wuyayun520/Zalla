@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityatadapter</key>
+	<string>taskRight</string>
+	<key>associatedLifecycle</key>
+	<string>temporaryMap</string>
+	<key>mutableOperation</key>
+	<string>canHandleDrawer</string>
+	<key>relationalRectangle</key>
+	<string>attachSample</string>
+	<key>seamlessviewkind</key>
+	<string>dependencyHue</string>
+	<key>shouldDisposeSegment</key>
+	<string>resizableSchema</string>
+	<key>timerDirection</key>
+	<string>specifyFormat</string>
+</dict>
+</plist>

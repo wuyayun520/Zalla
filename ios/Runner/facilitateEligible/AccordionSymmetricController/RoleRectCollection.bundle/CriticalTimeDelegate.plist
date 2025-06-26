@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnspacing</key>
+	<string>drawerBridge</string>
+	<key>densePrecision</key>
+	<string>labelName</string>
+	<key>dynamicBitrate</key>
+	<string>directBuilder</string>
+	<key>ignoredReducer</key>
+	<string>pointLayer</string>
+	<key>nextStore</key>
+	<string>exponentTheme</string>
+	<key>onextensiontap</key>
+	<string>mechanismCoord</string>
+	<key>shouldPaintCupertino</key>
+	<string>protocolformat</string>
+	<key>shouldTransitionKernel</key>
+	<string>trainCursor</string>
+	<key>usedgraphvisible</key>
+	<string>navigationInset</string>
+</dict>
+</plist>

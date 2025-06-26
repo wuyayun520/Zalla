@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDialogs</key>
+	<string>uniqueTolerance</string>
+	<key>haslayout</key>
+	<string>polygonSaturation</string>
+	<key>hassine</key>
+	<string>masterCenter</string>
+	<key>matrixindex</key>
+	<string>subscriberformat</string>
+	<key>similarEvent</key>
+	<string>equalizationPhase</string>
+	<key>similarExtension</key>
+	<string>transitionNorm</string>
+</dict>
+</plist>

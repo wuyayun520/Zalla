@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachaspect</key>
+	<string>concurrenttitlemode</string>
+	<key>crucialPositioned</key>
+	<string>shouldpresentresource</string>
+	<key>disposetitle</key>
+	<string>canFinishDropdownButton</string>
+	<key>gradientskewx</key>
+	<string>soundCenter</string>
+	<key>hyperbolicequivalent</key>
+	<string>navigatorPlatform</string>
+	<key>immutablerect</key>
+	<string>expandedvector</string>
+	<key>processworkflow</key>
+	<string>aspectAdapter</string>
+	<key>sizedboxparamshape</key>
+	<string>canNotifyDelegate</string>
+	<key>specifyConfidentiality</key>
+	<string>restarttransformer</string>
+</dict>
+</plist>

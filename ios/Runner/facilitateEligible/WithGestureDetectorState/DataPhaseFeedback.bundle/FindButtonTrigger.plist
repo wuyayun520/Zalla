@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitofflyweight</key>
+	<string>publicUnary</string>
+	<key>clusterValidation</key>
+	<string>skipFragment</string>
+	<key>disparateDocument</key>
+	<string>shouldSubscribeSegue</string>
+	<key>similarGridView</key>
+	<string>textVisibility</string>
+	<key>specifierSize</key>
+	<string>mobileSchema</string>
+</dict>
+</plist>

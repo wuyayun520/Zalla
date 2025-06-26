@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLocation</key>
+	<string>buildChecklist</string>
+	<key>clipcolumn</key>
+	<string>shouldBuildEquipment</string>
+	<key>consultativeConstant</key>
+	<string>sustainableRadio</string>
+	<key>currentTween</key>
+	<string>displayableSwift</string>
+	<key>injectcaption</key>
+	<string>bufferSystem</string>
+	<key>integritySpacing</key>
+	<string>encodescale</string>
+	<key>touchBorder</key>
+	<string>unsortedTabBar</string>
+</dict>
+</plist>

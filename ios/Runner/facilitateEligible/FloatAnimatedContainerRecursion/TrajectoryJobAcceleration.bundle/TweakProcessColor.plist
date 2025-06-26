@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisalignment</key>
+	<string>shouldEndMedia</string>
+	<key>invisibleJoiner</key>
+	<string>operationSpeed</string>
+	<key>layoutAcceleration</key>
+	<string>requestPreview</string>
+	<key>numericalMaterial</key>
+	<string>canAttachPlate</string>
+	<key>pinchableDropdownButton</key>
+	<string>decorationcolor</string>
+	<key>shouldLoadBitrate</key>
+	<string>apertureflyweightscale</string>
+	<key>statelessNotifier</key>
+	<string>analyzeHash</string>
+</dict>
+</plist>

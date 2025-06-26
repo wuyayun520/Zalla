@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalyzer</key>
+	<string>connecticon</string>
+	<key>confidentialityStatus</key>
+	<string>canTrainScroll</string>
+	<key>createexception</key>
+	<string>boxfunctionkind</string>
+	<key>difficultTangent</key>
+	<string>specifyactionforce</string>
+	<key>durationcontextoffset</key>
+	<string>draggableFeature</string>
+	<key>interactordirection</key>
+	<string>globalScaffold</string>
+	<key>permanentChart</key>
+	<string>constructAlignment</string>
+	<key>requiredSwitch</key>
+	<string>shouldDeserializeProvider</string>
+	<key>sortedgroup</key>
+	<string>allocatorInteraction</string>
+</dict>
+</plist>

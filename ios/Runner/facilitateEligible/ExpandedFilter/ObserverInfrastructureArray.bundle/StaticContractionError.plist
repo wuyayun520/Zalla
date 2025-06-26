@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRoute</key>
+	<string>giftAlignment</string>
+	<key>hierarchicalChooser</key>
+	<string>interactorChain</string>
+	<key>materialButton</key>
+	<string>effectlayerpressure</string>
+	<key>parallelmatrixorigin</key>
+	<string>decorationevaluation</string>
+	<key>quaternionvisibility</key>
+	<string>groupEnvironment</string>
+	<key>semanticGram</key>
+	<string>semanticsacceleration</string>
+	<key>shouldTrainChannels</key>
+	<string>rectcapacity</string>
+	<key>strokeInterval</key>
+	<string>reflectSubscription</string>
+</dict>
+</plist>

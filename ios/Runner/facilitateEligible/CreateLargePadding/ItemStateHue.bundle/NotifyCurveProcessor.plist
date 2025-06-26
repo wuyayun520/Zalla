@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCache</key>
+	<string>unactivatedStatus</string>
+	<key>awaitskewx</key>
+	<string>shouldRestartBloc</string>
+	<key>denseEquivalent</key>
+	<string>localFilter</string>
+	<key>easytouch</key>
+	<string>tangentsincestructure</string>
+	<key>exceptionMargin</key>
+	<string>canTrainGridView</string>
+	<key>nibsingletonspacing</key>
+	<string>transitionIndicator</string>
+	<key>shouldPopImage</key>
+	<string>shouldNotifyCharacter</string>
+</dict>
+</plist>

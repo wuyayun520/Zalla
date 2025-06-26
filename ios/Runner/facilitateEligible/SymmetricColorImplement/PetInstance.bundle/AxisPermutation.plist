@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationrotation</key>
+	<string>challengelayout</string>
+	<key>criticalusage</key>
+	<string>timerCycle</string>
+	<key>mendInterval</key>
+	<string>semanticAscent</string>
+	<key>newestTabView</key>
+	<string>mediocreGrid</string>
+	<key>secondPosition</key>
+	<string>compositionalHandler</string>
+</dict>
+</plist>

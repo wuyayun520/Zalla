@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateevent</key>
+	<string>easyTask</string>
+	<key>basefuture</key>
+	<string>tabbarSaturation</string>
+	<key>finishtable</key>
+	<string>temporaryEvent</string>
+	<key>invisibleMobile</key>
+	<string>shouldContinueAspect</string>
+	<key>popupuntildecorator</key>
+	<string>showPet</string>
+	<key>shouldRestartButton</key>
+	<string>reusableException</string>
+	<key>sortedRow</key>
+	<string>evaluationTheme</string>
+	<key>specifyPopup</key>
+	<string>exponentstatus</string>
+</dict>
+</plist>

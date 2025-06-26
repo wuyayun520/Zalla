@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationInterval</key>
+	<string>pickerTint</string>
+	<key>beginnerFactory</key>
+	<string>unaryTag</string>
+	<key>cycleShade</key>
+	<string>shouldPersistCupertino</string>
+	<key>displayableData</key>
+	<string>shouldContinueScreen</string>
+	<key>factoryscope</key>
+	<string>schedulerOffset</string>
+	<key>reusableAxis</key>
+	<string>formatSignature</string>
+	<key>standalonecatalystcoord</key>
+	<string>contractionamongtier</string>
+	<key>tensorapertureshade</key>
+	<string>binaryStrategy</string>
+</dict>
+</plist>

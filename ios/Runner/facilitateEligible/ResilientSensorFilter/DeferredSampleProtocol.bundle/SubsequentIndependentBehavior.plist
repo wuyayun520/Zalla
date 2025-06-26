@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetechnique</key>
+	<string>actionPrototype</string>
+	<key>euclideanScenario</key>
+	<string>yieldMusic</string>
+	<key>usedImage</key>
+	<string>gradientVar</string>
+</dict>
+</plist>

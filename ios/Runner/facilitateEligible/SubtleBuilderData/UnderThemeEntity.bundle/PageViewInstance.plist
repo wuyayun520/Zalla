@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSlider</key>
+	<string>serializePositioned</string>
+	<key>backwardStroke</key>
+	<string>temporaryGrayscale</string>
+	<key>diffableAwait</key>
+	<string>elasticGraphic</string>
+	<key>hierarchicalMobile</key>
+	<string>composablecapacities</string>
+	<key>optionVisible</key>
+	<string>canRenderBatch</string>
+	<key>reducerTransparency</key>
+	<string>easyFragments</string>
+	<key>spotTheme</key>
+	<string>paddingDuration</string>
+	<key>stateAlignment</key>
+	<string>opaqueAwait</string>
+	<key>widgetoutsidebuffer</key>
+	<string>cellMargin</string>
+</dict>
+</plist>

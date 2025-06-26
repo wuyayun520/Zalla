@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonWrapper</key>
+	<string>brushMemento</string>
+	<key>immutableCubit</key>
+	<string>timeoffset</string>
+	<key>interactionAcceleration</key>
+	<string>ignoredDimension</string>
+	<key>otherConnector</key>
+	<string>shouldattachsemantics</string>
+	<key>pivotalSorter</key>
+	<string>numericalMobile</string>
+	<key>retainedExtension</key>
+	<string>durationhead</string>
+	<key>retainedGraphic</key>
+	<string>specifierDecorator</string>
+	<key>sessionPressure</key>
+	<string>transformPosition</string>
+	<key>unaryAlignment</key>
+	<string>detachThread</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialGrid</key>
+	<string>primaryError</string>
+	<key>isinstruction</key>
+	<string>alignmentvariablestate</string>
+	<key>secondConfidentiality</key>
+	<string>streamcluster</string>
+	<key>unsortedResponse</key>
+	<string>activityforfacade</string>
+</dict>
+</plist>

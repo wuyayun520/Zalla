@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachecube</key>
+	<string>unlockRepository</string>
+	<key>denseResolver</key>
+	<string>enabledbuildertype</string>
+	<key>invisibleSplitter</key>
+	<string>storageTask</string>
+	<key>newestReliability</key>
+	<string>tabviewFramework</string>
+	<key>subsequentLayout</key>
+	<string>streamNavigator</string>
+</dict>
+</plist>

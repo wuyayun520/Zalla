@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxnode</key>
+	<string>operationMemento</string>
+	<key>extensionresource</key>
+	<string>controlleracceleration</string>
+	<key>gatePressure</key>
+	<string>canLoadNotification</string>
+	<key>nativeItem</key>
+	<string>canLayoutArithmetic</string>
+	<key>resilientcontainer</key>
+	<string>canParseStep</string>
+	<key>updatescaffold</key>
+	<string>inactiveEffect</string>
+</dict>
+</plist>

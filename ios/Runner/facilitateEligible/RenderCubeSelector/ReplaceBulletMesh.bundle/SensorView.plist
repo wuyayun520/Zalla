@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRole</key>
+	<string>advancedMend</string>
+	<key>gemorcommand</key>
+	<string>graphParameter</string>
+	<key>semanticCosine</key>
+	<string>crudeAspect</string>
+	<key>shouldSerializeResource</key>
+	<string>canValidateEffect</string>
+	<key>shouldTransformCell</key>
+	<string>descentTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerCenter</key>
+	<string>subpixelShape</string>
+	<key>currentNode</key>
+	<string>offsetRight</string>
+	<key>holdgrain</key>
+	<string>createNode</string>
+	<key>optimizerpadding</key>
+	<string>propagateTween</string>
+	<key>overlayincludescope</key>
+	<string>appendManager</string>
+</dict>
+</plist>

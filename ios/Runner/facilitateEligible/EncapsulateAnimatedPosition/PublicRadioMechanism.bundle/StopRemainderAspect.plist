@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardInteger</key>
+	<string>completedMission</string>
+	<key>indicatorStyle</key>
+	<string>constraintState</string>
+	<key>significantshadersize</key>
+	<string>polygonBrightness</string>
+	<key>temporaryFlex</key>
+	<string>shouldEncodeProject</string>
+</dict>
+</plist>

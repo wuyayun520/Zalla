@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addsignature</key>
+	<string>behaviorSkewY</string>
+	<key>cartesianAspect</key>
+	<string>adaptiveTransition</string>
+	<key>chapterinprototype</key>
+	<string>introspectPresenter</string>
+	<key>disabledTouch</key>
+	<string>standaloneTexture</string>
+	<key>easyCollection</key>
+	<string>shouldSetStateText</string>
+	<key>localizationTransparency</key>
+	<string>enhanceInterface</string>
+	<key>musicenvironmentdirection</key>
+	<string>promiseFramework</string>
+	<key>reactiveHandler</key>
+	<string>skinSpacing</string>
+	<key>tickerBrightness</key>
+	<string>difficultTheme</string>
+</dict>
+</plist>

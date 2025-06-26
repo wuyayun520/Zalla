@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantdirection</key>
+	<string>errorDensity</string>
+	<key>frameFeedback</key>
+	<string>labelnumberhead</string>
+	<key>masteraroundtemple</key>
+	<string>previewtimeline</string>
+	<key>oldStateful</key>
+	<string>oldTabView</string>
+	<key>radiuschooser</key>
+	<string>defaulttechnique</string>
+	<key>shouldHandleCoordinator</key>
+	<string>defaultModal</string>
+	<key>shouldMountScroll</key>
+	<string>associatedMultiplication</string>
+	<key>typicalRadio</key>
+	<string>requestProgressBar</string>
+</dict>
+</plist>

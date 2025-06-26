@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryposition</key>
+	<string>animatedRectangle</string>
+	<key>robustcurvebottom</key>
+	<string>videoDensity</string>
+	<key>shouldNavigateIcon</key>
+	<string>canDismissRemainder</string>
+	<key>shouldUnmountEffect</key>
+	<string>accordionScene</string>
+	<key>tabletexture</key>
+	<string>cancelConvolution</string>
+</dict>
+</plist>

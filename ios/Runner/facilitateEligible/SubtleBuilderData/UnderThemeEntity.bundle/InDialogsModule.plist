@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoaboutcomposite</key>
+	<string>sceneDepth</string>
+	<key>customizedfactory</key>
+	<string>touchlabel</string>
+	<key>diffableProgressBar</key>
+	<string>filterShade</string>
+	<key>enabledPosition</key>
+	<string>continueVariant</string>
+	<key>formatSize</key>
+	<string>tangentRotation</string>
+	<key>mediocreRichText</key>
+	<string>singleDescriptor</string>
+	<key>permissiveMedia</key>
+	<string>responsiveCreator</string>
+	<key>rowversusphase</key>
+	<string>independentoffset</string>
+	<key>shouldBindView</key>
+	<string>singletonPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureevent</key>
+	<string>symmetricAsync</string>
+	<key>contrastAlignment</key>
+	<string>layerOffset</string>
+	<key>graphicphaseflags</key>
+	<string>shouldmountgift</string>
+	<key>movementSkewY</key>
+	<string>canParsePadding</string>
+	<key>pointshader</key>
+	<string>multiSymbol</string>
+	<key>processnib</key>
+	<string>shouldContinueScaffold</string>
+	<key>shouldSkipIndicator</key>
+	<string>contractionCycle</string>
+	<key>significantNorm</key>
+	<string>litemember</string>
+	<key>singleConfidentiality</key>
+	<string>prismaticBehavior</string>
+	<key>vectordirection</key>
+	<string>observeCycle</string>
+</dict>
+</plist>

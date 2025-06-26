@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativedependency</key>
+	<string>playHash</string>
+	<key>futurechannel</key>
+	<string>aspectratioColor</string>
+	<key>globalButton</key>
+	<string>configureMetadata</string>
+	<key>independentMaterial</key>
+	<string>entropyplatformtheme</string>
+	<key>missedarithmeticmomentum</key>
+	<string>visibleClipper</string>
+	<key>polyfillPressure</key>
+	<string>stopSubpixel</string>
+	<key>priorRouter</key>
+	<string>draggableSegue</string>
+	<key>shouldFetchCollection</key>
+	<string>shouldUnmountProtocol</string>
+	<key>similarObserver</key>
+	<string>sizetolerance</string>
+</dict>
+</plist>

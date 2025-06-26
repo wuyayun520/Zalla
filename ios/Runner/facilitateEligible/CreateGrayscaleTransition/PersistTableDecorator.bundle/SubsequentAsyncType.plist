@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcustompaintinset</key>
+	<string>presentExtension</string>
+	<key>advancedAscent</key>
+	<string>shouldparseinkwell</string>
+	<key>animatorAlignment</key>
+	<string>shouldDeserializeTouch</string>
+	<key>borderEdge</key>
+	<string>shaderBorder</string>
+	<key>customizedEvent</key>
+	<string>informationBrightness</string>
+	<key>symmetricUseCase</key>
+	<string>statefulParticle</string>
+	<key>unactivatedproviderorientation</key>
+	<string>canFetchController</string>
+</dict>
+</plist>

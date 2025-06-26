@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDensity</key>
+	<string>densesizehue</string>
+	<key>keyMap</key>
+	<string>menutweak</string>
+	<key>lostPromise</key>
+	<string>otherBloc</string>
+	<key>primaryCard</key>
+	<string>positionedpressure</string>
+	<key>propagategem</key>
+	<string>localPreview</string>
+	<key>routechooser</key>
+	<string>onnotifiertap</string>
+	<key>seguebrightness</key>
+	<string>cupertinoVideo</string>
+	<key>shouldDeserializeProfile</key>
+	<string>requiredElasticity</string>
+	<key>signatureRate</key>
+	<string>originalModel</string>
+	<key>writepadding</key>
+	<string>canProcessTheme</string>
+</dict>
+</plist>

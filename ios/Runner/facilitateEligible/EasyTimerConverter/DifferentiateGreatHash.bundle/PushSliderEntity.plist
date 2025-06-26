@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGroup</key>
+	<string>customObserver</string>
+	<key>animatedRect</key>
+	<string>explicitAscent</string>
+	<key>bufferchainmomentum</key>
+	<string>paintsession</string>
+	<key>invisibleAsset</key>
+	<string>associateGroup</string>
+	<key>lostBuilder</key>
+	<string>statefulLoop</string>
+	<key>shouldmountsession</key>
+	<string>directaudio</string>
+	<key>standaloneCubit</key>
+	<string>multiplicationInset</string>
+	<key>swiftphaseleft</key>
+	<string>requiredgraphrate</string>
+	<key>tensorActivity</key>
+	<string>shouldShowBox</string>
+	<key>zonepolyfill</key>
+	<string>gestureOffset</string>
+</dict>
+</plist>

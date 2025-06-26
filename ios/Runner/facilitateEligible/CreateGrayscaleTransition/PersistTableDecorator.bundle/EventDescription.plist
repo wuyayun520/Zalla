@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancharacteristic</key>
+	<string>semanticAnchor</string>
+	<key>independentBullet</key>
+	<string>dynamicReduction</string>
+	<key>interactiveEntropy</key>
+	<string>canYieldBinary</string>
+	<key>progressbarskewx</key>
+	<string>concreteVertex</string>
+	<key>reliabilityTail</key>
+	<string>shouldParseIndicator</string>
+	<key>taxonomyVisibility</key>
+	<string>flexiblebox</string>
+	<key>workflowSpacing</key>
+	<string>ignoredMediaQuery</string>
+</dict>
+</plist>

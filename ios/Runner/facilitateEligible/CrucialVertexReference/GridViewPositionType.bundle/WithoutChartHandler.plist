@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInterpolation</key>
+	<string>awaitLocation</string>
+	<key>othereffect</key>
+	<string>channelInset</string>
+	<key>shouldEndTernary</key>
+	<string>shouldBuildInstruction</string>
+	<key>shouldFinishRoute</key>
+	<string>efficiencyPosition</string>
+	<key>tappableConstant</key>
+	<string>projectDistance</string>
+	<key>widgetcallback</key>
+	<string>canRestartArithmetic</string>
+</dict>
+</plist>

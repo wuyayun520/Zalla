@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBorder</key>
+	<string>observePopup</string>
+	<key>componentType</key>
+	<string>checkboxTint</string>
+	<key>shouldBindKernel</key>
+	<string>poolException</string>
+	<key>shouldParseWorkflow</key>
+	<string>shouldAttachRoute</string>
+</dict>
+</plist>

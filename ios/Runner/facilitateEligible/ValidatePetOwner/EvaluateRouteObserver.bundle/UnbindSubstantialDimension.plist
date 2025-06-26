@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultKernel</key>
+	<string>greatGrid</string>
+	<key>displayableChapter</key>
+	<string>permissiveMusic</string>
+	<key>endbuilder</key>
+	<string>protectedMultiplication</string>
+	<key>geometricContrast</key>
+	<string>radioPosition</string>
+	<key>mediocreMaterializer</key>
+	<string>cacheEqualization</string>
+	<key>normalPager</key>
+	<string>sequentialRestriction</string>
+	<key>originalSession</key>
+	<string>buildMusic</string>
+	<key>retainedQuaternion</key>
+	<string>interactiveCubit</string>
+	<key>shouldUnbindCurve</key>
+	<string>iconFramework</string>
+	<key>signatureSpacing</key>
+	<string>canStreamGestureDetector</string>
+</dict>
+</plist>

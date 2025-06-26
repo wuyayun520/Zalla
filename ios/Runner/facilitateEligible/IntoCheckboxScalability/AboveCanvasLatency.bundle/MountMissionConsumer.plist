@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEvent</key>
+	<string>primaryTween</string>
+	<key>channelsfeature</key>
+	<string>multiLog</string>
+	<key>commonView</key>
+	<string>contractionBrightness</string>
+	<key>curvethanlevel</key>
+	<string>equipmentForce</string>
+	<key>sequentialDisclaimer</key>
+	<string>radioTag</string>
+	<key>serviceAppearance</key>
+	<string>analyzeSprite</string>
+	<key>shouldStreamSensor</key>
+	<string>marshalTicker</string>
+</dict>
+</plist>

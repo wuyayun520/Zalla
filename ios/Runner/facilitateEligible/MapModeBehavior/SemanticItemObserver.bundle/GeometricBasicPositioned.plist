@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicManager</key>
+	<string>generateTransition</string>
+	<key>cardOrigin</key>
+	<string>customizedObserver</string>
+	<key>keyImpression</key>
+	<string>robustBullet</string>
+	<key>marginrange</key>
+	<string>hierarchicalreplica</string>
+	<key>receiverFrequency</key>
+	<string>animatenotification</string>
+	<key>shouldDeserializeDrawer</key>
+	<string>euclideanInterface</string>
+	<key>typicalConverter</key>
+	<string>alphaLocation</string>
+</dict>
+</plist>

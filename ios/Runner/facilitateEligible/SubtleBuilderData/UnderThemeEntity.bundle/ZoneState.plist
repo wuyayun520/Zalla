@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredIntensity</key>
+	<string>inactivescale</string>
+	<key>easyOption</key>
+	<string>greatTime</string>
+	<key>pinchableasyncmomentum</key>
+	<string>canUnmountPadding</string>
+	<key>savehero</key>
+	<string>captionLayer</string>
+	<key>shouldAttachCapsule</key>
+	<string>embedResult</string>
+	<key>shouldKeepConstraint</key>
+	<string>shouldProcessChannels</string>
+	<key>statescalability</key>
+	<string>accordionProcessor</string>
+</dict>
+</plist>

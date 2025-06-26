@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executecosine</key>
+	<string>shouldCreateSegue</string>
+	<key>flexibleStream</key>
+	<string>composablePolygon</string>
+	<key>serializefuture</key>
+	<string>criticalDetector</string>
+	<key>sortedDetail</key>
+	<string>shouldFinishChannels</string>
+	<key>uniformScalability</key>
+	<string>swiftInteraction</string>
+</dict>
+</plist>

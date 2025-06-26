@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTheme</key>
+	<string>unbindPadding</string>
+	<key>autoTangent</key>
+	<string>entitytweak</string>
+	<key>bullettension</key>
+	<string>opaqueAlignment</string>
+	<key>continuenode</key>
+	<string>displayChart</string>
+	<key>inactiveMediaQuery</key>
+	<string>opaqueAscent</string>
+	<key>lastTimer</key>
+	<string>canProcessContraction</string>
+	<key>priorLoop</key>
+	<string>decoupleReducer</string>
+	<key>shouldstartcache</key>
+	<string>shouldsubscribeheap</string>
+	<key>storebrightness</key>
+	<string>protocolSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturestatus</key>
+	<string>themeInteraction</string>
+	<key>borderOffset</key>
+	<string>fetchhash</string>
+	<key>criticalSubscription</key>
+	<string>bitrateOperation</string>
+	<key>documentContrast</key>
+	<string>elasticConvolution</string>
+	<key>granularPromise</key>
+	<string>mobilePlayback</string>
+	<key>ignoredLinker</key>
+	<string>provideLayer</string>
+	<key>providerColor</key>
+	<string>unsortedInjection</string>
+	<key>shouldMountDrawer</key>
+	<string>overlayDecorator</string>
+</dict>
+</plist>

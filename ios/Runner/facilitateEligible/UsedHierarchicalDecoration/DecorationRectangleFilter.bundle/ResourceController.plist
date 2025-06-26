@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMode</key>
+	<string>transitionwithtier</string>
+	<key>difficultMusic</key>
+	<string>reusableConstant</string>
+	<key>retainedmatrix</key>
+	<string>elasticDispatcher</string>
+	<key>shouldendalpha</key>
+	<string>persistentController</string>
+	<key>similarScroller</key>
+	<string>granularConverter</string>
+	<key>unactivatedtransformer</key>
+	<string>constructvector</string>
+</dict>
+</plist>

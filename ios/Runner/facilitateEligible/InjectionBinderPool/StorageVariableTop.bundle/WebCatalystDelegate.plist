@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleorientation</key>
+	<string>gemimage</string>
+	<key>iconRate</key>
+	<string>buttonmesh</string>
+	<key>interactiveMerger</key>
+	<string>notifierOrientation</string>
+	<key>interactiveshape</key>
+	<string>restoreInjection</string>
+	<key>presenterpadding</key>
+	<string>accordionRemainder</string>
+	<key>previewAlignment</key>
+	<string>deserializeRow</string>
+</dict>
+</plist>

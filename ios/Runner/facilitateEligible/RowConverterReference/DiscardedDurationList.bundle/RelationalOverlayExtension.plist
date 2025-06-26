@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedview</key>
+	<string>canFetchNavigator</string>
+	<key>globalLabel</key>
+	<string>intermediateTriangles</string>
+	<key>globalchannels</key>
+	<string>inkwellContrast</string>
+	<key>hierarchicalWrapper</key>
+	<string>shouldUnbindScaffold</string>
+	<key>listenertemplerate</key>
+	<string>webFinder</string>
+	<key>retainedPrecision</key>
+	<string>cosineContrast</string>
+	<key>streamName</key>
+	<string>sceneStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnimatedContainer</key>
+	<string>curveParameter</string>
+	<key>hyperbolicHandler</key>
+	<string>escalateManager</string>
+	<key>hyperbolicMetadata</key>
+	<string>rendererCenter</string>
+	<key>materialgradient</key>
+	<string>musicVelocity</string>
+	<key>resilientDetail</key>
+	<string>shouldRebuildButton</string>
+	<key>shouldBindMomentum</key>
+	<string>functionalCosine</string>
+	<key>shouldPaintModal</key>
+	<string>chapterVar</string>
+	<key>statelessLifecycle</key>
+	<string>canCancelCube</string>
+</dict>
+</plist>

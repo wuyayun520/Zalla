@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaInteraction</key>
+	<string>ternarysize</string>
+	<key>otherpermutation</key>
+	<string>uniformAppBar</string>
+	<key>precisionmaterial</key>
+	<string>prismaticInjection</string>
+	<key>respectiveasync</key>
+	<string>shouldStopAnimatedContainer</string>
+	<key>semanticsRate</key>
+	<string>scheduleObserver</string>
+</dict>
+</plist>

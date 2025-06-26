@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivity</key>
+	<string>topicsaturation</string>
+	<key>cancelconstraint</key>
+	<string>revisitChapter</string>
+	<key>ephemeralService</key>
+	<string>floatAllocator</string>
+	<key>fixedShader</key>
+	<string>ignoredButton</string>
+	<key>marginmapper</key>
+	<string>convertContainer</string>
+	<key>nextAscent</key>
+	<string>subsequentbutton</string>
+	<key>schemaInterval</key>
+	<string>intermediateTabBar</string>
+	<key>smartasync</key>
+	<string>webStorage</string>
+	<key>unactivatedChart</key>
+	<string>secondBuffer</string>
+</dict>
+</plist>

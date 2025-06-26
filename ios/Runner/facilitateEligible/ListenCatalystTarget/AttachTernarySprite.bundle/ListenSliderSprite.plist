@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPrecision</key>
+	<string>shouldTransformChallenge</string>
+	<key>globalConnector</key>
+	<string>measureFrame</string>
+	<key>linkerInteraction</key>
+	<string>keyAllocator</string>
+	<key>mastervisitorleft</key>
+	<string>containerinterpreterdistance</string>
+	<key>mobileCharacter</key>
+	<string>popTechnique</string>
+	<key>shouldAnimateController</key>
+	<string>materializeCurve</string>
+	<key>textfieldedge</key>
+	<string>shouldSetStateTheme</string>
+	<key>unactivatedScene</key>
+	<string>subtleSegue</string>
+</dict>
+</plist>

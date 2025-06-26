@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedElasticity</key>
+	<string>agileCapacities</string>
+	<key>customroute</key>
+	<string>toleranceVisible</string>
+	<key>intermediateInteractor</key>
+	<string>statefulDialogs</string>
+	<key>recursionposition</key>
+	<string>restartentity</string>
+	<key>scaleShade</key>
+	<string>grainFlags</string>
+	<key>singleBuilder</key>
+	<string>layoutbinary</string>
+	<key>specifierBehavior</key>
+	<string>interpolationforshape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBrightness</key>
+	<string>shouldCacheExpanded</string>
+	<key>crudeCaption</key>
+	<string>shouldListenBuilder</string>
+	<key>inactivechart</key>
+	<string>consumecursor</string>
+	<key>metadatabottom</key>
+	<string>otherGestureDetector</string>
+	<key>publicPositioned</key>
+	<string>spinLoop</string>
+	<key>shouldPaintCycle</key>
+	<string>promiseappearance</string>
+	<key>shoulddeserializecollection</key>
+	<string>commonCheckbox</string>
+	<key>storagewithoutscope</key>
+	<string>canAttachLayout</string>
+</dict>
+</plist>

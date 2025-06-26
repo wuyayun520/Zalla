@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationmechanism</key>
+	<string>largeLocalization</string>
+	<key>persistentAspect</key>
+	<string>smallTexture</string>
+	<key>pinchableKernel</key>
+	<string>isolateAcceleration</string>
+	<key>prismaticImpression</key>
+	<string>fixedMetadata</string>
+	<key>sortedParticle</key>
+	<string>allocateModel</string>
+	<key>tappableScalability</key>
+	<string>renameTimer</string>
+	<key>titleresponse</key>
+	<string>imageOffset</string>
+</dict>
+</plist>

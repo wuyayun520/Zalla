@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAperture</key>
+	<string>canFinishMovement</string>
+	<key>constraintdescription</key>
+	<string>saveEntropy</string>
+	<key>missedManager</key>
+	<string>behaviorerror</string>
+	<key>parsereduction</key>
+	<string>emitChapter</string>
+	<key>previewname</key>
+	<string>delicateDimension</string>
+	<key>primaryDescent</key>
+	<string>petInset</string>
+	<key>shouldTrainUnary</key>
+	<string>scrollableAwait</string>
+	<key>shouldlayoutmatrix</key>
+	<string>usecaserect</string>
+</dict>
+</plist>

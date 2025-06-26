@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellDirection</key>
+	<string>canDisconnectBorder</string>
+	<key>interactiveSkin</key>
+	<string>evolutionOrientation</string>
+	<key>intermediateBatch</key>
+	<string>roleContrast</string>
+	<key>mutableComposition</key>
+	<string>compileLayout</string>
+	<key>pinchableChannel</key>
+	<string>beginnerShader</string>
+	<key>primarySchema</key>
+	<string>invisibleManager</string>
+	<key>statelessMethod</key>
+	<string>publicwidgethue</string>
+	<key>themeorinterpreter</key>
+	<string>iterativeLocalization</string>
+</dict>
+</plist>

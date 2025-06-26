@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishtouch</key>
+	<string>unmountedTask</string>
+	<key>positionbyflyweight</key>
+	<string>autoSink</string>
+	<key>shouldDisconnectContraction</key>
+	<string>concreteUsage</string>
+</dict>
+</plist>

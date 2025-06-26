@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDensity</key>
+	<string>shouldMountedChecklist</string>
+	<key>equalizationservice</key>
+	<string>canCancelStack</string>
+	<key>moduleHue</key>
+	<string>canDisconnectReference</string>
+	<key>opaqueCosine</key>
+	<string>canRestartNavigation</string>
+	<key>scaffoldSkewX</key>
+	<string>transposeTicker</string>
+	<key>shouldConnectProvider</key>
+	<string>dynamicnavigation</string>
+	<key>shouldObserveTangent</key>
+	<string>scalabilityhue</string>
+	<key>shouldprocessnotification</key>
+	<string>shouldstartslash</string>
+	<key>statelessslider</key>
+	<string>formatcycle</string>
+</dict>
+</plist>

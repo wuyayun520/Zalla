@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterlocation</key>
+	<string>projectionduration</string>
+	<key>desktopStroke</key>
+	<string>chapterAcceleration</string>
+	<key>gemuntilactivity</key>
+	<string>pointBrightness</string>
+	<key>globalNotation</key>
+	<string>elasticStrength</string>
+	<key>largeStateful</key>
+	<string>hyperbolicSearcher</string>
+	<key>nativePolygon</key>
+	<string>segueOrientation</string>
+	<key>rowDirection</key>
+	<string>playbackOpacity</string>
+	<key>standaloneRecursion</key>
+	<string>effectIndex</string>
+</dict>
+</plist>

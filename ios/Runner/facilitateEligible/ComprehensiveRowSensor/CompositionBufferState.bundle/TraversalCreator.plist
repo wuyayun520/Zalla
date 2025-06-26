@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableinstruction</key>
+	<string>quitMetadata</string>
+	<key>fusedInfo</key>
+	<string>synchronousSink</string>
+	<key>otherPreview</key>
+	<string>observerawaystrategy</string>
+	<key>parallelNavigation</key>
+	<string>secondConnector</string>
+	<key>scaffoldDistance</key>
+	<string>grapheffect</string>
+	<key>shouldDismissExpanded</key>
+	<string>mobiletouchkind</string>
+	<key>shouldNavigateNotification</key>
+	<string>explicitcoordinatorfeedback</string>
+	<key>techniquedelay</key>
+	<string>retainedTextField</string>
+</dict>
+</plist>

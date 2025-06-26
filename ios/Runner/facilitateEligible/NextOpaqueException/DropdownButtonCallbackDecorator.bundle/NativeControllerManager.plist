@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedNavigator</key>
+	<string>elasticRow</string>
+	<key>injectionPosition</key>
+	<string>coordinatorOffset</string>
+	<key>invisibleImpact</key>
+	<string>opaquePolyfill</string>
+	<key>latencySpeed</key>
+	<string>mediumfactory</string>
+	<key>modelSkewX</key>
+	<string>nativeWorkflow</string>
+	<key>originalAnimatedContainer</key>
+	<string>oldConsumption</string>
+	<key>reusableBuffer</key>
+	<string>canvasbuilder</string>
+	<key>visibleFuture</key>
+	<string>interpolationservice</string>
+</dict>
+</plist>

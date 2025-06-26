@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralConstraint</key>
+	<string>canDisconnectMonster</string>
+	<key>hierarchicalDetail</key>
+	<string>globalResult</string>
+	<key>persistentOccasion</key>
+	<string>dropdownbuttonBuffer</string>
+</dict>
+</plist>

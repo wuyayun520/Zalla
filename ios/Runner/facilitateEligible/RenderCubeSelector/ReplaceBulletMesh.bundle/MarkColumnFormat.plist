@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activebrushmomentum</key>
+	<string>canUnmountedBox</string>
+	<key>activeviewvisibility</key>
+	<string>cartesiansprite</string>
+	<key>agileAlert</key>
+	<string>permanentCombiner</string>
+	<key>comprehensiveScroller</key>
+	<string>canLayoutStream</string>
+	<key>onoverlaychanged</key>
+	<string>canValidateBaseline</string>
+	<key>shouldRenderSpine</key>
+	<string>measureException</string>
+	<key>tensorFeature</key>
+	<string>staticAsset</string>
+</dict>
+</plist>

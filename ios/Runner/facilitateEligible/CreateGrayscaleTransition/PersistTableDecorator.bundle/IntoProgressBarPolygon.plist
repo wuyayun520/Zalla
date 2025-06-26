@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAnimatedContainer</key>
+	<string>custompaintProxy</string>
+	<key>infoOrientation</key>
+	<string>anchorHead</string>
+	<key>reductionTop</key>
+	<string>shouldHandleTextField</string>
+	<key>rowDuration</key>
+	<string>euclideanGrid</string>
+	<key>shouldContinueMatrix</key>
+	<string>intuitiveParticle</string>
+</dict>
+</plist>

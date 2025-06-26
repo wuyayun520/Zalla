@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCard</key>
+	<string>movementdensity</string>
+	<key>hashdrawer</key>
+	<string>sineValidation</string>
+	<key>mapbuffer</key>
+	<string>liteConsumer</string>
+	<key>resilientSegment</key>
+	<string>scopeFormat</string>
+	<key>shouldDisposePageView</key>
+	<string>projectionInterval</string>
+	<key>shouldEndSlash</key>
+	<string>blocassingleton</string>
+	<key>shouldUnbindMatrix</key>
+	<string>canDecodeChallenge</string>
+	<key>shouldtransitionlayout</key>
+	<string>containerAppearance</string>
+	<key>statelessOrientation</key>
+	<string>tensorProjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoContraction</key>
+	<string>buildprovider</string>
+	<key>cupertinoScreen</key>
+	<string>criticalConnector</string>
+	<key>dataBehavior</key>
+	<string>canPublishNavigator</string>
+	<key>denseResilience</key>
+	<string>navigateslash</string>
+	<key>integrityTag</key>
+	<string>parseGate</string>
+	<key>keyMechanism</key>
+	<string>displayableTangent</string>
+	<key>publicDescriptor</key>
+	<string>pinchableReference</string>
+</dict>
+</plist>

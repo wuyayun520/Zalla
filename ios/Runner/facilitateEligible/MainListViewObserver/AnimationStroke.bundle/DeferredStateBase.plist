@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTolerance</key>
+	<string>measureFrame</string>
+	<key>aspectshape</key>
+	<string>shouldValidateFragment</string>
+	<key>criticalresolver</key>
+	<string>scenarioFrequency</string>
+	<key>cupertinoTexture</key>
+	<string>subtleElement</string>
+	<key>exceptionitem</key>
+	<string>transitionscenario</string>
+	<key>modelcommandindex</key>
+	<string>titleactionbrightness</string>
+	<key>pivotalMetrics</key>
+	<string>tensorMobile</string>
+	<key>rapidTrajectory</key>
+	<string>navigatorScope</string>
+	<key>signDensity</key>
+	<string>sortedcard</string>
+</dict>
+</plist>

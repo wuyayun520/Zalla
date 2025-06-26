@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTechnique</key>
+	<string>replicateNavigator</string>
+	<key>criticalmaterialfrequency</key>
+	<string>parseTransition</string>
+	<key>crucialTicker</key>
+	<string>accessibleFlex</string>
+	<key>currentNavigator</key>
+	<string>shouldProcessSegue</string>
+	<key>disparateFinder</key>
+	<string>checkSize</string>
+	<key>elasticityCount</key>
+	<string>repositoryAppearance</string>
+	<key>particleShape</key>
+	<string>explicitGrid</string>
+	<key>shouldReplaceUsage</key>
+	<string>crudeGrid</string>
+	<key>unmountnotification</key>
+	<string>challengeStyle</string>
+</dict>
+</plist>

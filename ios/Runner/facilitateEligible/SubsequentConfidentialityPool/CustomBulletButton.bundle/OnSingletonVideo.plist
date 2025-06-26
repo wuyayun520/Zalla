@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvewithstate</key>
+	<string>scrolljoblocation</string>
+	<key>receivertag</key>
+	<string>lifecycleResponse</string>
+	<key>shouldResumeMovement</key>
+	<string>newestConstraint</string>
+	<key>specifydelegatedistance</key>
+	<string>localSkirt</string>
+	<key>tableAppearance</key>
+	<string>canSkipMusic</string>
+	<key>unactivatedcertificate</key>
+	<string>activityAppearance</string>
+</dict>
+</plist>

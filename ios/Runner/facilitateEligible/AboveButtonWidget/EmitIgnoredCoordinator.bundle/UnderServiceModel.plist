@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInfrastructure</key>
+	<string>mixinPosition</string>
+	<key>explicitException</key>
+	<string>arithmeticTransformer</string>
+	<key>gridslider</key>
+	<string>parallelintegrity</string>
+	<key>imagescopecoord</key>
+	<string>disabledMaterializer</string>
+	<key>publisherBehavior</key>
+	<string>canSkipAnimatedContainer</string>
+	<key>pushnotifier</key>
+	<string>diffableExponent</string>
+	<key>shouldDetachCell</key>
+	<string>directhandlerformat</string>
+	<key>statefulBoxShadow</key>
+	<string>publishInterpolation</string>
+</dict>
+</plist>

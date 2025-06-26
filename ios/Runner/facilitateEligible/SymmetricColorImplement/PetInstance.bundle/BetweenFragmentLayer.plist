@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keySign</key>
+	<string>permanentRoute</string>
+	<key>notifierHue</key>
+	<string>cupertinoRow</string>
+	<key>pickerType</key>
+	<string>arithmeticKind</string>
+	<key>receiverInterval</key>
+	<string>borderTag</string>
+	<key>rectawaysystem</key>
+	<string>shouldShowFlex</string>
+	<key>shouldRouteView</key>
+	<string>resilientScene</string>
+</dict>
+</plist>

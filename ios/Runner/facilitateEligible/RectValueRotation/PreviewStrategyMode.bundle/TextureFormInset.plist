@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesmodeskewx</key>
+	<string>rowanimation</string>
+	<key>discardedListView</key>
+	<string>persistentloginset</string>
+	<key>hardBinary</key>
+	<string>shouldBuildBloc</string>
+	<key>nativeEvolution</key>
+	<string>shouldFormatStep</string>
+	<key>parallelExpanded</key>
+	<string>providerCoord</string>
+	<key>sampleradius</key>
+	<string>ignoredactiontransparency</string>
+	<key>shouldSubscribeTable</key>
+	<string>requestsprite</string>
+	<key>tabviewKind</key>
+	<string>statefulScenario</string>
+</dict>
+</plist>

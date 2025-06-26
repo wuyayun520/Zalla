@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScroller</key>
+	<string>canSkipDrawer</string>
+	<key>inheritedRadio</key>
+	<string>canFormatConsumer</string>
+	<key>normalBaseline</key>
+	<string>swiftFeedback</string>
+	<key>pivotalAlpha</key>
+	<string>symmetricSplitter</string>
+	<key>protectedBinary</key>
+	<string>skipPainter</string>
+	<key>shouldShowCursor</key>
+	<string>adaptiveConverter</string>
+	<key>shoulddisposeview</key>
+	<string>hierarchicalCurve</string>
+	<key>specifierSpeed</key>
+	<string>wrapLayout</string>
+</dict>
+</plist>

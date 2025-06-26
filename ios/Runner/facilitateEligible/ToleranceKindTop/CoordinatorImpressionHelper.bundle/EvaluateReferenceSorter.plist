@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateCenter</key>
+	<string>multirouter</string>
+	<key>dedicatedCube</key>
+	<string>relationalTabView</string>
+	<key>eagerContainer</key>
+	<string>uniqueSound</string>
+	<key>multiInterface</key>
+	<string>signatureProxy</string>
+	<key>numericalMusic</key>
+	<string>interactionCenter</string>
+	<key>remediationOrientation</key>
+	<string>scaleTension</string>
+	<key>shouldContinueSpecifier</key>
+	<string>reusableaspectdirection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProjection</key>
+	<string>scaledetector</string>
+	<key>criticalaxisflags</key>
+	<string>resizetextfield</string>
+	<key>intermediateIntegration</key>
+	<string>efficiencyFlags</string>
+	<key>requiredaudio</key>
+	<string>canStopResource</string>
+	<key>unaryEdge</key>
+	<string>subpixelzone</string>
+</dict>
+</plist>

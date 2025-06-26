@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateview</key>
+	<string>scheduleDecoration</string>
+	<key>customDependency</key>
+	<string>textBorder</string>
+	<key>customizedPageView</key>
+	<string>persistslash</string>
+	<key>shouldEmitCapacities</key>
+	<string>shouldRestartCursor</string>
+	<key>shouldshowmission</key>
+	<string>reusableScene</string>
+	<key>significantresult</key>
+	<string>shouldTransitionReference</string>
+</dict>
+</plist>

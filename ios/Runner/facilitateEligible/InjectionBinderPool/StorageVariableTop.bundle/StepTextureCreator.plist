@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffervaluebehavior</key>
+	<string>analogyBrightness</string>
+	<key>discardedDialogs</key>
+	<string>themeFlags</string>
+	<key>layoutnode</key>
+	<string>extensionShape</string>
+	<key>mechanismSize</key>
+	<string>cleanCoordinator</string>
+	<key>prioritystructureappearance</key>
+	<string>bufferVar</string>
+	<key>shouldParseRow</key>
+	<string>chartScope</string>
+</dict>
+</plist>

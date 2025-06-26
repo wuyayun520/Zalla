@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAsync</key>
+	<string>resolverdrawer</string>
+	<key>elasticSearcher</key>
+	<string>widgetstatus</string>
+	<key>ephemeralRepository</key>
+	<string>bitratevelocity</string>
+	<key>gridaboutflyweight</key>
+	<string>defaultusage</string>
+	<key>shouldnotifycanvas</key>
+	<string>locateView</string>
+	<key>specifySubpixel</key>
+	<string>setupEvent</string>
+	<key>splittervelocity</key>
+	<string>shouldyieldcontroller</string>
+	<key>subsequentLocalization</key>
+	<string>serviceright</string>
+	<key>unsortedMaster</key>
+	<string>substantialShader</string>
+</dict>
+</plist>

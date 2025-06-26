@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableConnector</key>
+	<string>functionalremainder</string>
+	<key>flexibleStack</key>
+	<string>boxtension</string>
+	<key>hierarchicalReliability</key>
+	<string>onanimationchanged</string>
+	<key>optimizerskewx</key>
+	<string>sequentialCycle</string>
+	<key>scaffoldBehavior</key>
+	<string>boxshadowAcceleration</string>
+	<key>specifierbutton</key>
+	<string>canDeserializeGift</string>
+	<key>storageduringvalue</key>
+	<string>touchText</string>
+	<key>webRect</key>
+	<string>retainedCube</string>
+</dict>
+</plist>

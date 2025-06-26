@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFactory</key>
+	<string>concurrentInterpolation</string>
+	<key>behaviorAppearance</key>
+	<string>componentInset</string>
+	<key>cartesianNib</key>
+	<string>usedTable</string>
+	<key>declarativeCapsule</key>
+	<string>shouldRouteObserver</string>
+	<key>dialogsInset</key>
+	<string>operationEdge</string>
+	<key>momentumsingletonbound</key>
+	<string>baselinestate</string>
+	<key>pushtouch</key>
+	<string>triggerDuration</string>
+	<key>shouldLoadStoryboard</key>
+	<string>vectorFlags</string>
+	<key>shouldstreamscreen</key>
+	<string>bufferJob</string>
+	<key>vectorFormat</key>
+	<string>canDetachMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createobserver</key>
+	<string>moduleIndex</string>
+	<key>handlerstate</key>
+	<string>notifierrect</string>
+	<key>localizationstate</key>
+	<string>materialException</string>
+	<key>methodBrightness</key>
+	<string>selectedmargin</string>
+	<key>playbackIndex</key>
+	<string>oldCallback</string>
+	<key>publisherShade</key>
+	<string>shouldPaintGram</string>
+	<key>requestmenu</key>
+	<string>directlyCursor</string>
+	<key>shouldListenTabView</key>
+	<string>lostMetadata</string>
+</dict>
+</plist>

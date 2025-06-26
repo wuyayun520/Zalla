@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaffold</key>
+	<string>exitAsset</string>
+	<key>arithmeticSpine</key>
+	<string>chartProcess</string>
+	<key>combinerDelay</key>
+	<string>restartTask</string>
+	<key>eagerpainter</key>
+	<string>shouldResumeProfile</string>
+	<key>heapShade</key>
+	<string>searchStream</string>
+	<key>interactiveasset</key>
+	<string>queueDepth</string>
+	<key>lostPromise</key>
+	<string>interactivePet</string>
+	<key>notationMargin</key>
+	<string>fixedAspect</string>
+	<key>scrollableTheme</key>
+	<string>enhanceFuture</string>
+	<key>subsequentComposition</key>
+	<string>subscribePriority</string>
+</dict>
+</plist>

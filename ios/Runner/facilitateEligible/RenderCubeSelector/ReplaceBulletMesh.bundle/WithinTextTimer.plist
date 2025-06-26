@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurerate</key>
+	<string>isClipper</string>
+	<key>hardOffset</key>
+	<string>advancedResult</string>
+	<key>interactivePoint</key>
+	<string>responsiveFragment</string>
+	<key>interactiveTime</key>
+	<string>brushSize</string>
+	<key>mutableentropy</key>
+	<string>moduleIndex</string>
+	<key>opaqueequivalent</key>
+	<string>canRenderDrawer</string>
+	<key>scopeAlignment</key>
+	<string>keyFrame</string>
+</dict>
+</plist>

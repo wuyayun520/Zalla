@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBorder</key>
+	<string>persistBox</string>
+	<key>confidentialityleft</key>
+	<string>amortizationBound</string>
+	<key>immediateAppBar</key>
+	<string>intensityMethod</string>
+	<key>inheritedmechanism</key>
+	<string>mutableSearcher</string>
+	<key>responsivePreview</key>
+	<string>subsequentPositioned</string>
+	<key>seamlessPoint</key>
+	<string>shouldInflatePositioned</string>
+	<key>shouldDecodeOption</key>
+	<string>transposeResult</string>
+	<key>subsequentTabView</key>
+	<string>reactiveBullet</string>
+	<key>updatedocument</key>
+	<string>curvebeyondstate</string>
+</dict>
+</plist>

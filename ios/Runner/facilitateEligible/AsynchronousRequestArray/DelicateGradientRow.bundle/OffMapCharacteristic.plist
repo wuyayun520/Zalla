@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRepository</key>
+	<string>onpageviewtap</string>
+	<key>continueticker</key>
+	<string>directlyNavigation</string>
+	<key>delicateDistinction</key>
+	<string>cancelboxshadow</string>
+	<key>listenerprocessfrequency</key>
+	<string>minBehavior</string>
+	<key>retainedFormat</key>
+	<string>shouldPersistNavigation</string>
+	<key>segmentCount</key>
+	<string>cupertinoCube</string>
+	<key>shouldEncodeSine</key>
+	<string>canDecodeTabBar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScaffold</key>
+	<string>shouldDismissBorder</string>
+	<key>behaviorindex</key>
+	<string>denseGestureDetector</string>
+	<key>brushcenter</key>
+	<string>intermediateTrajectory</string>
+	<key>commonReduction</key>
+	<string>loadText</string>
+	<key>localHash</key>
+	<string>clipperposition</string>
+	<key>objecttop</key>
+	<string>skinCoord</string>
+	<key>oldMaster</key>
+	<string>eagerMetadata</string>
+	<key>scrollablerichtext</key>
+	<string>hashthanvariable</string>
+	<key>specifierLocation</key>
+	<string>scaleStyle</string>
+</dict>
+</plist>

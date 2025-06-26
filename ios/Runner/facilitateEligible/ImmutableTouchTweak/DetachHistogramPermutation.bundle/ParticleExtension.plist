@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedUseCase</key>
+	<string>intermediateClipper</string>
+	<key>greatSegue</key>
+	<string>accordionShader</string>
+	<key>keepworkflow</key>
+	<string>resolvenode</string>
+	<key>painterEdge</key>
+	<string>canDeserializeLabel</string>
+	<key>pushprovider</key>
+	<string>offsetStatus</string>
+	<key>reusableBase</key>
+	<string>cellacceleration</string>
+	<key>shouldDispatchTable</key>
+	<string>writePreview</string>
+	<key>shouldPrepareMargin</key>
+	<string>statelessGrayscale</string>
+	<key>skipzone</key>
+	<string>futurelocation</string>
+	<key>storeRotation</key>
+	<string>layoutExponent</string>
+</dict>
+</plist>

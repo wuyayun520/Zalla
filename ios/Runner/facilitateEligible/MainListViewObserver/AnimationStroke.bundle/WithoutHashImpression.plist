@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyanimation</key>
+	<string>asyncCycle</string>
+	<key>loaderspeed</key>
+	<string>eraseLabel</string>
+	<key>numericalChart</key>
+	<string>robustCompletion</string>
+	<key>routearoundscope</key>
+	<string>alignmentBuffer</string>
+	<key>thresholdState</key>
+	<string>pushUnary</string>
+</dict>
+</plist>

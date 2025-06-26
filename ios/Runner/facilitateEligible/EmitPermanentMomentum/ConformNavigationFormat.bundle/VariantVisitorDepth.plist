@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasLocation</key>
+	<string>shouldDeserializeProvider</string>
+	<key>explicitElasticity</key>
+	<string>canLoadColumn</string>
+	<key>parallelReceiver</key>
+	<string>shouldPauseDuration</string>
+	<key>shouldStreamCatalyst</key>
+	<string>activateSize</string>
+	<key>sophisticatedConnector</key>
+	<string>liteStateful</string>
+	<key>storeobserverleft</key>
+	<string>disconnectCell</string>
+</dict>
+</plist>

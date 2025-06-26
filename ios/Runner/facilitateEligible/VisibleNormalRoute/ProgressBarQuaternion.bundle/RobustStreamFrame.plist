@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAcceleration</key>
+	<string>interactivePosition</string>
+	<key>entropyreliability</key>
+	<string>multiplyRequest</string>
+	<key>priorShape</key>
+	<string>routeForm</string>
+	<key>shouldDeserializeBrush</key>
+	<string>attachDelegate</string>
+	<key>shouldYieldRemainder</key>
+	<string>handlePosition</string>
+	<key>unbindusecase</key>
+	<string>advancedAsset</string>
+</dict>
+</plist>

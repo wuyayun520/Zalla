@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerValidation</key>
+	<string>musicDuration</string>
+	<key>associatedDetail</key>
+	<string>fillStream</string>
+	<key>durationtop</key>
+	<string>notationLocation</string>
+	<key>euclideanSelector</key>
+	<string>cartesianScreen</string>
+	<key>imperativenavigatorfrequency</key>
+	<string>geometricReliability</string>
+	<key>localizationSkewY</key>
+	<string>presenterBottom</string>
+	<key>symmetricProvision</key>
+	<string>occasionStatus</string>
+	<key>uniqueBase</key>
+	<string>cupertinoRect</string>
+</dict>
+</plist>

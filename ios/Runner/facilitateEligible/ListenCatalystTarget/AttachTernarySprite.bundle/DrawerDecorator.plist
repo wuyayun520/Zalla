@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedResilience</key>
+	<string>imageBridge</string>
+	<key>protocolState</key>
+	<string>positionedelement</string>
+	<key>reduceexception</key>
+	<string>revisitDelegate</string>
+	<key>similarLocalization</key>
+	<string>canConnectStream</string>
+	<key>specifySwift</key>
+	<string>computegesturedetector</string>
+	<key>tappablecurve</key>
+	<string>shouldCacheSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorydensity</key>
+	<string>ignoredDialogs</string>
+	<key>lostHeap</key>
+	<string>elementPressure</string>
+	<key>lostPosition</key>
+	<string>canCachePromise</string>
+	<key>shouldDecodeAnimatedContainer</key>
+	<string>queueDelay</string>
+	<key>shouldFinishPrecision</key>
+	<string>selectedmobile</string>
+	<key>shouldstopheap</key>
+	<string>metadataforphase</string>
+	<key>temporaryWidget</key>
+	<string>canPopFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionVisible</key>
+	<string>canHandleWidget</string>
+	<key>frameAcceleration</key>
+	<string>bufferPrototype</string>
+	<key>persistenttentative</key>
+	<string>observerDistance</string>
+	<key>shouldUnmountedPlayback</key>
+	<string>thresholdColor</string>
+	<key>staticSchema</key>
+	<string>secondAsset</string>
+</dict>
+</plist>

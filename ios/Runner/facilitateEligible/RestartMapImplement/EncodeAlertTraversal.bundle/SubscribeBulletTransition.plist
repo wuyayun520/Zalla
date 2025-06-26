@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDispatcher</key>
+	<string>shouldinflatecoordinator</string>
+	<key>commonMember</key>
+	<string>detachUnary</string>
+	<key>convolutionCoord</key>
+	<string>tappablerectmode</string>
+	<key>diffableTexture</key>
+	<string>boxshadowPattern</string>
+	<key>keyMenu</key>
+	<string>pinchableMedia</string>
+	<key>tensorFuture</key>
+	<string>normalQueue</string>
+	<key>textvisitorformat</key>
+	<string>persistentScroller</string>
+	<key>usedScreen</key>
+	<string>shouldLoadLogarithm</string>
+</dict>
+</plist>

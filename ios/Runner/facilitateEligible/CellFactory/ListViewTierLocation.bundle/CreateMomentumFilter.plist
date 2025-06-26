@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionfactoryhue</key>
+	<string>mobileSpeed</string>
+	<key>cupertinocapacities</key>
+	<string>routerStage</string>
+	<key>currentInteractor</key>
+	<string>mountStamp</string>
+	<key>customizedAlert</key>
+	<string>canBuildInteger</string>
+	<key>discardedexceptionstate</key>
+	<string>appbarFrequency</string>
+	<key>eagerScroller</key>
+	<string>injectScene</string>
+	<key>entropyLocation</key>
+	<string>normWork</string>
+	<key>sortedPadding</key>
+	<string>propagateDelegate</string>
+	<key>spritestatus</key>
+	<string>updateTangent</string>
+</dict>
+</plist>

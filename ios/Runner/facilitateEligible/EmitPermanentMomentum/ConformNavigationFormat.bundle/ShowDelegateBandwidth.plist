@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontextfield</key>
+	<string>arithmeticCompleter</string>
+	<key>crucialPopup</key>
+	<string>frameBottom</string>
+	<key>customizedCombiner</key>
+	<string>activatedlayer</string>
+	<key>delicateRadius</key>
+	<string>menuVar</string>
+	<key>documentdensity</key>
+	<string>explicitzone</string>
+	<key>nextUsage</key>
+	<string>resizeScene</string>
+	<key>reducerHue</key>
+	<string>discoverService</string>
+	<key>tensorLocalization</key>
+	<string>shouldPersistNavigator</string>
+</dict>
+</plist>

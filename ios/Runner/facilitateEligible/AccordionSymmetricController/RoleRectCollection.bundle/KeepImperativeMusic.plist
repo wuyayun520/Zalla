@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalLoop</key>
+	<string>independentnavigatoroffset</string>
+	<key>resilientCompleter</key>
+	<string>canUnmountedProvider</string>
+	<key>semanticfactory</key>
+	<string>nextItem</string>
+	<key>shouldNotifyDrawer</key>
+	<string>crudeIsolate</string>
+	<key>statelesscontainerstate</key>
+	<string>streamChain</string>
+	<key>subscriptionlikeprototype</key>
+	<string>canSerializeMap</string>
+	<key>videoName</key>
+	<string>denseTentative</string>
+</dict>
+</plist>

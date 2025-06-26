@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBehavior</key>
+	<string>trainNotifier</string>
+	<key>beginnerCaption</key>
+	<string>columnScale</string>
+	<key>challengeMomentum</key>
+	<string>spineStrategy</string>
+	<key>fragmentborder</key>
+	<string>immutableColor</string>
+	<key>resizableSegment</key>
+	<string>desktopLocalization</string>
+	<key>shouldParseIcon</key>
+	<string>reactiveController</string>
+	<key>shouldValidateMission</key>
+	<string>restartentropy</string>
+	<key>threadright</key>
+	<string>integeruntilform</string>
+</dict>
+</plist>

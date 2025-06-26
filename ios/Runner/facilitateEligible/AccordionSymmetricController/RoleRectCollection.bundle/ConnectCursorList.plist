@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercluster</key>
+	<string>sequentialContraction</string>
+	<key>comprehensiveSine</key>
+	<string>canUpdateNorm</string>
+	<key>connectorPressure</key>
+	<string>selectorVisible</string>
+	<key>largeQueue</key>
+	<string>rapidInterpolation</string>
+	<key>multiplyduration</key>
+	<string>popSegue</string>
+	<key>prevDelegate</key>
+	<string>dynamicMaterial</string>
+	<key>priorsteptype</key>
+	<string>canTransformVariant</string>
+	<key>shouldStopNotifier</key>
+	<string>cartesianSelector</string>
+	<key>shouldUpdateCollection</key>
+	<string>profileSkewX</string>
+</dict>
+</plist>

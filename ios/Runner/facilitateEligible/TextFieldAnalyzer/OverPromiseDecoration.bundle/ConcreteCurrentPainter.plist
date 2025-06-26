@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableGrid</key>
+	<string>intermediatecell</string>
+	<key>eagerMatrix</key>
+	<string>canRenderDropdownButton</string>
+	<key>enabledProvider</key>
+	<string>actionrate</string>
+	<key>newestEffect</key>
+	<string>associatedFragment</string>
+	<key>uniquenotifier</key>
+	<string>persistentTitle</string>
+</dict>
+</plist>

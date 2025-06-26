@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnIndex</key>
+	<string>prevStatus</string>
+	<key>granularGrid</key>
+	<string>comprehensiveBuffer</string>
+	<key>keyModel</key>
+	<string>mainStamp</string>
+	<key>persistentReceiver</key>
+	<string>disabledDependency</string>
+	<key>polyfillSaturation</key>
+	<string>responseChain</string>
+	<key>prevslider</key>
+	<string>rotateCoordinator</string>
+	<key>sessionFlags</key>
+	<string>priorLog</string>
+	<key>uniformHistogram</key>
+	<string>canUpdateStream</string>
+	<key>unsortedInteractor</key>
+	<string>hyperbolicArithmetic</string>
+</dict>
+</plist>

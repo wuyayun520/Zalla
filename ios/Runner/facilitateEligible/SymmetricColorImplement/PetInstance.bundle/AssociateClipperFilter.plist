@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableworkflowcount</key>
+	<string>pagerBound</string>
+	<key>delicateAlignment</key>
+	<string>shouldEncodeGraphic</string>
+	<key>extendcanvas</key>
+	<string>intuitiveRow</string>
+	<key>immediateItem</key>
+	<string>onconstrainttap</string>
+	<key>liteIntensity</key>
+	<string>multiplyInterface</string>
+	<key>mediumMesh</key>
+	<string>unsortedAspect</string>
+	<key>stackofphase</key>
+	<string>nextResponder</string>
+	<key>transpileslider</key>
+	<string>ignoredIcon</string>
+	<key>usedrow</key>
+	<string>evaluatePosition</string>
+</dict>
+</plist>

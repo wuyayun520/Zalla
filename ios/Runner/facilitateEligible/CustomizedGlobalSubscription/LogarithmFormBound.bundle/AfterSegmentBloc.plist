@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMultiplication</key>
+	<string>positionedStructure</string>
+	<key>permissiveTable</key>
+	<string>textureawayframework</string>
+	<key>shouldBindBox</key>
+	<string>shouldTransformBorder</string>
+	<key>shouldFetchCursor</key>
+	<string>singletonTransparency</string>
+	<key>shouldLoadContainer</key>
+	<string>positionedinterface</string>
+	<key>shoulddetachbitrate</key>
+	<string>timelineCount</string>
+	<key>transitionCoord</key>
+	<string>interactionVisibility</string>
+</dict>
+</plist>

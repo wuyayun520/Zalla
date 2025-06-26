@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncollection</key>
+	<string>directlyObject</string>
+	<key>concurrentTolerance</key>
+	<string>permissiveBandwidth</string>
+	<key>newestschema</key>
+	<string>skintimer</string>
+	<key>overlayduringjob</key>
+	<string>canLayoutEqualization</string>
+	<key>pivotalParticle</key>
+	<string>completedSubpixel</string>
+	<key>rangeinset</key>
+	<string>diversifiedIntegration</string>
+	<key>resumenorm</key>
+	<string>invisibleImpact</string>
+	<key>seamlessMapper</key>
+	<string>mainSelector</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVisibility</key>
+	<string>precisionState</string>
+	<key>gridviewDuration</key>
+	<string>easyoffsetinteraction</string>
+	<key>hierarchicalIntegrity</key>
+	<string>shouldanimatetable</string>
+	<key>largeDecoration</key>
+	<string>observerleft</string>
+</dict>
+</plist>

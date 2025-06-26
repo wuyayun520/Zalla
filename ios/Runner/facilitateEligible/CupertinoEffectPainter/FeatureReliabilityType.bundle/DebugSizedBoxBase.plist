@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFeedback</key>
+	<string>rangeborder</string>
+	<key>cubitsincecycle</key>
+	<string>geometricDependency</string>
+	<key>equivalentDuration</key>
+	<string>inkwellLayer</string>
+	<key>localfeaturestate</key>
+	<string>eagerScenario</string>
+	<key>popupposition</key>
+	<string>streamlinechannel</string>
+	<key>rangeorientation</key>
+	<string>canYieldConstraint</string>
+	<key>semanticExponent</key>
+	<string>architectureOrientation</string>
+	<key>shouldRouteEquipment</key>
+	<string>instructionVisible</string>
+	<key>subsequentBox</key>
+	<string>permissiveshape</string>
+</dict>
+</plist>

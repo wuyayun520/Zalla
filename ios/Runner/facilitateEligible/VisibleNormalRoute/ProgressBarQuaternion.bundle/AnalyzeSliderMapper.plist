@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregategift</key>
+	<string>canDecodeWorkflow</string>
+	<key>precisionRate</key>
+	<string>canSetStateAlpha</string>
+	<key>resizableDuration</key>
+	<string>encapsulateReducer</string>
+	<key>specifyCapacity</key>
+	<string>synchronousVector</string>
+	<key>sustainableMetrics</key>
+	<string>imperativeInteractor</string>
+	<key>touchKind</key>
+	<string>ignoredMaster</string>
+	<key>unactivatedSkin</key>
+	<string>synchronizeDuration</string>
+</dict>
+</plist>

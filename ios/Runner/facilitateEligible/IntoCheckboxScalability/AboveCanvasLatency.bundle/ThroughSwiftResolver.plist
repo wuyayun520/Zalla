@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCenter</key>
+	<string>canPublishScaffold</string>
+	<key>decodemodal</key>
+	<string>shouldDispatchDimension</string>
+	<key>descriptionShape</key>
+	<string>nativeRemainder</string>
+	<key>directlyHandler</key>
+	<string>commonRenderer</string>
+	<key>diversifiedEvaluation</key>
+	<string>multiRectangle</string>
+	<key>interfacevisibility</key>
+	<string>nextPolyfill</string>
+	<key>logarithmDirection</key>
+	<string>prevDetector</string>
+	<key>moduleSize</key>
+	<string>parseNavigator</string>
+</dict>
+</plist>

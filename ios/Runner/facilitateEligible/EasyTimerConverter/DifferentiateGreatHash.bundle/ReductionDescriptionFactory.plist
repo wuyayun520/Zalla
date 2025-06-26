@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCustomPaint</key>
+	<string>subscribeNotifier</string>
+	<key>buildhash</key>
+	<string>gridFramework</string>
+	<key>missedCube</key>
+	<string>denseShape</string>
+	<key>opaqueEmitter</key>
+	<string>bindSizedBox</string>
+	<key>paintervelocity</key>
+	<string>shouldPresentDuration</string>
+	<key>rapidprecisiontype</key>
+	<string>canBindBehavior</string>
+	<key>sizedboxAcceleration</key>
+	<string>flexibleCombiner</string>
+	<key>sizedboxpreview</key>
+	<string>minTabView</string>
+	<key>transformerscopedirection</key>
+	<string>commonBandwidth</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBorder</key>
+	<string>autoScroller</string>
+	<key>canvasframeworkbound</key>
+	<string>subscribeFuture</string>
+	<key>cellFlags</key>
+	<string>missionMethod</string>
+	<key>draggablespinedepth</key>
+	<string>synchronousGrain</string>
+	<key>independentrouterkind</key>
+	<string>combinetitle</string>
+	<key>sharedTweak</key>
+	<string>inactiveTitle</string>
+	<key>shouldDetachInterpolation</key>
+	<string>shouldRenderTable</string>
+	<key>spriteValidation</key>
+	<string>directBloc</string>
+	<key>widgetrecursion</key>
+	<string>discardedCustomPaint</string>
+	<key>writehistogram</key>
+	<string>subpixelhandler</string>
+</dict>
+</plist>

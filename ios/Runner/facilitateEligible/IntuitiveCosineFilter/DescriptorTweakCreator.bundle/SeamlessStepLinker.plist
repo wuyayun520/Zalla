@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMatrix</key>
+	<string>relationalButton</string>
+	<key>backwardintegration</key>
+	<string>transitionLoss</string>
+	<key>criticalJoiner</key>
+	<string>beginnerRequest</string>
+	<key>decorationfinder</key>
+	<string>shouldRestartLogarithm</string>
+	<key>persistentSwitch</key>
+	<string>escalatePopup</string>
+	<key>smartNavigation</key>
+	<string>relationalDependency</string>
+</dict>
+</plist>

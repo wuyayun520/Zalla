@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInfrastructure</key>
+	<string>removeResponse</string>
+	<key>commonposition</key>
+	<string>captionSkewX</string>
+	<key>enabledRouter</key>
+	<string>shouldStopCollection</string>
+	<key>mountmultiplication</key>
+	<string>showDependency</string>
+	<key>relationalsingletonvisibility</key>
+	<string>particleparameteracceleration</string>
+	<key>shouldFetchFragment</key>
+	<string>cartesianIntegration</string>
+	<key>sliderRotation</key>
+	<string>rectSpeed</string>
+	<key>staticConnector</key>
+	<string>pageviewcompositeborder</string>
+</dict>
+</plist>

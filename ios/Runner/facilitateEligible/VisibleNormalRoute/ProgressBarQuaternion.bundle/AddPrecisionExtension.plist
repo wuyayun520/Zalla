@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionOpacity</key>
+	<string>processbullet</string>
+	<key>diffableCollection</key>
+	<string>protectedconsumerspeed</string>
+	<key>distinctionBorder</key>
+	<string>gradientcolor</string>
+	<key>indicatorMargin</key>
+	<string>rapidtopic</string>
+	<key>routerBound</key>
+	<string>canTransitionBitrate</string>
+	<key>shouldLoadKernel</key>
+	<string>contractionEnvironment</string>
+	<key>unsortedticker</key>
+	<string>beginnerLatency</string>
+</dict>
+</plist>

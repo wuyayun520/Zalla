@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytriangles</key>
+	<string>impactBound</string>
+	<key>gesturekindcoord</key>
+	<string>trainSubpixel</string>
+	<key>granularMethod</key>
+	<string>interfaceParameter</string>
+	<key>lazyRadius</key>
+	<string>curveValidation</string>
+	<key>loaderType</key>
+	<string>advancedAction</string>
+	<key>oncupertinotap</key>
+	<string>captionComposite</string>
+	<key>sustainableRoute</key>
+	<string>inflateduration</string>
+	<key>usedSprite</key>
+	<string>robustTrajectory</string>
+</dict>
+</plist>

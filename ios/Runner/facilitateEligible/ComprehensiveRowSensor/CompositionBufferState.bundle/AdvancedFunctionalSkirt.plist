@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radioOrigin</key>
+	<string>observePoint</string>
+	<key>requestInterval</key>
+	<string>unmountTask</string>
+	<key>serializelayout</key>
+	<string>zoneamongsystem</string>
+	<key>shouldRestartCapsule</key>
+	<string>customMaterial</string>
+	<key>tweakSkewY</key>
+	<string>backwardConvolution</string>
+</dict>
+</plist>

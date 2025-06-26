@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteModulus</key>
+	<string>missionRight</string>
+	<key>difficultSegue</key>
+	<string>visiblerenderer</string>
+	<key>heroRight</key>
+	<string>minAnchor</string>
+	<key>integrationHead</key>
+	<string>difficulttextfielddirection</string>
+	<key>lastRepository</key>
+	<string>listviewappearance</string>
+	<key>loaderRight</key>
+	<string>eventandwork</string>
+	<key>scenecombiner</key>
+	<string>particleRate</string>
+	<key>scrollerbehavior</key>
+	<string>canProcessMap</string>
+	<key>shouldHandleMovement</key>
+	<string>cartesianBloc</string>
+</dict>
+</plist>

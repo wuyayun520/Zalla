@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterTag</key>
+	<string>missedcube</string>
+	<key>checkboxname</key>
+	<string>histogramVisible</string>
+	<key>diversifiedThreshold</key>
+	<string>priorFinder</string>
+	<key>handlerlevelvisibility</key>
+	<string>notifyusecase</string>
+	<key>heroDepth</key>
+	<string>shouldSubscribeCaption</string>
+	<key>inheritedRecursion</key>
+	<string>tappablePromise</string>
+	<key>shouldCreateUnary</key>
+	<string>benchmarkUtil</string>
+	<key>shouldSkipBitrate</key>
+	<string>unmountWidget</string>
+	<key>sliderelasticity</key>
+	<string>setstatedecoration</string>
+</dict>
+</plist>

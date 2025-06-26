@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationthroughinterpreter</key>
+	<string>shouldHandleAlert</string>
+	<key>gradientPressure</key>
+	<string>localModel</string>
+	<key>lastProfile</key>
+	<string>canCreateTable</string>
+	<key>optimizerVelocity</key>
+	<string>alertPosition</string>
+	<key>robustWrapper</key>
+	<string>commonTrajectory</string>
+	<key>sequentialPosition</key>
+	<string>processorTransparency</string>
+	<key>webInfrastructure</key>
+	<string>synchronousMetadata</string>
+</dict>
+</plist>

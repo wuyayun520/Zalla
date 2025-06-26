@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterleft</key>
+	<string>independentScheduler</string>
+	<key>cupertinoRouter</key>
+	<string>specifyMovement</string>
+	<key>interpolationdirection</key>
+	<string>interceptProvider</string>
+	<key>nativebloc</key>
+	<string>transpileTexture</string>
+	<key>scalabilityMomentum</key>
+	<string>immutableNotation</string>
+	<key>shouldShowFragment</key>
+	<string>canDeserializeMusic</string>
+	<key>specifierrouter</key>
+	<string>meshFeedback</string>
+	<key>subsequentSymbol</key>
+	<string>momentumTag</string>
+</dict>
+</plist>

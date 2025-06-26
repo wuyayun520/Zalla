@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCombiner</key>
+	<string>optimizeButton</string>
+	<key>grayscaleState</key>
+	<string>mediumScaffold</string>
+	<key>performdimension</key>
+	<string>extendInteractor</string>
+	<key>reducercommandhue</key>
+	<string>canUpdateAxis</string>
+	<key>specifyRestriction</key>
+	<string>shouldPopExpanded</string>
+	<key>staticTriangles</key>
+	<string>eagerSpot</string>
+	<key>utilLeft</key>
+	<string>hierarchicalNode</string>
+</dict>
+</plist>

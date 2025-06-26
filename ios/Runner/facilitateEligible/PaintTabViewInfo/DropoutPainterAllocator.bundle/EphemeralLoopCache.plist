@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellTop</key>
+	<string>curvebuilder</string>
+	<key>densescheduler</key>
+	<string>managerBuffer</string>
+	<key>fusedTitle</key>
+	<string>symmetricmapper</string>
+	<key>missedProtocol</key>
+	<string>shouldPauseMomentum</string>
+	<key>playbackSkewY</key>
+	<string>shouldAttachView</string>
+	<key>shouldReplaceMedia</key>
+	<string>interfaceSaturation</string>
+</dict>
+</plist>

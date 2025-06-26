@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCombiner</key>
+	<string>parallelBrush</string>
+	<key>compositionalRouter</key>
+	<string>discardedTraversal</string>
+	<key>containercount</key>
+	<string>quantizerQueue</string>
+	<key>kernelDensity</key>
+	<string>crucialerror</string>
+	<key>missedMapper</key>
+	<string>numericalCombiner</string>
+	<key>normalTouch</key>
+	<string>newestSpine</string>
+	<key>sequentialMap</key>
+	<string>canShowVariant</string>
+</dict>
+</plist>

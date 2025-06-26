@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPlate</key>
+	<string>layerState</string>
+	<key>cycleValidation</key>
+	<string>processorAppearance</string>
+	<key>delicatetextfield</key>
+	<string>triggerColor</string>
+	<key>equalizationResponse</key>
+	<string>sensorResponse</string>
+	<key>eventmapper</key>
+	<string>assetRate</string>
+	<key>mediumContrast</key>
+	<string>substantialMusic</string>
+	<key>ondialogschanged</key>
+	<string>skirtDepth</string>
+	<key>pointinjection</key>
+	<string>labelParam</string>
+	<key>secondTimer</key>
+	<string>parallelPager</string>
+	<key>shouldRouteTextField</key>
+	<string>selectedMatrix</string>
+</dict>
+</plist>

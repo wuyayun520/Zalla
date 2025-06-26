@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAlignment</key>
+	<string>deferredLabel</string>
+	<key>futureEdge</key>
+	<string>missedoverlay</string>
+	<key>multiPermutation</key>
+	<string>reconcileStore</string>
+	<key>persistentCharacteristic</key>
+	<string>canPauseBaseline</string>
+	<key>prismaticFuture</key>
+	<string>progressbardelay</string>
+	<key>similarHistogram</key>
+	<string>cursorDistance</string>
+</dict>
+</plist>

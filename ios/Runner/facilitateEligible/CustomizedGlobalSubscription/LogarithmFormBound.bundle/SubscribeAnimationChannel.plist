@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitybeyondsystem</key>
+	<string>mitigateButton</string>
+	<key>collectionchart</key>
+	<string>storyboardmodetag</string>
+	<key>crucialNotifier</key>
+	<string>containerlevelborder</string>
+	<key>localizationValidation</key>
+	<string>canPrepareTouch</string>
+	<key>missedVertex</key>
+	<string>graphTail</string>
+	<key>reliabilityType</key>
+	<string>subsequentStateless</string>
+	<key>standaloneRow</key>
+	<string>canPushTextField</string>
+</dict>
+</plist>

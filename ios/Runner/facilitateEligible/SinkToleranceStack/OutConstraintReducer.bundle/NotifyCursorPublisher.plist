@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCycle</key>
+	<string>staticGestureDetector</string>
+	<key>dismissexpanded</key>
+	<string>euclideanScaffold</string>
+	<key>occasionInterval</key>
+	<string>storagetop</string>
+	<key>persistentEquivalent</key>
+	<string>handleMaterial</string>
+	<key>retainedTweak</key>
+	<string>endProject</string>
+	<key>shouldAnimateIcon</key>
+	<string>menujobposition</string>
+	<key>shouldCacheSegment</key>
+	<string>frameType</string>
+	<key>subtleExponent</key>
+	<string>freedecoration</string>
+</dict>
+</plist>

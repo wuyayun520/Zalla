@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultarithmetic</key>
+	<string>mediocreColumn</string>
+	<key>lazySymbol</key>
+	<string>parallelTopic</string>
+	<key>mutableGrid</key>
+	<string>routeBuilder</string>
+	<key>originalBloc</key>
+	<string>imperativeVolume</string>
+	<key>singleLoss</key>
+	<string>displayablePopup</string>
+	<key>unsortedEvaluation</key>
+	<string>ternaryMomentum</string>
+</dict>
+</plist>

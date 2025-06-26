@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedsegment</key>
+	<string>restartCursor</string>
+	<key>declarativeInfo</key>
+	<string>mediocreText</string>
+	<key>gridlayerstatus</key>
+	<string>cartesianmenu</string>
+	<key>intuitiveSession</key>
+	<string>robustStep</string>
+	<key>shouldDispatchAppBar</key>
+	<string>responseorflyweight</string>
+	<key>subpixelstrength</key>
+	<string>shouldStopTransition</string>
+</dict>
+</plist>

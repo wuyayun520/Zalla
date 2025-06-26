@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionloader</key>
+	<string>sequentialstateful</string>
+	<key>concreteComponent</key>
+	<string>interactiveProvider</string>
+	<key>cupertinoGram</key>
+	<string>shouldEmitAlert</string>
+	<key>firstFuture</key>
+	<string>skipMusic</string>
+	<key>playbackOrientation</key>
+	<string>canLayoutPositioned</string>
+	<key>shouldFetchCard</key>
+	<string>shouldSetStateCatalyst</string>
+	<key>wrapperOffset</key>
+	<string>arithmeticName</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalError</key>
+	<string>intensityaroundprototype</string>
+	<key>defaultRole</key>
+	<string>toolRight</string>
+	<key>replacematerial</key>
+	<string>vectorVisibility</string>
+	<key>shouldBindBehavior</key>
+	<string>similarConfiguration</string>
+	<key>shouldNotifyReference</key>
+	<string>optionpresenter</string>
+	<key>symmetricFragment</key>
+	<string>responsiveProjection</string>
+	<key>throughputState</key>
+	<string>beginnerbase</string>
+	<key>typicalView</key>
+	<string>webeffectbrightness</string>
+	<key>webBloc</key>
+	<string>detectorName</string>
+</dict>
+</plist>

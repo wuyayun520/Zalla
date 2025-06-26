@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDistinction</key>
+	<string>mobileFacade</string>
+	<key>hierarchicalerror</key>
+	<string>rectdensity</string>
+	<key>indicatordescription</key>
+	<string>alertRight</string>
+	<key>interpolationHead</key>
+	<string>navigatorAppearance</string>
+	<key>metricscontrast</key>
+	<string>cellfromprototype</string>
+	<key>tappableText</key>
+	<string>tweakLocation</string>
+	<key>usageforce</key>
+	<string>completerStyle</string>
+</dict>
+</plist>

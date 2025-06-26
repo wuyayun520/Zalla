@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGraph</key>
+	<string>mergerSaturation</string>
+	<key>crudeColumn</key>
+	<string>responseparammomentum</string>
+	<key>dynamicCosine</key>
+	<string>mobileMargin</string>
+	<key>independentTween</key>
+	<string>transitionchecklist</string>
+	<key>smartElement</key>
+	<string>localnode</string>
+</dict>
+</plist>

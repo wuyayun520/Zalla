@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturesaturation</key>
+	<string>canTransformStoryboard</string>
+	<key>concreteShader</key>
+	<string>adaptivetechniquetension</string>
+	<key>deferredEntity</key>
+	<string>finderTransparency</string>
+	<key>elementSaturation</key>
+	<string>diversifiedHeap</string>
+	<key>precisionOrientation</key>
+	<string>scaleKind</string>
+	<key>previewRate</key>
+	<string>shouldConnectTextField</string>
+	<key>reactiveUsage</key>
+	<string>taskSingleton</string>
+	<key>significantInformation</key>
+	<string>shouldDisposeNavigator</string>
+</dict>
+</plist>

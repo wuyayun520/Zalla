@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposechapter</key>
+	<string>attachsize</string>
+	<key>otherCompletion</key>
+	<string>buffercount</string>
+	<key>publicSine</key>
+	<string>invokeAllocator</string>
+	<key>routermodespeed</key>
+	<string>oldUtil</string>
+	<key>shouldDisconnectText</key>
+	<string>shouldRouteScroll</string>
+	<key>shouldListenCollection</key>
+	<string>functionaldialogsindex</string>
+	<key>tensorRange</key>
+	<string>observeCertificate</string>
+</dict>
+</plist>

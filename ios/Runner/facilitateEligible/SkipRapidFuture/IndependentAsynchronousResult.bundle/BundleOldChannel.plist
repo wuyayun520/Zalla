@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMargin</key>
+	<string>prismaticsizedbox</string>
+	<key>descriptionInteraction</key>
+	<string>mobileName</string>
+	<key>lastColor</key>
+	<string>newestChapter</string>
+	<key>resultincludeenvironment</key>
+	<string>updateCatalyst</string>
+	<key>shouldEmitEntropy</key>
+	<string>consumptionShade</string>
+	<key>sorterResponse</key>
+	<string>shouldEmitInteger</string>
+</dict>
+</plist>

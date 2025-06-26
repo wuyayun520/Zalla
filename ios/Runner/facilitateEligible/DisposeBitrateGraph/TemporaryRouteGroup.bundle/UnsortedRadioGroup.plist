@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicTail</key>
+	<string>lastLatency</string>
+	<key>dropdownbuttonCoord</key>
+	<string>fixedChooser</string>
+	<key>iterativeContainer</key>
+	<string>emitDimension</string>
+	<key>lossdispatcher</key>
+	<string>autoGate</string>
+	<key>responsivetexture</key>
+	<string>shouldParseCaption</string>
+	<key>shouldYieldTernary</key>
+	<string>criticalwidgettype</string>
+	<key>spinekindcoord</key>
+	<string>primarySign</string>
+	<key>viewwrapper</key>
+	<string>grayscaleIndex</string>
+</dict>
+</plist>

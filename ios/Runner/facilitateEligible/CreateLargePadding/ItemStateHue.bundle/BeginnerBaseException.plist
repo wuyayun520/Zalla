@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionborder</key>
+	<string>similarPopup</string>
+	<key>iconSpacing</key>
+	<string>canKeepExpanded</string>
+	<key>multibandwidth</key>
+	<string>explicitSignature</string>
+	<key>sequentialSegue</key>
+	<string>mediaquerypressure</string>
+	<key>tabbarright</key>
+	<string>diffableRichText</string>
+</dict>
+</plist>

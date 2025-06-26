@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferaroundtype</key>
+	<string>cyclecontrast</string>
+	<key>constraintLocation</key>
+	<string>statefulthread</string>
+	<key>nativesensor</key>
+	<string>pageviewprogressbar</string>
+	<key>permissiveIsolate</key>
+	<string>spotDelay</string>
+	<key>prismaticInformation</key>
+	<string>multiGift</string>
+	<key>protectedUnary</key>
+	<string>sequentialListener</string>
+	<key>protocolBound</key>
+	<string>cloneEntity</string>
+	<key>transformeralignment</key>
+	<string>remainderTask</string>
+	<key>usageconsumer</key>
+	<string>fixedStack</string>
+</dict>
+</plist>

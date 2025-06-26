@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSemantics</key>
+	<string>shouldLoadUsage</string>
+	<key>dedicatedScenario</key>
+	<string>sortedpopup</string>
+	<key>displayableTextField</key>
+	<string>cursorStructure</string>
+	<key>futureflyweightoffset</key>
+	<string>documentpressure</string>
+	<key>invisibleFlex</key>
+	<string>shouldResumeLog</string>
+	<key>mediumCanvas</key>
+	<string>iconName</string>
+	<key>otherNavigation</key>
+	<string>originalresourcecontrast</string>
+	<key>shouldReplaceScroll</key>
+	<string>hierarchicalpositionbottom</string>
+</dict>
+</plist>

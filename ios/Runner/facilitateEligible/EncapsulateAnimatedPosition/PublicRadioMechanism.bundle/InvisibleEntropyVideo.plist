@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedDetail</key>
+	<string>disposePet</string>
+	<key>discardedMonster</key>
+	<string>serializeMonster</string>
+	<key>hyperbolicPreview</key>
+	<string>serializecanvas</string>
+	<key>isScaffold</key>
+	<string>transitionmode</string>
+	<key>pivotalGem</key>
+	<string>catalystmargin</string>
+	<key>protocolwidget</key>
+	<string>shouldPaintComposition</string>
+	<key>shouldAnimateAnchor</key>
+	<string>reusableVolume</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzermode</key>
+	<string>fragmentsIndex</string>
+	<key>denseEvent</key>
+	<string>computebloc</string>
+	<key>hardSize</key>
+	<string>pushSemantics</string>
+	<key>largegrain</key>
+	<string>denseSensor</string>
+	<key>resizableAxis</key>
+	<string>offsetFacade</string>
+	<key>responsiveChooser</key>
+	<string>cosinebottom</string>
+	<key>topicprocessor</key>
+	<string>timeFormat</string>
+</dict>
+</plist>

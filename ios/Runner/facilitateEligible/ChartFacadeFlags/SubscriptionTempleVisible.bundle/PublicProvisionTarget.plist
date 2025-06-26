@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramDirection</key>
+	<string>opaqueoptimizersize</string>
+	<key>inheritedView</key>
+	<string>cancelWorkflow</string>
+	<key>mountedappbar</key>
+	<string>metricsDistance</string>
+	<key>permanentEntropy</key>
+	<string>fixedInteraction</string>
+	<key>resizeloop</key>
+	<string>crudeChannel</string>
+	<key>shouldEndTouch</key>
+	<string>implementGrain</string>
+	<key>shouldStartDimension</key>
+	<string>transitionsubpixel</string>
+	<key>shouldStreamSegue</key>
+	<string>smallAnalyzer</string>
+	<key>shouldTrainCustomPaint</key>
+	<string>mitigateZone</string>
+</dict>
+</plist>

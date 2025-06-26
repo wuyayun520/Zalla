@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBehavior</key>
+	<string>concreteResilience</string>
+	<key>builderbrightness</key>
+	<string>fixedTexture</string>
+	<key>cartesianMission</key>
+	<string>gramVisitor</string>
+	<key>largeNavigation</key>
+	<string>imageagainstkind</string>
+	<key>lazyEffect</key>
+	<string>subsequentAnalogy</string>
+	<key>mutableEfficiency</key>
+	<string>requiredItem</string>
+	<key>requiredGram</key>
+	<string>activeThroughput</string>
+	<key>shouldPersistDialogs</key>
+	<string>canMountedGem</string>
+	<key>specifierLocation</key>
+	<string>mainObserver</string>
+</dict>
+</plist>

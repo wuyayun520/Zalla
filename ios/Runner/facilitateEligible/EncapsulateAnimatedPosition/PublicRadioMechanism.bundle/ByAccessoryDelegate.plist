@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSubpixel</key>
+	<string>gradientRate</string>
+	<key>animationqueue</key>
+	<string>shouldPrepareConstraint</string>
+	<key>disabledmodel</key>
+	<string>interpolationChain</string>
+	<key>opaqueDuration</key>
+	<string>firstLoader</string>
+</dict>
+</plist>

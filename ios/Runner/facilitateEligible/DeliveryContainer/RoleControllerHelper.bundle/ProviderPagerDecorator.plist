@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularInterface</key>
+	<string>transpileUseCase</string>
+	<key>imperativesamplefeedback</key>
+	<string>encodeSizedBox</string>
+	<key>largeRecursion</key>
+	<string>checkDelegate</string>
+	<key>requiredprovider</key>
+	<string>smartMap</string>
+</dict>
+</plist>

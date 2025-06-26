@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisfunctionoffset</key>
+	<string>embraceMethod</string>
+	<key>creatorvisible</key>
+	<string>reduceworkflow</string>
+	<key>handlerindex</key>
+	<string>shouldRenderRoute</string>
+	<key>immutableController</key>
+	<string>equalInjection</string>
+	<key>masterinterval</key>
+	<string>mainImpression</string>
+	<key>nativeAperture</key>
+	<string>specifyDependency</string>
+	<key>responsiveReceiver</key>
+	<string>serviceandmode</string>
+	<key>shouldObserveLayout</key>
+	<string>fixedOffset</string>
+</dict>
+</plist>

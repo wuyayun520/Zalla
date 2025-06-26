@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCapacity</key>
+	<string>masterLocation</string>
+	<key>dimensionefficiency</key>
+	<string>diversifiedDescent</string>
+	<key>polyfillinterval</key>
+	<string>pauseCollection</string>
+	<key>reusableListener</key>
+	<string>equivalentstate</string>
+	<key>scheduledialogs</key>
+	<string>canNavigateDuration</string>
+	<key>shouldLoadObserver</key>
+	<string>accessibleWidget</string>
+	<key>significantgift</key>
+	<string>listviewJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPosition</key>
+	<string>discardedCharacteristic</string>
+	<key>flexibleResilience</key>
+	<string>navigationOffset</string>
+	<key>retainedCanvas</key>
+	<string>subtleBuilder</string>
+	<key>roleLeft</key>
+	<string>sanitizeState</string>
+	<key>samplepressure</key>
+	<string>immutablePublisher</string>
+</dict>
+</plist>

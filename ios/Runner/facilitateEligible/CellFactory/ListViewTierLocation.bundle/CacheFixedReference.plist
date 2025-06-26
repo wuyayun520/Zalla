@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainermechanism</key>
+	<string>draggableCanvas</string>
+	<key>isscreen</key>
+	<string>shaderScale</string>
+	<key>localdecorationmargin</key>
+	<string>shouldNotifyOperation</string>
+	<key>mediocreScroller</key>
+	<string>updateboxshadow</string>
+	<key>robustEquipment</key>
+	<string>draggableReference</string>
+	<key>shouldUpdatePageView</key>
+	<string>giftTier</string>
+	<key>textureVelocity</key>
+	<string>stampContrast</string>
+</dict>
+</plist>

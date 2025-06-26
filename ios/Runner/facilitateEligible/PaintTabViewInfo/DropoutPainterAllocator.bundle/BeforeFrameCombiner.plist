@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardmargin</key>
+	<string>layoutlikeproxy</string>
+	<key>objectBrightness</key>
+	<string>firstitem</string>
+	<key>restrictionRate</key>
+	<string>buildSine</string>
+	<key>shouldRouteMediaQuery</key>
+	<string>drawModel</string>
+</dict>
+</plist>

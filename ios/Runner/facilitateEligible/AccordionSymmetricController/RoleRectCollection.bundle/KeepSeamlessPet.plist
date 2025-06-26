@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorspacing</key>
+	<string>logType</string>
+	<key>completionDirection</key>
+	<string>paddingValidation</string>
+	<key>cupertinoRoute</key>
+	<string>explicitKernel</string>
+	<key>durationdirection</key>
+	<string>inflatelayer</string>
+	<key>ignoredData</key>
+	<string>tensorOperation</string>
+	<key>otherShader</key>
+	<string>emitTool</string>
+	<key>permanentChannels</key>
+	<string>canRestartHistogram</string>
+	<key>presenterbottom</key>
+	<string>nibTail</string>
+	<key>requiredComposition</key>
+	<string>hierarchicalBox</string>
+	<key>sequentialTweak</key>
+	<string>retainedGroup</string>
+</dict>
+</plist>

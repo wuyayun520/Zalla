@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePermutation</key>
+	<string>configurationAction</string>
+	<key>customNotifier</key>
+	<string>destroyService</string>
+	<key>deliveryhue</key>
+	<string>clipperHead</string>
+	<key>maintainworkflow</key>
+	<string>grayscaledecoratorinterval</string>
+	<key>painterFlags</key>
+	<string>labelInterpreter</string>
+	<key>shouldLoadCupertino</key>
+	<string>iconPosition</string>
+	<key>themeFeedback</key>
+	<string>canInflateInteger</string>
+</dict>
+</plist>

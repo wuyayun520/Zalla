@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQueue</key>
+	<string>customizedawait</string>
+	<key>dedicatedTransition</key>
+	<string>sensorsaturation</string>
+	<key>detectorType</key>
+	<string>awaitInterpreter</string>
+	<key>mainCard</key>
+	<string>providersystemname</string>
+	<key>nativeEntity</key>
+	<string>pinchablePublisher</string>
+	<key>normhue</key>
+	<string>shouldDispatchSpot</string>
+	<key>permissivemend</key>
+	<string>animationrect</string>
+	<key>transformerprocessdepth</key>
+	<string>keepDescriptor</string>
+</dict>
+</plist>

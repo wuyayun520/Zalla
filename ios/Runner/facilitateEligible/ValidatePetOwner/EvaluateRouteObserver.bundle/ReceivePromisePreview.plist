@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axistask</key>
+	<string>presenterdirection</string>
+	<key>independentInkWell</key>
+	<string>mutableMonster</string>
+	<key>inkwellTop</key>
+	<string>diffableequalizationtag</string>
+	<key>mediumScenario</key>
+	<string>fetchsubpixel</string>
+	<key>polyfillSize</key>
+	<string>reducerActivity</string>
+	<key>promiseColor</key>
+	<string>yieldawait</string>
+	<key>rapidEfficiency</key>
+	<string>constraintpainter</string>
+	<key>shouldunmounteddialogs</key>
+	<string>shouldUnmountedOptimizer</string>
+</dict>
+</plist>

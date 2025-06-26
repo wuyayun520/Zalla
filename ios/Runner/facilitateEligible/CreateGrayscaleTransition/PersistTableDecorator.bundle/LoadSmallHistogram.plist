@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPresenter</key>
+	<string>widgetSaturation</string>
+	<key>dynamicCluster</key>
+	<string>validateMap</string>
+	<key>inheritedInterpolation</key>
+	<string>accessibleFilter</string>
+	<key>paddingInterval</key>
+	<string>canPublishSpot</string>
+</dict>
+</plist>

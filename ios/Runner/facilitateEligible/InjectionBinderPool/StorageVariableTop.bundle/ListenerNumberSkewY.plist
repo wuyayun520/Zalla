@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateContrast</key>
+	<string>shouldDecodeBoxShadow</string>
+	<key>iconInset</key>
+	<string>pageviewDirection</string>
+	<key>interactionFrequency</key>
+	<string>staticAllocator</string>
+	<key>lostRequest</key>
+	<string>canMountReference</string>
+	<key>shouldCreateDescriptor</key>
+	<string>modulusStatus</string>
+	<key>shouldUnmountBullet</key>
+	<string>associatedScheduler</string>
+	<key>taskdepth</key>
+	<string>observeAlpha</string>
+</dict>
+</plist>

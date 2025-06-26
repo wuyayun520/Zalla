@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsPressure</key>
+	<string>mediumSensor</string>
+	<key>futureimage</key>
+	<string>intensityState</string>
+	<key>relationalChooser</key>
+	<string>easySubscription</string>
+	<key>responderFrequency</key>
+	<string>fragmentAcceleration</string>
+	<key>shouldConnectScaffold</key>
+	<string>eventSkewX</string>
+	<key>shouldFormatMediaQuery</key>
+	<string>animationLocation</string>
+	<key>stateLeft</key>
+	<string>shouldFinishLayout</string>
+	<key>unbindcontroller</key>
+	<string>chooserstate</string>
+</dict>
+</plist>

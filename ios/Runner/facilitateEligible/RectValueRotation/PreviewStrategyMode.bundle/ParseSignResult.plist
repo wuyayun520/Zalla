@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTransparency</key>
+	<string>flexibleCollection</string>
+	<key>durationTag</key>
+	<string>euclideanProject</string>
+	<key>shouldBindAlpha</key>
+	<string>analyzeOffset</string>
+	<key>staticMonster</key>
+	<string>statelessContext</string>
+	<key>substantialLocalization</key>
+	<string>standaloneTopic</string>
+	<key>tweakRight</key>
+	<string>radioplatformspeed</string>
+</dict>
+</plist>

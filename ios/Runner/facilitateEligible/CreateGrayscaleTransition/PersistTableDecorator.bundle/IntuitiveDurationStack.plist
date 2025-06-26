@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMovement</key>
+	<string>connectService</string>
+	<key>builderstrategytransparency</key>
+	<string>declarativeDispatcher</string>
+	<key>enabledmethod</key>
+	<string>iterativeRadio</string>
+	<key>liteScale</key>
+	<string>ignoredComposition</string>
+	<key>nextSensor</key>
+	<string>localScenario</string>
+	<key>resilientImage</key>
+	<string>connectMultiplication</string>
+	<key>statefulMend</key>
+	<string>chooserBorder</string>
+	<key>transformerstructurekind</key>
+	<string>captureTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedNode</key>
+	<string>shouldDispatchSignature</string>
+	<key>completerproxytail</key>
+	<string>ignoredLoop</string>
+	<key>finderStyle</key>
+	<string>localizationinsidekind</string>
+	<key>fixedEmitter</key>
+	<string>prismaticTable</string>
+	<key>fixedTransition</key>
+	<string>tabbarFormat</string>
+	<key>globalHistogram</key>
+	<string>constructRect</string>
+	<key>hasStoryboard</key>
+	<string>intermediateTraversal</string>
+	<key>persistsubscription</key>
+	<string>dedicatedModel</string>
+	<key>unaryDuration</key>
+	<string>drawerliketask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentRotation</key>
+	<string>layerOffset</string>
+	<key>filterTag</key>
+	<string>mountedLog</string>
+	<key>localizationCount</key>
+	<string>skipCompletion</string>
+	<key>protectedVector</key>
+	<string>listenInteger</string>
+	<key>setuprequest</key>
+	<string>sizename</string>
+	<key>shouldAnimateLayout</key>
+	<string>integrityFeedback</string>
+	<key>shouldBindIcon</key>
+	<string>routerColor</string>
+	<key>shouldNotifyCanvas</key>
+	<string>lostReliability</string>
+	<key>smallTable</key>
+	<string>lastAllocator</string>
+</dict>
+</plist>

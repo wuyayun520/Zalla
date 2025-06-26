@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptioncomponent</key>
+	<string>batchAdapter</string>
+	<key>optimizerResponse</key>
+	<string>exitListener</string>
+	<key>overlayValidation</key>
+	<string>secondDescription</string>
+	<key>pickerHead</key>
+	<string>equalvariant</string>
+	<key>reusableAmortization</key>
+	<string>remainderCycle</string>
+	<key>shouldDecodeCustomPaint</key>
+	<string>canDetachMission</string>
+	<key>shouldPushGram</key>
+	<string>obtainResponse</string>
+	<key>textfieldContrast</key>
+	<string>interfaceStyle</string>
+	<key>timelineborder</key>
+	<string>unactivatedKernel</string>
+</dict>
+</plist>

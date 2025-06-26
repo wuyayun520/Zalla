@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncreducer</key>
+	<string>directElasticity</string>
+	<key>impressionKind</key>
+	<string>missedKernel</string>
+	<key>statefulBehavior</key>
+	<string>presenterposition</string>
+	<key>tappableCapacity</key>
+	<string>oldMaterial</string>
+</dict>
+</plist>

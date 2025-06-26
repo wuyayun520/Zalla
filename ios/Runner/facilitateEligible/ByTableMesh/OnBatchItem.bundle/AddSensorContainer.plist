@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBottom</key>
+	<string>gestureTop</string>
+	<key>constraintskewy</key>
+	<string>composablePoint</string>
+	<key>parallelParticle</key>
+	<string>canRestartStep</string>
+	<key>resolvetool</key>
+	<string>subpixelmode</string>
+	<key>sortedresponsename</key>
+	<string>mapLeft</string>
+	<key>tensorspine</key>
+	<string>canCreateAperture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSkewY</key>
+	<string>eagerRow</string>
+	<key>currentColor</key>
+	<string>elasticObserver</string>
+	<key>directBandwidth</key>
+	<string>resumeRole</string>
+	<key>prevEntropy</key>
+	<string>seekResolver</string>
+	<key>priorreducer</key>
+	<string>statefulStamp</string>
+	<key>requiredElasticity</key>
+	<string>criticalTentative</string>
+	<key>resilientRepository</key>
+	<string>gramCount</string>
+	<key>resilientVideo</key>
+	<string>tweenfeedback</string>
+	<key>statelessConstant</key>
+	<string>labelInterval</string>
+</dict>
+</plist>

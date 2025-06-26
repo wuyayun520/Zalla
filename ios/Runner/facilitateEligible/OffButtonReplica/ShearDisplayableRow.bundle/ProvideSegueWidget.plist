@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGrain</key>
+	<string>specifyIsolate</string>
+	<key>directlyScaffold</key>
+	<string>infrastructureMode</string>
+	<key>immutableEvaluation</key>
+	<string>shouldpoplayout</string>
+	<key>parallelTrigger</key>
+	<string>canDeserializeSwift</string>
+	<key>shouldAnimatePositioned</key>
+	<string>retainedpresenterdirection</string>
+</dict>
+</plist>

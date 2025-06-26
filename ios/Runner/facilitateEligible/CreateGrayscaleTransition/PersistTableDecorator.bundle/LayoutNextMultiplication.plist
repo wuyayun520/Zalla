@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursoradapterskewx</key>
+	<string>yieldBorder</string>
+	<key>discardedScaffold</key>
+	<string>iterativeTabView</string>
+	<key>provisionMargin</key>
+	<string>localTangent</string>
+	<key>sequentialTrajectory</key>
+	<string>opaqueGesture</string>
+	<key>shouldPopSensor</key>
+	<string>logtaskskewx</string>
+	<key>smartentity</key>
+	<string>cubitType</string>
+	<key>statetop</key>
+	<string>visualizeConfiguration</string>
+	<key>unsortedWrapper</key>
+	<string>loopFlags</string>
+</dict>
+</plist>

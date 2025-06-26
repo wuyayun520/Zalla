@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricLayout</key>
+	<string>sinkoperation</string>
+	<key>imperativeCompletion</key>
+	<string>shouldTransitionBatch</string>
+	<key>numericalConvolution</key>
+	<string>advancedAudio</string>
+	<key>scalabilityvalidation</key>
+	<string>stopNib</string>
+	<key>shouldDeserializeLoss</key>
+	<string>permissiveLatency</string>
+	<key>sortedCompleter</key>
+	<string>normalAsync</string>
+	<key>uniformAudio</key>
+	<string>controllercenter</string>
+</dict>
+</plist>

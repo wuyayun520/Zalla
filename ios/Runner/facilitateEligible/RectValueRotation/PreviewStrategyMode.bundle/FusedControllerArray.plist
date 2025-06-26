@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveProvider</key>
+	<string>texturetag</string>
+	<key>consultativeMetadata</key>
+	<string>staticVector</string>
+	<key>controllerAlignment</key>
+	<string>largePlayback</string>
+	<key>shouldListenLayout</key>
+	<string>functionalPainter</string>
+	<key>shouldpushscale</key>
+	<string>factoryawaystate</string>
+</dict>
+</plist>

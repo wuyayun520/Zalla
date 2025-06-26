@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScene</key>
+	<string>directLifecycle</string>
+	<key>coordinatorwithfunction</key>
+	<string>deferredsize</string>
+	<key>disconnectview</key>
+	<string>hierarchicalConfiguration</string>
+	<key>mastertween</key>
+	<string>mediocreFormat</string>
+	<key>shouldContinueInkWell</key>
+	<string>disposePageView</string>
+	<key>tweenshapestatus</key>
+	<string>pinchableconfidentiality</string>
+</dict>
+</plist>

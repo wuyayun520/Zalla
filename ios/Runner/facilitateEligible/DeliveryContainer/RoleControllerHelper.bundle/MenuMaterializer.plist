@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedResolver</key>
+	<string>dedicatedDrawer</string>
+	<key>fixedIsolate</key>
+	<string>largeBinary</string>
+	<key>mapTag</key>
+	<string>cycleMode</string>
+	<key>memberparamname</key>
+	<string>ephemeralNavigation</string>
+	<key>rotatespine</key>
+	<string>dismissreducer</string>
+</dict>
+</plist>

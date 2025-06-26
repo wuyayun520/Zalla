@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentForce</key>
+	<string>webConverter</string>
+	<key>hardSine</key>
+	<string>trainStateless</string>
+	<key>mediumCoordinator</key>
+	<string>polyfillState</string>
+	<key>painterlinker</key>
+	<string>encodeSample</string>
+	<key>standaloneBrush</key>
+	<string>shouldDisposeStack</string>
+	<key>taskDelay</key>
+	<string>celltension</string>
+	<key>transitionTag</key>
+	<string>marshalAnimation</string>
+	<key>writestore</key>
+	<string>statefulEvolution</string>
+</dict>
+</plist>

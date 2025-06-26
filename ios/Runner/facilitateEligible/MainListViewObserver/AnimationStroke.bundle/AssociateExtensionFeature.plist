@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorfrequency</key>
+	<string>polygonmomentum</string>
+	<key>measureroute</key>
+	<string>spotPlatform</string>
+	<key>shouldDispatchWorkflow</key>
+	<string>intensitytint</string>
+	<key>shouldunmountedfuture</key>
+	<string>methodPrototype</string>
+	<key>uniqueSlider</key>
+	<string>inflateQueue</string>
+	<key>workflowTension</key>
+	<string>canMountedGraphic</string>
+</dict>
+</plist>

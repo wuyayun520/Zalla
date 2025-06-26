@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionrenderer</key>
+	<string>factoryTheme</string>
+	<key>elasticPrecision</key>
+	<string>canPrepareConvolution</string>
+	<key>remediationColor</key>
+	<string>spineSize</string>
+	<key>routebufferedge</key>
+	<string>connectsize</string>
+	<key>sharedLatency</key>
+	<string>offsetFormat</string>
+	<key>shouldObserveTable</key>
+	<string>singletonshape</string>
+	<key>shouldPaintGradient</key>
+	<string>allocatorDuration</string>
+	<key>spritebymemento</key>
+	<string>apertureLevel</string>
+	<key>tooltask</key>
+	<string>shouldRestartBox</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcluster</key>
+	<string>listenSpine</string>
+	<key>dedicatedScale</key>
+	<string>granularCoordinator</string>
+	<key>denseStatus</key>
+	<string>particleStructure</string>
+	<key>imageindex</key>
+	<string>opaqueaction</string>
+	<key>lostRenderer</key>
+	<string>publishListView</string>
+	<key>reducehero</key>
+	<string>resumeNotification</string>
+	<key>smartrichtexttop</key>
+	<string>synchronousSign</string>
+	<key>unactivatedtool</key>
+	<string>reduceMenu</string>
+	<key>webMonster</key>
+	<string>storeTask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveReduction</key>
+	<string>composableOperation</string>
+	<key>detectorDensity</key>
+	<string>toolcontrast</string>
+	<key>displayableStatus</key>
+	<string>observeMedia</string>
+	<key>firstGestureDetector</key>
+	<string>stopDocument</string>
+	<key>iconLeft</key>
+	<string>utiltaxonomy</string>
+	<key>layerawaystage</key>
+	<string>widgetBorder</string>
+	<key>mobileSensor</key>
+	<string>dismissBinary</string>
+	<key>reactiveCosine</key>
+	<string>reflectChart</string>
+	<key>strengthLocation</key>
+	<string>hasBuilder</string>
+</dict>
+</plist>

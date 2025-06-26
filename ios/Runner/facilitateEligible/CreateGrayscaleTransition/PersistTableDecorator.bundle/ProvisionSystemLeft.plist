@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentInjection</key>
+	<string>connectMedia</string>
+	<key>customizedScroll</key>
+	<string>pendingTheme</string>
+	<key>imperativeIntegrity</key>
+	<string>spriteFlags</string>
+	<key>mapperOpacity</key>
+	<string>chapterDensity</string>
+	<key>shouldLoadBase</key>
+	<string>samplevideo</string>
+	<key>shouldProcessTable</key>
+	<string>upgradeTitle</string>
+</dict>
+</plist>

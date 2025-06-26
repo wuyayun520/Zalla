@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetshapestatus</key>
+	<string>unbindresponse</string>
+	<key>baselineduringoperation</key>
+	<string>activatedModule</string>
+	<key>consultativeConsumer</key>
+	<string>activeRow</string>
+	<key>delicateTechnique</key>
+	<string>stampColor</string>
+	<key>discardedMetrics</key>
+	<string>singleslideracceleration</string>
+	<key>inheritedmesh</key>
+	<string>shouldPublishAnimatedContainer</string>
+	<key>multiappbarvelocity</key>
+	<string>activeKernel</string>
+	<key>typicalTable</key>
+	<string>navigationScope</string>
+</dict>
+</plist>

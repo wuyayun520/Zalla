@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEffect</key>
+	<string>pauseConstraint</string>
+	<key>freestate</key>
+	<string>replaceCube</string>
+	<key>spineSkewX</key>
+	<string>pushCaption</string>
+	<key>synchronousExponent</key>
+	<string>associatedCapsule</string>
+</dict>
+</plist>

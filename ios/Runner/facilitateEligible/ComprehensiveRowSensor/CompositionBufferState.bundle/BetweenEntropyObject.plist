@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBound</key>
+	<string>shouldDismissSemantics</string>
+	<key>flexibleDecoration</key>
+	<string>timelineHue</string>
+	<key>numericalHero</key>
+	<string>completionvalidation</string>
+	<key>permissiveFilter</key>
+	<string>entityStructure</string>
+	<key>requiredRichText</key>
+	<string>readCurve</string>
+	<key>shouldUpdateAlpha</key>
+	<string>normalUseCase</string>
+	<key>transformerSize</key>
+	<string>largeCharacter</string>
+</dict>
+</plist>

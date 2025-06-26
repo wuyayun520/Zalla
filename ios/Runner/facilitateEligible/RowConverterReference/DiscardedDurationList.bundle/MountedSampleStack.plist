@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedBorder</key>
+	<string>optionreplica</string>
+	<key>keyOption</key>
+	<string>criticalDelivery</string>
+	<key>limitmethod</key>
+	<string>difficultthreshold</string>
+	<key>localBatch</key>
+	<string>implementtext</string>
+	<key>permutationStatus</key>
+	<string>initializeService</string>
+	<key>reusableCubit</key>
+	<string>rotateScene</string>
+	<key>shouldSkipOverlay</key>
+	<string>gesturedetectorParam</string>
+	<key>unactivatedPlayback</key>
+	<string>relationalOptimizer</string>
+</dict>
+</plist>

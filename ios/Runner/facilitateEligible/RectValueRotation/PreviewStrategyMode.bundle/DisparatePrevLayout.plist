@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCharacteristic</key>
+	<string>encodeSubscription</string>
+	<key>elasticDescriptor</key>
+	<string>dynamicLayout</string>
+	<key>enabledBorder</key>
+	<string>callbackAction</string>
+	<key>selectedVariant</key>
+	<string>asynchronousChecklist</string>
+	<key>specifyGrayscale</key>
+	<string>canStreamCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptertail</key>
+	<string>paintHistogram</string>
+	<key>evaluationCount</key>
+	<string>saveGraphic</string>
+	<key>grainvarshape</key>
+	<string>webrectangle</string>
+	<key>shouldDisposeOption</key>
+	<string>shouldLoadChallenge</string>
+	<key>similarMomentum</key>
+	<string>notificationshade</string>
+	<key>singletontaskdirection</key>
+	<string>poolPresenter</string>
+	<key>transitionbesideshape</key>
+	<string>asyncVelocity</string>
+	<key>usedBitrate</key>
+	<string>canTransformSensor</string>
+</dict>
+</plist>

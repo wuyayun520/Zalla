@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticresponse</key>
+	<string>robustImpact</string>
+	<key>independentMaterializer</key>
+	<string>visualizeReducer</string>
+	<key>integerexception</key>
+	<string>cosineParam</string>
+	<key>itemOpacity</key>
+	<string>columnVisibility</string>
+	<key>restrictionFeedback</key>
+	<string>declarativeController</string>
+	<key>secondBullet</key>
+	<string>sinkScale</string>
+	<key>shouldAnimateChecklist</key>
+	<string>serializePopup</string>
+	<key>shouldResumeSymbol</key>
+	<string>roleEdge</string>
+	<key>tentativeSpeed</key>
+	<string>oldBloc</string>
+</dict>
+</plist>

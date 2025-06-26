@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVelocity</key>
+	<string>eraseAlignment</string>
+	<key>animationtypepadding</key>
+	<string>transitionstylevalidation</string>
+	<key>catalystversusmediator</key>
+	<string>semanticDialogs</string>
+	<key>hasBuilder</key>
+	<string>numericalTransition</string>
+	<key>movementSkewY</key>
+	<string>createPageView</string>
+	<key>retainedModule</key>
+	<string>isGradient</string>
+	<key>shouldDispatchPriority</key>
+	<string>resizableProfile</string>
+	<key>significantBuilder</key>
+	<string>cartesianInterpolation</string>
+	<key>transitionformmargin</key>
+	<string>resilientBandwidth</string>
+</dict>
+</plist>

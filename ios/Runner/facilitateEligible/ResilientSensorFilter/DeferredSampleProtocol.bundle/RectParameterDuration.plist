@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDocument</key>
+	<string>nibflyweightcenter</string>
+	<key>arithmeticvisibility</key>
+	<string>customColor</string>
+	<key>mainLinker</key>
+	<string>heapTail</string>
+	<key>retainbutton</key>
+	<string>retainedProfile</string>
+	<key>shouldLayoutConstraint</key>
+	<string>quaternionLeft</string>
+	<key>sizeBottom</key>
+	<string>directTextField</string>
+</dict>
+</plist>

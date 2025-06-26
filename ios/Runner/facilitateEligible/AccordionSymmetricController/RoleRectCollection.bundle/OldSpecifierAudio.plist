@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesLeft</key>
+	<string>robustMerger</string>
+	<key>characteristicFrequency</key>
+	<string>conformFeature</string>
+	<key>composableModule</key>
+	<string>layoutcurve</string>
+	<key>grayscaleamortization</key>
+	<string>newestSlider</string>
+	<key>mediumRequest</key>
+	<string>sliderstructurehead</string>
+	<key>newestmapper</key>
+	<string>serializeSlider</string>
+	<key>opaqueMomentum</key>
+	<string>sequentialReliability</string>
+	<key>restartticker</key>
+	<string>canContinueCompletion</string>
+	<key>seamlessAwait</key>
+	<string>descriptorMode</string>
+</dict>
+</plist>

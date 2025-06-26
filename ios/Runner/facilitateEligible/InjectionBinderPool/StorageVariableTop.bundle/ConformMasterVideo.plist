@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSearcher</key>
+	<string>draggableGroup</string>
+	<key>defaultOverlay</key>
+	<string>shapeTheme</string>
+	<key>interactornumbercenter</key>
+	<string>pivotalOption</string>
+	<key>iterativeProtocol</key>
+	<string>displayableShape</string>
+	<key>renderintensity</key>
+	<string>intuitiveSpot</string>
+	<key>selectorRight</key>
+	<string>computeDelegate</string>
+	<key>shouldPaintNorm</key>
+	<string>directswitchpadding</string>
+	<key>shouldPublishTool</key>
+	<string>crudeModule</string>
+</dict>
+</plist>

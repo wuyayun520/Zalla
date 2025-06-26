@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedroutebehavior</key>
+	<string>shouldStartPlayback</string>
+	<key>deliveryBottom</key>
+	<string>seamlessItem</string>
+	<key>offsetmaterializer</key>
+	<string>uniqueSkirt</string>
+	<key>offsetvelocity</key>
+	<string>cartesianMaterializer</string>
+	<key>unaryLocation</key>
+	<string>shouldDeserializeReference</string>
+</dict>
+</plist>

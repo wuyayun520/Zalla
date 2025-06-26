@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityHead</key>
+	<string>shouldSaveAnimation</string>
+	<key>discardedCurve</key>
+	<string>interactiveStream</string>
+	<key>entityinsingleton</key>
+	<string>receivercoord</string>
+	<key>hashValidation</key>
+	<string>parallelState</string>
+	<key>immediatebitratelocation</key>
+	<string>convertlocalization</string>
+	<key>operationtimer</key>
+	<string>onfuturetap</string>
+	<key>persistenthash</key>
+	<string>layerResponse</string>
+	<key>presenterBehavior</key>
+	<string>canProcessCaption</string>
+	<key>prismaticInfo</key>
+	<string>ephemeralHash</string>
+	<key>subtleFragments</key>
+	<string>mainData</string>
+</dict>
+</plist>
